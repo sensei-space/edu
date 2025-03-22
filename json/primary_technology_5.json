@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "technology",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Storia delle tecnologie",
+      "description": "Studio dell'evoluzione delle tecnologie nel corso della storia e come abbiano influenzato la società.",
+      "competencies": [
+        "Conoscenza della storia delle tecnologie",
+        "Comprendere l'importanza delle tecnologie nella società"
+      ],
+      "objectives": [
+        "Identificare le principali tappe dell'evoluzione tecnologica",
+        "Comprendere il legame tra tecnologia e progresso sociale"
+      ]
+    },
+    {
+      "title": "Hardware e software",
+      "description": "Approfondimento sulle differenze tra hardware e software, con focus sui componenti principali di un computer.",
+      "competencies": [
+        "Conoscenza di base sull'hardware e software",
+        "Identificazione dei componenti di un computer"
+      ],
+      "objectives": [
+        "Riconoscere e classificare i principali componenti hardware di un computer",
+        "Comprendere il ruolo dei software nell'utilizzo del computer"
+      ]
+    },
+    {
+      "title": "Internet e sicurezza online",
+      "description": "Studio del funzionamento di Internet, delle regole di navigazione sicura e della tutela della privacy online.",
+      "competencies": [
+        "Comprensione del funzionamento di Internet",
+        "Consapevolezza della sicurezza online"
+      ],
+      "objectives": [
+        "Comprendere il concetto di Internet e come avviene la connessione tra dispositivi",
+        "Applicare regole di comportamento sicuro durante la navigazione online"
+      ]
+    },
+    {
+      "title": "Codifica e decodifica",
+      "description": "Introduzione al concetto di codifica e decodifica, con esempi pratici di uso di codici e cifrature.",
+      "competencies": [
+        "Comprensione della codifica e decodifica",
+        "Applicazione di sistemi di codifica semplici"
+      ],
+      "objectives": [
+        "Identificare l'importanza della codifica nelle comunicazioni digitali",
+        "Utilizzare codici e cifrature per inviare messaggi criptati"
+      ]
+    },
+    {
+      "title": "Creazione di presentazioni digitali",
+      "description": "Realizzazione di presentazioni multimediali utilizzando strumenti informatici specifici.",
+      "competencies": [
+        "Utilizzo di software per presentazioni",
+        "Creazione di contenuti multimediali"
+      ],
+      "objectives": [
+        "Saper organizzare testi, immagini e video all'interno di una presentazione digitale",
+        "Esprimere concetti in modo chiaro e accattivante tramite presentazioni"
+      ]
+    },
+    {
+      "title": "Programmazione di semplici animazioni",
+      "description": "Introduzione alla programmazione di animazioni usando software appositi per lo sviluppo di piccoli progetti interattivi.",
+      "competencies": [
+        "Conoscenza dei concetti base della programmazione",
+        "Sviluppo di progetti interattivi"
+      ],
+      "objectives": [
+        "Utilizzare strumenti di programmazione visuale per creare animazioni semplici",
+        "Comprendere il flusso logico nella creazione di animazioni"
+      ]
+    },
+    {
+      "title": "Simulazioni e modellazione 3D",
+      "description": "Realizzazione di simulazioni e modellazione tridimensionale attraverso software dedicati.",
+      "competencies": [
+        "Creazione di simulazioni interattive",
+        "Utilizzo di software di modellazione 3D"
+      ],
+      "objectives": [
+        "Realizzare simulazioni di fenomeni fisici utilizzando software appropriati",
+        "Creare modelli tridimensionali di oggetti reali o inventati"
+      ]
+    },
+    {
+      "title": "Condivisione responsabile online",
+      "description": "Apprendimento delle buone pratiche per una condivisione sicura e responsabile di contenuti digitali su internet.",
+      "competencies": [
+        "Consapevolezza delle conseguenze della condivisione online",
+        "Etica digitale"
+      ],
+      "objectives": [
+        "Comprendere l'importanza di rispettare la privacy al momento della condivisione online",
+        "Saper distinguere tra informazioni da condividere e da mantenere private"
+      ]
+    },
+    {
+      "title": "Digitalizzazione dei processi",
+      "description": "Studio dei processi di digitalizzazione in vari settori (economia, comunicazione, istruzione) e impatto sulla società.",
+      "competencies": [
+        "Comprensione dei processi di digitalizzazione",
+        "Analisi dell'impatto della tecnologia sulla società"
+      ],
+      "objectives": [
+        "Identificare i vantaggi e le sfide legate alla digitalizzazione dei processi",
+        "Comprendere come la tecnologia influenzi quotidianamente la vita delle persone"
+      ]
+    },
+    {
+      "title": "Progettazione di un piccolo videogioco",
+      "description": "Fase di progettazione e sviluppo di un semplice videogioco, imparando concetti di game design e algoritmi di base.",
+      "competencies": [
+        "Creatività nella progettazione di giochi",
+        "Applicazione di algoritmi semplici"
+      ],
+      "objectives": [
+        "Sviluppare un concept di videogioco con regole e obiettivi chiari",
+        "Implementare semplici algoritmi per il funzionamento del videogioco"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "art",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Colori primari e secondari",
+      "description": "Studio dei colori primari (rosso, giallo, blu) e dei colori secondari ottenuti dalla loro miscelazione.",
+      "competencies": [
+        "Riconoscere e distinguere i colori primari e secondari",
+        "Saper miscelare i colori primari per ottenere quelli secondari"
+      ],
+      "objectives": [
+        "Identificare i colori primari",
+        "Mescolare i colori primari per creare quelli secondari"
+      ]
+    },
+    {
+      "title": "I tratti di una linea",
+      "description": "Analisi e sperimentazione dei diversi tipi di linee: rette, curve, spezzate, continue e tratteggiate.",
+      "competencies": [
+        "Riconoscere e distinguere diversi tipi di linee",
+        "Saper utilizzare le linee per realizzare disegni"
+      ],
+      "objectives": [
+        "Disegnare linee rette e curve",
+        "Creare composizioni utilizzando i diversi tratti di linea"
+      ]
+    },
+    {
+      "title": "Collage con materiali di recupero",
+      "description": "Realizzazione di composizioni artistiche utilizzando materiali di recupero come carta, cartone, stoffa, bottoni, ecc.",
+      "competencies": [
+        "Sviluppare creatività nell'utilizzo dei materiali",
+        "Saper combinare diversi elementi per creare opere"
+      ],
+      "objectives": [
+        "Scegliere e combinare materiali di recupero in modo creativo",
+        "Creare un'opera d'arte originale utilizzando il collage"
+      ]
+    },
+    {
+      "title": "Arte rupestre",
+      "description": "Studio delle pitture rupestri preistoriche con focus sulle tecniche e i soggetti più comuni.",
+      "competencies": [
+        "Conoscere le caratteristiche dell'arte rupestre",
+        "Saper apprezzare l'arte preistorica"
+      ],
+      "objectives": [
+        "Riconoscere le tecniche utilizzate nell'arte rupestre",
+        "Realizzare un disegno ispirato all'arte rupestre"
+      ]
+    },
+    {
+      "title": "Simmetria e asimmetria nelle opere d'arte",
+      "description": "Analisi delle opere d'arte che presentano simmetria e asimmetria, con esempi pratici di realizzazione.",
+      "competencies": [
+        "Comprendere i concetti di simmetria e asimmetria",
+        "Saper realizzare opere d'arte simmetriche e asimmetriche"
+      ],
+      "objectives": [
+        "Identificare la presenza di simmetrie in opere d'arte",
+        "Creare un disegno simmetrico e uno asimmetrico"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "school": "primary",
+  "subject": "italian",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Lettura guidata di racconti brevi",
+      "description": "Lettura e comprensione di racconti brevi adatti all'età dei bambini, con attenzione alla corretta pronuncia e intonazione.",
+      "competencies": [
+        "Comprensione del testo",
+        "Pronuncia corretta"
+      ],
+      "objectives": [
+        "Migliorare la fluidità nella lettura",
+        "Comprendere il significato dei racconti",
+        "Rispondere a domande sulla trama"
+      ]
+    },
+    {
+      "title": "Utilizzo dei connettivi logici",
+      "description": "Studio e utilizzo dei connettivi logici come 'perché', 'quindi', 'ma', per creare legami tra le frasi e rendere il testo più coerente.",
+      "competencies": [
+        "Coerenza testuale",
+        "Conjugazione dei verbi"
+      ],
+      "objectives": [
+        "Saper utilizzare i connettivi in modo appropriato",
+        "Creare frasi più complesse e strutturate"
+      ]
+    },
+    {
+      "title": "Scrittura di una favola",
+      "description": "Creazione di una breve favola seguendo la struttura classica (introduzione, svolgimento, conclusione), arricchendola con elementi fantastici e morali.",
+      "competencies": [
+        "Creatività",
+        "Organizzazione del testo"
+      ],
+      "objectives": [
+        "Sviluppare la capacità narrativa",
+        "Esprimere idee in modo coerente",
+        "Osservare la grammatica nella scrittura"
+      ]
+    },
+    {
+      "title": "Descrizione di un personaggio",
+      "description": "Analisi e descrizione delle caratteristiche di un personaggio di un racconto letto in classe, concentrandosi su aspetti fisici e psicologici.",
+      "competencies": [
+        "Analisi del testo",
+        "Descrizione dettagliata"
+      ],
+      "objectives": [
+        "Saper individuare le caratteristiche principali di un personaggio",
+        "Esprimere con precisione le proprie osservazioni"
+      ]
+    },
+    {
+      "title": "Stesura di una breve poesia",
+      "description": "Creazione di una breve poesia giocando con le rime e la musicalità delle parole, eventualmente ispirandosi a poesie famose.",
+      "competencies": [
+        "Creatività",
+        "Lesione delle rime"
+      ],
+      "objectives": [
+        "Saper utilizzare le rime in modo creativo",
+        "Esprimere emozioni attraverso la poesia"
+      ]
+    },
+    {
+      "title": "Esposizione orale di un argomento",
+      "description": "Presentazione di un argomento scelto dallo studente, con la costruzione di una breve esposizione orale strutturata e chiara.",
+      "competencies": [
+        "Esposizione orale",
+        "Sintesi delle informazioni"
+      ],
+      "objectives": [
+        "Sviluppare la capacità di parlare in pubblico",
+        "Saper organizzare le informazioni in modo logico"
+      ]
+    },
+    {
+      "title": "Ricerca di informazioni su un libro",
+      "description": "Utilizzo di testi narrativi o di divulgazione per trovare informazioni specifiche, come l'autore, l'anno di pubblicazione, il genere.",
+      "competencies": [
+        "Capacità di ricerca",
+        "Ricerca di informazioni"
+      ],
+      "objectives": [
+        "Saper utilizzare la biblioteca o risorse online per la ricerca",
+        "Conoscere gli elementi principali di un libro"
+      ]
+    },
+    {
+      "title": "Costruzione di una fiaba collettiva",
+      "description": "Conduzione di un'attività di gruppo in cui gli studenti contribuiscono a creare una fiaba collettiva, inserendo ciascuno un pezzo della storia.",
+      "competencies": [
+        "Collaborazione",
+        "Creatività"
+      ],
+      "objectives": [
+        "Sviluppare la collaborazione tra compagni",
+        "Esprimere creatività nel contribuire alla fiaba"
+      ]
+    },
+    {
+      "title": "Analisi e interpretazione di una filastrocca",
+      "description": "Studio di una filastrocca popolare, analisi delle rime e dei suoni, interpretazione del significato nascosto o dell'insegnamento morale.",
+      "competencies": [
+        "Comprendere le filastrocche",
+        "Interpretazione testuale"
+      ],
+      "objectives": [
+        "Capire il significato di espressioni e modi di dire popolari",
+        "Saper identificare i suoni e il ritmo in una filastrocca"
+      ]
+    },
+    {
+      "title": "Redazione di un invito",
+      "description": "Scrittura di un invito formale seguendo uno schema prestabilito, con date, luoghi e eventuali istruzioni per i partecipanti.",
+      "competencies": [
+        "Scrittura formale",
+        "Organizzazione del testo"
+      ],
+      "objectives": [
+        "Saper scrivere un invito corretto",
+        "Rispettare le norme di cortesia nella scrittura formale"
+      ]
+    },
+    {
+      "title": "Creazione di un cruciverba",
+      "description": "Costruzione di un semplice cruciverba utilizzando vocaboli già incontrati nelle letture o nuove parole apprese durante le lezioni.",
+      "competencies": [
+        "Vocabolario",
+        "Comprensione del testo"
+      ],
+      "objectives": [
+        "Migliorare la memorizzazione dei vocaboli",
+        "Rafforzare la comprensione dei significati"
+      ]
+    },
+    {
+      "title": "Studio di una poesia di autore italiano",
+      "description": "Lettura e analisi di una poesia di un autore italiano contemporaneo o classico, con attenzione alla struttura e ai temi trattati.",
+      "competencies": [
+        "Analisi del testo poetico",
+        "Interpretazione testuale"
+      ],
+      "objectives": [
+        "Capire la struttura della poesia",
+        "Saper individuare i temi principali trattati dall'autore"
+      ]
+    },
+    {
+      "title": "Creazione di una lista della spesa",
+      "description": "Utilizzo della scrittura per scopi pratici, come la stesura di una lista della spesa con elementi e quantità necessarie.",
+      "competencies": [
+        "Scrittura pratica",
+        "Vocabolario quotidiano"
+      ],
+      "objectives": [
+        "Saper organizzare in modo chiaro una lista",
+        "Comprendere l'utilità della scrittura in contesti quotidiani"
+      ]
+    },
+    {
+      "title": "Correzione di errori ortografici",
+      "description": "Individuazione e correzione di errori ortografici comuni in testi brevi, concentrandosi su regole ortografiche già apprese.",
+      "competencies": [
+        "Ortografia",
+        "Revisione del testo"
+      ],
+      "objectives": [
+        "Migliorare la precisione nella scrittura",
+        "Rispettare le regole ortografiche di base"
+      ]
+    },
+    {
+      "title": "Lettura espressiva di una poesia",
+      "description": "Esercitazione alla lettura espressiva di una poesia scelta, con l'obiettivo di lavorare sull'intonazione e sulla comprensione del significato.",
+      "competencies": [
+        "Lettura espressiva",
+        "Comprensione del testo poetico"
+      ],
+      "objectives": [
+        "Migliorare l'interpretazione della poesia",
+        "Saper comunicare emozioni attraverso la lettura"
+      ]
+    },
+    {
+      "title": "Studio di un testo teatrale",
+      "description": "Lettura e interpretazione di un breve testo teatrale, con la possibilità di realizzare una piccola messa in scena o letture dialogate.",
+      "competencies": [
+        "Interpretazione teatrale",
+        "Comprensione del testo drammatico"
+      ],
+      "objectives": [
+        "Capire la struttura di un testo teatrale",
+        "Saper attribuire parti e dialoghi ai personaggi"
+      ]
+    },
+    {
+      "title": "Racconto di un episodio vissuto",
+      "description": "Scrivere un breve racconto di un episodio realmente vissuto, ponendo attenzione alla sequenza degli eventi e alle emozioni provate.",
+      "competencies": [
+        "Narrativa autobiografica",
+        "Espressione delle emozioni"
+      ],
+      "objectives": [
+        "Sviluppare la capacità di narrazione",
+        "Comunicare esperienze personali in modo coinvolgente"
+      ]
+    },
+    {
+      "title": "Espressioni tipiche della lingua italiana",
+      "description": "Studio di espressioni colloquiali o proverbi tipici della lingua italiana, con spiegazione del significato e del contesto di utilizzo.",
+      "competencies": [
+        "Comprensione di espressioni idiomatiche",
+        "Vocabolario di uso comune"
+      ],
+      "objectives": [
+        "Saper usare espressioni tipiche in contesti appropriati",
+        "Arricchire il vocabolario con espressioni particolari"
+      ]
+    },
+    {
+      "title": "Scrittura di un biglietto di ringraziamento",
+      "description": "Composizione di un breve biglietto di ringraziamento per un'occasione speciale, con l'espressione di gratitudine in modo formale e sincero.",
+      "competencies": [
+        "Espressioni di cortesia",
+        "Scrittura formale"
+      ],
+      "objectives": [
+        "Saper scrivere un ringraziamento con appropriatezza",
+        "Mostrare gratitudine in forma scritta"
+      ]
+    },
+    {
+      "title": "Giornale della classe",
+      "description": "Realizzazione di un piccolo giornale della classe, in cui ciascun bambino contribuisce con articoli brevi su eventi scolastici o temi di interesse comune.",
+      "competencies": [
+        "Scrittura collaborativa",
+        "Organizzazione del testo giornalistico"
+      ],
+      "objectives": [
+        "Sviluppare la collaborazione nel lavoro di gruppo",
+        "Esprimere le proprie idee attraverso la scrittura"
+      ]
+    }
+  ]
+}

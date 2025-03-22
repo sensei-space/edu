@@ -1,0 +1,247 @@
+{
+  "school": "preschool",
+  "subject": "imagesSoundsColors",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Riconoscere le principali forme geometriche",
+      "description": "In questa fase i bambini apprendono a riconoscere e distinguere le figure geometriche di base come cerchio, quadrato, rettangolo e triangolo.",
+      "competencies": [
+        "Riconoscimento delle forme geometriche",
+        "Capacità di classificare le figure"
+      ],
+      "objectives": [
+        "Saper identificare correttamente le forme geometriche",
+        "Essere in grado di distinguere tra le varie forme"
+      ]
+    },
+    {
+      "title": "Associazione suoni e immagini",
+      "description": "Attraverso esercizi di associazione, i bambini imparano a collegare suoni a immagini corrispondenti, come ad esempio il verso di un animale alla sua immagine.",
+      "competencies": [
+        "Associazione suono-immagine",
+        "Capacità di percepire correlazioni"
+      ],
+      "objectives": [
+        "Saper associare correttamente suoni a immagini specifiche",
+        "Migliorare la capacità di correlazione tra elementi"
+      ]
+    },
+    {
+      "title": "Esperimenti con i colori primari",
+      "description": "I bambini vengono introdotti ai colori primari (rosso, giallo, blu) attraverso attività pratiche che coinvolgono la miscelazione e la creazione di nuove tonalità.",
+      "competencies": [
+        "Conoscenza dei colori primari",
+        "Capacità di miscelare colori"
+      ],
+      "objectives": [
+        "Identificare i colori primari",
+        "Saper mescolare i colori per ottenere nuove sfumature"
+      ]
+    },
+    {
+      "title": "Rappresentare emozioni attraverso i colori",
+      "description": "Attraverso disegni e attività creative, i bambini imparano a associare i colori a determinate emozioni, come ad esempio il rosso per la rabbia o il blu per la calma.",
+      "competencies": [
+        "Associazione emozioni-colori",
+        "Espressione creativa"
+      ],
+      "objectives": [
+        "Saper identificare le emozioni associate a determinati colori",
+        "Esprimere le proprie emozioni attraverso la scelta dei colori"
+      ]
+    },
+    {
+      "title": "Esplorazione dei suoni ambientali",
+      "description": "Attraverso passeggiate sensoriali e registrazioni audio, i bambini esplorano i suoni intorno a loro e imparano a distinguere tra suoni naturali e suoni prodotti dall'uomo.",
+      "competencies": [
+        "Riconoscimento dei suoni ambientali",
+        "Sviluppo dell'udito"
+      ],
+      "objectives": [
+        "Identificare i vari suoni presenti nell'ambiente circostante",
+        "Differenziare tra suoni naturali e suoni artificiali"
+      ]
+    },
+    {
+      "title": "Creazione di composizioni sonore",
+      "description": "Attraverso l'utilizzo di strumenti musicali e oggetti sonori, i bambini sperimentano la creazione di brevi composizioni sonore, esplorando ritmi e melodie semplici.",
+      "competencies": [
+        "Creatività musicale",
+        "Esplorazione sonora"
+      ],
+      "objectives": [
+        "Comporre brevi sequenze sonore",
+        "Esprimere la propria creatività attraverso la musica"
+      ]
+    },
+    {
+      "title": "Colori primari e secondari",
+      "description": "Approfondimento sui colori primari (rosso, giallo, blu) e sui colori secondari ottenuti dalla loro miscelazione (arancione, verde, viola).",
+      "competencies": [
+        "Conoscenza dei colori secondari",
+        "Capacità di miscelare e distinguere colori"
+      ],
+      "objectives": [
+        "Identificare i colori secondari",
+        "Comprendere il concetto di miscelazione dei colori primari per ottenere colori secondari"
+      ]
+    },
+    {
+      "title": "Espressione artistica attraverso i colori",
+      "description": "I bambini esplorano differenti tecniche pittoriche e materiali per esprimere la propria creatività e emozioni attraverso l'uso dei colori.",
+      "competencies": [
+        "Creatività artistica",
+        "Espressione emotiva"
+      ],
+      "objectives": [
+        "Saper utilizzare i colori in modo creativo",
+        "Esprimere emozioni attraverso opere pittoriche"
+      ]
+    },
+    {
+      "title": "Rappresentazione grafica di suoni",
+      "description": "I bambini imparano a rappresentare visivamente suoni e rumori attraverso disegni creativi che richiamano le sensazioni uditive.",
+      "competencies": [
+        "Associazione tra suono e immagine",
+        "Espressione artistica"
+      ],
+      "objectives": [
+        "Rappresentare suoni e rumori con disegni significativi",
+        "Esplorare la relazione tra suoni e rappresentazioni visuali"
+      ]
+    },
+    {
+      "title": "Esplorazione delle combinazioni cromatiche",
+      "description": "Mediante attività di associazione e classificazione, i bambini imparano a creare armonie cromatiche e a comprendere l'impatto visivo dei diversi accostamenti di colori.",
+      "competencies": [
+        "Ricerca cromatica",
+        "Capacità di armonizzare colori"
+      ],
+      "objectives": [
+        "Creare combinazioni cromatiche bilanciate",
+        "Saper riconoscere accostamenti di colori armoniosi"
+      ]
+    },
+    {
+      "title": "Ascolto attivo e interpretazione dei suoni",
+      "description": "I bambini praticano l'ascolto attivo di brani musicali e di suoni della natura, imparando a interpretarne le emozioni e le caratteristiche attraverso la percezione uditiva.",
+      "competencies": [
+        "Ascolto musicale",
+        "Interpretazione dei suoni"
+      ],
+      "objectives": [
+        "Interpretare le emozioni e le caratteristiche dei suoni uditi",
+        "Sviluppare capacità di ascolto attivo"
+      ]
+    },
+    {
+      "title": "Colori caldi e freddi",
+      "description": "Studio dei colori caldi (come rosso, arancione, giallo) e dei colori freddi (come blu, verde, viola) e delle sensazioni visive ed emotive che suscitano.",
+      "competencies": [
+        "Riconoscimento colori caldi e freddi",
+        "Associazione cromatica alle emozioni"
+      ],
+      "objectives": [
+        "Identificare i colori caldi e freddi",
+        "Esplorare le sensazioni emotive legate ai diversi gruppi cromatici"
+      ]
+    },
+    {
+      "title": "Realizzazione di un collage sonoro",
+      "description": "Attraverso l'uso di vari oggetti e strumenti sonori, i bambini compongono e registrano un collage sonoro che rappresenti una sequenza di suoni significativa per loro.",
+      "competencies": [
+        "Composizione sonora",
+        "Utilizzo creativo dei suoni"
+      ],
+      "objectives": [
+        "Creare un collage sonoro significativo",
+        "Esprimere idee e sensazioni attraverso i suoni"
+      ]
+    },
+    {
+      "title": "Analisi di opere artistiche",
+      "description": "Studio e analisi di opere d'arte che utilizzano i colori e i suoni come elementi principali, per comprendere le diverse modalità di espressione artistica.",
+      "competencies": [
+        "Apprezzamento artistico",
+        "Analisi critica"
+      ],
+      "objectives": [
+        "Comprendere l'uso dei colori e dei suoni nell'arte",
+        "Sviluppare capacità di analisi e interpretazione artistica"
+      ]
+    },
+    {
+      "title": "Creazione di un arcobaleno sonoro",
+      "description": "Attraverso l'utilizzo di strumenti musicali e la verbalizzazione delle sensazioni legate ai colori, i bambini realizzano un'esperienza sonora ispirata alla varietà cromatica dell'arcobaleno.",
+      "competencies": [
+        "Associazione tra suono e colore",
+        "Creatività musicale"
+      ],
+      "objectives": [
+        "Creare un'esperienza sonora legata ai colori dell'arcobaleno",
+        "Esplorare la relazione tra suoni e colori"
+      ]
+    },
+    {
+      "title": "Studiare le opere di artisti famosi",
+      "description": "Approfondimento sulle opere di artisti famosi che hanno fatto uso dei colori e dei suoni come elementi distintivi della propria produzione artistica.",
+      "competencies": [
+        "Conoscenza dell'arte",
+        "Apprezzamento per le opere artistiche"
+      ],
+      "objectives": [
+        "Conoscere le opere e lo stile di artisti famosi",
+        "Sviluppare la capacità di apprezzare e valorizzare l'arte visiva e sonora"
+      ]
+    },
+    {
+      "title": "Laboratorio di pittura musicale",
+      "description": "Attività creativa che unisce pittura e musica, consentendo ai bambini di esprimere le proprie emozioni attraverso la creazione di opere pittoriche ispirate a brani musicali.",
+      "competencies": [
+        "Integrazione tra arte visiva e musica",
+        "Espressione artistica"
+      ],
+      "objectives": [
+        "Realizzare un'opera pittorica ispirata alla musica",
+        "Esprimere emozioni attraverso la combinazione di suoni e colori"
+      ]
+    },
+    {
+      "title": "Esplorazione delle sfumature cromatiche",
+      "description": "Studio delle diverse sfumature e tonalità dei colori, attraverso attività di classificazione e riconoscimento delle variazioni cromatiche.",
+      "competencies": [
+        "Percezione cromatica",
+        "Capacità di distinguere sfumature"
+      ],
+      "objectives": [
+        "Riconoscere le diverse sfumature cromatiche",
+        "Classificare e ordinare tonalità di colore"
+      ]
+    },
+    {
+      "title": "Articolazione dei suoni vocali",
+      "description": "Esercizi di articolazione che coinvolgono la produzione e l'ascolto dei suoni vocali, per sviluppare la precisione e la consapevolezza fonemica.",
+      "competencies": [
+        "Articolazione dei suoni",
+        "Sviluppo fonetico"
+      ],
+      "objectives": [
+        "Migliorare la precisione nell'articolazione dei suoni vocali",
+        "Sviluppare consapevolezza fonemica"
+      ]
+    },
+    {
+      "title": "Laboratorio di colori e suoni",
+      "description": "Attività creativa che combina l'utilizzo di colori e di strumenti musicali, permettendo ai bambini di esplorare le connessioni tra colori e suoni attraverso la creazione di opere multimediali.",
+      "competencies": [
+        "Integrazione tra colori e suoni",
+        "Espressione creativa"
+      ],
+      "objectives": [
+        "Esplorare le relazioni tra colori e suoni",
+        "Creare opere multimediali che uniscono elementi visivi e sonori"
+      ]
+    }
+  ]
+}

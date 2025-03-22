@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "religion",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Storia delle religioni",
+      "description": "Studio delle principali religioni nel mondo e dei loro fondatori.",
+      "competencies": [
+        "Conoscenza della storia delle religioni",
+        "Rispetto delle diversità religiose"
+      ],
+      "objectives": [
+        "Identificare fondatori e principi delle principali religioni",
+        "Comprendere l'importanza del rispetto delle diverse religioni"
+      ]
+    },
+    {
+      "title": "Il tempo liturgico dell'Avvento",
+      "description": "Approfondimento del significato dell'Avvento e dei simboli ad esso collegati.",
+      "competencies": [
+        "Conoscenza del tempo liturgico dell'Avvento",
+        "Riflessione sul significato di attesa e preparazione"
+      ],
+      "objectives": [
+        "Riconoscere i simboli dell'Avvento",
+        "Comprendere l'importanza dell'attesa nella propria vita"
+      ]
+    },
+    {
+      "title": "Il tempo liturgico del Natale",
+      "description": "Approfondimento del significato del Natale e delle tradizioni legate alla sua celebrazione.",
+      "competencies": [
+        "Conoscenza del significato del Natale",
+        "Riflessione sul senso di dono e condivisione"
+      ],
+      "objectives": [
+        "Comprendere il significato del Natale per i cristiani",
+        "Riflettere sull'importanza del dono e della solidarietà"
+      ]
+    },
+    {
+      "title": "Il tempo liturgico della Quaresima",
+      "description": "Studio del periodo di penitenza e riflessione che precede la Pasqua.",
+      "competencies": [
+        "Conoscenza della Quaresima come tempo liturgico",
+        "Riflessione sul significato di conversione"
+      ],
+      "objectives": [
+        "Comprendere il significato della Quaresima",
+        "Riflettere sull'importanza della conversione e del perdono"
+      ]
+    },
+    {
+      "title": "Il tempo liturgico della Pasqua",
+      "description": "Approfondimento del significato della Pasqua e delle celebrazioni pasquali.",
+      "competencies": [
+        "Conoscenza del significato della Pasqua",
+        "Riflessione sulla gioia della Risurrezione"
+      ],
+      "objectives": [
+        "Comprendere il significato della Pasqua per i cristiani",
+        "Riflettere sulla gioia della Risurrezione nella propria vita"
+      ]
+    },
+    {
+      "title": "Le Storie di Gesù",
+      "description": "Studio di alcune storie significative della vita di Gesù presenti nel Nuovo Testamento.",
+      "competencies": [
+        "Conoscenza delle storie evangeliche",
+        "Riflessione sulle virtù cristiane"
+      ],
+      "objectives": [
+        "Riconoscere e comprendere alcune storie significative della vita di Gesù",
+        "Riflettere sulle virtù cristiane presenti nei Vangeli"
+      ]
+    },
+    {
+      "title": "La Parabola del Buon Samaritano",
+      "description": "Approfondimento della parabola insegnata da Gesù sul significato di amore e solidarietà verso il prossimo.",
+      "competencies": [
+        "Conoscenza della parabola del Buon Samaritano",
+        "Riflessione sull'amore verso il prossimo"
+      ],
+      "objectives": [
+        "Comprendere il messaggio di amore e compassione della parabola",
+        "Riflettere sull'importanza di aiutare chi è nel bisogno"
+      ]
+    },
+    {
+      "title": "Il Cantico delle Creature di San Francesco",
+      "description": "Studio del Cantico di frate Sole di san Francesco d'Assisi e del suo pensiero ecologico.",
+      "competencies": [
+        "Conoscenza del Cantico delle Creature",
+        "Riflessione sull'importanza del rispetto per la natura"
+      ],
+      "objectives": [
+        "Comprendere il messaggio di frate Sole riguardo il rispetto per la creazione",
+        "Riflettere sull'importanza della cura dell'ambiente"
+      ]
+    },
+    {
+      "title": "Le basi della preghiera",
+      "description": "Approfondimento delle diverse forme e significati della preghiera nelle varie tradizioni religiose.",
+      "competencies": [
+        "Conoscenza delle forme di preghiera",
+        "Riflessione sull'importanza della preghiera nella vita quotidiana"
+      ],
+      "objectives": [
+        "Riconoscere e comprendere le diverse forme di preghiera",
+        "Riflettere sull'importanza della preghiera come momento di riflessione e connessione interiore"
+      ]
+    },
+    {
+      "title": "Le festività religiose nel mondo",
+      "description": "Studio delle principali festività religiose nelle diverse tradizioni del mondo.",
+      "competencies": [
+        "Conoscenza delle festività religiose",
+        "Rispetto delle tradizioni culturali"
+      ],
+      "objectives": [
+        "Identificare e comprendere le principali festività religiose di diverse tradizioni",
+        "Riflettere sull'importanza del rispetto delle diversità culturali e religiose"
+      ]
+    }
+  ]
+}

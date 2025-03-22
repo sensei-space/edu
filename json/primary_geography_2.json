@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "geography",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Il clima",
+      "description": "Studio delle caratteristiche del clima, differenza tra clima e tempo atmosferico.",
+      "competencies": [
+        "Comprendere concetti di base sul clima",
+        "Riconoscere le diverse tipologie climatiche"
+      ],
+      "objectives": [
+        "Identificare i principali elementi che influenzano il clima",
+        "Distinguere tra clima freddo e caldo"
+      ]
+    },
+    {
+      "title": "Le stagioni",
+      "description": "Analisi delle quattro stagioni, delle loro caratteristiche e dell'alternanza tra di esse.",
+      "competencies": [
+        "Riconoscere le stagioni dell'anno",
+        "Comprendere l'impatto delle stagioni sull'ambiente"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche specifiche di ciascuna stagione",
+        "Capire come le stagioni influenzano la natura e le attività umane"
+      ]
+    },
+    {
+      "title": "La cartina geografica",
+      "description": "Introduzione alla lettura di una cartina geografica, comprensione dei simboli e della legenda.",
+      "competencies": [
+        "Interpretare una cartina geografica di base",
+        "Utilizzare i simboli convenzionali di una mappa"
+      ],
+      "objectives": [
+        "Riconoscere i principali elementi presenti in una cartina",
+        "Comprendere l'importanza della lettura delle mappe geografiche"
+      ]
+    },
+    {
+      "title": "Dove vivo",
+      "description": "Studio del concetto di luogo di vita e delle caratteristiche specifiche del proprio territorio.",
+      "competencies": [
+        "Conoscere il proprio ambiente di vita",
+        "Riconoscere le peculiarità del proprio territorio"
+      ],
+      "objectives": [
+        "Identificare elementi significativi del proprio territorio",
+        "Descrivere il proprio luogo di vita utilizzando specifici termini geografici"
+      ]
+    },
+    {
+      "title": "Le montagne",
+      "description": "Esplorazione delle montagne come rilievo e delle caratteristiche delle catene montuose nel mondo.",
+      "competencies": [
+        "Comprendere il concetto di montagna",
+        "Riconoscere le principali catene montuose del pianeta"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche fisiche delle montagne",
+        "Confrontare diverse catene montuose per altitudine e estensione"
+      ]
+    },
+    {
+      "title": "I fiumi e i laghi",
+      "description": "Analisi dei fiumi e dei laghi come elementi naturali, comprensione del ciclo dell'acqua.",
+      "competencies": [
+        "Riconoscere la presenza di fiumi e laghi nel mondo",
+        "Comprendere il concetto di bacino idrografico"
+      ],
+      "objectives": [
+        "Descrivere il percorso dell'acqua da fiume a lago",
+        "Identificare importanti fiumi e laghi a livello mondiale"
+      ]
+    },
+    {
+      "title": "Le città e i piccoli centri abitati",
+      "description": "Studio delle caratteristiche delle città e dei piccoli centri abitati, confronto tra aree urbane e rurali.",
+      "competencies": [
+        "Riconoscere elementi distintivi delle città e dei centri abitati",
+        "Confrontare diversi tipi di insediamenti"
+      ],
+      "objectives": [
+        "Descrivere le principali caratteristiche di una città",
+        "Confrontare stili di vita urbani e rurali"
+      ]
+    },
+    {
+      "title": "Gli spazi geografici",
+      "description": "Esplorazione degli spazi geografici aperti e chiusi e delle relative caratteristiche.",
+      "competencies": [
+        "Comprendere la differenza tra spazi aperti e chiusi",
+        "Riconoscere le peculiarità di ciascun tipo di spazio"
+      ],
+      "objectives": [
+        "Identificare esempi di spazi aperti e chiusi nella propria realtà",
+        "Descrivere le principali caratteristiche di un ambiente geografico chiuso"
+      ]
+    },
+    {
+      "title": "I mezzi di trasporto",
+      "description": "Studio dei principali mezzi di trasporto terrestri, aerei e marittimi, e delle relative funzioni.",
+      "competencies": [
+        "Riconoscere diversi mezzi di trasporto",
+        "Comprendere l'importanza dei trasporti nella società"
+      ],
+      "objectives": [
+        "Identificare i mezzi di trasporto più adatti per determinati tragitti",
+        "Confrontare i diversi mezzi di trasporto in termini di velocità e impatto ambientale"
+      ]
+    },
+    {
+      "title": "Le differenze tra città e campagna",
+      "description": "Analisi delle differenze tra stili di vita, paesaggi e attività presenti in città e in campagna.",
+      "competencies": [
+        "Comprendere le diversità tra ambiente urbano e rurale",
+        "Riconoscere le specificità della vita in città e in campagna"
+      ],
+      "objectives": [
+        "Descrivere le principali attività economiche svolte in città e in campagna",
+        "Confrontare paesaggi caratteristici urbani e rurali"
+      ]
+    },
+    {
+      "title": "Le tradizioni e culture del mondo",
+      "description": "Esplorazione delle differenze culturali tra i popoli del mondo, enfasi sul rispetto delle diversità.",
+      "competencies": [
+        "Riconoscere e rispettare la diversità culturale",
+        "Comprendere l'importanza delle tradizioni locali"
+      ],
+      "objectives": [
+        "Identificare alcune tradizioni tipiche di diversi paesi",
+        "Comprendere come le diverse culture arricchiscono il patrimonio mondiale"
+      ]
+    },
+    {
+      "title": "Le zone polari e l'equatore",
+      "description": "Studio delle caratteristiche delle zone polari, dell'equatore e degli animali che vi abitano.",
+      "competencies": [
+        "Riconoscere la presenza dei poli e dell'equatore sulla Terra",
+        "Comprendere l'importanza delle zone polari per l'ecosistema"
+      ],
+      "objectives": [
+        "Identificare gli animali tipici delle zone artiche e antartiche",
+        "Descrivere le differenze climatiche tra le zone polari e le zone equatoriali"
+      ]
+    },
+    {
+      "title": "La localizzazione spaziale",
+      "description": "Introduzione al concetto di localizzazione spaziale, utilizzo delle coordinate geografiche e della bussola.",
+      "competencies": [
+        "Localizzare luoghi sulla Terra utilizzando coordinate geografiche",
+        "Orientarsi nello spazio utilizzando la bussola"
+      ],
+      "objectives": [
+        "Localizzare punti specifici sulla mappa utilizzando latitudine e longitudine",
+        "Orientarsi in un percorso semplice tramite l'utilizzo della bussola"
+      ]
+    },
+    {
+      "title": "Le attività agricole",
+      "description": "Analisi delle attività agricole nel mondo, dei principali prodotti coltivati e degli strumenti utilizzati.",
+      "competencies": [
+        "Riconoscere l'importanza dell'agricoltura",
+        "Comprendere i processi legati alla coltivazione"
+      ],
+      "objectives": [
+        "Identificare alcune colture tipiche di diverse regioni",
+        "Descrivere le fasi principali del processo di coltivazione"
+      ]
+    },
+    {
+      "title": "La diversità linguistica mondiale",
+      "description": "Esplorazione delle varie lingue parlate nel mondo, del concetto di lingua madre e delle differenze linguistiche.",
+      "competencies": [
+        "Riconoscere l'importanza delle lingue come patrimonio culturale",
+        "Comprendere il concetto di diversità linguistica"
+      ],
+      "objectives": [
+        "Identificare alcune lingue parlate in diverse parti del globo",
+        "Capire l'importanza del rispetto delle lingue e culture diverse"
+      ]
+    },
+    {
+      "title": "I monumenti famosi nel mondo",
+      "description": "Studio dei monumenti più celebri presenti in diverse parti del mondo, comprensione del loro valore storico e culturale.",
+      "competencies": [
+        "Riconoscere e apprezzare l'importanza dei monumenti storici",
+        "Comprendere il patrimonio culturale mondiale"
+      ],
+      "objectives": [
+        "Identificare alcuni monumenti famosi e la loro ubicazione geografica",
+        "Capire il significato storico e artistico di alcuni monumenti emblematici"
+      ]
+    },
+    {
+      "title": "Le isole",
+      "description": "Esplorazione delle isole come particolari tipologie di territorio, analisi delle caratteristiche specifiche delle isole nel mondo.",
+      "competencies": [
+        "Riconoscere le isole come forma di territorio",
+        "Conoscere alcune isole famose e le loro peculiarità"
+      ],
+      "objectives": [
+        "Descrivere le caratteristiche fisiche delle isole",
+        "Identificare alcune isole importanti sia per estensione che per popolazione"
+      ]
+    },
+    {
+      "title": "La diversità del paesaggio",
+      "description": "Analisi della diversità dei paesaggi presenti sulla Terra, comprensione delle cause delle differenze paesaggistiche.",
+      "competencies": [
+        "Riconoscere la varietà di paesaggi esistenti",
+        "Comprendere i fattori che determinano i diversi tipi di paesaggio"
+      ],
+      "objectives": [
+        "Identificare i principali tipi di paesaggio (montano, marino, urbano)",
+        "Capire come gli agenti naturali e antropici influenzano la morfologia del territorio"
+      ]
+    },
+    {
+      "title": "I confini territoriali",
+      "description": "Studio dei confini tra i paesi, delle motivazioni che li generano e delle conseguenze dei confini territoriali.",
+      "competencies": [
+        "Riconoscere l'esistenza e l'importanza dei confini",
+        "Comprendere il concetto di sovranità territoriale"
+      ],
+      "objectives": [
+        "Identificare i confini territoriali di alcuni paesi",
+        "Comprendere le implicazioni sociali ed economiche dei confini tra nazioni"
+      ]
+    },
+    {
+      "title": "L'importanza dell'acqua",
+      "description": "Analisi del ruolo dell'acqua per la vita umana e animale, delle sue forme e distribuzione sulla Terra.",
+      "competencies": [
+        "Comprendere l'importanza dell'acqua come risorsa vitale",
+        "Riconoscere le diverse forme dell'acqua"
+      ],
+      "objectives": [
+        "Descrivere il ciclo dell'acqua e la sua importanza per gli esseri viventi",
+        "Conoscere le principali fonti d'acqua dolce e salata presenti sul pianeta"
+      ]
+    }
+  ]
+}

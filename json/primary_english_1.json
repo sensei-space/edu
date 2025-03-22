@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "english",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Saluti e presentazioni",
+      "description": "Imparare a salutare e presentarsi in modo semplice e appropriato.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Saper salutare in inglese",
+        "Essere in grado di presentarsi in inglese"
+      ]
+    },
+    {
+      "title": "Colori",
+      "description": "Imparare i nomi dei colori in inglese attraverso attività ludiche e visuali.",
+      "competencies": [
+        "Vocabolario base",
+        "Comprensione visiva"
+      ],
+      "objectives": [
+        "Riconoscere e nominare i colori in inglese",
+        "Associare i colori ai corrispondenti oggetti"
+      ]
+    },
+    {
+      "title": "Numeri 1-10",
+      "description": "Imparare a contare da 1 a 10 in inglese, utilizzando supporti visivi e canzoni.",
+      "competencies": [
+        "Numeri",
+        "Comprensione uditiva"
+      ],
+      "objectives": [
+        "Contare in inglese fino a 10",
+        "Memorizzare la corrispondenza tra numeri e quantità"
+      ]
+    },
+    {
+      "title": "Famiglia",
+      "description": "Apprendere il vocabolario relativo ai membri della famiglia in inglese.",
+      "competencies": [
+        "Vocabolario familiare",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Riconoscere e denominare i membri della famiglia in inglese",
+        "Essere in grado di presentare i membri della propria famiglia in modo semplice"
+      ]
+    },
+    {
+      "title": "Animali",
+      "description": "Conoscere i nomi degli animali più comuni in lingua inglese attraverso immagini e giochi interattivi.",
+      "competencies": [
+        "Vocabolario animale",
+        "Comprensione visiva"
+      ],
+      "objectives": [
+        "Identificare e nominare gli animali in inglese",
+        "Descrivere brevemente gli animali imparati"
+      ]
+    },
+    {
+      "title": "Cibi e bevande",
+      "description": "Imparare il lessico relativo ai cibi e alle bevande più comuni in inglese.",
+      "competencies": [
+        "Vocabolario alimentare",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Riconoscere e nominare cibi e bevande in inglese",
+        "Descrivere i propri gusti relativi al cibo"
+      ]
+    },
+    {
+      "title": "Stagioni e meteo",
+      "description": "Familiarizzare con il vocabolario legato alle stagioni e alle condizioni meteorologiche in inglese.",
+      "competencies": [
+        "Vocabolario meteorologico",
+        "Comprensione visiva"
+      ],
+      "objectives": [
+        "Identificare le stagioni in inglese",
+        "Descrivere il tempo atmosferico utilizzando termini inglesi"
+      ]
+    },
+    {
+      "title": "Parti del corpo",
+      "description": "Apprendere i nomi delle parti del corpo umano in inglese tramite canzoni e attività pratiche.",
+      "competencies": [
+        "Vocabolario anatomico",
+        "Ascolto attivo"
+      ],
+      "objectives": [
+        "Conoscere e nominare le parti del corpo in inglese",
+        "Comprendere istruzioni semplici relative alle parti del corpo"
+      ]
+    },
+    {
+      "title": "Giorni della settimana",
+      "description": "Memorizzare e utilizzare correttamente i giorni della settimana in inglese.",
+      "competencies": [
+        "Vocabolario temporale",
+        "Memorizzazione"
+      ],
+      "objectives": [
+        "Riconoscere e recitare i giorni della settimana in inglese",
+        "Pianificare semplici attività in base ai giorni della settimana"
+      ]
+    },
+    {
+      "title": "Feste e celebrazioni",
+      "description": "Esplorare le festività più comuni e imparare a riconoscerle e nominarle in inglese.",
+      "competencies": [
+        "Cultura anglofona",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Identificare festività come Natale, Pasqua, Halloween in inglese",
+        "Comprendere le tradizioni legate alle festività"
+      ]
+    }
+  ]
+}

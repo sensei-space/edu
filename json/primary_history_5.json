@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "history",
+  "class": "5",
+  "topics": [
+    {
+      "title": "La preistoria",
+      "description": "Studio della vita umana prima dell'invenzione della scrittura, con focus sull'uomo primitivo, l'evoluzione, le prime forme di arte e strumenti",
+      "competencies": [
+        "Conoscenza del passato umano",
+        "Comprensione dello sviluppo umano"
+      ],
+      "objectives": [
+        "Comprendere il concetto di preistoria",
+        "Riconoscere le principali caratteristiche dell'uomo preistorico"
+      ]
+    },
+    {
+      "title": "Le antiche civiltà mesopotamiche",
+      "description": "Approfondimento sulle civiltà di Sumeri, Accadi e Babilonesi, con focus su religione, scrittura cuneiforme, agricoltura e leggi",
+      "competencies": [
+        "Comprendere le prime civiltà umane",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Conoscere le caratteristiche delle civiltà mesopotamiche",
+        "Comprendere l'importanza della scrittura cuneiforme"
+      ]
+    },
+    {
+      "title": "L'antico Egitto",
+      "description": "Studio della civiltà egizia con approfondimento su piramidi, faraoni, religione, scrittura geroglifica e mitologia egizia",
+      "competencies": [
+        "Conoscenza delle antiche civiltà",
+        "Capacità di ricerca e sintesi"
+      ],
+      "objectives": [
+        "Riconoscere i principali aspetti della civiltà egizia",
+        "Comprendere la funzione delle piramidi nell'antico Egitto"
+      ]
+    },
+    {
+      "title": "Grecia antica",
+      "description": "Esplorazione della Grecia antica con focus su mitologia greca, democrazia, filosofia, giochi olimpici e arte",
+      "competencies": [
+        "Comprendere il concetto di democrazia",
+        "Conoscenza della civiltà greca"
+      ],
+      "objectives": [
+        "Riconoscere i principali dei e miti della mitologia greca",
+        "Comprendere il ruolo dei giochi olimpici nell'antica Grecia"
+      ]
+    },
+    {
+      "title": "L'Impero Romano",
+      "description": "Studio dell'Impero Romano con approfondimento su politica, cultura, ingegneria, giustizia, gladiatori e colosseo",
+      "competencies": [
+        "Conoscenza dell'Impero Romano",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Conoscere l'organizzazione politica dell'Impero Romano",
+        "Comprendere il ruolo dei gladiatori nell'antica Roma"
+      ]
+    }
+  ]
+}

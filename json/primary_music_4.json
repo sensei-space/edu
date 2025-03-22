@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "music",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Storia della musica classica",
+      "description": "Studio delle opere e dei compositori più importanti del periodo barocco, classico e romantico.",
+      "competencies": [
+        "Conoscenza della storia della musica",
+        "Apprezzamento delle opere musicali"
+      ],
+      "objectives": [
+        "Riconoscere le principali opere e compositori della musica classica",
+        "Sviluppare l'apprezzamento per la musica classica"
+      ]
+    },
+    {
+      "title": "Ascolto attivo",
+      "description": "In ascolto di brani musicali di vari generi, imparare a identificare strumenti, timbri, melodie e ritmi.",
+      "competencies": [
+        "Ascolto attivo",
+        "Riconoscimento degli strumenti musicali"
+      ],
+      "objectives": [
+        "Distinguere i vari strumenti musicali",
+        "Riconoscere melodie e ritmi"
+      ]
+    },
+    {
+      "title": "Notazione musicale",
+      "description": "Studio dei principali simboli della notazione musicale: note, pause, chiavi, alterazioni, tempo, ecc.",
+      "competencies": [
+        "Lettura della notazione musicale",
+        "Scrittura di semplici partiture"
+      ],
+      "objectives": [
+        "Identificare e leggere le note musicali sulla pentagramma",
+        "Scrivere semplici melodie usando la notazione musicale"
+      ]
+    },
+    {
+      "title": "Canto corale",
+      "description": "Pratica del canto corale per sviluppare l'udito musicale, la coordinazione e l'armonia di gruppo.",
+      "competencies": [
+        "Canto corale",
+        "Armonia di gruppo"
+      ],
+      "objectives": [
+        "Imparare a mantenere l'intonazione nel canto",
+        "Sviluppare la capacità di ascolto e rispetto degli altri nel canto corale"
+      ]
+    },
+    {
+      "title": "Costruzione di strumenti musicali",
+      "description": "Creazione di semplici strumenti musicali con materiali di riciclo per comprendere il funzionamento e i suoni prodotti.",
+      "competencies": [
+        "Creatività e manualità",
+        "Conoscenza dei principi fisici del suono"
+      ],
+      "objectives": [
+        "Costruire strumenti musicali con materiali di recupero",
+        "Sperimentare con diversi materiali per ottenere suoni diversi"
+      ]
+    },
+    {
+      "title": "Musica del mondo",
+      "description": "Esplorazione delle tradizioni musicali di vari paesi, ascoltando e suonando brani tipici di culture diverse.",
+      "competencies": [
+        "Apertura alla diversità culturale",
+        "Conoscenza delle tradizioni musicali internazionali"
+      ],
+      "objectives": [
+        "Apprezzare la diversità musicale delle culture mondiali",
+        "Suonare e cantare brani tradizionali di diversi paesi"
+      ]
+    }
+  ]
+}

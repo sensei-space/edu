@@ -1,0 +1,235 @@
+{
+  "school": "secondary",
+  "subject": "german",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Revisione grammaticale: Passato Prossimo",
+      "description": "Approfondimento e pratica della costruzione e dell'uso del Passato Prossimo dei verbi regolari e irregolari.",
+      "competencies": [
+        "Comprensione della grammatica tedesca",
+        "Capacità di costruire frasi complesse"
+      ],
+      "objectives": [
+        "Saper utilizzare correttamente il Passato Prossimo",
+        "Essere in grado di descrivere eventi passati"
+      ]
+    },
+    {
+      "title": "Il Tempo Perfetto",
+      "description": "Studio dell'uso e della formazione del Tempo Perfetto in tedesco per esprimere azioni passate.",
+      "competencies": [
+        "Conoscenza approfondita dei tempi verbali",
+        "Capacità di comunicare in modo più complesso"
+      ],
+      "objectives": [
+        "Saper distinguere tra Passato Prossimo e Tempo Perfetto",
+        "Essere in grado di raccontare esperienze personali"
+      ]
+    },
+    {
+      "title": "I comparativi e superlativi",
+      "description": "Analisi e utilizzo dei comparativi e superlativi per confrontare elementi o persone in modo comparativo o superlativo.",
+      "competencies": [
+        "Capacità di confronto e analisi",
+        "Conoscenza degli aggettivi comparativi e superlativi"
+      ],
+      "objectives": [
+        "Saper costruire frasi comparative e superlative corrette",
+        "Essere in grado di esprimere giudizi basati su confronti"
+      ]
+    },
+    {
+      "title": "Il futuro: wollen und werden",
+      "description": "Studio e pratica dell'uso di wollen e werden per esprimere il futuro in tedesco.",
+      "competencies": [
+        "Conoscenza dei futuri in tedesco",
+        "Abilità nel costruire frasi al futuro"
+      ],
+      "objectives": [
+        "Saper utilizzare correttamente wollen e werden per esprimere azioni future",
+        "Essere in grado di fare previsioni"
+      ]
+    },
+    {
+      "title": "Il condizionale presente",
+      "description": "Approfondimento del condizionale presente in tedesco per esprimere azioni possibili o desiderate.",
+      "competencies": [
+        "Capacità di esprimere desiderio o ipotesi",
+        "Conoscenza della costruzione del condizionale presente"
+      ],
+      "objectives": [
+        "Saper utilizzare correttamente il condizionale presente",
+        "Essere in grado di esprimere ipotesi e desideri"
+      ]
+    },
+    {
+      "title": "La vita quotidiana",
+      "description": "Studio del lessico relativo alla vita quotidiana, alle abitudini e alle attività di tutti i giorni.",
+      "competencies": [
+        "Arricchimento lessicale",
+        "Capacità di descrivere la routine quotidiana"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere le proprie abitudini giornaliere",
+        "Saper comprendere e redigere testi sul tema"
+      ]
+    },
+    {
+      "title": "L'ambiente e l'ecologia",
+      "description": "Approfondimento del lessico legato all'ambiente, alla natura, all'inquinamento e alle problematiche ambientali.",
+      "competencies": [
+        "Conoscenza del lessico specifico",
+        "Sensibilizzazione ambientale"
+      ],
+      "objectives": [
+        "Essere in grado di discutere tematiche legate all'ambiente in lingua tedesca",
+        "Saper esprimere opinioni su questioni ecologiche"
+      ]
+    },
+    {
+      "title": "La tecnologia e l'innovazione",
+      "description": "Studio del lessico relativo alla tecnologia, all'innovazione e al progresso tecnologico.",
+      "competencies": [
+        "Conoscenza del linguaggio tecnico",
+        "Capacità di parlare di temi tecnologici"
+      ],
+      "objectives": [
+        "Essere in grado di discutere su sviluppi tecnologici recenti",
+        "Saper comprendere testi tecnici in lingua tedesca"
+      ]
+    },
+    {
+      "title": "Il mondo del lavoro",
+      "description": "Analisi del lessico e delle espressioni utilizzate nel mondo del lavoro e nei contesti professionali.",
+      "competencies": [
+        "Preparazione alla vita adulta",
+        "Capacità di comunicare in contesti lavorativi"
+      ],
+      "objectives": [
+        "Essere in grado di redigere un curriculum vitae in tedesco",
+        "Saper descrivere il proprio lavoro o ambito lavorativo"
+      ]
+    },
+    {
+      "title": "La pubblicità e la persuasione",
+      "description": "Studio del linguaggio utilizzato in pubblicità e marketing, analizzando tecniche di persuasione e convinzione.",
+      "competencies": [
+        "Capacità critica nella comprensione dei messaggi pubblicitari",
+        "Conoscenza del linguaggio persuasivo"
+      ],
+      "objectives": [
+        "Essere in grado di analizzare e comprendere annunci pubblicitari in tedesco",
+        "Saper redigere un proprio annuncio persuasivo"
+      ]
+    },
+    {
+      "title": "La cultura tedesca contemporanea",
+      "description": "Esplorazione della cultura tedesca contemporanea attraverso musica, cinema, moda, tv e temi sociali attuali.",
+      "competencies": [
+        "Conoscenza della cultura germanica",
+        "Capacità di considerare aspetti culturali"
+      ],
+      "objectives": [
+        "Essere in grado di discutere di temi culturali attuali in lingua tedesca",
+        "Saper comprendere produzioni culturali tedesche moderne"
+      ]
+    },
+    {
+      "title": "Viaggi e destinazioni turistiche",
+      "description": "Studio del lessico e delle espressioni utili per parlare di viaggi, mete turistiche e esperienze di viaggio.",
+      "competencies": [
+        "Capacità di comunicare in un contesto turistico",
+        "Conoscenza del lessico legato ai viaggi"
+      ],
+      "objectives": [
+        "Essere in grado di redigere un diario di viaggio in tedesco",
+        "Saper presentare una meta turistica in lingua tedesca"
+      ]
+    },
+    {
+      "title": "Cucina e tradizioni culinarie",
+      "description": "Esplorazione dei piatti tipici della cucina tedesca e delle tradizioni culinarie regionali.",
+      "competencies": [
+        "Conoscenza della gastronomia tedesca",
+        "Capacità di parlare di cibo e cucina"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere ricette tipiche in tedesco",
+        "Saper distinguere e presentare piatti tradizionali delle varie regioni tedesche"
+      ]
+    },
+    {
+      "title": "La famiglia e le relazioni",
+      "description": "Studio del lessico e delle espressioni per parlare della famiglia, delle relazioni interpersonali e dei legami familiari.",
+      "competencies": [
+        "Capacità di descrivere persone e relazioni",
+        "Conoscenza del lessico familiare"
+      ],
+      "objectives": [
+        "Essere in grado di parlare della propria famiglia in tedesco",
+        "Saper descrivere relazioni familiari e amicizie"
+      ]
+    },
+    {
+      "title": "La salute e il benessere",
+      "description": "Approfondimento del lessico relativo alla salute, alla medicina, all'alimentazione e al benessere fisico e mentale.",
+      "competencies": [
+        "Conoscenza del vocabolario medico",
+        "Sensibilizzazione alla cura di sé"
+      ],
+      "objectives": [
+        "Essere in grado di parlare di stili di vita sani in tedesco",
+        "Saper chiedere e dare consigli su tematiche legate alla salute"
+      ]
+    },
+    {
+      "title": "L'arte e l'espressione creativa",
+      "description": "Esplorazione del lessico relativo all'arte, alla musica, al teatro e alle espressioni creative.",
+      "competencies": [
+        "Capacità di esprimere idee artistiche",
+        "Conoscenza dell'arte e della cultura tedesca"
+      ],
+      "objectives": [
+        "Essere in grado di esprimere gusti artistici e musicali in tedesco",
+        "Saper discutere di opere d'arte e di spettacoli teatrali"
+      ]
+    },
+    {
+      "title": "La moda e lo stile di vita",
+      "description": "Approfondimento del lessico legato alla moda, ai trend e allo stile di vita contemporaneo.",
+      "competencies": [
+        "Conoscenza dei termini di moda",
+        "Capacità di discutere di stili di vita"
+      ],
+      "objectives": [
+        "Essere in grado di parlare di tendenze e moda in lingua tedesca",
+        "Saper descrivere il proprio stile di vita e interessi"
+      ]
+    },
+    {
+      "title": "La politica e la società",
+      "description": "Analisi del lessico politico e sociale per discutere di tematiche attuali legate alla politica e alla società tedesca.",
+      "competencies": [
+        "Comprensione della realtà politica e sociale",
+        "Capacità di dialogo su temi politici"
+      ],
+      "objectives": [
+        "Essere in grado di partecipare a discussioni politiche in tedesco",
+        "Saper comprendere e analizzare notizie politiche tedesche"
+      ]
+    },
+    {
+      "title": "La storia e la memoria collettiva",
+      "description": "Esplorazione del lessico storico e della memoria collettiva tedesca, focalizzandosi su eventi significativi e periodi storici.",
+      "competencies": [
+        "Conoscenza della storia tedesca",
+        "Sviluppo della consapevolezza storica"
+      ],
+      "objectives": [
+        "Essere in grado di discutere di eventi storici importanti in lingua tedesca",
+        "Saper comprendere la memoria collettiva di un popolo"
+      ]
+    }
+  ]
+}

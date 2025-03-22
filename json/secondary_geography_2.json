@@ -1,0 +1,235 @@
+{
+  "school": "secondary",
+  "subject": "geography",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Il clima",
+      "description": "Studio delle caratteristiche principali del clima mondiale, con focus sui diversi tipi di clima presenti sulla Terra.",
+      "competencies": [
+        "Capacità di analisi geografica",
+        "Conoscenza delle principali condizioni climatiche"
+      ],
+      "objectives": [
+        "Identificare e descrivere i principali tipi di clima",
+        "Comprendere l'influenza del clima sulle attività umane"
+      ]
+    },
+    {
+      "title": "Geografia fisica: rilievi terrestri",
+      "description": "Studio dei principali rilievi terrestri, come montagne, pianure, colline, e delle loro caratteristiche geologiche.",
+      "competencies": [
+        "Riconoscimento e classificazione dei rilievi terrestri",
+        "Comprensione delle dinamiche geologiche"
+      ],
+      "objectives": [
+        "Identificare sulle mappe i diversi tipi di rilievi",
+        "Spiegare le cause dell'origine dei rilievi terrestri"
+      ]
+    },
+    {
+      "title": "La vegetazione del pianeta",
+      "description": "Analisi delle diverse tipologie di vegetazione presenti sulla Terra e dei fattori che influenzano la distribuzione delle piante.",
+      "competencies": [
+        "Conoscenza della geografia botanica",
+        "Capacità di interpretare dati geografici"
+      ],
+      "objectives": [
+        "Caratterizzare le principali tipologie di vegetazione",
+        "Spiegare l'interazione tra clima e vegetazione"
+      ]
+    },
+    {
+      "title": "Le popolazioni del mondo",
+      "description": "Studio della distribuzione delle popolazioni sulla Terra. Analisi delle principali caratteristiche demografiche e dei fattori che influenzano la distribuzione umana.",
+      "competencies": [
+        "Comprensione della demografia mondiale",
+        "Interpretazione dei dati demografici"
+      ],
+      "objectives": [
+        "Riconoscere i principali pattern di distribuzione delle popolazioni",
+        "Comprendere le cause e gli effetti dei movimenti migratori"
+      ]
+    },
+    {
+      "title": "Le città del mondo",
+      "description": "Approfondimento sulle città come centri di aggregazione umana. Analisi delle caratteristiche socio-economiche e culturali delle principali città mondiali.",
+      "competencies": [
+        "Conoscenza delle dinamiche urbane",
+        "Capacità di analisi spaziale"
+      ],
+      "objectives": [
+        "Identificare le principali megalopoli mondiali",
+        "Analizzare le differenze tra città sviluppate e in via di sviluppo"
+      ]
+    },
+    {
+      "title": "Le risorse naturali e lo sfruttamento del territorio",
+      "description": "Studio delle principali risorse naturali presenti sulla Terra e delle attività umane che comportano sfruttamento e gestione del territorio.",
+      "competencies": [
+        "Comprensione dell'uso sostenibile delle risorse",
+        "Sensibilità ambientale"
+      ],
+      "objectives": [
+        "Identificare le risorse naturali non rinnovabili",
+        "Comprendere l'importanza della tutela dell'ambiente"
+      ]
+    },
+    {
+      "title": "Le aree naturali protette",
+      "description": "Approfondimento sul concetto di aree naturali protette e sulle strategie di conservazione della biodiversità.",
+      "competencies": [
+        "Consapevolezza ambientale",
+        "Conoscenza delle politiche di conservazione"
+      ],
+      "objectives": [
+        "Riconoscere le principali aree naturali protette nel mondo",
+        "Comprendere le minacce alla biodiversità"
+      ]
+    },
+    {
+      "title": "Le problematiche ambientali globali",
+      "description": "Analisi delle principali sfide ambientali che il pianeta deve affrontare, come il cambiamento climatico, l'inquinamento e la deforestazione.",
+      "competencies": [
+        "Conoscenza delle problematiche ambientali contemporanee",
+        "Sensibilità ecologica"
+      ],
+      "objectives": [
+        "Comprendere le cause e gli effetti del cambiamento climatico",
+        "Identificare le possibili soluzioni alle problematiche ambientali"
+      ]
+    },
+    {
+      "title": "Le regioni polari",
+      "description": "Studio delle caratteristiche fisiche e della vita nelle regioni polari, con particolare attenzione all'Artico e all'Antartide.",
+      "competencies": [
+        "Conoscenza delle peculiarità climatiche e geografiche polari",
+        "Sensibilità alla conservazione degli ecosistemi polari"
+      ],
+      "objectives": [
+        "Descrivere le peculiarità del clima artico e antartico",
+        "Comprendere le sfide ambientali legate al riscaldamento globale nelle regioni polari"
+      ]
+    },
+    {
+      "title": "Il continente africano",
+      "description": "Approfondimento sulla geografia fisica, politica ed economica dell'Africa, con analisi delle principali tematiche legate al continente.",
+      "competencies": [
+        "Comprensione delle dinamiche africane",
+        "Capacità di analisi geografica"
+      ],
+      "objectives": [
+        "Identificare le principali caratteristiche fisiche dell'Africa",
+        "Analizzare le sfide economico-sociali del continente"
+      ]
+    },
+    {
+      "title": "L'Asia: dalla Cina all'India",
+      "description": "Studio delle caratteristiche geografiche, culturali ed economiche dell'Asia orientale e meridionale, con focus su Cina, India e regioni limitrofe.",
+      "competencies": [
+        "Conoscenza delle civiltà asiatiche",
+        "Capacità di analisi geopolitica"
+      ],
+      "objectives": [
+        "Identificare i principali fiumi e catene montuose asiatiche",
+        "Comprendere le dinamiche geopolitiche della regione"
+      ]
+    },
+    {
+      "title": "L'Europa: geografia e demografia",
+      "description": "Analisi delle diverse caratteristiche geografiche e demografiche dell'Europa, con particolare attenzione alle dinamiche socio-economiche attuali.",
+      "competencies": [
+        "Conoscenza dell'Europa contemporanea",
+        "Interpretazione dei dati demografici"
+      ],
+      "objectives": [
+        "Identificare i principali paesi europei sulle mappe",
+        "Analizzare le trasformazioni demografiche in atto nel continente"
+      ]
+    },
+    {
+      "title": "Il Nord e il Sud America",
+      "description": "Studio delle peculiarità geografiche, storiche e culturali dei due continenti americani, con focus sulle principali nazioni e regioni.",
+      "competencies": [
+        "Conoscenza della geografia delle Americhe",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Identificare le catene montuose e i fiumi principali in America",
+        "Comprendere le dinamiche migratorie nelle Americhe"
+      ]
+    },
+    {
+      "title": "Oceania e isole del Pacifico",
+      "description": "Approfondimento sulla geografia fisica e umana dell'Oceania, con focus sulle isole del Pacifico e sulle caratteristiche peculiari di queste regioni.",
+      "competencies": [
+        "Conoscenza delle isole oceaniche",
+        "Capacità di analisi geografica"
+      ],
+      "objectives": [
+        "Riconoscere le principali isole dell'Oceania",
+        "Spiegare l'influenza dei fattori geografici sull'insularità"
+      ]
+    },
+    {
+      "title": "La globalizzazione e i flussi migratori",
+      "description": "Analisi delle dinamiche della globalizzazione e dei flussi migratori nel mondo contemporaneo, con particolare attenzione alle cause e agli effetti degli spostamenti di popolazione.",
+      "competencies": [
+        "Comprensione dei processi migratori globali",
+        "Sensibilità verso la diversità culturale"
+      ],
+      "objectives": [
+        "Descrivere il fenomeno della globalizzazione",
+        "Spiegare le conseguenze dei flussi migratori sulle società"
+      ]
+    },
+    {
+      "title": "Le questioni di sviluppo nel mondo",
+      "description": "Studio delle tematiche legate allo sviluppo economico e sociale nei diversi continenti, con analisi delle disuguaglianze e delle sfide al progresso.",
+      "competencies": [
+        "Sensibilità alle questioni di sviluppo globale",
+        "Analisi critica delle disuguaglianze mondiali"
+      ],
+      "objectives": [
+        "Identificare le cause delle disuguaglianze economiche tra i paesi",
+        "Comprendere le politiche di cooperazione internazionale per lo sviluppo"
+      ]
+    },
+    {
+      "title": "I conflitti ambientali e geopolitici",
+      "description": "Analisi dei conflitti legati alle risorse naturali e alla geografia politica, con focus sui contesti in cui si manifestano tensioni tra nazioni o gruppi sociali.",
+      "competencies": [
+        "Capacità di analisi geopolitica",
+        "Sensibilità alla risoluzione pacifica dei conflitti"
+      ],
+      "objectives": [
+        "Descrivere le cause di conflitti legati alle risorse naturali",
+        "Comprendere le strategie per la prevenzione dei conflitti geopolitici"
+      ]
+    },
+    {
+      "title": "Il turismo sostenibile",
+      "description": "Approfondimento sul concetto di turismo sostenibile, con analisi delle opportunità e delle sfide legate allo sviluppo di un turismo responsabile.",
+      "competencies": [
+        "Conoscenza delle pratiche turistiche sostenibili",
+        "Sensibilità ambientale"
+      ],
+      "objectives": [
+        "Identificare le destinazioni turistiche sostenibili nel mondo",
+        "Comprendere l'importanza della tutela ambientale nel settore turistico"
+      ]
+    },
+    {
+      "title": "La geografia dell'energia",
+      "description": "Studio delle risorse energetiche mondiali e delle dinamiche legate alla produzione e consumo di energia a livello globale.",
+      "competencies": [
+        "Comprensione delle fonti energetiche",
+        "Sensibilità ai temi dell'energia e dell'ambiente"
+      ],
+      "objectives": [
+        "Identificare le principali fonti di energia utilizzate nel mondo",
+        "Analizzare gli impatti ambientali legati all'uso delle diverse fonti energetiche"
+      ]
+    }
+  ]
+}

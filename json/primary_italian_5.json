@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "italian",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Racconto di favole",
+      "description": "Studio e narrazione delle favole classiche per comprendere il significato delle morale contenute.",
+      "competencies": [
+        "Comprensione del testo",
+        "Espressione orale"
+      ],
+      "objectives": [
+        "Identificare la morale delle favole",
+        "Saper narrare in modo chiaro e coinvolgente"
+      ]
+    },
+    {
+      "title": "Raccolta di poesie",
+      "description": "Analisi e recitazione di poesie di poeti italiani per apprezzarne la metrica e il significato.",
+      "competencies": [
+        "Analisi testuale",
+        "Espressione vocale"
+      ],
+      "objectives": [
+        "Comprendere le figure retoriche nelle poesie",
+        "Recitare con intonazione e ritmo adeguati"
+      ]
+    },
+    {
+      "title": "Studio dei verbi",
+      "description": "Approfondimento dei verbi regolari e irregolari, coniugazioni e uso corretto nella formazione delle frasi.",
+      "competencies": [
+        "Grammatica italiana",
+        "Coniugazione verbale"
+      ],
+      "objectives": [
+        "Riconoscere la forma verbale corretta",
+        "Utilizzare i tempi verbali in contesti adatti"
+      ]
+    },
+    {
+      "title": "Scrittura di lettere",
+      "description": "Apprendimento della struttura formale delle lettere e delle email, per esprimere pensieri e emozioni in forma scritta.",
+      "competencies": [
+        "Scrittura formale",
+        "Espressione scritta"
+      ],
+      "objectives": [
+        "Scrivere una lettera formale corretta",
+        "Utilizzare adeguatamente il registro linguistico"
+      ]
+    },
+    {
+      "title": "Storia della lingua italiana",
+      "description": "Studio dell'evoluzione della lingua italiana attraverso i secoli, con particolare attenzione alle variazioni lessicali e grammaticali.",
+      "competencies": [
+        "Storia della lingua",
+        "Lessico italiano"
+      ],
+      "objectives": [
+        "Comprendere l'evoluzione lessicale",
+        "Riconoscere le peculiarità grammaticali nel tempo"
+      ]
+    },
+    {
+      "title": "Analisi di brani letterari",
+      "description": "Lettura e comprensione di brani classici della letteratura italiana per coglierne gli elementi stilistici e narrativi.",
+      "competencies": [
+        "Lettura critica",
+        "Analisi testuale"
+      ],
+      "objectives": [
+        "Identificare gli elementi stilistici nei testi",
+        "Comprendere i temi trattati dagli autori"
+      ]
+    },
+    {
+      "title": "Studio dei complementi",
+      "description": "Approfondimento dei complementi di una frase: oggetto, di termine, di modo, di luogo e di tempo.",
+      "competencies": [
+        "Analisi grammaticale",
+        "Composizione della frase"
+      ],
+      "objectives": [
+        "Riconoscere e utilizzare correttamente i vari tipi di complementi",
+        "Costruire frasi complesse con precisione"
+      ]
+    },
+    {
+      "title": "Figura retorica dell'analogia",
+      "description": "Studio dell'analogia come figura retorica, con esempi tratti da testi letterari e giornalistici.",
+      "competencies": [
+        "Figure retoriche",
+        "Comprensione testuale"
+      ],
+      "objectives": [
+        "Riconoscere l'analogia nei diversi contesti testuali",
+        "Creare analogie efficaci per esprimere concetti"
+      ]
+    },
+    {
+      "title": "Esposizione orale di argomenti",
+      "description": "Preparazione e presentazione di brevi discorsi su argomenti di attualità o di interesse personale.",
+      "competencies": [
+        "Espressione orale",
+        "Argomentazione"
+      ],
+      "objectives": [
+        "Organizzare un discorso iniziale, uno sviluppo e una conclusione",
+        "Argomentare in modo chiaro e persuasivo"
+      ]
+    },
+    {
+      "title": "Passato remoto e trapassato remoto",
+      "description": "Studio dei tempi passati più complessi: passato remoto e trapassato remoto, con esempi tratti da testi letterari.",
+      "competencies": [
+        "Coniugazione verbale",
+        "Tempo passato"
+      ],
+      "objectives": [
+        "Coniugare correttamente i verbi al passato remoto e trapassato remoto",
+        "Comprendere il significato temporale di questi tempi"
+      ]
+    },
+    {
+      "title": "Parole composte e alterate",
+      "description": "Analisi delle parole composte e alterate, con esempi pratici per comprendere la formazione di nuovi lemmi.",
+      "competencies": [
+        "Lessico italiano",
+        "Analisi linguistica"
+      ],
+      "objectives": [
+        "Riconoscere la struttura delle parole composte e alterate",
+        "Creare nuove parole composte seguendo determinate regole"
+      ]
+    },
+    {
+      "title": "Argomentazione e controargomentazione",
+      "description": "Apprendimento delle tecniche di argomentazione e controargomentazione, con esempi concreti e dibattiti in classe.",
+      "competencies": [
+        "Argomentazione",
+        "Dibattito"
+      ],
+      "objectives": [
+        "Esprimere opinioni argomentate in modo persuasivo",
+        "Contrastare idee avverse in maniera costruttiva"
+      ]
+    },
+    {
+      "title": "Parti del discorso",
+      "description": "Approfondimento delle parti del discorso: nomi, aggettivi, pronomi, avverbi, verbi, con relative funzioni sintattiche.",
+      "competencies": [
+        "Grammatica italiana",
+        "Analisi linguistica"
+      ],
+      "objectives": [
+        "Riconoscere le diverse parti del discorso",
+        "Comprendere il ruolo sintattico di ciascuna parte"
+      ]
+    },
+    {
+      "title": "Scambi epistolari storici",
+      "description": "Studio di scambi epistolari storici tra personaggi famosi, con analisi delle forme e dei contenuti delle lettere.",
+      "competencies": [
+        "Storia della letteratura",
+        "Scrittura epistolare"
+      ],
+      "objectives": [
+        "Comprendere il contesto storico dei personaggi coinvolti",
+        "Scrivere un breve scambio epistolare seguendo il modello storico"
+      ]
+    },
+    {
+      "title": "La comunicazione giornalistica",
+      "description": "Analisi dei testi giornalistici, delle caratteristiche e delle tecniche utilizzate per comunicare in modo efficace.",
+      "competencies": [
+        "Lettura critica",
+        "Comunicazione scritta"
+      ],
+      "objectives": [
+        "Identificare il linguaggio giornalistico",
+        "Scrivere un articolo breve su un evento di attualità"
+      ]
+    },
+    {
+      "title": "Studio dei meccanismi di coesione testuale",
+      "description": "Approfondimento dei legami semantici e strutturali che conferiscono coesione ai testi scritti.",
+      "competencies": [
+        "Testi argomentativi",
+        "Analisi del testo"
+      ],
+      "objectives": [
+        "Riconoscere le diverse forme di coesione testuale",
+        "Utilizzare con successo le tecniche di coesione nei propri scritti"
+      ]
+    },
+    {
+      "title": "Sinonimi e contrari",
+      "description": "Studio dei sinonimi e dei contrari come risorse linguistiche per arricchire il lessico e migliorare l'espressività.",
+      "competencies": [
+        "Lessico italiano",
+        "Vocabolario esteso"
+      ],
+      "objectives": [
+        "Identificare i sinonimi e i contrari",
+        "Utilizzare le parole sinonime e contrarie in modo appropriato"
+      ]
+    },
+    {
+      "title": "Percorso di scrittura creativa",
+      "description": "Esplorazione della scrittura creativa attraverso la produzione di racconti inventati, con particolare attenzione all'immaginazione e alla fantasia.",
+      "competencies": [
+        "Scrittura creativa",
+        "Espressione narrativa"
+      ],
+      "objectives": [
+        "Creare storie originali e coinvolgenti",
+        "Sviluppare personaggi e ambientazioni in modo dettagliato"
+      ]
+    },
+    {
+      "title": "Sintesi testuale",
+      "description": "Esercitazioni di sintesi testuale su brani tratti da diversi generi letterari, per sviluppare la capacità di riassumere le informazioni essenziali.",
+      "competencies": [
+        "Sintesi",
+        "Lettura critica"
+      ],
+      "objectives": [
+        "Saper individuare le informazioni più rilevanti",
+        "Riassumere in modo chiaro e sintetico"
+      ]
+    },
+    {
+      "title": "Varianti dialettali",
+      "description": "Studio delle varianti dialettali italiane, con esempi regionali e confronto tra italiano standard e dialetto.",
+      "competencies": [
+        "Lingue italiane",
+        "Variazioni linguistiche"
+      ],
+      "objectives": [
+        "Riconoscere e comprendere le varianti dialettali",
+        "Analizzare le differenze tra dialetto e italiano standard"
+      ]
+    }
+  ]
+}

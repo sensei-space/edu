@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "civic",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Vivere insieme nella classe",
+      "description": "Promuovere la collaborazione, la condivisione e il rispetto reciproco tra gli studenti all'interno della classe.",
+      "competencies": [
+        "Collaborazione",
+        "Rispetto"
+      ],
+      "objectives": [
+        "Sviluppare capacità di comunicazione e di ascolto attivo",
+        "Rispettare le regole di convivenza all'interno della classe"
+      ]
+    },
+    {
+      "title": "Rispetto delle diversità",
+      "description": "Approfondire il concetto di diversità e promuovere la tolleranza verso le differenze di ogni individuo.",
+      "competencies": [
+        "Tolleranza",
+        "Empatia"
+      ],
+      "objectives": [
+        "Riconoscere e apprezzare le diversità tra le persone",
+        "Esercitare l'empatia e la solidarietà verso chi è diverso da sé"
+      ]
+    },
+    {
+      "title": "Diritti e doveri dei bambini",
+      "description": "Insegnare ai bambini i principali diritti e doveri che gli appartengono come individui all'interno della società.",
+      "competencies": [
+        "Conoscenza dei diritti",
+        "Consapevolezza dei doveri"
+      ],
+      "objectives": [
+        "Comprendere i diritti fondamentali dei bambini",
+        "Riflettere sull'importanza di rispettare i propri doveri verso gli altri"
+      ]
+    },
+    {
+      "title": "La responsabilità sociale",
+      "description": "Approfondire il concetto di responsabilità sociale e individuale, sensibilizzando gli studenti sull'importanza di contribuire al bene comune.",
+      "competencies": [
+        "Responsabilità",
+        "Cittadinanza attiva"
+      ],
+      "objectives": [
+        "Sviluppare la consapevolezza dell'importanza della propria responsabilità individuale",
+        "Promuovere comportamenti attivi e positivi nella comunità"
+      ]
+    },
+    {
+      "title": "L'impatto delle proprie azioni",
+      "description": "Favorire la comprensione dell'importanza delle proprie azioni sull'ambiente e sulla società circostante.",
+      "competencies": [
+        "Sostenibilità",
+        "Consapevolezza civica"
+      ],
+      "objectives": [
+        "Riflettere sull'impatto delle proprie azioni sull'ambiente",
+        "Promuovere comportamenti responsabili e sostenibili"
+      ]
+    },
+    {
+      "title": "La partecipazione alla vita democratica",
+      "description": "Introdurre concetti di democrazia e di partecipazione attiva alla vita democratica a livello locale e scolastico.",
+      "competencies": [
+        "Cittadinanza attiva",
+        "Partecipazione democratica"
+      ],
+      "objectives": [
+        "Comprendere il significato di democrazia e di partecipazione",
+        "Sviluppare capacità di partecipazione attiva e costruttiva nella comunità"
+      ]
+    }
+  ]
+}

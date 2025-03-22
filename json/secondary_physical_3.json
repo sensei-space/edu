@@ -1,0 +1,127 @@
+{
+  "school": "secondary",
+  "subject": "physical",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Riscaldamento e stretching",
+      "description": "Approfondimento delle tecniche di riscaldamento e stretching per preparare il corpo all'attività fisica.",
+      "competencies": [
+        "Conoscenza e padronanza delle tecniche di riscaldamento",
+        "Sviluppo della flessibilità muscolare"
+      ],
+      "objectives": [
+        "Eseguire correttamente gli esercizi di riscaldamento",
+        "Migliorare la propria flessibilità attraverso lo stretching"
+      ]
+    },
+    {
+      "title": "Atletica leggera",
+      "description": "Studio delle discipline dell'atletica leggera, come corsa, salti e lanci, con focus sulla corretta tecnica di esecuzione.",
+      "competencies": [
+        "Padronanza delle tecniche di corsa, salti e lanci",
+        "Sviluppo della resistenza"
+      ],
+      "objectives": [
+        "Migliorare la tecnica di corsa",
+        "Aumentare le prestazioni nei salti e nei lanci"
+      ]
+    },
+    {
+      "title": "Giochi di squadra",
+      "description": "Partecipazione a giochi sportivi di squadra per favorire il lavoro di gruppo, la collaborazione e lo spirito competitivo.",
+      "competencies": [
+        "Collaborazione e cooperazione nel gioco di squadra",
+        "Sviluppo delle capacità tattiche"
+      ],
+      "objectives": [
+        "Comprendere le dinamiche di gioco di squadra",
+        "Migliorare le strategie di gioco nei contesti competitivi"
+      ]
+    },
+    {
+      "title": "Ginnastica artistica",
+      "description": "Avvicinamento alle basi della ginnastica artistica, con focus su equilibrio, coordinazione e coreografia.",
+      "competencies": [
+        "Miglioramento dell'equilibrio e della coordinazione",
+        "Espressione corporea"
+      ],
+      "objectives": [
+        "Apprendere elementi base di ginnastica artistica",
+        "Creare una breve coreografia individuale"
+      ]
+    },
+    {
+      "title": "Fitness e circuit training",
+      "description": "Esecuzione di esercizi di fitness e circuiti training per migliorare la resistenza, la forza e la resistenza muscolare.",
+      "competencies": [
+        "Miglioramento della resistenza e della forza fisica",
+        "Conoscenza dei principi del fitness"
+      ],
+      "objectives": [
+        "Aumentare la resistenza fisica attraverso circuiti di allenamento",
+        "Sviluppare la forza muscolare in varie parti del corpo"
+      ]
+    },
+    {
+      "title": "Danza e movimento creativo",
+      "description": "Esplorazione di diverse forme di danza e movimento creativo per stimolare la creatività, l'espressione e il benessere emotivo.",
+      "competencies": [
+        "Espressione corporea attraverso la danza",
+        "Sviluppo della creatività e della coordinazione"
+      ],
+      "objectives": [
+        "Sperimentare diverse tipologie di danza",
+        "Creare una breve coreografia di gruppo"
+      ]
+    },
+    {
+      "title": "Allenamento funzionale",
+      "description": "Apprendimento degli esercizi di allenamento funzionale volti a migliorare la funzionalità del corpo nei movimenti quotidiani.",
+      "competencies": [
+        "Miglioramento della mobilità e della stabilità",
+        "Conoscenza degli esercizi funzionali"
+      ],
+      "objectives": [
+        "Eseguire correttamente gli esercizi di allenamento funzionale",
+        "Migliorare la gestione del proprio peso corporeo"
+      ]
+    },
+    {
+      "title": "Sport individuali",
+      "description": "Pratica di sport individuali come tennis, badminton o golf, approfondendo le regole, le tecniche e le strategie di gioco.",
+      "competencies": [
+        "Padronanza delle regole e delle tecniche degli sport individuali",
+        "Sviluppo delle capacità motorie specifiche"
+      ],
+      "objectives": [
+        "Migliorare le proprie abilità in sport individuali",
+        "Comprendere le strategie vincenti nei singoli sport"
+      ]
+    },
+    {
+      "title": "Nuoto e salvamento",
+      "description": "Acquisizione di competenze di nuoto attraverso l'apprendimento degli stili e introduzione ai concetti di salvamento in acqua.",
+      "competencies": [
+        "Apprendimento degli stili di nuoto",
+        "Conoscenza delle tecniche di salvamento"
+      ],
+      "objectives": [
+        "Migliorare la propria tecnica di nuoto",
+        "Comprendere le modalità di salvamento in acqua"
+      ]
+    },
+    {
+      "title": "Igiene e primo soccorso",
+      "description": "Studio delle corrette pratiche di igiene, prevenzione degli infortuni e delle procedure di primo soccorso in caso di necessità.",
+      "competencies": [
+        "Conoscenza delle pratiche di igiene e prevenzione degli infortuni",
+        "Capacità di intervenire in caso di emergenza"
+      ],
+      "objectives": [
+        "Applicare le corrette misure di igiene nel contesto sportivo",
+        "Sapere come agire in caso di infortuni o emergenze durante l'attività fisica"
+      ]
+    }
+  ]
+}

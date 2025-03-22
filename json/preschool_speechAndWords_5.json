@@ -1,0 +1,67 @@
+{
+  "school": "preschool",
+  "subject": "speechAndWords",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Riconoscimento delle sillabe",
+      "description": "In questa fase i bambini imparano a riconoscere le singole sillabe all'interno delle parole.",
+      "competencies": [
+        "Sviluppo della consapevolezza fonologica",
+        "Potenziamento della capacità di segmentazione delle parole"
+      ],
+      "objectives": [
+        "Riconoscere e isolare le sillabe nelle parole",
+        "Comprendere che le parole sono composte da suoni distinti"
+      ]
+    },
+    {
+      "title": "Formazione di parole composte",
+      "description": "Gli studenti imparano a unire due o più parole per creare nuove parole composte.",
+      "competencies": [
+        "Sviluppo della capacità morfosintattica",
+        "Potenziamento delle abilità lessicali"
+      ],
+      "objectives": [
+        "Creare e comporre parole composte",
+        "Comprendere il significato delle nuove parole formate"
+      ]
+    },
+    {
+      "title": "Analisi delle categorie di parole",
+      "description": "Attraverso esempi e esercizi, gli studenti imparano a distinguere tra nomi, aggettivi, verbi e avverbi.",
+      "competencies": [
+        "Riconoscimento e classificazione delle categorie grammaticali",
+        "Potenziamento della conoscenza lessicale"
+      ],
+      "objectives": [
+        "Identificare e classificare le parole in base alle rispettive categorie",
+        "Utilizzare correttamente le diverse categorie nelle frasi"
+      ]
+    },
+    {
+      "title": "Produzione di enigmi",
+      "description": "I bambini vengono guidati nell'elaborare brevi enigmi che richiedono l'uso di indizi e del linguaggio metaforico.",
+      "competencies": [
+        "Sviluppo della creatività linguistica",
+        "Potenziamento della capacità argomentativa"
+      ],
+      "objectives": [
+        "Creare enigmi coinvolgenti e originali",
+        "Esprimersi in modo chiaro e persuasivo attraverso gli indizi forniti"
+      ]
+    },
+    {
+      "title": "Sintesi e parafrasi",
+      "description": "Gli studenti imparano a rielaborare brevi testi attraverso la sintesi e la parafrasi, sviluppando il riassunto e la capacità di espressione personale.",
+      "competencies": [
+        "Comprensione e rielaborazione del testo",
+        "Potenziamento della capacità di riassumere"
+      ],
+      "objectives": [
+        "Sintetizzare informazioni essenziali da un testo",
+        "Esprimere con parole proprie concetti precedentemente letti"
+      ]
+    }
+  ]
+}

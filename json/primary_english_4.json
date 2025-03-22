@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "english",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Greetings and Introductions",
+      "description": "Imparare a salutare e presentarsi in lingua inglese.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione verbale"
+      ],
+      "objectives": [
+        "Saper usare frasi di saluto",
+        "Rispondere alle domande su nome e provenienza"
+      ]
+    },
+    {
+      "title": "Days of the Week",
+      "description": "Imparare i giorni della settimana e le relative sequenze.",
+      "competencies": [
+        "Comprensione scritta",
+        "Applicazione di regole linguistiche"
+      ],
+      "objectives": [
+        "Memorizzare i giorni della settimana",
+        "Usare i giorni in frasi semplici"
+      ]
+    },
+    {
+      "title": "Weather",
+      "description": "Imparare a descrivere il tempo atmosferico in inglese.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Riconoscere e descrivere il tempo",
+        "Comprendere previsioni meteo semplici"
+      ]
+    },
+    {
+      "title": "Food and Drinks",
+      "description": "Immagini e parole relative a cibo e bevande.",
+      "competencies": [
+        "Riconoscimento visivo",
+        "Vocabolario specifico"
+      ],
+      "objectives": [
+        "Imparare il nome di cibi e bevande",
+        "Chiedere e rispondere su preferenze alimentari"
+      ]
+    },
+    {
+      "title": "Animals",
+      "description": "Conoscere nomi di animali e descriverli brevemente in inglese.",
+      "competencies": [
+        "Comprensione lessicale",
+        "Espressione orale"
+      ],
+      "objectives": [
+        "Identificare animali comuni",
+        "Fare frasi semplici su animali"
+      ]
+    },
+    {
+      "title": "Hobbies and Activities",
+      "description": "Presentare hobby e attività preferite.",
+      "competencies": [
+        "Espressione orale",
+        "Interazione verbale"
+      ],
+      "objectives": [
+        "Esprimere interessi personali",
+        "Chiedere e rispondere su attività ricreative"
+      ]
+    },
+    {
+      "title": "Clothes and Colors",
+      "description": "Imparare vocaboli relativi a vestiti e colori.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione lessicale"
+      ],
+      "objectives": [
+        "Riconoscere abbigliamento e colori",
+        "Creare semplici combinazioni vestiario"
+      ]
+    },
+    {
+      "title": "Family Members",
+      "description": "Conoscere i nomi dei membri della famiglia in inglese.",
+      "competencies": [
+        "Memorizzazione",
+        "Comprensione verbale"
+      ],
+      "objectives": [
+        "Identificare parenti in inglese",
+        "Descrivere legami familiari"
+      ]
+    },
+    {
+      "title": "Parts of the Body",
+      "description": "Imparare i nomi delle parti del corpo in inglese.",
+      "competencies": [
+        "Vocabolario anatomico",
+        "Esecuzione di istruzioni"
+      ],
+      "objectives": [
+        "Riconoscere e nominare le parti del corpo",
+        "Seguire istruzioni su azioni da compiere"
+      ]
+    },
+    {
+      "title": "Transportation",
+      "description": "Conoscere mezzi di trasporto e descriverli brevemente.",
+      "competencies": [
+        "Comprensione lessicale",
+        "Espressione orale"
+      ],
+      "objectives": [
+        "Identificare mezzi di trasporto",
+        "Esprimere preferenze su trasporti"
+      ]
+    },
+    {
+      "title": "Time and Daily Routine",
+      "description": "Imparare ad esprimere l'ora e la routine giornaliera.",
+      "competencies": [
+        "Comprensione verbale",
+        "Utilizzo di espressioni temporali"
+      ],
+      "objectives": [
+        "Chiedere e dire l'ora",
+        "Descrivere le attività giornaliere"
+      ]
+    },
+    {
+      "title": "Jobs and Professions",
+      "description": "Conoscere nomi di lavori e professioni in inglese.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Riconoscere varie professioni",
+        "Immaginare il proprio futuro lavoro"
+      ]
+    },
+    {
+      "title": "Places in the City",
+      "description": "Imparare nomi di luoghi e aree della città in inglese.",
+      "competencies": [
+        "Vocabolario topografico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Riconoscere luoghi in una città",
+        "Dare indicazioni su come raggiungere un posto"
+      ]
+    },
+    {
+      "title": "Nature and Environment",
+      "description": "Conoscere vocaboli relativi alla natura e all'ambiente.",
+      "competencies": [
+        "Riconoscimento visivo",
+        "Comprensione verbale"
+      ],
+      "objectives": [
+        "Identificare elementi naturali",
+        "Esprimere preoccupazioni ambientali"
+      ]
+    },
+    {
+      "title": "Sports and Games",
+      "description": "Descrivere sport e giochi preferiti.",
+      "competencies": [
+        "Espressione orale",
+        "Interazione sociale"
+      ],
+      "objectives": [
+        "Condividere interessi sportivi",
+        "Organizzare una piccola competizione ludica"
+      ]
+    },
+    {
+      "title": "Festivals and Celebrations",
+      "description": "Conoscere feste e celebrazioni tipiche in diverse culture.",
+      "competencies": [
+        "Comprensione interculturale",
+        "Apprezzamento delle diversità"
+      ],
+      "objectives": [
+        "Riconoscere e rispettare tradizioni diverse",
+        "Partecipare a simulazioni di festività"
+      ]
+    },
+    {
+      "title": "Healthy Habits",
+      "description": "Imparare a parlare di abitudini salutari e benessere.",
+      "competencies": [
+        "Espressione orale",
+        "Consapevolezza della salute"
+      ],
+      "objectives": [
+        "Esprimere consigli su stili di vita sani",
+        "Discutere l'importanza dell'attività fisica"
+      ]
+    },
+    {
+      "title": "Around the World",
+      "description": "Esplorare paesi e culture differenti con focus sulla geografia e tradizioni.",
+      "competencies": [
+        "Competenza interculturale",
+        "Conoscenza geografica"
+      ],
+      "objectives": [
+        "Identificare paesi e capitali",
+        "Comprendere usi e costumi di culture diverse"
+      ]
+    },
+    {
+      "title": "Imagination and Creativity",
+      "description": "Esprimere idee creative e immaginarie in inglese.",
+      "competencies": [
+        "Espressione artistica",
+        "Fantasia creativa"
+      ],
+      "objectives": [
+        "Creare storie inventate",
+        "Drammatizzare situazioni immaginarie"
+      ]
+    },
+    {
+      "title": "Heroes and Legends",
+      "description": "Conoscere personaggi leggendari e storie eroiche.",
+      "competencies": [
+        "Comprensione del testo",
+        "Apprezzamento della narrativa"
+      ],
+      "objectives": [
+        "Raccontare storie di eroi e eroine",
+        "Identificare valori presenti nelle leggende"
+      ]
+    }
+  ]
+}

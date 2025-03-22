@@ -1,0 +1,67 @@
+{
+  "school": "preschool",
+  "subject": "worldExploration",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Esplorazione dei Continenti",
+      "description": "Studio dei diversi continenti, delle caratteristiche geografiche e delle popolazioni presenti.",
+      "competencies": [
+        "Conoscenza del mondo",
+        "Capacità di orientamento nello spazio"
+      ],
+      "objectives": [
+        "Identificare i continenti sulla mappa",
+        "Descrivere le principali caratteristiche di almeno due continenti"
+      ]
+    },
+    {
+      "title": "Climi del Mondo",
+      "description": "Approfondimento sui diversi climi presenti nel mondo e sulle loro influenze sulle popolazioni e sull'ambiente.",
+      "competencies": [
+        "Conoscenza del mondo",
+        "Comprensione delle interazioni ambientali"
+      ],
+      "objectives": [
+        "Identificare e classificare i principali tipi di clima",
+        "Comprendere l'influenza del clima sullo stile di vita delle persone"
+      ]
+    },
+    {
+      "title": "Città del Mondo",
+      "description": "Studio delle diverse città nel mondo, delle differenze culturali e dei principali monumenti.",
+      "competencies": [
+        "Conoscenza del mondo",
+        "Rispetto delle diversità culturali"
+      ],
+      "objectives": [
+        "Localizzare su una mappa alcune delle principali città del mondo",
+        "Descrivere le caratteristiche di vita in una città diversa dalla propria"
+      ]
+    },
+    {
+      "title": "Tradizioni e Festività nel Mondo",
+      "description": "Esplorazione delle diverse tradizioni, costumi e festività celebrate in vari paesi del mondo.",
+      "competencies": [
+        "Comprensione delle diversità culturali",
+        "Rispetto delle tradizioni"
+      ],
+      "objectives": [
+        "Riconoscere e descrivere alcune festività tipiche di diverse culture",
+        "Apprezzare la diversità delle tradizioni nel mondo"
+      ]
+    },
+    {
+      "title": "Esploratori e Scoperte",
+      "description": "Studio delle figure degli esploratori famosi e delle loro scoperte in varie parti del mondo.",
+      "competencies": [
+        "Capacità di ricerca e approfondimento",
+        "Conoscenza di eventi storici"
+      ],
+      "objectives": [
+        "Conoscere alcune figure di esploratori celebri e le loro scoperte",
+        "Comprendere l'importanza dell'esplorazione per la conoscenza del mondo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "english",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Greetings and Introductions",
+      "description": "Imparare a salutare e presentarsi in lingua inglese.",
+      "competencies": [
+        "Comprendere e utilizzare espressioni di saluto e presentazione",
+        "Comunicare in modo semplice in contesti sociali"
+      ],
+      "objectives": [
+        "Saper salutare e presentarsi in inglese",
+        "Essere in grado di rispondere a domande di base sull'identità"
+      ]
+    },
+    {
+      "title": "Family Members",
+      "description": "Imparare i nomi dei membri della famiglia in inglese e descriverli brevemente.",
+      "competencies": [
+        "Comprendere e utilizzare il lessico relativo ai familiari",
+        "Descrivere brevemente le relazioni familiari"
+      ],
+      "objectives": [
+        "Riconoscere e nominare i familiari in inglese",
+        "Essere in grado di descrivere brevemente i membri della propria famiglia"
+      ]
+    },
+    {
+      "title": "School Life",
+      "description": "Parlare delle attività scolastiche, delle materie e delle routine quotidiane a scuola.",
+      "competencies": [
+        "Comprendere e utilizzare il lessico relativo alla scuola",
+        "Descrivere la routine scolastica"
+      ],
+      "objectives": [
+        "Essere in grado di parlare delle attività svolte a scuola",
+        "Conoscere il lessico relativo alle materie scolastiche"
+      ]
+    },
+    {
+      "title": "Hobbies and Interests",
+      "description": "Imparare a parlare dei propri hobby e interessi in lingua inglese.",
+      "competencies": [
+        "Esprimere interessi personali",
+        "Comunicare le proprie passioni"
+      ],
+      "objectives": [
+        "Essere in grado di parlare dei propri hobby preferiti",
+        "Saper chiedere e rispondere riguardo agli interessi delle altre persone"
+      ]
+    },
+    {
+      "title": "Daily Activities",
+      "description": "Descrivere le attività quotidiane e la routine giornaliera in inglese.",
+      "competencies": [
+        "Descrivere le azioni quotidiane",
+        "Utilizzare il presente semplice per esprimere routine"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere la propria routine giornaliera",
+        "Coniugare i verbi al presente per parlare delle azioni abituali"
+      ]
+    },
+    {
+      "title": "Weather",
+      "description": "Imparare i termini relativi al tempo atmosferico e saper fare previsioni meteorologiche semplici.",
+      "competencies": [
+        "Comprendere e utilizzare il lessico relativo al meteo",
+        "Esprimere condizioni climatiche"
+      ],
+      "objectives": [
+        "Saper descrivere il tempo atmosferico in inglese",
+        "Essere in grado di fare semplici previsioni sul meteo"
+      ]
+    },
+    {
+      "title": "Food and Drinks",
+      "description": "Esplorare il lessico relativo ai cibi e alle bevande.",
+      "competencies": [
+        "Comprendere e utilizzare il lessico relativo agli alimenti",
+        "Ordinare cibo e bevande in un contesto simulato"
+      ],
+      "objectives": [
+        "Riconoscere e nominare vari cibi e bevande in inglese",
+        "Essere in grado di fare ordini al ristorante in lingua inglese"
+      ]
+    },
+    {
+      "title": "Clothing",
+      "description": "Imparare i nomi dei capi d'abbigliamento e descriverli.",
+      "competencies": [
+        "Comprendere e utilizzare il lessico relativo all'abbigliamento",
+        "Descrivere l'abbigliamento e gli accessori"
+      ],
+      "objectives": [
+        "Riconoscere e nominare i principali capi d'abbigliamento in inglese",
+        "Essere in grado di descrivere l'abbigliamento che si indossa"
+      ]
+    },
+    {
+      "title": "Daily Routines",
+      "description": "Descrivere la routine quotidiana in modo dettagliato utilizzando il presente semplice.",
+      "competencies": [
+        "Esprimere abitudini e routine",
+        "Utilizzare il presente semplice per parlare delle attività giornaliere"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere dettagliatamente la propria routine giornaliera",
+        "Coniugare i verbi al presente per esprimere abitudini personali"
+      ]
+    },
+    {
+      "title": "Places in the City",
+      "description": "Imparare il lessico relativo ai luoghi in città e saper dare indicazioni di base.",
+      "competencies": [
+        "Comprendere e utilizzare il lessico relativo alla città",
+        "Chiedere e dare indicazioni di base"
+      ],
+      "objectives": [
+        "Riconoscere e nominare i luoghi principali in città in inglese",
+        "Essere in grado di dare indicazioni semplici per raggiungere un luogo"
+      ]
+    }
+  ]
+}

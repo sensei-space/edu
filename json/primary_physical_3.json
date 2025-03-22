@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "physical",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Riscaldamento",
+      "description": "Attività di riscaldamento per preparare il corpo all'attività fisica, con esercizi mirati per scaldare muscoli e articolazioni.",
+      "competencies": [
+        "Sviluppo della consapevolezza corporea",
+        "Miglioramento della coordinazione"
+      ],
+      "objectives": [
+        "Eseguire correttamente esercizi di riscaldamento",
+        "Comprendere l'importanza di preparare il corpo prima dell'attività fisica"
+      ]
+    },
+    {
+      "title": "Corsa a velocità moderata",
+      "description": "Esercitazioni di corsa a velocità moderata per migliorare resistenza e capacità cardiovascolare.",
+      "competencies": [
+        "Miglioramento della resistenza aerobica",
+        "Sviluppo della motricità globale"
+      ],
+      "objectives": [
+        "Mantenere un ritmo costante durante la corsa",
+        "Aumentare la capacità cardiovascolare"
+      ]
+    },
+    {
+      "title": "Lancio di palle leggere",
+      "description": "Esercitazioni per migliorare le capacità di coordinazione e precisione nel lancio di palle leggere.",
+      "competencies": [
+        "Miglioramento della precisione motoria",
+        "Sviluppo della coordinazione occhio-mano"
+      ],
+      "objectives": [
+        "Lanciare la palla con maggiore precisione e coordinazione",
+        "Migliorare la forza e la resistenza muscolare coinvolte nel lancio"
+      ]
+    },
+    {
+      "title": "Salto in lungo",
+      "description": "Apprendimento delle giuste tecniche per eseguire un salto in lungo, allenando la coordinazione e la forza esplosiva delle gambe.",
+      "competencies": [
+        "Sviluppo della forza esplosiva",
+        "Miglioramento della coordinazione"
+      ],
+      "objectives": [
+        "Eseguire il salto in lungo utilizzando la tecnica corretta",
+        "Aumentare la distanza del salto mediante l'applicazione delle corrette tecniche"
+      ]
+    },
+    {
+      "title": "Giochi di squadra",
+      "description": "Partecipazione a giochi di squadra come calcio, pallavolo o basket per favorire il lavoro di gruppo, la collaborazione e il rispetto delle regole.",
+      "competencies": [
+        "Sviluppo delle capacità di cooperazione",
+        "Rispetto delle regole e dell'avversario"
+      ],
+      "objectives": [
+        "Collaborare con i compagni di squadra per raggiungere un obiettivo comune",
+        "Rispettare le regole del gioco e gli avversari"
+      ]
+    }
+  ]
+}

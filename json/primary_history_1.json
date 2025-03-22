@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "history",
+  "class": "1",
+  "topics": [
+    {
+      "title": "La mia storia personale",
+      "description": "Conoscere e raccontare fatti salienti della propria vita finora.",
+      "competencies": [
+        "Costruzione dell'identità individuale",
+        "Sviluppo delle capacità narrative"
+      ],
+      "objectives": [
+        "Raccontare eventi importanti della propria vita",
+        "Comprendere la sequenza temporale degli eventi"
+      ]
+    },
+    {
+      "title": "La vita quotidiana nel passato",
+      "description": "Esplorare le differenze tra la vita quotidiana passata e presente.",
+      "competencies": [
+        "Conoscenza delle differenze culturali",
+        "Capacità di osservazione e confronto"
+      ],
+      "objectives": [
+        "Identificare elementi della vita quotidiana passata",
+        "Confrontare la vita quotidiana passata con quella attuale"
+      ]
+    },
+    {
+      "title": "Le festività tradizionali",
+      "description": "Conoscere le tradizioni legate alle festività più significative.",
+      "competencies": [
+        "Rispetto delle tradizioni",
+        "Apprezzamento della diversità culturale"
+      ],
+      "objectives": [
+        "Identificare festività tradizionali",
+        "Comprendere il significato delle festività per diverse culture"
+      ]
+    },
+    {
+      "title": "I giochi nel tempo",
+      "description": "Esplorare i giochi e i passatempi del passato e confrontarli con quelli moderni.",
+      "competencies": [
+        "Comprendere l'evoluzione dei giochi nel tempo",
+        "Capacità di confronto"
+      ],
+      "objectives": [
+        "Identificare giochi tradizionali",
+        "Confrontare giochi del passato e del presente"
+      ]
+    },
+    {
+      "title": "I mezzi di trasporto nel tempo",
+      "description": "Conoscere i mezzi di trasporto utilizzati nel passato e le relative trasformazioni.",
+      "competencies": [
+        "Conoscenza della storia dei trasporti",
+        "Capacità di analisi delle innovazioni"
+      ],
+      "objectives": [
+        "Identificare mezzi di trasporto antichi",
+        "Osservare le differenze tra mezzi di trasporto passati e presenti"
+      ]
+    }
+  ]
+}

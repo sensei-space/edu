@@ -1,0 +1,306 @@
+{
+  "school": "preschool",
+  "subject": "selfAndOthers",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Conoscere le emozioni",
+      "description": "In questo argomento i bambini imparano a riconoscere ed esprimere le proprie emozioni, nonché a comprendere quelle degli altri.",
+      "competencies": [
+        "Sviluppo delle competenze socio-emotive",
+        "Capacità empatiche"
+      ],
+      "objectives": [
+        "Riconoscere le emozioni di base (gioia, tristezza, rabbia)",
+        "Esprimere le proprie emozioni in modo appropriato",
+        "Comprendere le emozioni altrui"
+      ]
+    },
+    {
+      "title": "Gestire i conflitti",
+      "description": "Attraverso attività e giochi cooperativi, i bambini imparano a gestire i conflitti in modo costruttivo e a trovare soluzioni pacifiche.",
+      "competencies": [
+        "Risoluzione pacifica dei conflitti",
+        "Collaborazione e lavoro di gruppo"
+      ],
+      "objectives": [
+        "Riconoscere situazioni di conflitto",
+        "Sviluppare strategie per risolvere i conflitti",
+        "Collaborare con i compagni per raggiungere un obiettivo comune"
+      ]
+    },
+    {
+      "title": "Rispetto delle diversità",
+      "description": "Questo argomento promuove il rispetto delle diversità tra individui, sensibilizzando i bambini alla valorizzazione delle differenze culturali, di genere e di abilità.",
+      "competencies": [
+        "Rispetto delle differenze",
+        "Inclusione sociale"
+      ],
+      "objectives": [
+        "Riconoscere e apprezzare le differenze tra le persone",
+        "Promuovere un ambiente inclusivo e rispettoso",
+        "Sviluppare l'accettazione di punti di vista diversi"
+      ]
+    },
+    {
+      "title": "Responsabilità verso gli altri",
+      "description": "Attraverso attività pratiche e di gruppo, i bambini imparano l'importanza di essere responsabili verso gli altri, sia nell'ambito familiare che a scuola.",
+      "competencies": [
+        "Sviluppo della responsabilità",
+        "Collaborazione e solidarietà"
+      ],
+      "objectives": [
+        "Comprendere l'importanza della responsabilità nei propri doveri",
+        "Collaborare attivamente con i compagni per il bene comune",
+        "Rispettare le regole e gli impegni presi"
+      ]
+    },
+    {
+      "title": "Empatia e comprensione",
+      "description": "Questo argomento mira a sviluppare l'empatia nei bambini, aiutandoli a comprendere i sentimenti altrui e ad agire con compassione.",
+      "competencies": [
+        "Capacità empatiche",
+        "Comunicazione efficace"
+      ],
+      "objectives": [
+        "Riconoscere i bisogni e i sentimenti degli altri",
+        "Esprimere compassione e solidarietà",
+        "Sviluppare relazioni empatiche con i compagni"
+      ]
+    },
+    {
+      "title": "Giochi cooperativi",
+      "description": "Attraverso giochi di gruppo e attività cooperative, i bambini imparano a lavorare insieme, a comunicare efficacemente e a risolvere problemi in team.",
+      "competencies": [
+        "Collaborazione e lavoro di gruppo",
+        "Comunicazione efficace"
+      ],
+      "objectives": [
+        "Partecipare attivamente a giochi di squadra",
+        "Collaborare con gli altri per raggiungere un obiettivo comune",
+        "Comunicare in modo chiaro e rispettoso con i compagni"
+      ]
+    },
+    {
+      "title": "Capacità di ascolto attivo",
+      "description": "Questo argomento aiuta i bambini a sviluppare la capacità di ascoltare attivamente gli altri, senza interruzioni, mostrando rispetto e interesse per ciò che viene detto.",
+      "competencies": [
+        "Ascolto attivo",
+        "Rispetto delle opinioni altrui"
+      ],
+      "objectives": [
+        "Dimostrare attenzione e rispetto durante le conversazioni",
+        "Ascoltare gli altri senza interruzioni",
+        "Rispettare le opinioni e i punti di vista diversi"
+      ]
+    },
+    {
+      "title": "Costruire relazioni positive",
+      "description": "Attraverso attività di role-playing e dialoghi strutturati, i bambini imparano a costruire relazioni positive basate sulla fiducia, sul rispetto reciproco e sull'aiuto reciproco.",
+      "competencies": [
+        "Sviluppo delle relazioni interpersonali",
+        "Capacità di collaborazione"
+      ],
+      "objectives": [
+        "Interagire in modo positivo con i compagni",
+        "Comprendere l'importanza del rispetto reciproco",
+        "Aiutare e supportare i compagni in momenti di difficoltà"
+      ]
+    },
+    {
+      "title": "Gestire le emozioni negative",
+      "description": "Questo argomento aiuta i bambini a riconoscere, accettare e gestire le emozioni negative come la frustrazione, l'ansia o la tristezza in modo costruttivo.",
+      "competencies": [
+        "Emotional regulation",
+        "Autostima e benessere emotivo"
+      ],
+      "objectives": [
+        "Identificare le emozioni negative",
+        "Imparare strategie per gestire la frustrazione e l'ansia",
+        "Sviluppare un atteggiamento positivo di fronte alle sfide"
+      ]
+    },
+    {
+      "title": "Promuovere la gentilezza",
+      "description": "Attraverso attività di gentilezza e solidarietà, i bambini imparano l'importanza di essere gentili verso gli altri e di diffondere positività nell'ambiente circostante.",
+      "competencies": [
+        "Promozione dei valori positivi",
+        "Capacità empatiche"
+      ],
+      "objectives": [
+        "Manifestare gentilezza e altruismo verso i compagni",
+        "Creare un clima di accoglienza e positività nella classe",
+        "Riconoscere e apprezzare gli atti di gentilezza altrui"
+      ]
+    },
+    {
+      "title": "Differenze di genere",
+      "description": "Questo argomento sensibilizza i bambini alle differenze di genere, promuovendo l'uguaglianza, il rispetto reciproco e la consapevolezza delle diverse identità di genere.",
+      "competencies": [
+        "Rispetto delle diversità",
+        "Promozione dell'uguaglianza di genere"
+      ],
+      "objectives": [
+        "Comprendere l'importanza del rispetto tra generi",
+        "Contrastare stereotipi di genere negativi",
+        "Promuovere l'inclusione di tutti, indipendentemente dal genere"
+      ]
+    },
+    {
+      "title": "Espressione e comunicazione emotiva",
+      "description": "Attraverso attività creative e di drammatizzazione, i bambini esplorano modi diversi per esprimere e comunicare le proprie emozioni in modo positivo e costruttivo.",
+      "competencies": [
+        "Espressione emotiva",
+        "Comunicazione efficace"
+      ],
+      "objectives": [
+        "Esprimere le emozioni attraverso l'arte e il gioco",
+        "Comunicare in modo chiaro e rispettoso le proprie emozioni",
+        "Sviluppare un vocabolario emotivo per esprimere sentimenti complessi"
+      ]
+    },
+    {
+      "title": "Costruire l'autostima",
+      "description": "Questo argomento mira a promuovere l'autostima positiva nei bambini, aiutandoli a riconoscere le proprie qualità, a valorizzarsi e a accettarsi per come sono.",
+      "competencies": [
+        "Sviluppo dell'autostima",
+        "Capacità di auto-valutazione"
+      ],
+      "objectives": [
+        "Riconoscere le proprie capacità e i propri successi",
+        "Accettare i difetti e le difficoltà come parte del percorso di crescita",
+        "Sviluppare un atteggiamento positivo verso se stessi"
+      ]
+    },
+    {
+      "title": "Costruire l'empatia e la solidarietà",
+      "description": "Attraverso progetti di beneficenza e attività di supporto, i bambini imparano ad essere solidali con chi è in difficoltà, sviluppando un senso di empatia e aiuto reciproco.",
+      "competencies": [
+        "Solidarietà e sostegno ai più deboli",
+        "Capacità empatiche"
+      ],
+      "objectives": [
+        "Partecipare a iniziative di solidarietà e beneficenza",
+        "Manifestare empatia verso chi è in difficoltà",
+        "Offrire aiuto e supporto ai compagni in momenti di necessità"
+      ]
+    },
+    {
+      "title": "Promuovere la cooperazione",
+      "description": "Questo argomento incentiva i bambini a cooperare tra loro, a lavorare in gruppo e a condividere competenze e risorse per raggiungere obiettivi comuni.",
+      "competencies": [
+        "Collaborazione e lavoro di squadra",
+        "Capacità di condivisione"
+      ],
+      "objectives": [
+        "Lavorare insieme con i compagni in attività comuni",
+        "Condividere risorse e conoscenze con gli altri",
+        "Risolvere problemi in modo collaborativo"
+      ]
+    },
+    {
+      "title": "Riconoscere e affrontare il bullismo",
+      "description": "Questo argomento sensibilizza i bambini al tema del bullismo, aiutandoli a riconoscere comportamenti aggressivi e a sviluppare strategie per contrastare il bullismo nella scuola.",
+      "competencies": [
+        "Contrasto al bullismo",
+        "Promozione di un clima di rispetto e sicurezza"
+      ],
+      "objectives": [
+        "Riconoscere comportamenti di bullismo e discriminazione",
+        "Sviluppare strategie per affrontare situazioni di bullismo",
+        "Creare un ambiente scolastico inclusivo e sicuro per tutti"
+      ]
+    },
+    {
+      "title": "Capacità di ascolto empatico",
+      "description": "Questo argomento mira a sviluppare la capacità di ascolto empatico nei bambini, aiutandoli a comprendere profondamente le emozioni e i bisogni degli altri.",
+      "competencies": [
+        "Ascolto empatico",
+        "Comunicazione interpersonale"
+      ],
+      "objectives": [
+        "Esprimere interesse e comprensione verso le esperienze altrui",
+        "Riconoscere le emozioni nascoste dietro le parole",
+        "Sostenere emotivamente i compagni nelle difficoltà"
+      ]
+    },
+    {
+      "title": "Promuovere la cultura della pace",
+      "description": "Attraverso attività di sensibilizzazione e dibattiti guidati, i bambini imparano l'importanza della pace, della non violenza e della risoluzione pacifica dei conflitti.",
+      "competencies": [
+        "Promozione della pace e della non violenza",
+        "Risoluzione pacifica dei conflitti"
+      ],
+      "objectives": [
+        "Comprendere il concetto di pace e non violenza",
+        "Partecipare attivamente alla promozione di un clima di pace nella classe",
+        "Sviluppare strategie di risoluzione pacifica dei conflitti"
+      ]
+    },
+    {
+      "title": "Valorizzare l'amicizia",
+      "description": "Questo argomento promuove la conoscenza e il rispetto dell'amicizia come legame importante nella vita dei bambini, incoraggiando il sostegno reciproco e la fiducia tra amici.",
+      "competencies": [
+        "Valorizzazione dell'amicizia",
+        "Capacità di relazione e sostegno reciproco"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche dell'amicizia",
+        "Offrire sostegno e comprensione agli amici",
+        "Condividere momenti di gioia e di difficoltà con gli amici"
+      ]
+    },
+    {
+      "title": "Superare pregiudizi e discriminazioni",
+      "description": "Questo argomento aiuta i bambini a superare pregiudizi e discriminazioni, insegnando loro a rispettare e accettare le diversità presenti nella società.",
+      "competencies": [
+        "Contrasto a pregiudizi e discriminazioni",
+        "Rispetto delle differenze"
+      ],
+      "objectives": [
+        "Riconoscere e contrastare pregiudizi e stereotipi negativi",
+        "Promuovere l'accettazione delle diversità culturali e sociali",
+        "Costruire un ambiente inclusivo e rispettoso"
+      ]
+    },
+    {
+      "title": "Capacità di mediazione",
+      "description": "Questo argomento sviluppa la capacità di mediare tra compagni in conflitto, aiutando i bambini a trovare soluzioni pacifiche e a favorire la comprensione reciproca.",
+      "competencies": [
+        "Capacità di mediazione",
+        "Risoluzione pacifica dei conflitti"
+      ],
+      "objectives": [
+        "Ascoltare entrambe le parti coinvolte in un conflitto",
+        "Proporre soluzioni di compromesso per risolvere le controversie",
+        "Mediare in modo equo e rispettoso tra i compagni"
+      ]
+    },
+    {
+      "title": "Promuovere la gratitudine",
+      "description": "Attraverso attività di ringraziamento e di apprezzamento reciproco, i bambini imparano l'importanza della gratitudine e della riconoscenza verso gli altri.",
+      "competencies": [
+        "Crescita personale e relazionale",
+        "Capacità di riconoscimento e gratitudine"
+      ],
+      "objectives": [
+        "Esprimere gratitudine per le gentilezze ricevute",
+        "Riconoscere e apprezzare le qualità e le azioni positive dei compagni",
+        "Manifestare ringraziamenti in modo sincero ed empatico"
+      ]
+    },
+    {
+      "title": "Capacità di rispetto e tolleranza",
+      "description": "Questo argomento promuove il rispetto reciproco e la tolleranza verso le diversità di pensiero, di cultura e di abitudini tra i bambini, favorendo un clima di convivenza armoniosa.",
+      "competencies": [
+        "Rispetto delle opinioni altrui",
+        "Promozione della tolleranza"
+      ],
+      "objectives": [
+        "Accettare e rispettare le opinioni diverse dalle proprie",
+        "Valorizzare la diversità culturale e individuale nella classe",
+        "Promuovere un clima di dialogo e di rispetto reciproco"
+      ]
+    }
+  ]
+}

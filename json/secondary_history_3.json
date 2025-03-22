@@ -1,0 +1,127 @@
+{
+  "school": "secondary",
+  "subject": "history",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Preistoria e rivoluzione agricola",
+      "description": "Studio delle principali fasi della preistoria e dell'importanza della rivoluzione agricola nell'evoluzione umana.",
+      "competencies": [
+        "Analisi di contesti storici",
+        "Utilizzo di fonti storiche"
+      ],
+      "objectives": [
+        "Comprendere le fasi principali della preistoria",
+        "Valutare l'impatto della rivoluzione agricola sulle società antiche"
+      ]
+    },
+    {
+      "title": "Antico Egitto",
+      "description": "Approfondimento sulle caratteristiche della civiltà egizia, dalla nascita alla caduta dell'Impero.",
+      "competencies": [
+        "Riconoscimento delle peculiarità delle civiltà antiche",
+        "Interpretazione di documenti storici"
+      ],
+      "objectives": [
+        "Comprendere l'organizzazione politico-sociale dell'Antico Egitto",
+        "Analizzare l'economia e la religione egizia"
+      ]
+    },
+    {
+      "title": "Grecia Classica",
+      "description": "Studio dell'epoca classica della Grecia, con focus su Atene e Sparta, le guerre persiane e il periodo elleno.",
+      "competencies": [
+        "Identificazione dei principali eventi storici",
+        "Riflessione sul concetto di democrazia"
+      ],
+      "objectives": [
+        "Analizzare la società ateniese e quella spartana",
+        "Comprendere le cause e le conseguenze delle guerre persiane"
+      ]
+    },
+    {
+      "title": "Impero Romano",
+      "description": "Esplorazione dell'ascesa e della caduta dell'Impero Romano, con particolare attenzione a Roma imperiale e la crisi del III secolo d.C.",
+      "competencies": [
+        "Valutazione della grandezza e delle fragilità dei grandi imperi",
+        "Interpretazione di mappe storiche"
+      ],
+      "objectives": [
+        "Analizzare le cause della caduta dell'Impero Romano",
+        "Esaminare le trasformazioni politiche ed economiche nel III secolo d.C."
+      ]
+    },
+    {
+      "title": "Medioevo europeo",
+      "description": "Approfondimento sul Medioevo europeo, con focus su feudalesimo, formazione dei regni europei e le Crociate.",
+      "competencies": [
+        "Identificazione delle caratteristiche delle società medievali",
+        "Analisi delle motivazioni delle Crociate"
+      ],
+      "objectives": [
+        "Comprendere il sistema feudale e la società medievale",
+        "Analizzare le conseguenze sociali e culturali delle Crociate"
+      ]
+    },
+    {
+      "title": "Rinascimento e Umanesimo",
+      "description": "Esplorazione del Rinascimento, delle sue caratteristiche artistiche, letterarie e scientifiche, e dell'umanesimo.",
+      "competencies": [
+        "Apprezzamento delle espressioni artistiche",
+        "Conoscenza delle trasformazioni culturali"
+      ],
+      "objectives": [
+        "Analizzare le opere di artisti rinascimentali",
+        "Comprendere il pensiero umanistico e le sue ripercussioni"
+      ]
+    },
+    {
+      "title": "Rivoluzione francese",
+      "description": "Studio della Rivoluzione Francese, dalle cause alla successiva epoca napoleonica.",
+      "competencies": [
+        "Valutazione delle trasformazioni politiche e sociali",
+        "Analisi delle idee rivoluzionarie"
+      ],
+      "objectives": [
+        "Comprendere le tappe principali della Rivoluzione Francese",
+        "Analizzare il ruolo di Napoleone e le sue riforme"
+      ]
+    },
+    {
+      "title": "Età contemporanea",
+      "description": "Approfondimento sulla storia dell'etá contemporanea, con focus sul XIX e XX secolo, le due guerre mondiali e la Guerra fredda.",
+      "competencies": [
+        "Identificazione delle trasformazioni sociali e politiche",
+        "Interpretazione di documenti storici"
+      ],
+      "objectives": [
+        "Comprendere le cause e le conseguenze delle due guerre mondiali",
+        "Analizzare il confronto tra blocchi geopolitici nella Guerra fredda"
+      ]
+    },
+    {
+      "title": "Globalizzazione",
+      "description": "Esame della globalizzazione come fenomeno contemporaneo, con particolare attenzione ai suoi effetti economici, culturali e sociali.",
+      "competencies": [
+        "Analisi dei processi di globalizzazione",
+        "Valutazione delle conseguenze della globalizzazione"
+      ],
+      "objectives": [
+        "Comprendere il concetto di globalizzazione",
+        "Analizzare i suoi impatti su diverse società e culture"
+      ]
+    },
+    {
+      "title": "Storia dell'Europa nel XXI secolo",
+      "description": "Studio della storia recente dell'Europa, con focus su eventi significativi e le sfide del XXI secolo.",
+      "competencies": [
+        "Interpretazione di eventi contemporanei",
+        "Conoscenza delle dinamiche geopolitiche"
+      ],
+      "objectives": [
+        "Analizzare le trasformazioni dell'Europa nel ventunesimo secolo",
+        "Comprendere le questioni politiche ed economiche attuali"
+      ]
+    }
+  ]
+}

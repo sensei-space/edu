@@ -1,0 +1,247 @@
+{
+  "school": "preschool",
+  "subject": "bodyAndMovement",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Esplorazione del corpo e della sua motricità",
+      "description": "Attività di esplorazione dei movimenti e delle capacità motorie del proprio corpo.",
+      "competencies": [
+        "Sviluppo delle capacità motorie",
+        "Conoscenza del corpo e del proprio spazio"
+      ],
+      "objectives": [
+        "Sperimentare movimenti diversi",
+        "Riconoscere le proprie potenzialità motorie"
+      ]
+    },
+    {
+      "title": "Giochi di coordinazione motoria",
+      "description": "Attività ludiche volte ad allenare la coordinazione dei movimenti del corpo dei bambini.",
+      "competencies": [
+        "Miglioramento della coordinazione motoria",
+        "Sviluppo della concentrazione"
+      ],
+      "objectives": [
+        "Eseguire giochi che richiedono coordinazione",
+        "Migliorare la padronanza dei movimenti"
+      ]
+    },
+    {
+      "title": "Creazione di coreografie semplici",
+      "description": "Creazione di brevi coreografie o sequenze di movimento da eseguire in gruppo.",
+      "competencies": [
+        "Capacità di espressione corporea",
+        "Collaborazione con gli altri"
+      ],
+      "objectives": [
+        "Coinvolgimento attivo nella creazione coreografica",
+        "Rispetto degli altri durante l'esecuzione"
+      ]
+    },
+    {
+      "title": "Giochi di ritmo e musicalità",
+      "description": "Attività per sviluppare il senso del ritmo e la capacità di muoversi in sincronia con la musica.",
+      "competencies": [
+        "Sviluppo del senso ritmico",
+        "Espressione artistica attraverso il movimento"
+      ],
+      "objectives": [
+        "Muoversi seguendo ritmi diversi",
+        "Esprimersi corporeamente sulle diverse tonalità musicali"
+      ]
+    },
+    {
+      "title": "Allenamento alla resistenza fisica",
+      "description": "Esercizi mirati a migliorare la resistenza fisica e la capacità di sostenere sforzi prolungati.",
+      "competencies": [
+        "Miglioramento della resistenza fisica",
+        "Sviluppo dell'autocontrollo"
+      ],
+      "objectives": [
+        "Completare attività fisiche prolungate",
+        "Aumentare la capacità di concentrazione durante gli sforzi"
+      ]
+    },
+    {
+      "title": "Gioco della mimica e dell'espressione facciale",
+      "description": "Attività ludiche che coinvolgono l'uso della mimica e delle espressioni del viso per comunicare emozioni.",
+      "competencies": [
+        "Espressione corporea attraverso il viso",
+        "Comunicazione non verbale"
+      ],
+      "objectives": [
+        "Riconoscere ed esprimere emozioni attraverso il viso",
+        "Interpretare correttamente le espressioni degli altri"
+      ]
+    },
+    {
+      "title": "Improvisazione teatrale corporea",
+      "description": "Esercitazioni di improvvisazione teatrale basate sul movimento corporeo anziché sulle parole.",
+      "competencies": [
+        "Capacità di improvvisazione",
+        "Espressione creativa attraverso il corpo"
+      ],
+      "objectives": [
+        "Inventare brevi scene senza l'uso delle parole",
+        "Esprimere concetti e emozioni attraverso il movimento"
+      ]
+    },
+    {
+      "title": "Danza creativa ispirata alla natura",
+      "description": "Creazione di coreografie che rappresentano elementi della natura attraverso movimenti fluidi e armoniosi.",
+      "competencies": [
+        "Espressione artistica attraverso la danza",
+        "Connessione con l'ambiente circostante"
+      ],
+      "objectives": [
+        "Realizzare una coreografia ispirata alla natura",
+        "Rappresentare simbolicamente elementi naturali"
+      ]
+    },
+    {
+      "title": "Lavoro di gruppo con costruzione di coreografie",
+      "description": "Attività di gruppo durante le quali i bambini creano e coordinano coreografie complesse da eseguire insieme.",
+      "competencies": [
+        "Collaborazione in gruppo",
+        "Costruzione di un progetto comune"
+      ],
+      "objectives": [
+        "Contribuire alla creazione di una coreografia di gruppo",
+        "Coordinare movimenti e tempi con gli altri partecipanti"
+      ]
+    },
+    {
+      "title": "Espressione corporea sulle emozioni",
+      "description": "Attività per esplorare come il corpo può esprimere e comunicare emozioni attraverso i movimenti.",
+      "competencies": [
+        "Collegamento tra emozioni e movimento",
+        "Comunicazione non verbale"
+      ],
+      "objectives": [
+        "Riconoscere l'associazione tra emozioni e movimenti",
+        "Esprimere emozioni senza l'uso delle parole"
+      ]
+    },
+    {
+      "title": "Danze del mondo: movimenti e tradizioni",
+      "description": "Esplorazione dei movimenti e delle danze tradizionali di diverse culture nel mondo.",
+      "competencies": [
+        "Apertura alla diversità culturale",
+        "Rispetto delle tradizioni"
+      ],
+      "objectives": [
+        "Imitare e apprendere movimenti tipici di danze tradizionali",
+        "Rispettare e valorizzare le diversità culturali attraverso la danza"
+      ]
+    },
+    {
+      "title": "Esplorazione della danza contemporanea",
+      "description": "Approfondimento degli stili e delle tecniche della danza contemporanea attraverso esercizi pratici.",
+      "competencies": [
+        "Conoscenza della danza contemporanea",
+        "Sviluppo della propria espressione artistica"
+      ],
+      "objectives": [
+        "Praticare movimenti caratteristici della danza contemporanea",
+        "Esprimere liberamente sé stessi attraverso il movimento"
+      ]
+    },
+    {
+      "title": "Giochi di destrezza e agilità",
+      "description": "Attività ludiche per migliorare la destrezza e l'agilità motoria dei bambini.",
+      "competencies": [
+        "Sviluppo della destrezza",
+        "Miglioramento dell'agilità"
+      ],
+      "objectives": [
+        "Eseguire giochi che richiedono destrezza e velocità",
+        "Sviluppare le capacità motorie specifiche"
+      ]
+    },
+    {
+      "title": "Espressione corporea con oggetti e accessori",
+      "description": "Utilizzo di oggetti e accessori nella danza e nell'espressione corporea per arricchire le performance.",
+      "competencies": [
+        "Creatività nell'uso di oggetti",
+        "Sviluppo delle abilità motorie con ausili"
+      ],
+      "objectives": [
+        "Creare coreografie che includono l'uso di oggetti",
+        "Migliorare la coordinazione nello spostarsi con accessori"
+      ]
+    },
+    {
+      "title": "Educazione alla postura corretta",
+      "description": "Lezioni ed esercizi mirati a educare i bambini a mantenere una postura corretta nel movimento e nella vita di tutti i giorni.",
+      "competencies": [
+        "Consapevolezza della propria postura",
+        "Prevenzione dei problemi fisici legati alla postura"
+      ],
+      "objectives": [
+        "Riconoscere una postura corretta",
+        "Mantenere una postura corretta durante le attività quotidiane"
+      ]
+    },
+    {
+      "title": "Dinamiche di gruppo attraverso il movimento",
+      "description": "Attività per favorire la coesione di gruppo e la comunicazione non verbale tramite il movimento corporeo.",
+      "competencies": [
+        "Cooperazione e collaborazione",
+        "Comunicazione non verbale"
+      ],
+      "objectives": [
+        "Collaborare con gli altri in attività di gruppo",
+        "Comunicare efficacemente senza parole"
+      ]
+    },
+    {
+      "title": "Rappresentazione di storie e fiabe attraverso il movimento",
+      "description": "Creazione e interpretazione di storie e fiabe utilizzando esclusivamente il movimento corporeo.",
+      "competencies": [
+        "Immaginazione e creatività",
+        "Capacità di narrazione non verbale"
+      ],
+      "objectives": [
+        "Inventare una coreografia che rappresenta una storia",
+        "Interpretare personaggi e situazioni attraverso il movimento"
+      ]
+    },
+    {
+      "title": "Corpo e spazio: esplorazione delle relazioni",
+      "description": "Attività per comprendere i concetti di distanza, vicinanza, direzioni e posizioni tramite l'esplorazione corporea nello spazio.",
+      "competencies": [
+        "Comprensione dello spazio corporeo",
+        "Orientamento spaziale"
+      ],
+      "objectives": [
+        "Muoversi in relazione allo spazio circostante",
+        "Distinguere e utilizzare le varie posizioni nello spazio"
+      ]
+    },
+    {
+      "title": "Improvisazione basata su temi e stimoli",
+      "description": "Esercitazioni di improvvisazione corporea basate su temi, emozioni o stimoli visivi e sonori.",
+      "competencies": [
+        "Capacità di improvvisazione",
+        "Risposta creativa a stimoli esterni"
+      ],
+      "objectives": [
+        "Improvvisare movimenti basati su temi dati",
+        "Rispondere creativamente a stimoli diversi"
+      ]
+    },
+    {
+      "title": "Esplorazione delle qualità del movimento",
+      "description": "Studio delle varie qualità del movimento come fluidità, forza, leggerezza, rapidità attraverso esercizi pratici.",
+      "competencies": [
+        "Comprensione delle caratteristiche del movimento",
+        "Espressione creativa attraverso le diverse qualità"
+      ],
+      "objectives": [
+        "Sperimentare movimenti con diverse qualità",
+        "Esprimere concetti e emozioni tramite le qualità del movimento"
+      ]
+    }
+  ]
+}

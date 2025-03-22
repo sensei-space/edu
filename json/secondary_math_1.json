@@ -1,0 +1,115 @@
+{
+  "school": "secondary",
+  "subject": "math",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Numeri naturali",
+      "description": "Studio dei numeri naturali, ordine e confronto, operazioni fondamentali (somma, differenza, prodotto, divisione).",
+      "competencies": [
+        "Rappresentare e operare con numeri naturali",
+        "Comprendere le proprietà dei numeri naturali"
+      ],
+      "objectives": [
+        "Saper eseguire operazioni di base con numeri naturali",
+        "Essere in grado di confrontare e ordinare numeri naturali"
+      ]
+    },
+    {
+      "title": "Addizioni e sottrazioni entro 100",
+      "description": "Esercitazioni sulle addizioni e sottrazioni entro il numero 100, comprensione del meccanismo delle operazioni.",
+      "competencies": [
+        "Saper eseguire addizioni e sottrazioni entro 100",
+        "Capacità di risolvere problemi matematici semplici"
+      ],
+      "objectives": [
+        "Essere in grado di eseguire correttamente addizioni e sottrazioni",
+        "Saper risolvere problemi che coinvolgono queste operazioni"
+      ]
+    },
+    {
+      "title": "Numeri pari e dispari",
+      "description": "Identificazione e differenza tra numeri pari e dispari, applicazione in contesti concreti e astratti.",
+      "competencies": [
+        "Riconoscere e distinguere numeri pari e dispari",
+        "Applicare le proprietà dei numeri pari e dispari"
+      ],
+      "objectives": [
+        "Essere in grado di individuare se un numero è pari o dispari",
+        "Saper utilizzare le proprietà di questi numeri in varie situazioni"
+      ]
+    },
+    {
+      "title": "Moltiplicazione entro 10",
+      "description": "Studio e pratica della moltiplicazione dei numeri entro 10, tabelline, relazione con l'addizione.",
+      "competencies": [
+        "Saper moltiplicare entro 10",
+        "Comprendere la relazione tra moltiplicazione e addizione"
+      ],
+      "objectives": [
+        "Essere in grado di eseguire moltiplicazioni entro 10",
+        "Capacità di utilizzare le conoscenze acquisite per risolvere problemi di moltiplicazione"
+      ]
+    },
+    {
+      "title": "Divisione entro 10",
+      "description": "Introduzione alla divisione entro 10, comprensione della relazione con la moltiplicazione, divisione come ripartizione equa.",
+      "competencies": [
+        "Saper dividere entro 10",
+        "Comprendere la relazione tra divisione e moltiplicazione"
+      ],
+      "objectives": [
+        "Essere in grado di eseguire divisioni entro 10",
+        "Capacità di risolvere problemi che richiedono la divisione entro questo intervallo"
+      ]
+    },
+    {
+      "title": "Cifre e numeri fino a 100",
+      "description": "Estensione della conoscenza delle cifre e dei numeri fino a 100, lavoro su composizione e scomposizione dei numeri.",
+      "competencies": [
+        "Conoscere le cifre e i numeri fino a 100",
+        "Essere in grado di comporre e scomporre numeri fino a 100"
+      ],
+      "objectives": [
+        "Riconoscere le cifre e i numeri fino a 100",
+        "Saper decomporre e comporre numeri in base alla loro struttura"
+      ]
+    },
+    {
+      "title": "Problemi di combinazione",
+      "description": "Risoluzione di problemi che coinvolgono le operazioni di addizione e sottrazione, comprensione dei contesti applicativi.",
+      "competencies": [
+        "Risolvere problemi di combinazione con addizioni e sottrazioni",
+        "Comprendere la logica dei problemi matematici"
+      ],
+      "objectives": [
+        "Saper tradurre problemi in espressioni matematiche",
+        "Essere in grado di risolvere problemi di combinazione con numeri entro 100"
+      ]
+    },
+    {
+      "title": "Doppie e mezzi",
+      "description": "Studio delle doppie e dei mezzi nei numeri entro 100, relazione con le operazioni aritmetiche.",
+      "competencies": [
+        "Conoscere e applicare i concetti di doppie e mezzi",
+        "Utilizzare doppie e mezzi in relazione alle operazioni aritmetiche"
+      ],
+      "objectives": [
+        "Essere in grado di calcolare doppie e mezzi di numeri entro 100",
+        "Capacità di utilizzare le conoscenze acquisite per risolvere problemi matematici"
+      ]
+    },
+    {
+      "title": "Crescente e decrescente",
+      "description": "Confronto di numeri in sequenza crescente e decrescente, attività pratiche per riconoscere ordinamenti.",
+      "competencies": [
+        "Capacità di ordinare numeri in sequenza crescente e decrescente",
+        "Riconoscimento dei concetti di maggiore e minore"
+      ],
+      "objectives": [
+        "Essere in grado di ordinare numeri in sequenze crescenti e decrescenti",
+        "Saper confrontare numeri in termini di grandezza"
+      ]
+    }
+  ]
+}

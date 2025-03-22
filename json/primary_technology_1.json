@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "technology",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione agli strumenti tecnologici",
+      "description": "Conoscenza e manipolazione di strumenti tecnologici di base come il mouse e la tastiera.",
+      "competencies": [
+        "Utilizzo consapevole degli strumenti tecnologici",
+        "Rispetto delle regole di utilizzo e sicurezza"
+      ],
+      "objectives": [
+        "Riconoscere il mouse e la tastiera",
+        "Imparare a utilizzare il mouse per fare clic e trascinare oggetti"
+      ]
+    },
+    {
+      "title": "Scoperta del computer",
+      "description": "Esplorazione delle parti principali di un computer e delle loro funzioni di base.",
+      "competencies": [
+        "Riconoscimento delle parti principali di un computer",
+        "Comprendere la funzione di ciascuna parte"
+      ],
+      "objectives": [
+        "Identificare tastiera, mouse e schermo di un computer",
+        "Comprendere che il computer serve per fare operazioni e mostrare informazioni"
+      ]
+    },
+    {
+      "title": "Utilizzo di programmi educativi",
+      "description": "Esercitazioni pratiche con programmi educativi interattivi per sviluppare abilità motorie e cognitive.",
+      "competencies": [
+        "Utilizzo autonomo di programmi educativi",
+        "Capacità di seguire istruzioni digitali"
+      ],
+      "objectives": [
+        "Svolgere attività su programmi educativi interattivi",
+        "Seguire istruzioni digitali per completare compiti sul computer"
+      ]
+    },
+    {
+      "title": "Creazione di disegni digitali semplici",
+      "description": "Utilizzo di programmi di disegno semplici per creare immagini con forme di base e colori.",
+      "competencies": [
+        "Creatività nell'espressione artistica digitale",
+        "Capacità di usare strumenti di disegno digitali"
+      ],
+      "objectives": [
+        "Creare un disegno digitale semplice utilizzando forme di base",
+        "Scegliere e applicare colori a un disegno digitale"
+      ]
+    },
+    {
+      "title": "Introduzione ai concetti di codifica visuale",
+      "description": "Avvicinamento ai concetti base della programmazione attraverso attività di codifica visuale.",
+      "competencies": [
+        "Comprendere il concetto di sequenza di istruzioni",
+        "Sviluppare abilità logiche di base"
+      ],
+      "objectives": [
+        "Creare sequenze di istruzioni visive per far compiere azioni a personaggi digitali",
+        "Sperimentare la relazione tra azione e conseguenza nella programmazione visuale"
+      ]
+    },
+    {
+      "title": "Esplorazione dei giochi educativi online",
+      "description": "Utilizzo di giochi educativi online per stimolare l'apprendimento in modo interattivo e divertente.",
+      "competencies": [
+        "Capacità di apprendere in modo ludico",
+        "Usare risorse digitali per l'apprendimento"
+      ],
+      "objectives": [
+        "Svolgere attività educative su giochi online",
+        "Cogliere concetti di base attraverso l'interazione con i giochi educativi"
+      ]
+    },
+    {
+      "title": "Creazione di storie digitali",
+      "description": "Utilizzo di strumenti digitali per creare storie semplici integrate con immagini e suoni.",
+      "competencies": [
+        "Esprimere idee in forma narrativa digitale",
+        "Utilizzare elementi multimediali per la comunicazione"
+      ],
+      "objectives": [
+        "Comporre una storia semplice utilizzando immagini e testi digitali",
+        "Aggiungere elementi sonori ad una storia digitale"
+      ]
+    },
+    {
+      "title": "Concetti di sicurezza online",
+      "description": "Introduzione ai concetti di sicurezza e privacy durante l'utilizzo di Internet e dispositivi digitali.",
+      "competencies": [
+        "Consapevolezza dei rischi online",
+        "Rispetto delle regole di sicurezza digitale"
+      ],
+      "objectives": [
+        "Comprendere l'importanza di non condividere informazioni personali online",
+        "Rispettare le regole di navigazione sicura su Internet"
+      ]
+    },
+    {
+      "title": "Esplorazione degli strumenti di comunicazione digitale",
+      "description": "Scoperta di strumenti digitali per la comunicazione come email e chat.",
+      "competencies": [
+        "Comunicare in modo efficace attraverso strumenti digitali",
+        "Rispetto delle regole della comunicazione online"
+      ],
+      "objectives": [
+        "Scrivere e inviare un'email semplice",
+        "Partecipare ad una chat digitale seguendo le regole di netiquette"
+      ]
+    },
+    {
+      "title": "Introduzione ai concetti di informatica",
+      "description": "Avvicinamento ai fondamenti dell'informatica e alla logica dell'elaborazione dati.",
+      "competencies": [
+        "Comprendere il concetto di dati e informazioni",
+        "Sviluppare competenze logiche di base"
+      ],
+      "objectives": [
+        "Distinguere tra dati e informazioni",
+        "Risolvere semplici problemi di logica legati alla gestione dei dati"
+      ]
+    }
+  ]
+}

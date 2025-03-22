@@ -1,0 +1,91 @@
+{
+  "school": "primary",
+  "subject": "geography",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Il mio mondo familiare",
+      "description": "Conoscere e riconoscere la propria famiglia e il luogo in cui si vive.",
+      "competencies": [
+        "Riconoscimento di elementi familiari",
+        "Identificazione del proprio contesto abitativo"
+      ],
+      "objectives": [
+        "Identificare i membri della propria famiglia",
+        "Descrivere la propria casa e il quartiere"
+      ]
+    },
+    {
+      "title": "Le caratteristiche della Terra",
+      "description": "Esplorare le principali caratteristiche del pianeta Terra: montagne, mari, fiumi, deserti.",
+      "competencies": [
+        "Riconoscimento delle principali caratteristiche terrestri",
+        "Utilizzo di specifici termini geografici"
+      ],
+      "objectives": [
+        "Identificare montagne, mari, fiumi e deserti su immagini",
+        "Utilizzare correttamente i termini geografici"
+      ]
+    },
+    {
+      "title": "Gli animali del mondo",
+      "description": "Scoprire la varietà di animali presenti sulla Terra e le differenze tra di essi.",
+      "competencies": [
+        "Riconoscimento di diversi tipi di animali",
+        "Confronto tra caratteristiche animali"
+      ],
+      "objectives": [
+        "Classificare gli animali in base alle loro caratteristiche",
+        "Identificare gli habitat naturali di alcune specie"
+      ]
+    },
+    {
+      "title": "Gli abiti delle diverse culture",
+      "description": "Esplorare le differenze nei vestiti indossati da persone di diverse culture in varie parti del mondo.",
+      "competencies": [
+        "Riconoscimento delle diversità culturali",
+        "Apprezzamento delle differenze"
+      ],
+      "objectives": [
+        "Identificare e confrontare gli abiti tradizionali di diversi paesi",
+        "Riflettere sull'importanza della diversità culturale"
+      ]
+    },
+    {
+      "title": "Il clima e le stagioni",
+      "description": "Capire il concetto di clima e le differenze tra le stagioni dell'anno.",
+      "competencies": [
+        "Comprendere il concetto di clima",
+        "Riconoscimento delle caratteristiche delle stagioni"
+      ],
+      "objectives": [
+        "Descrivere le diverse stagioni e le attività ad esse associate",
+        "Identificare il tipo di clima in base alle caratteristiche climatiche"
+      ]
+    },
+    {
+      "title": "I trasporti nel mondo",
+      "description": "Esplorare i diversi mezzi di trasporto usati in varie parti del globo per spostarsi.",
+      "competencies": [
+        "Riconoscimento di mezzi di trasporto",
+        "Confronto tra sistemi di trasporto"
+      ],
+      "objectives": [
+        "Identificare mezzi di trasporto terrestri, marittimi e aerei",
+        "Confrontare i mezzi di trasporto più adatti a diverse situazioni"
+      ]
+    },
+    {
+      "title": "Le feste e le tradizioni",
+      "description": "Imparare sulle festività e le tradizioni tipiche di diverse culture nel mondo.",
+      "competencies": [
+        "Conoscenza delle festività internazionali",
+        "Apprezzamento delle tradizioni culturali"
+      ],
+      "objectives": [
+        "Identificare e descrivere le festività di diversi paesi",
+        "Comprendere il significato di alcune tradizioni culturali"
+      ]
+    }
+  ]
+}

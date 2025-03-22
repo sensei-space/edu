@@ -1,0 +1,139 @@
+{
+  "school": "preschool",
+  "subject": "bodyAndMovement",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Riscaldamento muscolare",
+      "description": "Esercizi di riscaldamento per preparare i muscoli prima dell'attività fisica.",
+      "competencies": [
+        "sviluppo delle capacità motorie",
+        "consapevolezza del corpo"
+      ],
+      "objectives": [
+        "eseguire correttamente esercizi di riscaldamento",
+        "migliorare la consapevolezza corporea"
+      ]
+    },
+    {
+      "title": "Controllo del respiro",
+      "description": "Esercizi per imparare a controllare il respiro durante l'attività fisica.",
+      "competencies": [
+        "controllo del respiro",
+        "consapevolezza della respirazione"
+      ],
+      "objectives": [
+        "praticare la respirazione consapevole",
+        "migliorare la gestione del respiro durante l'attività fisica"
+      ]
+    },
+    {
+      "title": "Esercizi di stretching",
+      "description": "Esercizi per migliorare la flessibilità dei muscoli e prevenire infortuni.",
+      "competencies": [
+        "sviluppo della flessibilità",
+        "prevenzione degli infortuni"
+      ],
+      "objectives": [
+        "eseguire correttamente esercizi di stretching",
+        "migliorare la flessibilità muscolare"
+      ]
+    },
+    {
+      "title": "Corsa ad ostacoli",
+      "description": "Attività di corsa che prevede il superamento di ostacoli per migliorare agilità e coordinazione.",
+      "competencies": [
+        "sviluppo dell'agilità",
+        "coordinazione motoria"
+      ],
+      "objectives": [
+        "superare ostacoli con agilità",
+        "migliorare la coordinazione nei movimenti"
+      ]
+    },
+    {
+      "title": "Giocare con la palla",
+      "description": "Attività ludiche che coinvolgono il lancio e il rincorrere la palla per migliorare la coordinazione occhio-mano.",
+      "competencies": [
+        "coordinazione occhio-mano",
+        "controllo dei movimenti"
+      ],
+      "objectives": [
+        "migliorare la precisione nei lanci di palla",
+        "migliorare la capacità di cattura della palla"
+      ]
+    },
+    {
+      "title": "Giochi di squadra",
+      "description": "Attività di gruppo che favoriscono la collaborazione e la socializzazione attraverso il movimento.",
+      "competencies": [
+        "collaborazione in gruppo",
+        "socializzazione attraverso il gioco"
+      ],
+      "objectives": [
+        "rispettare le regole dei giochi di squadra",
+        "interagire positivamente con i compagni"
+      ]
+    },
+    {
+      "title": "Danza: imparare una coreografia",
+      "description": "Attività di danza che introduce alla creazione e apprendimento di una semplice coreografia.",
+      "competencies": [
+        "espressione corporea",
+        "memoria motoria"
+      ],
+      "objectives": [
+        "imparare e eseguire una coreografia",
+        "esprimere emozioni attraverso il movimento"
+      ]
+    },
+    {
+      "title": "Esercizi di equilibrio",
+      "description": "Attività per migliorare l'equilibrio e la consapevolezza posturale.",
+      "competencies": [
+        "sviluppo dell'equilibrio",
+        "consapevolezza posturale"
+      ],
+      "objectives": [
+        "mantenere posizioni di equilibrio",
+        "migliorare la postura durante i movimenti"
+      ]
+    },
+    {
+      "title": "Salto con la corda",
+      "description": "Attività per migliorare la resistenza e il coordinamento attraverso il salto con la corda.",
+      "competencies": [
+        "sviluppo della resistenza",
+        "coordinazione dei movimenti"
+      ],
+      "objectives": [
+        "eseguire salti continui con la corda",
+        "migliorare la coordinazione nel salto"
+      ]
+    },
+    {
+      "title": "Yoga per bambini",
+      "description": "Introduzione allo yoga con posture adatte ai bambini per favorire il rilassamento e il benessere fisico.",
+      "competencies": [
+        "gestione dello stress",
+        "flessibilità"
+      ],
+      "objectives": [
+        "eseguire posture yoga base",
+        "sviluppare il senso di calma e rilassamento"
+      ]
+    },
+    {
+      "title": "Esercizi di respirazione",
+      "description": "Attività per praticare respirazioni profonde e consapevoli per favorire il rilassamento e la concentrazione.",
+      "competencies": [
+        "controllo della respirazione",
+        "calma mentale"
+      ],
+      "objectives": [
+        "eseguire respirazioni lente e profonde",
+        "migliorare la concentrazione attraverso la respirazione"
+      ]
+    }
+  ]
+}

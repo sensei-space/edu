@@ -1,0 +1,199 @@
+{
+  "school": "primary",
+  "subject": "art",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Introduzione alla storia dell'arte",
+      "description": "Studio dei principali periodi storici dell'arte e dei relativi stili e artisti.",
+      "competencies": [
+        "Conoscenza delle epoche artistiche",
+        "Identificazione degli stili artistici"
+      ],
+      "objectives": [
+        "Riconoscere le principali epoche artistiche",
+        "Identificare gli stili artistici di opere d'arte famose"
+      ]
+    },
+    {
+      "title": "Colori primari e secondari",
+      "description": "Studio dei colori primari e secondari e delle possibilità di miscelazione.",
+      "competencies": [
+        "Riconoscimento dei colori primari e secondari",
+        "Capacità di miscelare i colori"
+      ],
+      "objectives": [
+        "Identificare i colori primari e secondari",
+        "Mescolare i colori per ottenere nuove tonalità"
+      ]
+    },
+    {
+      "title": "Creazione di una tavolozza personale",
+      "description": "Realizzazione di una tavolozza individuale con colori preferiti per futuri lavori artistici.",
+      "competencies": [
+        "Espressione della propria creatività",
+        "Utilizzo consapevole dei colori"
+      ],
+      "objectives": [
+        "Scegliere i colori preferiti per la propria tavolozza",
+        "Utilizzare la tavolozza creata nei lavori artistici successivi"
+      ]
+    },
+    {
+      "title": "Tecniche pittoriche: acquerello",
+      "description": "Studio delle basi e delle potenzialità dell'acquerello come tecnica pittorica.",
+      "competencies": [
+        "Utilizzo dell'acquerello come mezzo espressivo",
+        "Capacità di creare sfumature e trasparenze"
+      ],
+      "objectives": [
+        "Sperimentare diverse tecniche di pittura ad acquerello",
+        "Creare opere che sfruttino le caratteristiche dell'acquerello"
+      ]
+    },
+    {
+      "title": "Ritratto",
+      "description": "Studio delle basi per realizzare un ritratto, focalizzandosi sulle proporzioni e le espressioni facciali.",
+      "competencies": [
+        "Capacità di ritrarre proporzioni realistiche",
+        "Espressione delle emozioni tramite il disegno"
+      ],
+      "objectives": [
+        "Rappresentare proporzioni realistiche in un ritratto",
+        "Esprimere emozioni attraverso l'arte del ritratto"
+      ]
+    },
+    {
+      "title": "Storia dell'affresco",
+      "description": "Approfondimento sulla tecnica dell'affresco e sui suoi utilizzi storici.",
+      "competencies": [
+        "Conoscenza delle tecniche pittoriche storiche",
+        "Capacità di apprezzare arte antica"
+      ],
+      "objectives": [
+        "Comprendere il processo di realizzazione di un affresco",
+        "Apprezzare opere d'arte affrescate di grandi artisti del passato"
+      ]
+    },
+    {
+      "title": "Arte del Giappone: i rami della pittura Sumi-e",
+      "description": "Studio dei diversi stili di Sumi-e e creazione di dipinti minimalisti.",
+      "competencies": [
+        "Esplorazione di tradizioni artistiche orientali",
+        "Capacità di creare opere minimaliste"
+      ],
+      "objectives": [
+        "Riconoscere i diversi stili di pittura Sumi-e",
+        "Realizzare dipinti ispirati alla tradizione giapponese Sumi-e"
+      ]
+    },
+    {
+      "title": "Scultura con materiali di riciclo",
+      "description": "Creazione di sculture utilizzando materiali di riciclo per promuovere la sostenibilità ambientale.",
+      "competencies": [
+        "Utilizzo creativo dei materiali",
+        "Sensibilizzazione all'ecologia"
+      ],
+      "objectives": [
+        "Realizzare sculture originali con materiali riciclati",
+        "Sviluppare la consapevolezza sull'importanza del riciclo tramite l'arte"
+      ]
+    },
+    {
+      "title": "Espressione artistica attraverso la natura morta",
+      "description": "Studio della rappresentazione di oggetti inanimati per esprimere concetti artistici.",
+      "competencies": [
+        "Capacità di rappresentare dettagli realistici",
+        "Espressione creativa attraverso gli oggetti"
+      ],
+      "objectives": [
+        "Creare composizioni di natura morta con attenzione ai dettagli",
+        "Esprimere concetti artistici attraverso la disposizione degli oggetti"
+      ]
+    },
+    {
+      "title": "Collage creativo",
+      "description": "Utilizzo di diverse tecniche di collage per creare opere multistrato e astratte.",
+      "competencies": [
+        "Applicazione di tecniche di collage",
+        "Creatività nella composizione artistica"
+      ],
+      "objectives": [
+        "Sperimentare diverse tecniche di collage",
+        "Creare opere multistrato che esprimano concetti astratti"
+      ]
+    },
+    {
+      "title": "L'arte del fumetto",
+      "description": "Studio delle basi per creare un fumetto, includendo personaggi, dialoghi e sequenze.",
+      "competencies": [
+        "Narrativa visiva",
+        "Capacità di creare personaggi"
+      ],
+      "objectives": [
+        "Creare una breve storia a fumetti con personaggi e dialoghi",
+        "Sviluppare la capacità di raccontare visivamente tramite il fumetto"
+      ]
+    },
+    {
+      "title": "Teatro delle ombre",
+      "description": "Creazione di figure e scenografie per realizzare spettacoli teatrali con le ombre.",
+      "competencies": [
+        "Esplorazione delle tecniche teatrali",
+        "Creatività nello sfruttare la luce"
+      ],
+      "objectives": [
+        "Realizzare figure e scenografie per uno spettacolo di teatro delle ombre",
+        "Partecipare attivamente a rappresentazioni teatrali con l'uso delle ombre"
+      ]
+    },
+    {
+      "title": "Arte digitale: grafica pixel art",
+      "description": "Studio della tecnica pixel art per creare immagini digitali caratterizzate da pixel evidenti.",
+      "competencies": [
+        "Utilizzo di strumenti digitali per l'arte",
+        "Capacità di creare immagini con limitazioni di pixel"
+      ],
+      "objectives": [
+        "Sperimentare la creazione di pixel art con programmi specifici",
+        "Realizzare immagini digitali raffiguranti personaggi o scene tramite la pixel art"
+      ]
+    },
+    {
+      "title": "Architettura e design",
+      "description": "Approfondimento sull'architettura e progettazione di ambienti pensati per scopi specifici.",
+      "competencies": [
+        "Comprendere la relazione tra spazio e funzionalità",
+        "Esplorare l'architettura come espressione artistica"
+      ],
+      "objectives": [
+        "Immaginare e realizzare modelli di architettura e design",
+        "Apprezzare l'importanza dell'architettura nella nostra vita quotidiana"
+      ]
+    },
+    {
+      "title": "Storia dell'arte moderna",
+      "description": "Analisi dei movimenti artistici del Novecento e delle innovazioni nel linguaggio artistico.",
+      "competencies": [
+        "Conoscenza dei movimenti artistici contemporanei",
+        "Capacità di analisi critica delle opere d'arte"
+      ],
+      "objectives": [
+        "Riconoscere i principali movimenti artistici del Novecento",
+        "Analizzare e interpretare opere d'arte moderne nell'ambito della storia dell'arte"
+      ]
+    },
+    {
+      "title": "Street art e arti urbane",
+      "description": "Esplorazione dei diversi tipi di street art e realizzazione di opere temporanee o permanenti nell'ambiente urbano.",
+      "competencies": [
+        "Espressione artistica in contesti non convenzionali",
+        "Capacità di utilizzare lo spazio pubblico come tela"
+      ],
+      "objectives": [
+        "Creare opere di street art con varie tecniche (graffiti, stencil, poster art)",
+        "Comprendere il ruolo dell'arte urbana nella società contemporanea"
+      ]
+    }
+  ]
+}

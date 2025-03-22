@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "geography",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Il clima del mondo",
+      "description": "Studio delle diverse tipologie di clima presenti sulla Terra e delle loro caratteristiche principali.",
+      "competencies": [
+        "Comprensione dei fenomeni climatici",
+        "Utilizzo della terminologia geografica"
+      ],
+      "objectives": [
+        "Riconoscere le varie tipologie di clima",
+        "Descrivere le principali caratteristiche di ciascun tipo di clima"
+      ]
+    },
+    {
+      "title": "I fiumi del mondo",
+      "description": "Approfondimento sul ruolo dei fiumi nel modellare il paesaggio e sulla loro importanza per l'ambiente e per le popolazioni.",
+      "competencies": [
+        "Conoscenza della geografia fisica",
+        "Comprendere l'interazione tra ambiente e società"
+      ],
+      "objectives": [
+        "Riconoscere i principali fiumi mondiali",
+        "Comprendere l'importanza dei fiumi per l'uomo e l'ambiente"
+      ]
+    },
+    {
+      "title": "I continenti e gli oceani",
+      "description": "Studio dei continenti e degli oceani che compongono il nostro pianeta, con focus sulle caratteristiche geografiche peculiari di ciascuno.",
+      "competencies": [
+        "Conoscenza della geografia mondiale",
+        "Utilizzo delle mappe geografiche"
+      ],
+      "objectives": [
+        "Identificare i continenti e gli oceani sulla mappa",
+        "Descrivere le caratteristiche principali di ciascun continente/oceano"
+      ]
+    },
+    {
+      "title": "La popolazione mondiale",
+      "description": "Analisi della distribuzione della popolazione sulla Terra, dei fattori che influenzano la densità demografica e delle differenze tra aree densamente popolate e aree scarsamente abitate.",
+      "competencies": [
+        "Comprendere i fenomeni demografici",
+        "Riconoscere le disuguaglianze territoriali"
+      ],
+      "objectives": [
+        "Calcolare la densità di popolazione di diverse aree geografiche",
+        "Comprendere le cause delle differenze di densità demografica"
+      ]
+    },
+    {
+      "title": "Le principali catene montuose",
+      "description": "Studio delle catene montuose più importanti del mondo, delle loro caratteristiche geografiche e del ruolo che svolgono nell'ambiente e nella vita delle popolazioni.",
+      "competencies": [
+        "Conoscenza della geografia fisica",
+        "Comprendere l'importanza dei rilievi montuosi"
+      ],
+      "objectives": [
+        "Identificare le principali catene montuose su una mappa",
+        "Descrivere le caratteristiche principali delle catene montuose"
+      ]
+    }
+  ]
+}

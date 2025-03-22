@@ -1,0 +1,248 @@
+{
+  "school": "primary",
+  "subject": "italian",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Struttura della fiaba",
+      "description": "Studio della struttura tipica di una fiaba, con particolare attenzione agli elementi come protagonista, antagonista, ambientazione, inizio, sviluppo e conclusione.",
+      "competencies": [
+        "Comprensione testi narrativi",
+        "Riconoscimento degli elementi narrativi"
+      ],
+      "objectives": [
+        "Identificare gli elementi strutturali di una fiaba",
+        "Comprendere come i diversi elementi contribuiscono alla costruzione della storia"
+      ]
+    },
+    {
+      "title": "Le favole e le morale",
+      "description": "Approfondimento delle favole come racconti brevi con una morale esplicita o implicita. Analisi delle morali presenti nelle favole più famose.",
+      "competencies": [
+        "Interpretazione dei testi",
+        "Capacità di analisi critica"
+      ],
+      "objectives": [
+        "Conoscere il significato di morale",
+        "Identificare la morale in una favola",
+        "Riflettere sui valori trasmessi dalle favole"
+      ]
+    },
+    {
+      "title": "Poesie per bambini",
+      "description": "Studio di poesie semplici adatte ai bambini, con particolare attenzione alle figure retoriche come la rima. Lettura e interpretazione delle poesie.",
+      "competencies": [
+        "Comprensione testi poetici",
+        "Riconoscimento figure retoriche"
+      ],
+      "objectives": [
+        "Identificare la struttura e la rima in una poesia",
+        "Comprendere il significato delle poesie attraverso l'interpretazione"
+      ]
+    },
+    {
+      "title": "La descrizione di un personaggio",
+      "description": "Studio delle tecniche di descrizione di un personaggio all'interno di un testo narrativo. Analisi dei tratti fisici e caratteriali.",
+      "competencies": [
+        "Capacità descrittiva",
+        "Analisi dei personaggi"
+      ],
+      "objectives": [
+        "Descrivere un personaggio utilizzando aggettivi appropriati",
+        "Comprendere l'importanza della caratterizzazione dei personaggi"
+      ]
+    },
+    {
+      "title": "Il diario personale",
+      "description": "Introduzione al genere del diario personale. Creazione di brevi diari immaginari con descrizione degli eventi giornalieri e delle emozioni provate.",
+      "competencies": [
+        "Espressione scritta",
+        "Riflessione sulle emozioni"
+      ],
+      "objectives": [
+        "Scrivere un breve diario personale",
+        "Esprimere emozioni e eventi quotidiani attraverso la scrittura"
+      ]
+    },
+    {
+      "title": "Verbi al presente",
+      "description": "Studio dei verbi al presente indicativo, con particolare attenzione alle coniugazioni regolari e irregolari. Esercizi pratici di coniugazione verbale.",
+      "competencies": [
+        "Coniugazione verbale",
+        "Riconoscimento dei verbi"
+      ],
+      "objectives": [
+        "Identificare i verbi nella loro forma al presente",
+        "Coniugare correttamente verbi regolari e irregolari al presente"
+      ]
+    },
+    {
+      "title": "Coerenza e coesione nei testi",
+      "description": "Approfondimento sulla coerenza interna di un testo e la sua coesione attraverso l'uso di connettivi logici e pronomi. Esercizi pratici sulla riscrittura di testi.",
+      "competencies": [
+        "Coerenza testuale",
+        "Uso corretto dei connettivi"
+      ],
+      "objectives": [
+        "Riconoscere la coerenza interna di un testo",
+        "Utilizzare i connettivi per garantire la coesione tra le frasi"
+      ]
+    },
+    {
+      "title": "Divisione in sillabe",
+      "description": "Studio della divisione in sillabe delle parole, con particolare attenzione alla regole per dividere correttamente le parole composte.",
+      "competencies": [
+        "Divisione in sillabe",
+        "Conoscenza delle regole ortografiche"
+      ],
+      "objectives": [
+        "Dividere correttamente le parole in sillabe",
+        "Applicare le regole ortografiche per la divisione in sillabe"
+      ]
+    },
+    {
+      "title": "Il testo argomentativo",
+      "description": "Introduzione alla struttura e alle caratteristiche del testo argomentativo. Analisi di testi argomentativi semplici e produzione di brevi argomentazioni.",
+      "competencies": [
+        "Capacità argomentativa",
+        "Analisi testuale"
+      ],
+      "objectives": [
+        "Riconoscere la struttura del testo argomentativo",
+        "Produrre brevi testi argomentativi su argomenti conosciuti"
+      ]
+    },
+    {
+      "title": "Lettura guidata: favole di Esopo",
+      "description": "Lettura e analisi guidata delle favole di Esopo, con particolare attenzione alle tematiche trattate e alle morale presenti.",
+      "competencies": [
+        "Comprensione testuale",
+        "Interpretazione delle favole"
+      ],
+      "objectives": [
+        "Comprendere il significato delle favole di Esopo",
+        "Identificare le morale e i valori trasmessi"
+      ]
+    },
+    {
+      "title": "Descrizione di un animale fantastico",
+      "description": "Attività creativa di scrittura per descrivere un animale fantastico inventato dagli studenti. Utilizzo di aggettivi e metafore.",
+      "competencies": [
+        "Espressione creativa",
+        "Immersione fantastica"
+      ],
+      "objectives": [
+        "Immaginare e descrivere un animale fantastico",
+        "Arricchire il testo con descrizioni dettagliate e suggestive"
+      ]
+    },
+    {
+      "title": "Il pronome",
+      "description": "Studio dei pronomi personali, possessivi, dimostrativi e indefiniti. Utilizzo corretto dei pronomi all'interno di una frase.",
+      "competencies": [
+        "Riconoscimento dei pronomi",
+        "Corretta costruzione frasi"
+      ],
+      "objectives": [
+        "Identificare i diversi tipi di pronomi",
+        "Utilizzare correttamente i pronomi nelle frasi"
+      ]
+    },
+    {
+      "title": "Il racconto avventuroso",
+      "description": "Creazione di un racconto breve aventuroso, con particolare attenzione alla costruzione del climax e alla risoluzione del conflitto.",
+      "competencies": [
+        "Capacità narrativa",
+        "Costruzione di storie"
+      ],
+      "objectives": [
+        "Scrivere un racconto avventuroso con inizio, sviluppo e conclusione",
+        "Creare suspense attraverso la narrazione"
+      ]
+    },
+    {
+      "title": "La biografia di un personaggio storico",
+      "description": "Attività di ricerca e scrittura di una breve biografia su un personaggio storico di interesse. Studio della struttura biografica.",
+      "competencies": [
+        "Ricerca autonoma",
+        "Capacità espositiva"
+      ],
+      "objectives": [
+        "Ricerca informazioni su un personaggio storico",
+        "Comporre una biografia seguendo una struttura coerente"
+      ]
+    },
+    {
+      "title": "I complementi dell'oggetto",
+      "description": "Studio dei complementi dell'oggetto diretto e indiretto. Identificazione e utilizzo corretto dei complementi all'interno di una frase.",
+      "competencies": [
+        "Riconoscimento dei complementi",
+        "Costruzione frasi complesse"
+      ],
+      "objectives": [
+        "Distinguere tra complemento oggetto diretto e indiretto",
+        "Utilizzare correttamente i complementi nell'analisi grammaticale"
+      ]
+    },
+    {
+      "title": "La filastrocca",
+      "description": "Studio delle filastrocche come componimenti poetici brevi e ritmati. Creazione e memorizzazione di filastrocche divertenti.",
+      "competencies": [
+        "Creatività poetica",
+        "Memorizzazione"
+      ],
+      "objectives": [
+        "Creare filastrocche originali",
+        "Memorizzare e recitare filastrocche ritmate"
+      ]
+    },
+    {
+      "title": "La lettera formale",
+      "description": "Introduzione alla struttura e al linguaggio formale utilizzato nelle lettere. Composizione di brevi lettere formali su argomenti familiari.",
+      "competencies": [
+        "Scrittura formale",
+        "Conoscenza della struttura testuale"
+      ],
+      "objectives": [
+        "Riconoscere la struttura della lettera formale",
+        "Scrivere correttamente una lettera formale"
+      ]
+    },
+    {
+      "title": "Il dialogo teatrale",
+      "description": "Studio della struttura e delle convenzioni del dialogo teatrale. Interpretazione e recitazione di brevi dialoghi teatrali.",
+      "competencies": [
+        "Interpretazione testuale",
+        "Espressività teatrale"
+      ],
+      "objectives": [
+        "Capire la struttura del dialogo teatrale",
+        "Recitare in maniera espressiva e con intonazioni adeguate"
+      ]
+    },
+    {
+      "title": "Le favole di La Fontaine",
+      "description": "Lettura e analisi delle favole di Jean de La Fontaine, enfatizzando gli elementi didattici e morali presenti in esse.",
+      "competencies": [
+        "Comprensione testuale",
+        "Interpretazione morali"
+      ],
+      "objectives": [
+        "Comprendere i messaggi morali nelle favole di La Fontaine",
+        "Riflettere sui valori educativi trasmessi dalle favole"
+      ]
+    },
+    {
+      "title": "Il testo descrittivo",
+      "description": "Studio della struttura e delle caratteristiche del testo descrittivo. Produzione di brevi testi descrittivi su oggetti o luoghi familiari.",
+      "competencies": [
+        "Capacità descrittiva",
+        "Organizzazione testuale"
+      ],
+      "objectives": [
+        "Descrivere dettagliatamente oggetti o luoghi con esattezza",
+        "Utilizzare un linguaggio ricco e descrittivo"
+      ]
+    }
+  ]
+}

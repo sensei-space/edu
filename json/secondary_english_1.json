@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "english",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione all'inglese",
+      "description": "Conoscenza delle basi della lingua inglese, come l'alfabeto, i saluti e le presentazioni semplici.",
+      "competencies": [
+        "Comprensione orale",
+        "Espressione orale"
+      ],
+      "objectives": [
+        "Riconoscere e pronunciare correttamente l'alfabeto inglese",
+        "Saper salutare e presentarsi in modo basico"
+      ]
+    },
+    {
+      "title": "Colori e numeri",
+      "description": "Apprendimento dei colori e dei numeri in inglese attraverso attività ludiche e canzoni.",
+      "competencies": [
+        "Vocabolario di base",
+        "Ascolto attivo"
+      ],
+      "objectives": [
+        "Memorizzare i colori in inglese",
+        "Contare fino a 20 in inglese"
+      ]
+    },
+    {
+      "title": "Famiglia e animali domestici",
+      "description": "Descrizione della famiglia e degli animali domestici con relativa terminologia in inglese.",
+      "competencies": [
+        "Comprensione scritta",
+        "Espressione scritta"
+      ],
+      "objectives": [
+        "Sapere identificare i membri della famiglia in inglese",
+        "Conoscere i nomi degli animali domestici comuni in inglese"
+      ]
+    },
+    {
+      "title": "Il corpo umano",
+      "description": "Studio delle parti del corpo umano in inglese, accompagnato da esercizi di ascolto e disegno.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Capacità motorie"
+      ],
+      "objectives": [
+        "Essere in grado di identificare le parti del corpo in inglese",
+        "Saper indicare le proprie parti del corpo"
+      ]
+    },
+    {
+      "title": "Giorni della settimana e mesi dell'anno",
+      "description": "Apprendimento dei giorni della settimana e dei mesi dell'anno in inglese con attività interattive.",
+      "competencies": [
+        "Memoria a breve termine",
+        "Utilizzo di vocabolario"
+      ],
+      "objectives": [
+        "Memorizzare i giorni della settimana e i mesi dell'anno in inglese",
+        "Essere in grado di stabilire date in inglese"
+      ]
+    },
+    {
+      "title": "Stagioni e meteo",
+      "description": "Studio delle stagioni e del meteo, imparando a riconoscere i vari tipi di condizioni atmosferiche in inglese.",
+      "competencies": [
+        "Comprensione orale",
+        "Espressione orale"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere le stagioni in inglese",
+        "Descrivere il meteo utilizzando il lessico appropriato"
+      ]
+    },
+    {
+      "title": "Cibo e bevande",
+      "description": "Esplorazione del vocabolario relativo al cibo e alle bevande, con focus su abitudini alimentari e pasti tipici.",
+      "competencies": [
+        "Vocabolario di base",
+        "Capacità di comprensione"
+      ],
+      "objectives": [
+        "Riconoscere e nominare cibi e bevande comuni in inglese",
+        "Capire e rispondere a domande su gusti e preferenze alimentari"
+      ]
+    },
+    {
+      "title": "Abbigliamento e colori",
+      "description": "Approfondimento del lessico riguardante l'abbigliamento e i colori, con esempi di combinazioni e gusti personali.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Espressione orale"
+      ],
+      "objectives": [
+        "Essere in grado di identificare capi di abbigliamento in inglese",
+        "Descrivere l'abbigliamento e i colori preferiti"
+      ]
+    },
+    {
+      "title": "Mezzi di trasporto",
+      "description": "Studio dei mezzi di trasporto più comuni, con particolare attenzione alle differenze rispetto all'italiano.",
+      "competencies": [
+        "Conoscenza del contesto",
+        "Ascolto attivo"
+      ],
+      "objectives": [
+        "Riconoscere e nominare mezzi di trasporto in inglese",
+        "Comprendere indicazioni e istruzioni relative ai mezzi di trasporto"
+      ]
+    },
+    {
+      "title": "Sport e attività fisica",
+      "description": "Esplorazione del lessico legato allo sport e alle attività fisiche, con focus su preferenze e abitudini personali.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Nominate sport e attività fisiche in inglese",
+        "Descrivere le proprie abitudini sportive"
+      ]
+    },
+    {
+      "title": "Animali e habitat",
+      "description": "Studio degli animali e dei loro habitat, imparando a riconoscere e a descrivere le caratteristiche degli animali in inglese.",
+      "competencies": [
+        "Comprensione orale",
+        "Espressione scritta"
+      ],
+      "objectives": [
+        "Identificare animali e habitat in inglese",
+        "Scrivere brevi descrizioni degli animali imparati"
+      ]
+    },
+    {
+      "title": "Concetti spaziali",
+      "description": "Approfondimento delle indicazioni di direzione e posizione in inglese, con esercizi pratici di orientamento.",
+      "competencies": [
+        "Capacità di comunicazione",
+        "Utilizzo di preposizioni"
+      ],
+      "objectives": [
+        "Essere in grado di dare e seguire indicazioni di direzione in inglese",
+        "Descrivere la posizione degli oggetti rispetto ad altri"
+      ]
+    },
+    {
+      "title": "Tempo libero e hobby",
+      "description": "Esplorazione delle attività ricreative e dei hobby, con possibilità di confronto e discussione sulle passioni personali.",
+      "competencies": [
+        "Espressione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Presentare e condividere hobby e interessi in inglese",
+        "Comprendere e rispondere a domande su attività di tempo libero"
+      ]
+    },
+    {
+      "title": "Festività e tradizioni",
+      "description": "Studio delle principali festività inglesi e internazionali, approfondendo le tradizioni legate ad esse.",
+      "competencies": [
+        "Conoscenza del contesto culturale",
+        "Capacità di comprensione"
+      ],
+      "objectives": [
+        "Conoscere e descrivere festività e tradizioni in inglese",
+        "Riconoscere le festività più celebri nel mondo anglosassone"
+      ]
+    },
+    {
+      "title": "Ambienti e contesti sociali",
+      "description": "Esplorazione di ambienti sociali come scuola, casa, negozio, con focus su dialoghi e situazioni di vita quotidiana.",
+      "competencies": [
+        "Comprensione orale",
+        "Espressione orale"
+      ],
+      "objectives": [
+        "Saper descrivere ambienti e contesti sociali in inglese",
+        "Interagire in semplici dialoghi relativi a situazioni quotidiane"
+      ]
+    },
+    {
+      "title": "Salute e benessere",
+      "description": "Approfondimento del lessico legato alla salute e al benessere, con esempi di espressioni utili in contesti medici e quotidiani.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Conoscere termini relativi alla salute in inglese",
+        "Essere in grado di chiedere e rispondere a domande sulla propria condizione fisica"
+      ]
+    },
+    {
+      "title": "Professioni e settori lavorativi",
+      "description": "Studio delle principali professioni e settori lavorativi, con attenzione alle mansioni e alle competenze richieste.",
+      "competencies": [
+        "Conoscenza del mondo del lavoro",
+        "Espressione scritta"
+      ],
+      "objectives": [
+        "Conoscere e nominare professioni e settori lavorativi in inglese",
+        "Descrivere il proprio futuro desiderato in termini di lavoro"
+      ]
+    },
+    {
+      "title": "Ecologia e sostenibilità",
+      "description": "Approfondimento di concetti legati all'ambiente, alla protezione della natura e alla sostenibilità, con focus su azioni quotidiane.",
+      "competencies": [
+        "Conoscenza del lessico specifico",
+        "Sensibilizzazione ambientale"
+      ],
+      "objectives": [
+        "Conoscere vocaboli legati all'ecologia in inglese",
+        "Descrivere azioni che promuovono la sostenibilità ambientale"
+      ]
+    },
+    {
+      "title": "Media e tecnologia",
+      "description": "Esplorazione di media, tecnologie e comunicazione digitali, con esempi di utilizzo e vantaggi.",
+      "competencies": [
+        "Capacità di utilizzo delle risorse digitali",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Descrivere e discutere l'utilizzo dei media e delle tecnologie in inglese",
+        "Esprimere opinioni su influenze e problemi legati all'utilizzo dei media"
+      ]
+    },
+    {
+      "title": "Viaggi e turismo",
+      "description": "Studio del lessico legato ai viaggi e al turismo, con focus su richieste d'informazioni e descrizione di luoghi.",
+      "competencies": [
+        "Capacità di dialogo",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di chiedere e dare informazioni turistiche in inglese",
+        "Descrivere luoghi e attrazioni turistiche"
+      ]
+    }
+  ]
+}

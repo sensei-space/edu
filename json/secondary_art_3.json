@@ -1,0 +1,79 @@
+{
+  "school": "secondary",
+  "subject": "art",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Storia dell'arte antica",
+      "description": "Studio delle principali civiltà antiche e delle loro produzioni artistiche, con focus su arte greca e romana.",
+      "competencies": [
+        "Analisi di opere d'arte",
+        "Identificazione di stili artistici"
+      ],
+      "objectives": [
+        "Conoscere le principali caratteristiche dell'arte antica",
+        "Riconoscere e distinguere le opere artistiche delle civiltà antiche"
+      ]
+    },
+    {
+      "title": "Arte medievale",
+      "description": "Esplorazione dell'arte medioevale europea, con particolare attenzione all'arte romanica e gotica.",
+      "competencies": [
+        "Interpretazione di simboli artistici",
+        "Conoscenza delle tecniche artistiche"
+      ],
+      "objectives": [
+        "Capire il significato simbolico delle opere d'arte medioevali",
+        "Comprendere le differenze stilistiche tra arte romanica e gotica"
+      ]
+    },
+    {
+      "title": "Rinascimento italiano",
+      "description": "Approfondimento sull'arte rinascimentale in Italia, con analisi di opere di artisti come Leonardo da Vinci e Michelangelo.",
+      "competencies": [
+        "Valutazione critica di capolavori artistici",
+        "Interpretazione storico-artistica"
+      ],
+      "objectives": [
+        "Apprezzare l'importanza del Rinascimento nell'evoluzione artistica",
+        "Riconoscere le opere e gli artisti più significativi del periodo"
+      ]
+    },
+    {
+      "title": "Barocco e Rococò",
+      "description": "Studio delle caratteristiche dell'arte barocca e rococò in Europa, con focus su pittura e architettura.",
+      "competencies": [
+        "Analisi di opere barocche e rococò",
+        "Conoscenza delle innovazioni artistiche"
+      ],
+      "objectives": [
+        "Comprendere le peculiarità stilistiche del barocco e rococò",
+        "Identificare le opere più rappresentative di questi periodi"
+      ]
+    },
+    {
+      "title": "Arte del XIX secolo",
+      "description": "Esplorazione delle principali correnti artistiche del XIX secolo, tra cui il Romanticismo e il Realismo.",
+      "competencies": [
+        "Identificazione di movimenti artistici",
+        "Analisi di opere in relazione al contesto storico"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche e le opere principali del Romanticismo e del Realismo",
+        "Collegare le produzioni artistiche dell'Ottocento ai cambiamenti storici e sociali"
+      ]
+    },
+    {
+      "title": "Arte moderna e contemporanea",
+      "description": "Analisi delle avanguardie artistiche del XX secolo e delle espressioni artistiche contemporanee.",
+      "competencies": [
+        "Interpretazione di opere artistiche concettuali",
+        "Conoscenza delle correnti contemporanee"
+      ],
+      "objectives": [
+        "Comprendere le innovazioni artistiche del Novecento",
+        "Essere in grado di distinguere le varie correnti artistiche contemporanee"
+      ]
+    }
+  ]
+}

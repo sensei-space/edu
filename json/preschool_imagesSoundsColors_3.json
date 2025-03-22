@@ -1,0 +1,127 @@
+{
+  "school": "preschool",
+  "subject": "imagesSoundsColors",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Rappresentazione delle stagioni attraverso colori e suoni",
+      "description": "Studio delle caratteristiche cromatiche e sonore delle diverse stagioni dell'anno.",
+      "competencies": [
+        "Riconoscimento delle stagioni",
+        "Associazione suoni-colori"
+      ],
+      "objectives": [
+        "Identificare i colori tipici di ciascuna stagione",
+        "Associare suoni specifici alle diverse stagioni"
+      ]
+    },
+    {
+      "title": "Esplorazione dei paesaggi naturali",
+      "description": "Analisi dei paesaggi naturali tramite immagini e suoni per stimolare la percezione sensoriale.",
+      "competencies": [
+        "Osservazione e descrizione di paesaggi",
+        "Identificazione di suoni naturali"
+      ],
+      "objectives": [
+        "Riconoscere elementi caratteristici di diversi paesaggi naturali",
+        "Associare suoni specifici ai vari ambienti naturali"
+      ]
+    },
+    {
+      "title": "Arte e musica in armonia",
+      "description": "Creazione di lavori artistici ispirati dalla musica e viceversa, per valorizzare il legame tra le due forme espressive.",
+      "competencies": [
+        "Espressione artistica",
+        "Apprezzamento della musica"
+      ],
+      "objectives": [
+        "Realizzare opere d'arte ispirate a brani musicali",
+        "Creare composizioni musicali ispirate ad opere visive"
+      ]
+    },
+    {
+      "title": "Colori e suoni della natura",
+      "description": "Attenzione ai colori e ai suoni emessi dagli animali e dagli elementi naturali, per approfondire la conoscenza del mondo circostante.",
+      "competencies": [
+        "Riconoscimento dei colori nella natura",
+        "Identificazione suoni animali"
+      ],
+      "objectives": [
+        "Classificare colori presenti in natura",
+        "Associare correttamente suoni ai rispettivi animali o elementi naturali"
+      ]
+    },
+    {
+      "title": "Combinazioni cromatiche e sonore",
+      "description": "Sperimentazione di unioni creative tra colori e suoni, per favorire l'espressione artistica e musicale.",
+      "competencies": [
+        "Creatività nell'uso di colori e suoni",
+        "Relazione tra arte e musica"
+      ],
+      "objectives": [
+        "Realizzare composizioni artistiche utilizzando specifiche combinazioni cromatiche e sonore",
+        "Unire in modo armonico colori e suoni in lavori creativi"
+      ]
+    },
+    {
+      "title": "Immagini e suoni emozionanti",
+      "description": "Esplorazione di immagini e suoni in grado di suscitare emozioni, per sviluppare la sensibilità artistica e musicale.",
+      "competencies": [
+        "Percezione emotiva in arte e musica",
+        "Capacità di comunicare emozioni"
+      ],
+      "objectives": [
+        "Riconoscere le emozioni suscitate da specifiche immagini e suoni",
+        "Esprimere emozioni tramite la creazione di opere artistiche e musicali"
+      ]
+    },
+    {
+      "title": "Gioco delle forme e dei suoni",
+      "description": "Esplorazione ludica delle forme e dei suoni per favorire l'apprendimento attraverso il gioco.",
+      "competencies": [
+        "Riconoscimento delle forme",
+        "Acquisizione di suoni"
+      ],
+      "objectives": [
+        "Associare forme geometriche a suoni specifici",
+        "Identificare e riprodurre suoni di diversa natura"
+      ]
+    },
+    {
+      "title": "Cromatismi e ritmi accattivanti",
+      "description": "Studio di combinazioni cromatiche e ritmi musicali per stimolare la creatività e la sensibilità estetica.",
+      "competencies": [
+        "Espressione creativa con il colore",
+        "Apprezzamento del ritmo musicale"
+      ],
+      "objectives": [
+        "Realizzare composizioni artistiche che uniscono cromatismi accattivanti",
+        "Creare brevi composizioni musicali con ritmi coinvolgenti"
+      ]
+    },
+    {
+      "title": "Colori e suoni dell'arte contemporanea",
+      "description": "Analisi di opere d'arte contemporanea che utilizzano colori e suoni come elementi principali.",
+      "competencies": [
+        "Interpretazione di opere d'arte",
+        "Esplorazione delle forme espressive"
+      ],
+      "objectives": [
+        "Riconoscere e descrivere le caratteristiche di opere artistiche contemporanee che coinvolgono colori e suoni",
+        "Ispirarsi a tali opere per creare lavori personali"
+      ]
+    },
+    {
+      "title": "Espressione creativa multisensoriale",
+      "description": "Sviluppo delle capacità creative attraverso la creazione di opere che coinvolgono immagini e suoni in modo sinergico.",
+      "competencies": [
+        "Espressione artistica integrata",
+        "Utilizzo di più sensi nell'espressione creativa"
+      ],
+      "objectives": [
+        "Realizzare opere artistiche che combinano colori, forme e suoni in modo armonioso",
+        "Esprimere emozioni e concetti attraverso la creazione di lavori multisensoriali"
+      ]
+    }
+  ]
+}

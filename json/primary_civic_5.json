@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "civic",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Conoscenza della Costituzione Italiana",
+      "description": "Studio della Costituzione Italiana, dei suoi principi fondamentali e dei diritti dei cittadini.",
+      "competencies": [
+        "Comprende i principi costituzionali",
+        "Riconosce i diritti dei cittadini"
+      ],
+      "objectives": [
+        "Identificare i principi fondamentali della Costituzione",
+        "Comprendere l'importanza dei diritti garantiti dalla Costituzione"
+      ]
+    },
+    {
+      "title": "Valori e simboli della Repubblica Italiana",
+      "description": "Approfondimento sui valori fondanti e i simboli della Repubblica Italiana, come l'inno nazionale, la bandiera e lo stemma.",
+      "competencies": [
+        "Comprende i valori della Repubblica",
+        "Riconosce i simboli nazionali"
+      ],
+      "objectives": [
+        "Identificare i valori su cui si fonda la Repubblica Italiana",
+        "Riconoscere i simboli nazionali e ne comprendere il significato"
+      ]
+    },
+    {
+      "title": "Democrazia e partecipazione",
+      "description": "Studio della democrazia come forma di governo e dell'importanza della partecipazione attiva dei cittadini alla vita democratica.",
+      "competencies": [
+        "Comprende il concetto di democrazia",
+        "Riconosce l'importanza della partecipazione"
+      ],
+      "objectives": [
+        "Capire il funzionamento della democrazia come sistema di governo",
+        "Esplorare modi per partecipare attivamente alla vita democratica"
+      ]
+    },
+    {
+      "title": "Diritti dei bambini",
+      "description": "Approfondimento sui diritti sanciti dalla Convenzione sui diritti dell'infanzia e dell'adolescenza, e sul loro rispetto nella società.",
+      "competencies": [
+        "Conosce i diritti dell'infanzia",
+        "Comprende l'importanza del rispetto dei diritti"
+      ],
+      "objectives": [
+        "Identificare i principali diritti sanciti dalla Convenzione",
+        "Riflettere sull'importanza di rispettare i diritti dei bambini"
+      ]
+    },
+    {
+      "title": "Pianeta Terra e responsabilità ambientale",
+      "description": "Studio dell'importanza del rispetto dell'ambiente e della responsabilità di ciascuno nel mantenere il pianeta Terra sano.",
+      "competencies": [
+        "Conosce l'importanza della tutela dell'ambiente",
+        "Riflette sulle azioni quotidiane e sull'ambiente"
+      ],
+      "objectives": [
+        "Comprendere l'importanza di preservare le risorse naturali",
+        "Riflettere sulle azioni individuali per contribuire alla salvaguardia dell'ambiente"
+      ]
+    }
+  ]
+}

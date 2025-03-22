@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "history",
+  "class": "2",
+  "topics": [
+    {
+      "title": "La propria famiglia",
+      "description": "Studio della propria famiglia e delle generazioni passate attraverso foto e racconti dei nonni.",
+      "competencies": [
+        "Conoscenza del contesto familiare",
+        "Utilizzo delle fonti primarie"
+      ],
+      "objectives": [
+        "Riconoscere la propria famiglia come parte della propria storia",
+        "Interpretare foto e racconti come fonti per comprendere il passato"
+      ]
+    },
+    {
+      "title": "Le abitazioni nel passato",
+      "description": "Esplorazione delle abitazioni e degli oggetti domestici utilizzati in passato.",
+      "competencies": [
+        "Conoscenza delle abitazioni storiche",
+        "Ricerca e analisi delle fonti"
+      ],
+      "objectives": [
+        "Identificare le differenze tra le abitazioni del passato e quelle attuali",
+        "Individuare gli oggetti domestici tipici di un determinato periodo storico"
+      ]
+    },
+    {
+      "title": "Abbigliamento nel tempo",
+      "description": "Studio dell'abbigliamento utilizzato in epoche diverse e confronto con l'abbigliamento contemporaneo.",
+      "competencies": [
+        "Conoscenza dell'abbigliamento storico",
+        "Confronto tra epoche diverse"
+      ],
+      "objectives": [
+        "Riconoscere i cambiamenti nell'abbigliamento nel corso dei secoli",
+        "Valutare l'importanza dell'abbigliamento come espressione culturale"
+      ]
+    },
+    {
+      "title": "Mezzi di trasporto nel passato",
+      "description": "Esplorazione dei mezzi di trasporto utilizzati in epoche storiche e confronto con i mezzi moderni.",
+      "competencies": [
+        "Conoscenza dei mezzi di trasporto storici",
+        "Confronto tra passato e presente"
+      ],
+      "objectives": [
+        "Identificare i mezzi di trasporto utilizzati in diversi periodi storici",
+        "Analizzare le differenze e somiglianze tra i mezzi di trasporto del passato e quelli attuali"
+      ]
+    },
+    {
+      "title": "Festività tradizionali",
+      "description": "Studio delle festività tradizionali e delle relative tradizioni nel tempo.",
+      "competencies": [
+        "Conoscenza delle festività storiche",
+        "Valutazione delle tradizioni culturali"
+      ],
+      "objectives": [
+        "Identificare le festività tradizionali celebrate in passato",
+        "Valutare l'importanza delle tradizioni culturali legate alle festività"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "school": "secondary",
+  "subject": "geography",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione alla geografia",
+      "description": "Definizione di geografia, sue principali divisioni e l'importanza dello studio della materia.",
+      "competencies": [
+        "Comprendere i concetti base della geografia",
+        "Riconoscere l'importanza dello studio geografico"
+      ],
+      "objectives": [
+        "Comprendere la definizione di geografia",
+        "Identificare le principali divisioni della geografia"
+      ]
+    },
+    {
+      "title": "La Terra come pianeta",
+      "description": "Struttura della Terra, movimenti della Terra e conseguenze per la vita sul pianeta.",
+      "competencies": [
+        "Comprendere la struttura del pianeta Terra",
+        "Capire i movimenti terrestri e le relative conseguenze"
+      ],
+      "objectives": [
+        "Riconoscere le diverse parti della Terra",
+        "Comprendere l'effetto dei movimenti terrestri"
+      ]
+    },
+    {
+      "title": "Le zone climatiche",
+      "description": "Spiegazione delle diverse zone climatiche sulla Terra e i fattori che le influenzano.",
+      "competencies": [
+        "Conoscere le principali zone climatiche del pianeta",
+        "Capire i fattori che determinano i diversi climi"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche delle diverse zone climatiche",
+        "Comprendere l'interazione dei fattori climatici"
+      ]
+    },
+    {
+      "title": "I continenti e gli oceani",
+      "description": "Studio dei continenti e degli oceani, loro posizione e caratteristiche principali.",
+      "competencies": [
+        "Riconoscere i continenti e gli oceani del pianeta",
+        "Descrivere le principali caratteristiche di ciascun continente e oceano"
+      ],
+      "objectives": [
+        "Identificare la posizione dei continenti e degli oceani sulla mappa",
+        "Descrivere almeno tre caratteristiche di ciascun continente e oceano"
+      ]
+    },
+    {
+      "title": "Le forme del territorio",
+      "description": "Definizione delle principali forme del territorio terrestre: montagne, pianure, colline, ecc.",
+      "competencies": [
+        "Riconoscere le diverse forme del territorio",
+        "Comprendere l'importanza e la distribuzione delle diverse forme del territorio"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche principali di montagne, pianure e colline",
+        "Descrivere l'importanza delle diverse forme del territorio"
+      ]
+    },
+    {
+      "title": "Risorse naturali e attività umane",
+      "description": "Studio delle risorse naturali presenti sulla Terra e delle attività umane legate ad esse.",
+      "competencies": [
+        "Conoscere le principali risorse naturali del pianeta",
+        "Comprendere l'interazione tra risorse naturali e attività umane"
+      ],
+      "objectives": [
+        "Riconoscere diversi tipi di risorse naturali",
+        "Descrivere come le attività umane possono influenzare l'ambiente"
+      ]
+    },
+    {
+      "title": "Popolazione mondiale",
+      "description": "Analisi della distribuzione della popolazione mondiale, densità demografica e fattori che la influenzano.",
+      "competencies": [
+        "Comprendere la distribuzione della popolazione mondiale",
+        "Analizzare i fattori che influiscono sulla densità demografica"
+      ],
+      "objectives": [
+        "Identificare le aree del mondo più e meno popolate",
+        "Descrivere almeno tre fattori che influenzano la distribuzione della popolazione"
+      ]
+    },
+    {
+      "title": "Le principali città del mondo",
+      "description": "Studio delle principali città mondiali, la loro distribuzione e importanza economica.",
+      "competencies": [
+        "Riconoscere le principali città globali",
+        "Comprendere l'importanza delle città nel contesto economico"
+      ],
+      "objectives": [
+        "Identificare almeno cinque delle principali città del mondo",
+        "Descrivere almeno due motivi per cui le città hanno un ruolo economico rilevante"
+      ]
+    },
+    {
+      "title": "Ecosistemi terrestri",
+      "description": "Definizione di ecosistema, tipologie e importanza per l'equilibrio del pianeta.",
+      "competencies": [
+        "Conoscere le diverse tipologie di ecosistemi terrestri",
+        "Comprendere l'importanza della biodiversità"
+      ],
+      "objectives": [
+        "Identificare almeno tre tipologie di ecosistemi terrestri",
+        "Descrivere il ruolo della biodiversità negli ecosistemi"
+      ]
+    },
+    {
+      "title": "Minacce ambientali",
+      "description": "Analisi delle principali minacce ambientali globali e le relative conseguenze per l'ambiente.",
+      "competencies": [
+        "Comprendere le principali minacce ambientali",
+        "Riconoscere l'importanza della tutela dell'ambiente"
+      ],
+      "objectives": [
+        "Identificare almeno tre minacce ambientali globali",
+        "Descrivere almeno due conseguenze delle minacce ambientali sull'ambiente"
+      ]
+    },
+    {
+      "title": "Sviluppo sostenibile",
+      "description": "Concetto di sviluppo sostenibile, strategie per ridurre l'impatto ambientale e promuovere la sostenibilità.",
+      "competencies": [
+        "Comprendere il concetto di sviluppo sostenibile",
+        "Proporre soluzioni per favorire la sostenibilità ambientale"
+      ],
+      "objectives": [
+        "Spiegare il concetto di sviluppo sostenibile",
+        "Proporre almeno due strategie per favorire la sostenibilità ambientale"
+      ]
+    },
+    {
+      "title": "Globalizzazione",
+      "description": "Analisi della globalizzazione, la sua influenza sulle culture e sulle economie dei Paesi.",
+      "competencies": [
+        "Comprendere il concetto di globalizzazione",
+        "Analizzare gli impatti culturali ed economici della globalizzazione"
+      ],
+      "objectives": [
+        "Spiegare il concetto di globalizzazione",
+        "Descrivere almeno due impatti culturali ed economici della globalizzazione"
+      ]
+    },
+    {
+      "title": "Cambiamenti climatici",
+      "description": "Studio dei cambiamenti climatici globali, le cause e le possibili soluzioni per mitigarli.",
+      "competencies": [
+        "Conoscere le cause dei cambiamenti climatici",
+        "Proporre azioni per contrastare i cambiamenti climatici"
+      ],
+      "objectives": [
+        "Identificare almeno tre cause dei cambiamenti climatici globali",
+        "Suggerire almeno due azioni per ridurre l'impatto dei cambiamenti climatici"
+      ]
+    },
+    {
+      "title": "Migrazioni umane",
+      "description": "Analisi dei flussi migratori, le cause delle migrazioni e le sfide legate all'integrazione.",
+      "competencies": [
+        "Comprendere le cause delle migrazioni",
+        "Analizzare le sfide dell'integrazione sociale"
+      ],
+      "objectives": [
+        "Identificare almeno tre cause delle migrazioni umane",
+        "Descrivere almeno due sfide dell'integrazione sociale per i migranti"
+      ]
+    },
+    {
+      "title": "Turismo e sostenibilità",
+      "description": "Discussione sul turismo, impatto ambientale e strategie per un turismo sostenibile.",
+      "competencies": [
+        "Comprendere l'impatto ambientale del turismo",
+        "Proporre soluzioni per un turismo sostenibile"
+      ],
+      "objectives": [
+        "Identificare gli impatti ambientali del turismo di massa",
+        "Proporre almeno due strategie per favorire un turismo sostenibile"
+      ]
+    },
+    {
+      "title": "Geografia politica",
+      "description": "Studio della geografia politica, confini nazionali, organizzazioni internazionali e geopolitica mondiale.",
+      "competencies": [
+        "Comprendere il concetto di geografia politica",
+        "Analizzare la geopolitica a livello globale"
+      ],
+      "objectives": [
+        "Spiegare il concetto di confini nazionali",
+        "Descrivere il ruolo di almeno due organizzazioni internazionali nella geopolitica mondiale"
+      ]
+    },
+    {
+      "title": "Riserve naturali e parchi nazionali",
+      "description": "Importanza delle riserve naturali e dei parchi nazionali per la conservazione della biodiversità.",
+      "competencies": [
+        "Comprendere l'importanza delle riserve naturali",
+        "Riconoscere il ruolo dei parchi nazionali nella conservazione della natura"
+      ],
+      "objectives": [
+        "Identificare almeno due riserve naturali nel mondo",
+        "Descrivere il ruolo dei parchi nazionali nella conservazione della biodiversità"
+      ]
+    },
+    {
+      "title": "Cultura e popoli del mondo",
+      "description": "Studio delle diverse culture mondiali, tradizioni, lingue e la ricchezza della diversità culturale.",
+      "competencies": [
+        "Conoscere la diversità culturale del pianeta",
+        "Apprezzare la ricchezza della multiculturalità"
+      ],
+      "objectives": [
+        "Identificare almeno due tradizioni culturali di popoli diversi",
+        "Apprezzare l'importanza della diversità culturale nel mondo"
+      ]
+    }
+  ]
+}

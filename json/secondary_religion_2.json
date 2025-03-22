@@ -1,0 +1,175 @@
+{
+  "school": "secondary",
+  "subject": "religion",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Le grandi religioni monoteiste: ebraismo",
+      "description": "Studio dell'ebraismo come una delle grandi religioni monoteiste, con focus su storia, testi sacri e tradizioni.",
+      "competencies": [
+        "Conoscenza delle grandi religioni monoteiste",
+        "Comprendere le caratteristiche dell'ebraismo"
+      ],
+      "objectives": [
+        "Identificare i principali concetti dell'ebraismo",
+        "Esaminare la Torah come testo sacro"
+      ]
+    },
+    {
+      "title": "Le grandi religioni monoteiste: cristianesimo",
+      "description": "Approfondimento sul cristianesimo come una delle grandi religioni monoteiste, con analisi dei testi sacri e delle pratiche religiose.",
+      "competencies": [
+        "Conoscenza delle grandi religioni monoteiste",
+        "Comprendere le caratteristiche del cristianesimo"
+      ],
+      "objectives": [
+        "Riconoscere i principali simboli cristiani",
+        "Esaminare il Nuovo Testamento"
+      ]
+    },
+    {
+      "title": "Le grandi religioni monoteiste: islam",
+      "description": "Studio dell'islam come una delle grandi religioni monoteiste, con focus su Corano, Sunna e pratiche quotidiane.",
+      "competencies": [
+        "Conoscenza delle grandi religioni monoteiste",
+        "Comprendere le caratteristiche dell'islam"
+      ],
+      "objectives": [
+        "Identificare i Cinque Pilastri dell'Islam",
+        "Esaminare la figura di Maometto"
+      ]
+    },
+    {
+      "title": "Festività religiose nel cristianesimo",
+      "description": "Studio delle principali festività cristiane tra cui Natale, Pasqua e Pentecoste, con significato religioso e celebrazioni associate.",
+      "competencies": [
+        "Conoscenza delle festività cristiane",
+        "Comprendere il significato delle festività religiose"
+      ],
+      "objectives": [
+        "Comprendere il legame tra i festeggiamenti e i racconti religiosi",
+        "Identificare le tradizioni legate alle festività"
+      ]
+    },
+    {
+      "title": "Festività religiose nell'ebraismo",
+      "description": "Approfondimento sulle festività ebraiche come Yom Kippur, Sukkot e Chanukkah, con spiegazione delle pratiche e dei simboli.",
+      "competencies": [
+        "Conoscenza delle festività ebraiche",
+        "Comprendere il significato delle festività religiose"
+      ],
+      "objectives": [
+        "Riconoscere i simboli legati alle festività ebraiche",
+        "Esaminare le preghiere tradizionali delle festività"
+      ]
+    },
+    {
+      "title": "Evoluzione del concetto di sacrificio nelle religioni",
+      "description": "Analisi dell'evoluzione del concetto di sacrificio nelle varie religioni, confrontando le pratiche antiche con le interpretazioni moderne.",
+      "competencies": [
+        "Conoscenza del concetto di sacrificio religioso",
+        "Comprendere le diverse prospettive sulla pratica del sacrificio"
+      ],
+      "objectives": [
+        "Identificare i diversi tipi di sacrificio presenti nelle religioni",
+        "Valutare criticamente le motivazioni dietro ai sacrifici"
+      ]
+    },
+    {
+      "title": "Le figure profetiche nelle religioni monoteiste",
+      "description": "Studio delle figure profetiche come Mosè, Gesù, Maometto, con analisi dei messaggi e dell'impatto storico-religioso.",
+      "competencies": [
+        "Conoscenza delle figure profetiche",
+        "Comprendere l'influenza delle profezie nelle religioni"
+      ],
+      "objectives": [
+        "Identificare i principali messaggi dei profeti",
+        "Esaminare il ruolo storico dei profeti"
+      ]
+    },
+    {
+      "title": "La teodicea: il problema del male",
+      "description": "Esplorazione filosofico-religiosa della teodicea e del problema del male nell'ambito delle religioni monoteiste, con dibattiti e argomentazioni.",
+      "competencies": [
+        "Comprendere il concetto teologico del male",
+        "Sviluppare capacità argomentative"
+      ],
+      "objectives": [
+        "Analizzare le diverse spiegazioni religiose sul male",
+        "Proporre soluzioni al problema del male basate sui principi religiosi"
+      ]
+    },
+    {
+      "title": "Religiosità popolare e tradizioni locali",
+      "description": "Studio delle pratiche religiose popolari e delle tradizioni locali legate alla fede, con analisi dei significati culturali e sociali.",
+      "competencies": [
+        "Comprendere le pratiche religiose popolari",
+        "Apprezzare le tradizioni locali nel contesto religioso"
+      ],
+      "objectives": [
+        "Riconoscere le diverse forme di religiosità popolare",
+        "Esaminare il legame tra tradizioni locali e credenze religiose"
+      ]
+    },
+    {
+      "title": "Etica e morale nelle religioni",
+      "description": "Analisi delle dottrine etiche e morali presenti nelle religioni monoteiste, con focus su valori come giustizia, compassione e solidarietà.",
+      "competencies": [
+        "Comprendere i principi morali delle religioni",
+        "Sviluppare senso critico ed etico"
+      ],
+      "objectives": [
+        "Identificare i principali valori etici delle religioni studiate",
+        "Riflettere sulle implicazioni morali delle scelte quotidiane"
+      ]
+    },
+    {
+      "title": "Interazione tra fede e scienza",
+      "description": "Esplorazione dei rapporti storici e contemporanei tra fede religiosa e conoscenza scientifica, con riflessioni su possibili dialoghi e conflitti.",
+      "competencies": [
+        "Comprendere i rapporti tra fede e scienza",
+        "Sviluppare capacità di dialogo interdisciplinare"
+      ],
+      "objectives": [
+        "Esaminare casi storici di conflitto tra fede e scienza",
+        "Proporre modelli di dialogo tra fede e ragione"
+      ]
+    },
+    {
+      "title": "La figura di Maria nelle religioni",
+      "description": "Studio della figura di Maria nelle diverse tradizioni religiose, con focus sulle interpretazioni e i ruoli attribuiti alla Madonna.",
+      "competencies": [
+        "Conoscenza della figura di Maria",
+        "Comprendere il culto mariano nelle varie religioni"
+      ],
+      "objectives": [
+        "Esaminare il ruolo di Maria nell'ambito delle Scritture",
+        "Analizzare le pratiche di devozione mariana"
+      ]
+    },
+    {
+      "title": "Le sette e movimenti religiosi minori",
+      "description": "Analisi critica delle sette e dei movimenti religiosi minori presenti nella società contemporanea, con valutazione dei rischi e delle motivazioni dei fedeli.",
+      "competencies": [
+        "Riconoscere la diversità religiosa contemporanea",
+        "Sviluppare spirito critico"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche delle sette religiose",
+        "Valutare l'impatto sociale e culturale dei movimenti religiosi minori"
+      ]
+    },
+    {
+      "title": "Secolarizzazione e laicità",
+      "description": "Riflessione sull'emergere della secolarizzazione e della laicità nelle società moderne, con analisi dei cambiamenti nel ruolo della religione.",
+      "competencies": [
+        "Comprendere i processi di secolarizzazione",
+        "Riflettere sul concetto di laicità"
+      ],
+      "objectives": [
+        "Identificare le cause e le conseguenze della secolarizzazione",
+        "Valutare le implicazioni della laicità per la sfera pubblica"
+      ]
+    }
+  ]
+}

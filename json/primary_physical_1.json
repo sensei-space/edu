@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "physical",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Conoscenza del proprio corpo",
+      "description": "Consapevolezza e riconoscimento delle parti del corpo e delle relative funzioni.",
+      "competencies": [
+        "Conoscenza del proprio corpo",
+        "Abilità motorie di base"
+      ],
+      "objectives": [
+        "Riconoscere le parti del proprio corpo",
+        "Eseguire movimenti simplesi relativi alle diverse parti del corpo"
+      ]
+    },
+    {
+      "title": "Rispetto delle regole e delle attrezzature",
+      "description": "Imparare l'importanza del rispetto delle regole e delle attrezzature durante l'attività fisica.",
+      "competencies": [
+        "Rispetto delle regole",
+        "Collaborazione"
+      ],
+      "objectives": [
+        "Rispettare le regole durante le attività fisiche",
+        "Utilizzare correttamente le attrezzature sportive"
+      ]
+    },
+    {
+      "title": "Giochi di movimento",
+      "description": "Partecipazione ai giochi che coinvolgono il movimento del corpo.",
+      "competencies": [
+        "Coordinazione motoria",
+        "Rispetto delle regole"
+      ],
+      "objectives": [
+        "Partecipare attivamente ai giochi di movimento proposti",
+        "Seguire le regole dei giochi in modo collaborativo"
+      ]
+    },
+    {
+      "title": "Equilibrio e coordinazione",
+      "description": "Sviluppo dell'equilibrio e della coordinazione attraverso esercizi e attività specifiche.",
+      "competencies": [
+        "Equilibrio",
+        "Coordinazione motoria"
+      ],
+      "objectives": [
+        "Migliorare l'equilibrio statico e dinamico",
+        "Sviluppare la coordinazione motoria generale"
+      ]
+    },
+    {
+      "title": "Corsa e salto",
+      "description": "Esercitazioni per migliorare la corsa e il salto in modo controllato e consapevole.",
+      "competencies": [
+        "Abilità motorie di base",
+        "Controllo del corpo"
+      ],
+      "objectives": [
+        "Migliorare la tecnica di corsa e di salto",
+        "Controllare e coordinare il corpo durante queste attività"
+      ]
+    },
+    {
+      "title": "Lancio e presa",
+      "description": "Esercitazioni per imparare a lanciare e a prendere oggetti in modo corretto.",
+      "competencies": [
+        "Abilità motorie di base",
+        "Coordinazione occhio-mano"
+      ],
+      "objectives": [
+        "Migliorare la precisione nei lanci e nelle prese",
+        "Sviluppare la coordinazione occhio-mano"
+      ]
+    },
+    {
+      "title": "Sport di squadra",
+      "description": "Approccio ai concetti base degli sport di squadra e all'importanza della collaborazione.",
+      "competencies": [
+        "Collaborazione",
+        "Rispetto delle regole"
+      ],
+      "objectives": [
+        "Partecipare alle attività di gioco di squadra seguendo le regole",
+        "Interagire in modo collaborativo con i compagni di squadra"
+      ]
+    },
+    {
+      "title": "Espressione corporea",
+      "description": "Esplorazione dei movimenti espressivi del corpo e delle emozioni ad essi legate.",
+      "competencies": [
+        "Espressione corporea",
+        "Creatività"
+      ],
+      "objectives": [
+        "Esprimere emozioni e sensazioni attraverso il movimento",
+        "Sperimentare la creatività corporea"
+      ]
+    },
+    {
+      "title": "Attività ludico-motorie",
+      "description": "Partecipazione ad attività motorie ludiche per favorire il piacere del movimento.",
+      "competencies": [
+        "Piacere del movimento",
+        "Autonomia"
+      ],
+      "objectives": [
+        "Godere dell'attività motoria come momento di svago e divertimento",
+        "Sviluppare competenze motorie in autonomia"
+      ]
+    },
+    {
+      "title": "Respirazione consapevole",
+      "description": "Esercizi di respirazione per favorire il rilassamento e migliorare la consapevolezza corporea.",
+      "competencies": [
+        "Controllo della respirazione",
+        "Rilassamento"
+      ],
+      "objectives": [
+        "Praticare esercizi di respirazione per rilassarsi durante l'attività fisica",
+        "Aumentare la consapevolezza della propria respirazione"
+      ]
+    }
+  ]
+}

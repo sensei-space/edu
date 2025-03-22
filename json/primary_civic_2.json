@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "civic",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Il rispetto delle regole a scuola",
+      "description": "Insegnare ai bambini l'importanza del rispetto delle regole all'interno dell'ambiente scolastico.",
+      "competencies": [
+        "Capacità di collaborare",
+        "Rispetto delle regole"
+      ],
+      "objectives": [
+        "Comprendere l'importanza del rispetto delle regole",
+        "Rispettare le regole stabilite in classe"
+      ]
+    },
+    {
+      "title": "Il rispetto verso gli altri",
+      "description": "Promuovere la consapevolezza dell'importanza del rispetto reciproco tra i compagni di classe.",
+      "competencies": [
+        "Capacità di relazionarsi",
+        "Empatia"
+      ],
+      "objectives": [
+        "Sviluppare la capacità di ascolto attivo",
+        "Rispettare le differenze tra i compagni"
+      ]
+    },
+    {
+      "title": "Gli strumenti della democrazia",
+      "description": "Introdurre concetti base come il voto e la partecipazione all'interno della classe.",
+      "competencies": [
+        "Conoscenza dei principi base della democrazia",
+        "Capacità critica"
+      ],
+      "objectives": [
+        "Comprendere il concetto di voto",
+        "Sperimentare la partecipazione nelle decisioni di classe"
+      ]
+    },
+    {
+      "title": "La solidarietà",
+      "description": "Favorire la collaborazione e il sostegno reciproco tra i bambini attraverso attività solidali.",
+      "competencies": [
+        "Capacità di collaborare",
+        "Sensibilità sociale"
+      ],
+      "objectives": [
+        "Comprendere il valore della solidarietà",
+        "Partecipare attivamente ad attività solidali in classe"
+      ]
+    },
+    {
+      "title": "L'importanza della pulizia dell'ambiente",
+      "description": "Sensibilizzare i bambini sull'importanza di mantenere pulito e ordinato l'ambiente in cui vivono e studiano.",
+      "competencies": [
+        "Rispetto dell'ambiente",
+        "Responsabilità individuale"
+      ],
+      "objectives": [
+        "Riconoscere l'importanza della pulizia per la salute",
+        "Imparare a tenere puliti gli spazi comuni"
+      ]
+    }
+  ]
+}

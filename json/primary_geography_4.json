@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "geography",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Il clima",
+      "description": "Studio delle caratteristiche del clima e le stagioni delle diverse regioni del mondo.",
+      "competencies": [
+        "Riconoscere le caratteristiche climatiche",
+        "Comprendere le cause delle diverse stagioni"
+      ],
+      "objectives": [
+        "Identificare i principali tipi di clima",
+        "Comprendere il concetto di stagioni"
+      ]
+    },
+    {
+      "title": "I continenti",
+      "description": "Approfondimento sui continenti del mondo, le loro dimensioni, popolazione e principali caratteristiche geografiche.",
+      "competencies": [
+        "Riconoscere i diversi continenti",
+        "Comprendere l'importanza della diversità geografica"
+      ],
+      "objectives": [
+        "Identificare i nomi e le posizioni dei continenti",
+        "Studiare la popolazione e le caratteristiche geografiche di ciascun continente"
+      ]
+    },
+    {
+      "title": "I climi del mondo",
+      "description": "Analisi dei diversi tipi di clima presenti nel mondo e le zone climatiche.",
+      "competencies": [
+        "Riconoscere i diversi tipi di clima",
+        "Comprendere le caratteristiche delle zone climatiche"
+      ],
+      "objectives": [
+        "Identificare le principali zone climatiche",
+        "Analizzare le conseguenze dei diversi tipi di clima sull'ambiente e sulle attività umane"
+      ]
+    },
+    {
+      "title": "La flora e la fauna",
+      "description": "Studio delle principali forme di vita presenti nelle diverse regioni della Terra.",
+      "competencies": [
+        "Riconoscere la diversità delle specie",
+        "Comprendere l'importanza della biodiversità"
+      ],
+      "objectives": [
+        "Conoscere le principali specie vegetali e animali di alcune regioni del mondo",
+        "Riconoscere l'importanza della protezione dell'ambiente per la conservazione della flora e della fauna"
+      ]
+    },
+    {
+      "title": "Le risorse naturali",
+      "description": "Analisi delle risorse naturali presenti nel mondo e l'importanza della loro gestione sostenibile.",
+      "competencies": [
+        "Conoscere le risorse naturali",
+        "Sviluppare una coscienza ambientale"
+      ],
+      "objectives": [
+        "Comprendere l'importanza dell'acqua come risorsa vitale",
+        "Analizzare gli effetti dello sfruttamento non sostenibile delle risorse naturali"
+      ]
+    },
+    {
+      "title": "Le catene montuose",
+      "description": "Studio delle principali catene montuose del mondo e l'influenza che hanno sul clima e sull'ambiente circostante.",
+      "competencies": [
+        "Riconoscere le principali catene montuose",
+        "Comprendere l'importanza delle montagne"
+      ],
+      "objectives": [
+        "Identificare le principali catene montuose e la loro distribuzione geografica",
+        "Comprendere il ruolo delle montagne nella regolazione del clima e nella biodiversità"
+      ]
+    }
+  ]
+}

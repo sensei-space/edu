@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "geography",
+  "class": "3",
+  "topics": [
+    {
+      "title": "La catena alimentare",
+      "description": "Studio delle relazioni tra gli organismi di un ecosistema, seguendo il percorso dell'energia tra produttori, consumatori primari, consumatori secondari e decompositori.",
+      "competencies": [
+        "Comprendere il funzionamento degli ecosistemi",
+        "Riconoscere i ruoli degli organismi all'interno di una catena alimentare"
+      ],
+      "objectives": [
+        "Identificare i vari livelli trofici di una catena alimentare",
+        "Capire l'importanza dell'equilibrio ecologico all'interno di un ecosistema"
+      ]
+    },
+    {
+      "title": "Il clima e i suoi elementi",
+      "description": "Analisi delle componenti del clima, come temperatura, precipitazioni, umidità e venti, e del loro impatto sull'ambiente e sulle attività umane.",
+      "competencies": [
+        "Comprendere le caratteristiche del clima",
+        "Valutare l'influenza dei fattori climatici sul territorio"
+      ],
+      "objectives": [
+        "Distinguere tra clima e tempo atmosferico",
+        "Riconoscere le principali zone climatiche della Terra"
+      ]
+    },
+    {
+      "title": "La formazione dei suoli",
+      "description": "Studio dei processi geologici e biologici che determinano la formazione dei suoli, con particolare attenzione alla composizione e all'utilizzo da parte dell'uomo.",
+      "competencies": [
+        "Capire l'importanza dei suoli per gli ecosistemi",
+        "Conoscere le pratiche agricole sostenibili"
+      ],
+      "objectives": [
+        "Identificare i principali tipi di suoli presenti sulla Terra",
+        "Comprendere l'influenza delle attività antropiche sulla qualità del suolo"
+      ]
+    },
+    {
+      "title": "Le risorse naturali e lo sfruttamento del territorio",
+      "description": "Esame delle risorse naturali presenti sulla Terra e delle modalità con cui vengono utilizzate e gestite dall'uomo, evidenziando i problemi legati allo sfruttamento e alla conservazione.",
+      "competencies": [
+        "Riconoscere l'importanza della gestione sostenibile delle risorse",
+        "Comprendere le conseguenze dell'uso indiscriminato delle risorse"
+      ],
+      "objectives": [
+        "Analizzare le cause della deforestazione e della desertificazione",
+        "Valutare l'impatto dell'estrazione delle risorse su scala globale"
+      ]
+    },
+    {
+      "title": "Le grandi unità del paesaggio mondiale",
+      "description": "Studio delle principali caratteristiche geografiche di ciascuna delle grandi unità del paesaggio mondiale: le aree polari, le foreste tropicali, le zone desertiche e le regioni temperate.",
+      "competencies": [
+        "Riconoscere le specificità delle diverse zone climatiche e biogeografiche",
+        "Comprendere le relazioni tra clima e vegetazione"
+      ],
+      "objectives": [
+        "Descrivere le peculiarità climatiche delle principali regioni geografiche",
+        "Confrontare le tipologie di vegetazione presenti in aree climatiche differenti"
+      ]
+    },
+    {
+      "title": "La popolazione mondiale e le migrazioni",
+      "description": "Analisi della distribuzione della popolazione mondiale, della densità demografica e dei movimenti migratori, con particolare attenzione alle cause e agli effetti sulle società di partenza e di arrivo.",
+      "competencies": [
+        "Comprendere i fattori che influenzano la distribuzione della popolazione",
+        "Analizzare le conseguenze delle migrazioni sulle aree coinvolte"
+      ],
+      "objectives": [
+        "Interpretare le mappe di distribuzione della popolazione mondiale",
+        "Valutare gli impatti sociali ed economici dei flussi migratori"
+      ]
+    },
+    {
+      "title": "L'impatto dell'uomo sull'ambiente",
+      "description": "Esame delle attività umane che incidono sull'ambiente, come l'inquinamento, lo sfruttamento delle risorse e i cambiamenti climatici, e delle possibili strategie per promuovere la sostenibilità ambientale.",
+      "competencies": [
+        "Riconoscere le responsabilità dell'uomo verso l'ambiente",
+        "Conoscere le politiche di tutela ambientale"
+      ],
+      "objectives": [
+        "Valutare gli effetti dell'inquinamento atmosferico sul clima",
+        "Proporre soluzioni sostenibili per contrastare l'impatto ambientale delle attività umane"
+      ]
+    },
+    {
+      "title": "Le infrastrutture e i trasporti",
+      "description": "Studio delle reti di trasporto a livello nazionale e internazionale, con particolare attenzione alle infrastrutture stradali, ferroviarie, aeree e marittime e al ruolo che esse giocano nella mobilità delle persone e delle merci.",
+      "competencies": [
+        "Comprendere l'importanza delle infrastrutture per lo sviluppo economico",
+        "Analizzare le dinamiche della mobilità globale"
+      ],
+      "objectives": [
+        "Identificare le principali reti di trasporto presenti sul territorio nazionale",
+        "Valutare l'impatto dei trasporti sulla qualità dell'ambiente"
+      ]
+    },
+    {
+      "title": "Il turismo e le sue implicazioni",
+      "description": "Analisi dell'evoluzione del fenomeno turistico a livello globale, considerando aspetti economici, sociali, culturali e ambientali legati all'industria del turismo.",
+      "competencies": [
+        "Comprendere l'importanza del turismo come risorsa economica",
+        "Riconoscere le ricadute positive e negative del turismo sui territori"
+      ],
+      "objectives": [
+        "Descrivere le diverse tipologie di turismo praticate nel mondo",
+        "Valutare i vantaggi e gli svantaggi legati allo sviluppo turistico di una regione"
+      ]
+    },
+    {
+      "title": "La geografia economica mondiale",
+      "description": "Studio dei principali settori dell'economia mondiale come l'agricoltura, l'industria, il terziario, con particolare attenzione alle dinamiche globali di produzione, consumo e scambi commerciali.",
+      "competencies": [
+        "Comprendere le relazioni tra le attività economiche e il territorio",
+        "Analizzare le interconnessioni dei mercati globali"
+      ],
+      "objectives": [
+        "Identificare le principali risorse naturali sfruttate per l'industria mondiale",
+        "Descrivere le tappe fondamentali della globalizzazione economica"
+      ]
+    },
+    {
+      "title": "Le aree metropolitane e le questioni urbane",
+      "description": "Esame dell'evoluzione delle aree urbane a livello mondiale, con focus sulle caratteristiche delle metropoli, l'urbanizzazione e le sfide legate alla gestione sostenibile degli spazi urbani.",
+      "competencies": [
+        "Comprendere le trasformazioni delle aree urbane nel contesto della globalizzazione",
+        "Valutare le problematiche legate alla concentrazione demografica nelle città"
+      ],
+      "objectives": [
+        "Analizzare le cause dell'espansione delle aree metropolitane",
+        "Proporre strategie di pianificazione urbana sostenibile"
+      ]
+    },
+    {
+      "title": "I cambiamenti climatici e le politiche di adattamento",
+      "description": "Studio dell'evoluzione del clima globale, dei fenomeni legati ai cambiamenti climatici e delle strategie adottate a livello internazionale per ridurre gli impatti negativi e promuovere la resilienza.",
+      "competencies": [
+        "Comprendere le dinamiche dei cambiamenti climatici",
+        "Conoscere le politiche di adattamento e mitigazione adottate a livello globale"
+      ],
+      "objectives": [
+        "Analizzare gli effetti dei cambiamenti climatici sulle risorse idriche e alimentari",
+        "Valutare l'efficacia delle politiche di riduzione delle emissioni di gas serra"
+      ]
+    },
+    {
+      "title": "Le regioni polari e la sfida del cambiamento climatico",
+      "description": "Analisi delle caratteristiche geografiche e delle peculiarità climatiche delle regioni artiche e antartiche, con particolare attenzione ai fenomeni legati al riscaldamento globale e alle conseguenze per l'ecosistema e le popolazioni locali.",
+      "competencies": [
+        "Comprendere l'impatto del cambiamento climatico sulle regioni polari",
+        "Riconoscere l'importanza della conservazione ambientale nelle aree artiche"
+      ],
+      "objectives": [
+        "Descrivere le principali caratteristiche climatiche dell'Artide e dell'Antartide",
+        "Analizzare le cause e gli effetti dello scioglimento dei ghiacci polari"
+      ]
+    },
+    {
+      "title": "Le questioni geopolitiche nella geografia contemporanea",
+      "description": "Esame delle dinamiche geopolitiche a livello globale, con focus su conflitti territoriali, alleanze politiche, organizzazioni internazionali e sfide legate alla governance mondiale.",
+      "competencies": [
+        "Analizzare le relazioni di potere tra gli Stati",
+        "Comprendere le implicazioni geopolitiche di fenomeni globali"
+      ],
+      "objectives": [
+        "Identificare le principali organizzazioni internazionali e il loro ruolo nella governance globale",
+        "Valutare l'impatto dei conflitti territoriali sulla stabilità mondiale"
+      ]
+    },
+    {
+      "title": "La sostenibilità ambientale: sfide e prospettive",
+      "description": "Riflessione sul concetto di sostenibilità ambientale, considerando le sfide attuali legate all'uso delle risorse, alla tutela della biodiversità e alla mitigazione dei cambiamenti climatici, e proponendo possibili soluzioni a livello individuale e collettivo.",
+      "competencies": [
+        "Sviluppare una coscienza critica sui problemi ambientali",
+        "Proporre azioni concrete per promuovere la sostenibilità"
+      ],
+      "objectives": [
+        "Valutare l'importanza della biodiversità per l'equilibrio degli ecosistemi",
+        "Proporre comportamenti responsabili per ridurre l'impatto ambientale quotidiano"
+      ]
+    },
+    {
+      "title": "Le regioni desertiche e le strategie di adattamento",
+      "description": "Analisi delle caratteristiche dei deserti e delle aree aride nel mondo, esaminando le strategie adottate dalle popolazioni locali e dalle autorità per fronteggiare le sfide climatiche e ambientali.",
+      "competencies": [
+        "Comprendere le peculiarità delle regioni desertiche",
+        "Riconoscere l'importanza della gestione sostenibile delle risorse idriche"
+      ],
+      "objectives": [
+        "Descrivere le principali caratteristiche fisiche dei deserti e degli ambienti aridi",
+        "Analizzare le tecnologie e le pratiche tradizionali di adattamento delle comunità desertiche"
+      ]
+    },
+    {
+      "title": "La geografia della salute: epidemie e rischi ambientali",
+      "description": "Studio delle relazioni tra ambiente, geografia e salute umana, con particolare attenzione alle emergenze sanitarie globali, alle epidemie di malattie infettive e ai rischi legati all'inquinamento e al cambiamento climatico.",
+      "competencies": [
+        "Riconoscere l'impatto dell'ambiente sulla salute umana",
+        "Comprendere le dinamiche delle malattie epidemiche"
+      ],
+      "objectives": [
+        "Analizzare le cause e le conseguenze delle principali epidemie globali",
+        "Valutare le strategie di prevenzione e gestione dei rischi ambientali per la salute"
+      ]
+    },
+    {
+      "title": "Le regioni montane e le sfide ambientali",
+      "description": "Esame delle caratteristiche geografiche e delle problematiche legate alle regioni montane nel contesto globale, con focus sugli effetti dei cambiamenti climatici, sull'uso sostenibile delle risorse e sullo sviluppo socio-economico delle comunità montane.",
+      "competencies": [
+        "Comprendere l'importanza dell'equilibrio ecologico nelle regioni montane",
+        "Valutare le sfide dello sviluppo sostenibile in ambito montano"
+      ],
+      "objectives": [
+        "Descrivere le peculiarità climatiche e geomorfologiche delle regioni montane",
+        "Analizzare le strategie per la conservazione della biodiversità alpina"
+      ]
+    },
+    {
+      "title": "La geografia delle tecnologie e delle comunicazioni",
+      "description": "Studio dell'evoluzione delle tecnologie applicate alla geografia e delle reti di comunicazione globali, con particolare attenzione alle tecnologie digitali, ai sistemi informativi geografici e alle trasformazioni della società in rete.",
+      "competencies": [
+        "Comprendere il ruolo delle nuove tecnologie nella geografia contemporanea",
+        "Riconoscere l'importanza della connettività nello sviluppo globale"
+      ],
+      "objectives": [
+        "Descrivere le applicazioni dei sistemi informativi geografici nella gestione del territorio",
+        "Valutare l'impatto delle tecnologie digitali sulle relazioni globali"
+      ]
+    },
+    {
+      "title": "La geografia della criminalità e della sicurezza",
+      "description": "Analisi delle dinamiche criminali a livello mondiale, con focus su fenomeni come il traffico di droga, il terrorismo, la tratta di esseri umani, e delle strategie adottate per garantire la sicurezza dei cittadini a livello nazionale e internazionale.",
+      "competencies": [
+        "Comprendere le cause e gli effetti della criminalità globale",
+        "Valutare le politiche di contrasto alla criminalità organizzata"
+      ],
+      "objectives": [
+        "Analizzare i fattori che favoriscono la diffusione di attività criminali su scala internazionale",
+        "Proporre misure di prevenzione e controllo della criminalità a livello globale"
+      ]
+    }
+  ]
+}

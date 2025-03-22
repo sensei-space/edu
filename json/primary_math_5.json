@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "math",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Numeri naturali fino a 1 milione",
+      "description": "Approfondimento sul concetto di numeri naturali fino a 1 milione, con esercizi di scrittura e lettura dei numeri.",
+      "competencies": [
+        "Rappresentazione e comprensione dei numeri naturali fino a 1 milione",
+        "Ordinamento e confronto dei numeri naturali"
+      ],
+      "objectives": [
+        "Saper scrivere correttamente numeri fino a 1 milione",
+        "Comprendere la posizione e il valore di ciascuna cifra in numeri di grandi dimensioni"
+      ]
+    },
+    {
+      "title": "Moltiplicazione a una e due cifre",
+      "description": "Studio della moltiplicazione con moltiplicatori composti da una o due cifre, mediante esercizi e problemi.",
+      "competencies": [
+        "Risoluzione di problemi matematici attraverso la moltiplicazione",
+        "Automatizzazione della moltiplicazione a una e due cifre"
+      ],
+      "objectives": [
+        "Identificare la posizione delle cifre nei moltiplicatori",
+        "Saper eseguire correttamente moltiplicazioni a una e due cifre"
+      ]
+    },
+    {
+      "title": "Divisione a una cifra",
+      "description": "Apprendimento della divisione con divisori a una cifra, con specifico focus sulle strategie di risoluzione.",
+      "competencies": [
+        "Capacità di dividere correttamente numeri a una cifra",
+        "Utilizzo delle strategie di divisione"
+      ],
+      "objectives": [
+        "Eseguire correttamente divisioni con divisori a una cifra",
+        "Comprendere il concetto di resto nella divisione"
+      ]
+    },
+    {
+      "title": "Misura del tempo",
+      "description": "Studio della misura del tempo nelle sue diverse unità di misura come ore, minuti e secondi, con esercizi pratici di conversione.",
+      "competencies": [
+        "Conoscenza delle unità di misura del tempo",
+        "Conversione tra diverse unità di tempo"
+      ],
+      "objectives": [
+        "Essere in grado di leggere correttamente l'orologio",
+        "Convertire tra ore, minuti e secondi"
+      ]
+    },
+    {
+      "title": "Perimetri e aree",
+      "description": "Approfondimento sui concetti di perimetro e area delle figure piane come quadrati, rettangoli e triangoli, con calcoli e problemi.",
+      "competencies": [
+        "Calcolo del perimetro e dell'area di figure geometriche piane",
+        "Risoluzione di problemi legati a perimetri e aree"
+      ],
+      "objectives": [
+        "Calcolare il perimetro di figure piane date",
+        "Determinare l'area di quadrati, rettangoli e triangoli"
+      ]
+    },
+    {
+      "title": "Geometria: figure simmetriche",
+      "description": "Studio delle figure geometriche e delle loro simmetrie, con particolare attenzione alle simmetrie rispetto a un asse.",
+      "competencies": [
+        "Ricerca delle simmetrie in figure geometriche",
+        "Riconoscimento della simmetria assiale"
+      ],
+      "objectives": [
+        "Identificare le figure simmetriche rispetto a un asse",
+        "Disegnare figure con almeno un asse di simmetria"
+      ]
+    },
+    {
+      "title": "Numeri decimali",
+      "description": "Studio dei numeri decimali, delle loro rappresentazioni e della loro collocazione sulla retta numerica.",
+      "competencies": [
+        "Rappresentazione e comparazione dei numeri decimali",
+        "Utilizzo dei numeri decimali in problemi matematici"
+      ],
+      "objectives": [
+        "Disporre correttamente numeri decimali sulla retta numerica",
+        "Confrontare numeri decimali e ordinare sequenze"
+      ]
+    },
+    {
+      "title": "Addizioni e sottrazioni con numeri decimali",
+      "description": "Applicazione delle operazioni di addizione e sottrazione con numeri decimali, mediante esempi e problemi concreti.",
+      "competencies": [
+        "Esecuzione di addizioni e sottrazioni con numeri decimali",
+        "Risoluzione di problemi che coinvolgono i numeri decimali"
+      ],
+      "objectives": [
+        "Risolvere correttamente addizioni e sottrazioni con numeri decimali",
+        "Interpretare situazioni reali e tradurle in operazioni decimali"
+      ]
+    },
+    {
+      "title": "Moltiplicazione e divisione con numeri decimali",
+      "description": "Studio delle operazioni di moltiplicazione e divisione con numeri decimali, attraverso esempi pratici e problemi da risolvere.",
+      "competencies": [
+        "Esecuzione di moltiplicazioni e divisioni con numeri decimali",
+        "Applicazione delle proprietà delle operazioni con decimali"
+      ],
+      "objectives": [
+        "Moltiplicare e dividere correttamente numeri decimali",
+        "Applicare le regole delle operazioni con decimali in contesti specifici"
+      ]
+    },
+    {
+      "title": "Problemi matematici complessi",
+      "description": "Risoluzione di problemi matematici che richiedono l'applicazione di più operazioni e concetti matematici acquisiti durante l'anno.",
+      "competencies": [
+        "Capacità di risolvere problemi complessi",
+        "Utilizzo integrato di diverse competenze matematiche"
+      ],
+      "objectives": [
+        "Analizzare e comprendere problemi articolati",
+        "Utilizzare in modo sinergico le conoscenze matematiche acquisite"
+      ]
+    },
+    {
+      "title": "Rappresentazione grafica dei dati",
+      "description": "Studio della rappresentazione dei dati attraverso grafici a barre, istogrammi e diagrammi a torta, con esercizi di interpretazione.",
+      "competencies": [
+        "Creazione e lettura di grafici e diagrammi",
+        "Interpretazione dei dati visualizzati"
+      ],
+      "objectives": [
+        "Rappresentare dati in grafici adeguati",
+        "Saper leggere e interpretare correttamente informazioni fornite da grafici"
+      ]
+    },
+    {
+      "title": "Calcoli mentali",
+      "description": "Esercitazioni di calcoli mentali che coinvolgono le quattro operazioni fondamentali e i concetti matematici appresi durante l'anno.",
+      "competencies": [
+        "Sviluppo delle capacità di calcolo mentale",
+        "Automatizzazione delle operazioni matematiche"
+      ],
+      "objectives": [
+        "Saper effettuare calcoli mentali in modo rapido e preciso",
+        "Migliorare la fluidità nella risoluzione di operazioni matematiche"
+      ]
+    },
+    {
+      "title": "Problemi con il calcolo delle percentuali",
+      "description": "Risoluzione di problemi che richiedono l'applicazione del calcolo delle percentuali, con esempi pratici e situazioni reali.",
+      "competencies": [
+        "Utilizzo del calcolo delle percentuali",
+        "Risolvere problemi che coinvolgono percentuali"
+      ],
+      "objectives": [
+        "Applicare correttamente il calcolo percentuale in situazioni specifiche",
+        "Saper risolvere problemi che richiedono il calcolo delle percentuali"
+      ]
+    },
+    {
+      "title": "Problemi con le frazioni",
+      "description": "Risoluzione di problemi che coinvolgono il concetto di frazioni, con esempi pratici di somma, sottrazione, moltiplicazione e divisione.",
+      "competencies": [
+        "Operare con le frazioni nelle quattro operazioni fondamentali",
+        "Comprendere il concetto di frazione come parte di un intero"
+      ],
+      "objectives": [
+        "Risolvere correttamente problemi che coinvolgono frazioni",
+        "Applicare le regole matematiche per le operazioni con frazioni"
+      ]
+    },
+    {
+      "title": "Risolutore di equazioni semplici",
+      "description": "Applicazione delle conoscenze matematiche per risolvere equazioni di primo grado con una variabile, con esempi e calcoli guidati.",
+      "competencies": [
+        "Risoluzione di equazioni di primo grado",
+        "Applicazione delle proprietà dell'uguaglianza in equazioni"
+      ],
+      "objectives": [
+        "Risolvere equazioni semplici passo per passo",
+        "Comprendere il concetto di incognita e risolvere problemi con equazioni"
+      ]
+    },
+    {
+      "title": "Geometria: angoli",
+      "description": "Studio delle caratteristiche degli angoli e delle loro misurazioni, con esempi pratici di calcolo e applicazioni geometriche.",
+      "competencies": [
+        "Riconoscimento e classificazione degli angoli",
+        "Misurazione degli angoli e delle loro caratteristiche"
+      ],
+      "objectives": [
+        "Identificare tipologie di angoli (retti, acuti, ottusi)",
+        "Misurare correttamente gli angoli e calcolarne le somme"
+      ]
+    },
+    {
+      "title": "Criteri di divisibilità",
+      "description": "Approfondimento sui criteri di divisibilità per i numeri naturali, con esempi e applicazioni nella risoluzione di problemi matematici.",
+      "competencies": [
+        "Comprendere e applicare i criteri di divisibilità",
+        "Utilizzo dei criteri di divisibilità nella risoluzione di problemi"
+      ],
+      "objectives": [
+        "Applicare i criteri di divisibilità per determinare la divisibilità di numeri",
+        "Utilizzare i criteri di divisibilità per semplificare calcoli e problemi"
+      ]
+    },
+    {
+      "title": "Ricerca dei multipli e divisori di un numero",
+      "description": "Studiare la relazione tra i multipli e i divisori di un numero, con esempi pratici e applicazioni.",
+      "competencies": [
+        "Ricerca dei multipli di un numero",
+        "Identificazione dei divisori di un numero"
+      ],
+      "objectives": [
+        "Calcolare i multipli e i divisori di un numero",
+        "Utilizzare i concetti di multipli e divisori per risolvere problemi matematici"
+      ]
+    },
+    {
+      "title": "Numeri primi e composti",
+      "description": "Differenziare i numeri primi dai numeri composti, scoprendo le loro proprietà e applicazioni nel campo della crittografia.",
+      "competencies": [
+        "Riconoscimento dei numeri primi e composti",
+        "Applicazione dei numeri primi in contesti specifici"
+      ],
+      "objectives": [
+        "Identificare numeri primi e numeri composti",
+        "Comprendere l'importanza dei numeri primi nella sicurezza informatica"
+      ]
+    },
+    {
+      "title": "Calcolo del minimo comune multiplo (m.c.m.) e del massimo comune divisore (m.c.d.)",
+      "description": "Studio dei concetti di minimo comune multiplo e massimo comune divisore tra due o più numeri, con esempi e problemi da risolvere.",
+      "competencies": [
+        "Calcolo del minimo comune multiplo",
+        "Determinazione del massimo comune divisore"
+      ],
+      "objectives": [
+        "Calcolare il m.c.m. e il m.c.d. tra due o più numeri",
+        "Utilizzare il m.c.m. e il m.c.d. nella risoluzione di problemi matematici"
+      ]
+    }
+  ]
+}

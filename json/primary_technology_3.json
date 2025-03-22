@@ -1,0 +1,235 @@
+{
+  "school": "primary",
+  "subject": "technology",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Conoscere l'hardware del computer",
+      "description": "Studio dei componenti principali di un computer: CPU, monitor, tastiera, mouse, altoparlanti.",
+      "competencies": [
+        "Riconoscere componenti hardware di base",
+        "Comprendere il funzionamento di un computer"
+      ],
+      "objectives": [
+        "Identificare i componenti di un computer",
+        "Comprendere il ruolo di ciascun componente"
+      ]
+    },
+    {
+      "title": "Utilizzo del software di videoscrittura",
+      "description": "Apprendimento delle funzionalità base di un software di videoscrittura per creare e formattare testi.",
+      "competencies": [
+        "Utilizzare un software di videoscrittura",
+        "Capacità organizzative e di sintesi"
+      ],
+      "objectives": [
+        "Digitare e formattare testi semplici",
+        "Inserire immagini e salvarle correttamente"
+      ]
+    },
+    {
+      "title": "Elementi di navigazione online",
+      "description": "Introduzione alla navigazione in Internet, conoscenza dei browser e delle principali funzionalità.",
+      "competencies": [
+        "Navigare in Internet in modo consapevole",
+        "Utilizzare motori di ricerca"
+      ],
+      "objectives": [
+        "Aprire un browser e digitare un indirizzo web",
+        "Effettuare una ricerca online"
+      ]
+    },
+    {
+      "title": "Creazione di presentazioni multimediali",
+      "description": "Realizzazione di presentazioni digitali con testo, immagini e transizioni.",
+      "competencies": [
+        "Utilizzare software di presentazione",
+        "Capacità di esporre in pubblico"
+      ],
+      "objectives": [
+        "Creare una presentazione con slide tematiche",
+        "Inserire transizioni tra le slide"
+      ]
+    },
+    {
+      "title": "Concetti di sicurezza informatica",
+      "description": "Informazioni sulle regole di base per la sicurezza online e la protezione della privacy.",
+      "competencies": [
+        "Conoscere regole di sicurezza informatica",
+        "Capacità critiche nell'uso delle tecnologie"
+      ],
+      "objectives": [
+        "Riconoscere siti affidabili da non affidabili",
+        "Capire l'importanza delle password sicure"
+      ]
+    },
+    {
+      "title": "Conoscenza dei dispositivi di memorizzazione",
+      "description": "Studio dei diversi supporti di memoria come chiavette USB, CD, DVD e cloud storage.",
+      "competencies": [
+        "Comprendere diversi tipi di memorizzazione",
+        "Gestire file e cartelle"
+      ],
+      "objectives": [
+        "Identificare i vari dispositivi di memorizzazione",
+        "Copiare file da un dispositivo all'altro"
+      ]
+    },
+    {
+      "title": "Elementi di codifica e programmazione visuale",
+      "description": "Introduzione ai concetti di coding attraverso strumenti di programmazione visuale per creare sequenze di istruzioni.",
+      "competencies": [
+        "Sviluppare logica computazionale",
+        "Risolvere problemi attraverso il coding"
+      ],
+      "objectives": [
+        "Creare sequenze di istruzioni per compiere azioni semplici",
+        "Modificare sequenze esistenti per ottenere diversi risultati"
+      ]
+    },
+    {
+      "title": "Conoscenza degli input e output del computer",
+      "description": "Studio dei dispositivi di input e output, come tastiera, mouse, scanner, stampante.",
+      "competencies": [
+        "Riconoscere dispositivi di input/output",
+        "Comprendere la comunicazione con il computer"
+      ],
+      "objectives": [
+        "Identificare dispositivi di input e output",
+        "Descrivere la funzione di ciascun dispositivo"
+      ]
+    },
+    {
+      "title": "Creazione di un poster digitale",
+      "description": "Utilizzo di strumenti digitali per creare un poster con testo, immagini e colori.",
+      "competencies": [
+        "Utilizzare software di grafica",
+        "Esprimere creatività attraverso strumenti digitali"
+      ],
+      "objectives": [
+        "Scegliere layout e colori appropriati per un poster",
+        "Inserire testo e immagini in modo armonioso"
+      ]
+    },
+    {
+      "title": "Elementi di rispetto dell'ambiente online",
+      "description": "Informazioni sul comportamento corretto e rispetto delle regole online durante la navigazione e l'utilizzo di dispositivi.",
+      "competencies": [
+        "Rispettare le regole di comportamento online",
+        "Conoscenza delle norme di netiquette"
+      ],
+      "objectives": [
+        "Capire l'importanza del rispetto online",
+        "Riconoscere comportamenti appropriati e inappropriati"
+      ]
+    },
+    {
+      "title": "Utilizzo delle funzionalità di stampa",
+      "description": "Apprendimento delle diverse opzioni di stampa di documenti e immagini.",
+      "competencies": [
+        "Utilizzare funzionalità di stampa",
+        "Conoscere diverse tipologie di stampa"
+      ],
+      "objectives": [
+        "Stampare un documento testuale",
+        "Stampare un'immagine in formato desiderato"
+      ]
+    },
+    {
+      "title": "Creazione di un collage digitale",
+      "description": "Realizzazione di un collage utilizzando immagini digitali e strumenti di editing grafico semplici.",
+      "competencies": [
+        "Utilizzare software di editing grafico",
+        "Capacità di organizzazione visiva"
+      ],
+      "objectives": [
+        "Scegliere immagini appropriate per un collage",
+        "Modificare layout e dimensioni delle immagini"
+      ]
+    },
+    {
+      "title": "Concetti base di risoluzione dei problemi tecnologici",
+      "description": "Introduzione alla risoluzione di piccoli problemi tecnologici legati all'uso di computer e dispositivi.",
+      "competencies": [
+        "Risolvere problemi tecnologici di base",
+        "Sviluppare autonomia nell'utilizzo delle tecnologie"
+      ],
+      "objectives": [
+        "Identificare e risolvere problemi di base su un computer",
+        "Chiedere aiuto in modo appropriato in caso di difficoltà"
+      ]
+    },
+    {
+      "title": "Creazione di una presentazione educativa",
+      "description": "Realizzazione di una presentazione su un argomento scolastico utilizzando testo, immagini e animazioni.",
+      "competencies": [
+        "Presentare informazioni in modo organizzato",
+        "Comunicare in modo efficace attraverso le presentazioni"
+      ],
+      "objectives": [
+        "Ricerca di informazioni su un tema scolastico",
+        "Creazione di slide con testo, immagini e transizioni"
+      ]
+    },
+    {
+      "title": "Elementi di etiquette digitale",
+      "description": "Conoscenza delle regole di bon ton e comportamento corretto online, inclusi concetti di cyberbullismo e privacy.",
+      "competencies": [
+        "Rispettare le norme di comportamento online",
+        "Conoscere i pericoli legati alla rete"
+      ],
+      "objectives": [
+        "Capire l'importanza del rispetto e della gentilezza online",
+        "Riconoscere situazioni di cyberbullismo e come affrontarle"
+      ]
+    },
+    {
+      "title": "Utilizzo delle mappe concettuali",
+      "description": "Creazione di mappe concettuali digitali per organizzare e collegare concetti tramite nodi e collegamenti.",
+      "competencies": [
+        "Sviluppare capacità di sintesi e collegamento tra concetti",
+        "Organizzare informazioni in modo efficace"
+      ],
+      "objectives": [
+        "Creare una mappa concettuale su un argomento a scelta",
+        "Collegare in modo logico e gerarchico i concetti principali"
+      ]
+    },
+    {
+      "title": "Elementi di protettori dello schermo",
+      "description": "Studio dei protettori dello schermo come strumenti per la protezione dei dispositivi e risparmio energetico.",
+      "competencies": [
+        "Utilizzare strumenti di protezione dei dispositivi",
+        "Promuovere l'ecologia digitale"
+      ],
+      "objectives": [
+        "Attivare e configurare un protettore dello schermo",
+        "Capire l'importanza del risparmio energetico"
+      ]
+    },
+    {
+      "title": "Creazione di un biglietto di auguri digitale",
+      "description": "Realizzazione di un biglietto di auguri personalizzato utilizzando immagini e testo.",
+      "competencies": [
+        "Esprimere creatività attraverso strumenti digitali",
+        "Utilizzare software di grafica"
+      ],
+      "objectives": [
+        "Creare un biglietto di auguri con tema e layout personalizzato",
+        "Inserire messaggi di auguri e immagini appropriate"
+      ]
+    },
+    {
+      "title": "Elementi di presentazione dell'informazione",
+      "description": "Conoscenza delle varie modalità per presentare informazioni utilizzando testo, immagini e grafici.",
+      "competencies": [
+        "Comunicare in modo efficace attraverso diversi formati",
+        "Presentare contenuti in modo accattivante"
+      ],
+      "objectives": [
+        "Scegliere il formato più adatto per presentare un determinato tipo di informazione",
+        "Creare una presentazione variegata e ben strutturata"
+      ]
+    }
+  ]
+}

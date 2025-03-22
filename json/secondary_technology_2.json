@@ -1,0 +1,127 @@
+{
+  "school": "secondary",
+  "subject": "technology",
+  "class": "2",
+  "topics": [
+    {
+      "title": "La presa elettrica",
+      "description": "Conoscenza e comprensione della presa elettrica e delle sue componenti.",
+      "competencies": [
+        "Conoscenza tecnica",
+        "Capacità di identificazione"
+      ],
+      "objectives": [
+        "Identificare i componenti di una presa elettrica",
+        "Comprendere il funzionamento di una presa elettrica"
+      ]
+    },
+    {
+      "title": "Materiali conduttori e isolanti",
+      "description": "Studio dei materiali conduttori e isolanti e delle loro caratteristiche.",
+      "competencies": [
+        "Conoscenza dei materiali",
+        "Capacità di discriminazione"
+      ],
+      "objectives": [
+        "Identificare materiali conduttori e isolanti comuni",
+        "Comprendere il concetto di conduzione e isolamento"
+      ]
+    },
+    {
+      "title": "Circuiti elettrici",
+      "description": "Apprendimento dei concetti base sui circuiti elettrici e la realizzazione di semplici circuiti.",
+      "competencies": [
+        "Capacità di progettazione",
+        "Risoluzione di problemi"
+      ],
+      "objectives": [
+        "Costruire e comprendere il funzionamento di un semplice circuito elettrico",
+        "Risolvere problemi legati ai circuiti elettrici"
+      ]
+    },
+    {
+      "title": "Comandi elettrici",
+      "description": "Studio dei comandi elettrici e realizzazione di semplici circuiti con interruttori.",
+      "competencies": [
+        "Capacità di realizzazione pratica",
+        "Conoscenza delle normative"
+      ],
+      "objectives": [
+        "Realizzare un circuito con interruttori per comandare una lampada",
+        "Conoscere le normative di sicurezza legate ai comandi elettrici"
+      ]
+    },
+    {
+      "title": "Energia elettrica",
+      "description": "Approfondimento sul concetto di energia elettrica e sulle sue applicazioni nella vita quotidiana.",
+      "competencies": [
+        "Conoscenza dei principi energetici",
+        "Capacità di applicazione"
+      ],
+      "objectives": [
+        "Comprendere il concetto di energia elettrica",
+        "Riconoscere le diverse applicazioni dell'energia elettrica"
+      ]
+    },
+    {
+      "title": "Materiali per costruzioni elettriche",
+      "description": "Studio dei materiali utilizzati per le costruzioni elettriche e delle loro proprietà.",
+      "competencies": [
+        "Conoscenza dei materiali",
+        "Capacità di selezione"
+      ],
+      "objectives": [
+        "Identificare i materiali utilizzati per costruzioni elettriche",
+        "Scegliere il materiale più adatto per specifiche applicazioni"
+      ]
+    },
+    {
+      "title": "Costruire un circuito in serie",
+      "description": "Realizzazione di un circuito in serie e sperimentazione degli effetti della posizione degli elementi nel circuito.",
+      "competencies": [
+        "Capacità sperimentale",
+        "Capacità di analisi"
+      ],
+      "objectives": [
+        "Costruire un circuito in serie",
+        "Verificare sperimentalmente le variazioni nell'intensità di corrente e tensione"
+      ]
+    },
+    {
+      "title": "Costruire un circuito in parallelo",
+      "description": "Realizzazione di un circuito in parallelo e confronto con il circuito in serie.",
+      "competencies": [
+        "Capacità comparativa",
+        "Capacità critica"
+      ],
+      "objectives": [
+        "Costruire un circuito in parallelo",
+        "Confrontare i vantaggi e svantaggi dei circuiti in serie e in parallelo"
+      ]
+    },
+    {
+      "title": "Resistenza elettrica",
+      "description": "Approfondimento sul concetto di resistenza elettrica e sulle sue applicazioni pratiche.",
+      "competencies": [
+        "Conoscenza teorica",
+        "Capacità applicativa"
+      ],
+      "objectives": [
+        "Comprendere il concetto di resistenza elettrica",
+        "Calcolare la resistenza in un circuito semplice"
+      ]
+    },
+    {
+      "title": "Manutenzione degli impianti elettrici",
+      "description": "Conoscenza delle procedure di manutenzione e sicurezza degli impianti elettrici.",
+      "competencies": [
+        "Capacità di manutenzione",
+        "Rispetto delle normative"
+      ],
+      "objectives": [
+        "Eseguire semplici interventi di manutenzione su impianti elettrici",
+        "Rispettare le normative di sicurezza nella gestione degli impianti elettrici"
+      ]
+    }
+  ]
+}

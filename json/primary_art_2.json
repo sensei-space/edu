@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "art",
+  "class": "2",
+  "topics": [
+    {
+      "title": "La storia dell'arte: l'arte rupestre",
+      "description": "Studio delle prime forme di arte create dall'uomo, con particolare attenzione all'arte rupestre presente nelle grotte preistoriche.",
+      "competencies": [
+        "Conoscenza delle prime forme di espressione artistica",
+        "Riconoscimento delle differenze tra arte antica e moderna"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche dell'arte rupestre",
+        "Comprendere il significato e la funzione dell'arte rupestre"
+      ]
+    },
+    {
+      "title": "La pittura e i colori",
+      "description": "Approfondimento sulla pittura come forma d'arte visiva e sul significato dei colori nella creazione artistica.",
+      "competencies": [
+        "Conoscenza dei principali colori primari e secondari",
+        "Sviluppo delle abilità creative nell'uso dei colori"
+      ],
+      "objectives": [
+        "Identificare i colori primari e secondari",
+        "Utilizzare in modo creativo i colori per esprimere emozioni o concetti"
+      ]
+    },
+    {
+      "title": "L'arte dei popoli indigeni",
+      "description": "Esplorazione delle opere artistiche tradizionali dei popoli indigeni provenienti da diverse parti del mondo.",
+      "competencies": [
+        "Apprezzamento della diversità culturale attraverso l'arte",
+        "Comprendere il significato simbolico delle opere d'arte"
+      ],
+      "objectives": [
+        "Riconoscere e rispettare le diverse espressioni artistiche dei popoli indigeni",
+        "Interpretare i simboli presenti nelle opere d'arte tradizionali"
+      ]
+    },
+    {
+      "title": "La scultura e le tecniche scultoree",
+      "description": "Studio delle sculture e delle varie tecniche utilizzate per modellare e creare opere tridimensionali.",
+      "competencies": [
+        "Conoscenza delle tecniche scultoree di base",
+        "Sviluppo della percezione spaziale"
+      ],
+      "objectives": [
+        "Sperimentare diverse tecniche scultoree (modellaggio, intaglio, assemblaggio)",
+        "Creare una piccola scultura usando materiali di riciclo"
+      ]
+    },
+    {
+      "title": "Il collage e il mosaico",
+      "description": "Approfondimento sulle tecniche artistiche del collage e del mosaico, con esempi di artisti famosi che le hanno utilizzate.",
+      "competencies": [
+        "Sviluppo della creatività attraverso il lavoro manuale",
+        "Riconoscimento delle opere realizzate con collage e mosaico"
+      ],
+      "objectives": [
+        "Realizzare un collage con materiali vari (carta, stoffa, fili)",
+        "Creare un semplice mosaico utilizzando pezzi colorati di carta"
+      ]
+    },
+    {
+      "title": "L'arte cinetica e l'arte d'illusione",
+      "description": "Esplorazione dell'arte cinetica che coinvolge il movimento e dell'arte d'illusione che gioca con la percezione visiva.",
+      "competencies": [
+        "Sviluppo dell'attenzione e della curiosità nell'osservazione artistica",
+        "Comprensione dei principi della percezione visiva"
+      ],
+      "objectives": [
+        "Osservare e analizzare opere d'arte cinetica e d'illusione celebri",
+        "Realizzare un semplice disegno che crea un effetto di illusione ottica"
+      ]
+    }
+  ]
+}

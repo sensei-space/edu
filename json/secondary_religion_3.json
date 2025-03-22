@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "religion",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Il Concilio di Nicea",
+      "description": "Studio del Concilio ecumenico del 325 d.C. che sancì la professione di fede nicena. Approfondimento sul significato degli articoli di fede.",
+      "competencies": [
+        "Conoscenza delle principali tappe della storia del cristianesimo",
+        "Comprendere il significato dei dogmi religiosi"
+      ],
+      "objectives": [
+        "Comprendere il ruolo storico e teologico del Concilio di Nicea",
+        "Analizzare e confrontare gli articoli di fede nicena"
+      ]
+    },
+    {
+      "title": "Vita dei Santi",
+      "description": "Approfondimento della vita di alcuni Santi significativi nella storia della Chiesa cattolica. Studio delle opere, miracoli e virtù praticate dai Santi.",
+      "competencies": [
+        "Conoscenza della biografia di alcuni Santi importanti",
+        "Comprendere il concetto di santità"
+      ],
+      "objectives": [
+        "Identificare le opere e i miracoli compiuti dai Santi",
+        "Riflettere sulle virtù da imitare nella propria vita"
+      ]
+    },
+    {
+      "title": "Il peccato originale",
+      "description": "Analisi del concetto di peccato originale nel Cristianesimo. Approfondimento sulle sue origini e implicazioni dottrinali.",
+      "competencies": [
+        "Comprendere il concetto di peccato originale",
+        "Conoscenza delle basi dottrinali della fede cristiana"
+      ],
+      "objectives": [
+        "Spiegare le basi dottrinali del peccato originale",
+        "Riflettere sul significato del peccato originale nella vita personale"
+      ]
+    },
+    {
+      "title": "Le Parabole di Gesù",
+      "description": "Studio delle principali parabole raccontate da Gesù nei Vangeli. Analisi dei significati spirituali e morali delle parabole.",
+      "competencies": [
+        "Conoscenza delle opere di Gesù nei Vangeli",
+        "Comprendere il valore pedagogico delle parabole"
+      ],
+      "objectives": [
+        "Interpretare i significati morali e spirituali delle parabole di Gesù",
+        "Riflettere sull'applicazione dei messaggi delle parabole nella vita quotidiana"
+      ]
+    },
+    {
+      "title": "La Trinità",
+      "description": "Approfondimento sulla dottrina della Trinità nel Cristianesimo. Studio delle persone della Trinità e del loro rapporto.",
+      "competencies": [
+        "Conoscenza della dottrina della Trinità",
+        "Comprendere il concetto teologico della Trinità"
+      ],
+      "objectives": [
+        "Spiegare il concetto di Trinità e la relazione fra le tre persone divine",
+        "Analizzare il significato della Trinità per la vita di fede"
+      ]
+    },
+    {
+      "title": "La Chiesa come Corpo Mistico di Cristo",
+      "description": "Studio del concetto di Chiesa come Corpo Mistico di Cristo. Approfondimento sulle implicazioni di questo simbolismo ecclesiologico.",
+      "competencies": [
+        "Comprendere il concetto teologico della Chiesa come Corpo di Cristo",
+        "Conoscenza della struttura ecclesiale"
+      ],
+      "objectives": [
+        "Spiegare il significato del simbolismo della Chiesa come Corpo di Cristo",
+        "Identificare il proprio ruolo nella Chiesa come membro del Corpo Mistico di Cristo"
+      ]
+    },
+    {
+      "title": "La Liturgia",
+      "description": "Studio della liturgia cristiana e delle sue diverse forme rituali. Approfondimento sul significato dei principali momenti liturgici.",
+      "competencies": [
+        "Conoscenza delle principali parti della liturgia cristiana",
+        "Comprendere il significato liturgico"
+      ],
+      "objectives": [
+        "Identificare le principali parti della liturgia cristiana e il loro significato",
+        "Partecipare attivamente alla liturgia eucaristica"
+      ]
+    },
+    {
+      "title": "I Sette Sacramenti",
+      "description": "Analisi dei sette sacramenti della Chiesa cattolica. Studio delle loro origini, significati e modalità di celebrazione.",
+      "competencies": [
+        "Conoscenza dei sette sacramenti",
+        "Comprendere il significato e l'importanza dei sacramenti"
+      ],
+      "objectives": [
+        "Spiegare le origini e i significati dei sette sacramenti",
+        "Riflettere sull'importanza dei sacramenti nella vita cristiana"
+      ]
+    },
+    {
+      "title": "Il battesimo",
+      "description": "Studio del sacramento del battesimo. Approfondimento sul simbolismo del battesimo, la sua importanza e le modalità di celebrazione.",
+      "competencies": [
+        "Conoscenza del sacramento del battesimo",
+        "Comprendere il significato del battesimo"
+      ],
+      "objectives": [
+        "Spiegare il significato del battesimo come nascita alla vita cristiana",
+        "Riflettere sull'importanza del battesimo per la vita spirituale"
+      ]
+    },
+    {
+      "title": "La Cresima",
+      "description": "Analisi del sacramento della Cresima. Approfondimento sul significato della confermazione, il suo ruolo nella vita ecclesiale e le promesse fatte durante il sacramento.",
+      "competencies": [
+        "Conoscenza del sacramento della Cresima",
+        "Comprendere il ruolo della confermazione"
+      ],
+      "objectives": [
+        "Spiegare il significato della Cresima come dono dello Spirito Santo",
+        "Riflettere sulle promesse fatte durante la Cresima e sull'impegno cristiano"
+      ]
+    },
+    {
+      "title": "La comunione",
+      "description": "Studio del sacramento dell'eucaristia. Approfondimento sul significato della comunione come memoriale della passione di Cristo, l'importanza della celebrazione eucaristica e il significato della partecipazione al corpo di Cristo.",
+      "competencies": [
+        "Conoscenza del sacramento dell'eucaristia",
+        "Comprendere il significato della comunione"
+      ],
+      "objectives": [
+        "Spiegare il significato della comunione come partecipazione al corpo di Cristo",
+        "Partecipare attivamente e consapevolmente alla celebrazione eucaristica"
+      ]
+    },
+    {
+      "title": "Il matrimonio",
+      "description": "Analisi del sacramento del matrimonio. Approfondimento sul significato del vincolo matrimoniale, la sua sacralità e i valori fondanti del matrimonio cristiano.",
+      "competencies": [
+        "Conoscenza del sacramento del matrimonio",
+        "Comprendere il valore del vincolo matrimoniale"
+      ],
+      "objectives": [
+        "Spiegare il significato e l'importanza del sacramento del matrimonio",
+        "Riflettere sui valori fondanti del matrimonio cristiano e sulla sua sacralità"
+      ]
+    },
+    {
+      "title": "L'Unzione degli infermi",
+      "description": "Studio del sacramento dell'Unzione degli Infermi. Approfondimento sul significato del sacramento per i malati e le persone anziane.",
+      "competencies": [
+        "Conoscenza del sacramento dell'unzione degli infermi",
+        "Comprendere il significato e la funzione pastorale del sacramento"
+      ],
+      "objectives": [
+        "Spiegare il significato del sacramento dell'Unzione degli Infermi",
+        "Riflettere sull'accoglienza e la consolazione offerte dal sacramento"
+      ]
+    },
+    {
+      "title": "L'Ordine Sacro",
+      "description": "Analisi del sacramento dell'Ordine Sacro. Approfondimento sui diversi gradi del sacramento e sul significato della vocazione sacerdotale.",
+      "competencies": [
+        "Conoscenza del sacramento dell'Ordine Sacro",
+        "Comprendere il significato della vocazione sacerdotale"
+      ],
+      "objectives": [
+        "Spiegare i diversi gradi del sacramento dell'Ordine Sacro",
+        "Riflettere sul significato della vocazione al servizio sacerdotale"
+      ]
+    },
+    {
+      "title": "Il perdono attraverso la Riconciliazione",
+      "description": "Studio del sacramento della Riconciliazione. Approfondimento sul significato del perdono, il ruolo del sacerdote nell'accogliere la confessione e la riconciliazione con Dio e con la comunità.",
+      "competencies": [
+        "Conoscenza del sacramento della Riconciliazione",
+        "Comprendere il significato e l'importanza del perdono"
+      ],
+      "objectives": [
+        "Spiegare il significato e l'importanza della Riconciliazione come sacramento del perdono",
+        "Esperire la riconciliazione con Dio e con la comunità"
+      ]
+    },
+    {
+      "title": "Storia delle Religioni",
+      "description": "Studio comparato delle principali religioni mondiali. Approfondimento sulle differenze e le similitudini tra Cristianesimo, Islam, Ebraismo, Induismo e Buddismo.",
+      "competencies": [
+        "Conoscenza delle principali religioni mondiali",
+        "Comprendere la diversità religiosa"
+      ],
+      "objectives": [
+        "Analizzare e confrontare le principali caratteristiche delle diverse religioni",
+        "Riflettere sul dialogo interreligioso e sul rispetto delle diversità"
+      ]
+    },
+    {
+      "title": "L'importanza della Preghiera",
+      "description": "Riflessione sull'importanza della preghiera nella vita del credente. Studio dei diversi tipi di preghiera e delle modalità di dialogo con Dio.",
+      "competencies": [
+        "Comprendere l'importanza della preghiera nella vita spirituale",
+        "Sviluppare una vita di preghiera personale"
+      ],
+      "objectives": [
+        "Riflettere sull'importanza della preghiera come dialogo con Dio",
+        "Sperimentare diversi tipi di preghiera e approfondire la relazione personale con Dio"
+      ]
+    },
+    {
+      "title": "Le Virtù teologali",
+      "description": "Studio delle tre virtù teologali: fede, speranza e carità. Approfondimento sul significato di queste virtù e il loro ruolo nella vita dei credenti.",
+      "competencies": [
+        "Conoscenza delle virtù teologali",
+        "Comprendere il significato delle virtù teologali"
+      ],
+      "objectives": [
+        "Spiegare il significato delle virtù teologali di fede, speranza e carità",
+        "Riflettere sull'importanza delle virtù teologali nella vita cristiana"
+      ]
+    },
+    {
+      "title": "Le Virtù cardinali",
+      "description": "Analisi delle quattro virtù cardinali: prudenza, giustizia, fortezza e temperanza. Approfondimento sulle caratteristiche di queste virtù e il loro ruolo etico nella vita quotidiana.",
+      "competencies": [
+        "Conoscenza delle virtù cardinali",
+        "Comprendere il ruolo delle virtù nella formazione morale"
+      ],
+      "objectives": [
+        "Spiegare le caratteristiche delle virtù cardinali e il loro ruolo nella vita morale",
+        "Applicare le virtù cardinali nella propria condotta etica"
+      ]
+    },
+    {
+      "title": "La dimensione sociale della fede",
+      "description": "Riflessione sulla responsabilità sociale dei credenti. Studio dell'impegno sociale della Chiesa e dei principi etici del Vangelo.",
+      "competencies": [
+        "Comprendere la dimensione sociale della fede cristiana",
+        "Sviluppare una coscienza sociale ed etica"
+      ],
+      "objectives": [
+        "Riflettere sull'impegno sociale della Chiesa e dei credenti nel mondo",
+        "Applicare i principi etici del Vangelo alla realtà sociale"
+      ]
+    }
+  ]
+}

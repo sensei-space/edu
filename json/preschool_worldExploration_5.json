@@ -1,0 +1,67 @@
+{
+  "school": "preschool",
+  "subject": "worldExploration",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Le stagioni dell'anno",
+      "description": "Studio delle quattro stagioni (primavera, estate, autunno, inverno) e delle caratteristiche che le contraddistinguono.",
+      "competencies": [
+        "Riconoscere e distinguere le stagioni dell'anno",
+        "Comprendere le caratteristiche climatiche delle diverse stagioni"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche specifiche di ciascuna stagione",
+        "Associare le attività tipiche di ogni stagione alle relative caratteristiche climatiche"
+      ]
+    },
+    {
+      "title": "Le diversità culturali nel mondo",
+      "description": "Esplorazione delle diverse culture presenti nel mondo attraverso abiti tradizionali, alimentazione, feste e tradizioni.",
+      "competencies": [
+        "Sviluppare la consapevolezza dell'esistenza di diverse culture nel mondo",
+        "Riconoscere e apprezzare le diversità culturali"
+      ],
+      "objectives": [
+        "Riconoscere e identificare alcune caratteristiche distintive di diverse culture nel mondo",
+        "Esprimere curiosità e apertura verso culture diverse dalla propria"
+      ]
+    },
+    {
+      "title": "Le meraviglie naturali del mondo",
+      "description": "Studio delle principali meraviglie naturali presenti nel mondo, come cascate, grotte, canyon e fenomeni naturali particolari.",
+      "competencies": [
+        "Riconoscere e apprezzare la varietà di meraviglie naturali nel mondo",
+        "Sviluppare la curiosità verso la natura e i suoi fenomeni"
+      ],
+      "objectives": [
+        "Identificare e descrivere alcune delle meraviglie naturali più famose",
+        "Comprendere l'importanza della tutela e della conservazione dell'ambiente"
+      ]
+    },
+    {
+      "title": "I mezzi di trasporto nel mondo",
+      "description": "Esplorazione dei diversi mezzi di trasporto utilizzati in varie parti del mondo, tra cui aerei, treni, navi, biciclette.",
+      "competencies": [
+        "Riconoscere e distinguere vari mezzi di trasporto",
+        "Comprendere l'importanza dei mezzi di trasporto nella vita quotidiana"
+      ],
+      "objectives": [
+        "Identificare e classificare diversi mezzi di trasporto per via terrestre, aerea e marittima",
+        "Comprendere il ruolo dei mezzi di trasporto nella connessione e nel trasferimento di persone e merci"
+      ]
+    },
+    {
+      "title": "I cibi del mondo",
+      "description": "Studio di cibi tipici di diverse culture nel mondo, scoprendo ingredienti, piatti tradizionali e abitudini alimentari.",
+      "competencies": [
+        "Conoscere e apprezzare la varietà di cibi consumati in diverse parti del mondo",
+        "Sviluppare la consapevolezza dell'importanza dell'alimentazione"
+      ],
+      "objectives": [
+        "Identificare cibi tipici di alcune culture diverse",
+        "Rispettare le abitudini alimentari di culture diverse e apportare un'apertura mentale verso nuovi cibi"
+      ]
+    }
+  ]
+}

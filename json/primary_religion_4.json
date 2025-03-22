@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "religion",
+  "class": "4",
+  "topics": [
+    {
+      "title": "La Bibbia: Antico e Nuovo Testamento",
+      "description": "Studio delle principali storie e personaggi dell'Antico e Nuovo Testamento presenti nella Bibbia.",
+      "competencies": [
+        "Conoscenza della tradizione religiosa",
+        "Comprendere il messaggio delle sacre scritture"
+      ],
+      "objectives": [
+        "Riconoscere le differenze tra Antico e Nuovo Testamento",
+        "Comprendere il significato delle storie bibliche"
+      ]
+    },
+    {
+      "title": "Gesù: Vita e Insegnamenti",
+      "description": "Approfondimento sulla vita di Gesù Cristo, i suoi insegnamenti e i principali episodi della sua vita riportati nei Vangeli.",
+      "competencies": [
+        "Conoscenza della figura di Gesù",
+        "Comprendere gli insegnamenti evangelici"
+      ],
+      "objectives": [
+        "Ricostruire la biografia di Gesù",
+        "Comprendere il significato dei messaggi di Gesù"
+      ]
+    },
+    {
+      "title": "Le Parabole di Gesù",
+      "description": "Studio delle principali parabole raccontate da Gesù per veicolare insegnamenti spirituali e morali.",
+      "competencies": [
+        "Comprensione dei messaggi spirituali",
+        "Interpretare le parabole"
+      ],
+      "objectives": [
+        "Identificare le principali parabole di Gesù",
+        "Comprendere il significato delle parabole nella vita quotidiana"
+      ]
+    },
+    {
+      "title": "La Pasqua",
+      "description": "Approfondimento sul significato religioso della Pasqua cristiana, la sua importanza nella tradizione e nelle celebrazioni della Chiesa.",
+      "competencies": [
+        "Conoscenza delle festività cristiane",
+        "Comprendere il significato della Pasqua"
+      ],
+      "objectives": [
+        "Capire il significato spirituale della Pasqua",
+        "Conoscere le tradizioni legate alla festività"
+      ]
+    },
+    {
+      "title": "La Chiesa: Comunità Cristiana",
+      "description": "Studio della Chiesa come comunità religiosa, dei suoi membri, delle funzioni liturgiche e del suo ruolo sociale.",
+      "competencies": [
+        "Conoscenza della Chiesa e della sua struttura",
+        "Comprendere il ruolo della Chiesa nella società"
+      ],
+      "objectives": [
+        "Comprendere il concetto di comunità ecclesiale",
+        "Conoscere le principali funzioni della Chiesa"
+      ]
+    },
+    {
+      "title": "Le Feste Religiose: Celebrazioni Cristiane",
+      "description": "Studio delle principali festività cristiane, dei loro significati spirituali e delle tradizioni legate alle celebrazioni.",
+      "competencies": [
+        "Conoscenza delle festività religiose",
+        "Comprendere il significato delle celebrazioni"
+      ],
+      "objectives": [
+        "Riconoscere le principali festività cristiane",
+        "Comprendere il valore spirituale delle celebrazioni"
+      ]
+    }
+  ]
+}

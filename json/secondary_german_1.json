@@ -1,0 +1,259 @@
+{
+  "school": "secondary",
+  "subject": "german",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Salutare e presentarsi",
+      "description": "Imparare a salutare e presentarsi in lingua tedesca, includendo informazioni personali di base come nome, età e nazionalità.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere salutare e presentarsi in tedesco",
+        "Essere in grado di comprendere semplici informazioni personali"
+      ]
+    },
+    {
+      "title": "Numeri e colori",
+      "description": "Studiare i numeri e i colori in tedesco per poter contare e descrivere oggetti e situazioni.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Memorizzare i numeri e i colori in tedesco",
+        "Descrivere oggetti utilizzando numeri e colori"
+      ]
+    },
+    {
+      "title": "Famiglia e amici",
+      "description": "Apprendere i nomi dei membri della famiglia e dei parenti, così come esprimere relazioni affettive con termini adeguati.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Identificare i termini per parenti in tedesco",
+        "Esprimere relazioni familiari in tedesco"
+      ]
+    },
+    {
+      "title": "Pronomi personali soggetto",
+      "description": "Introdurre i pronomi personali soggetto in tedesco e imparare come usarli correttamente nelle frasi.",
+      "competencies": [
+        "Produzione orale",
+        "Comprensione grammaticale"
+      ],
+      "objectives": [
+        "Memorizzare i pronomi personali soggetto in tedesco",
+        "Essere in grado di costruire frasi utilizzandoli correttamente"
+      ]
+    },
+    {
+      "title": "Cibo e bevande",
+      "description": "Esplorare il lessico relativo al cibo e alle bevande in tedesco, imparando a ordinare al ristorante e parlare delle preferenze alimentari.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare il lessico specifico del cibo e delle bevande",
+        "Essere in grado di ordinare cibo in un ristorante"
+      ]
+    },
+    {
+      "title": "Giorni della settimana e mesi",
+      "description": "Studiare i giorni della settimana e i mesi dell'anno in tedesco per poter esprimere date e parlare degli appuntamenti.",
+      "competencies": [
+        "Comprensione scritta",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Memorizzare i giorni della settimana e i mesi in tedesco",
+        "Essere in grado di fissare appuntamenti e parlare di date"
+      ]
+    },
+    {
+      "title": "Tempo atmosferico",
+      "description": "Apprendere il lessico relativo al tempo atmosferico in tedesco per descrivere le condizioni meteo e parlare dei cambiamenti climatici.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Imparare il lessico specifico per il tempo atmosferico",
+        "Essere in grado di fare previsioni meteo"
+      ]
+    },
+    {
+      "title": "Descrivere se stessi e gli altri",
+      "description": "Praticare la descrizione fisica e caratteriale delle persone in tedesco, imparando ad utilizzare aggettivi appropriati.",
+      "competencies": [
+        "Produzione orale",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere se stessi e gli altri in tedesco",
+        "Usare aggettivi per la descrizione fisica e caratteriale"
+      ]
+    },
+    {
+      "title": "Indicazioni stradali",
+      "description": "Studiare il vocabolario utile per chiedere e dare indicazioni stradali in tedesco, potenziando le capacità di orientamento.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Imparare a chiedere e dare indicazioni stradali",
+        "Orientarsi utilizzando termini geografici"
+      ]
+    },
+    {
+      "title": "Vita quotidiana e routine",
+      "description": "Esplorare il lessico relativo alle attività quotidiane e alla routine in tedesco, imparando a parlare della propria giornata tipo.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare il lessico per parlare della routine",
+        "Descrivere la propria giornata tipo in tedesco"
+      ]
+    },
+    {
+      "title": "Vestiti e moda",
+      "description": "Approfondire il vocabolario legato ai vestiti e alla moda in tedesco, imparando a parlare di stili e preferenze.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Conoscere il lessico specifico per parlare di abbigliamento",
+        "Esprimere preferenze e descrivere stili di moda"
+      ]
+    },
+    {
+      "title": "Occupazioni e professioni",
+      "description": "Studiare i termini relativi alle occupazioni e alle professioni in tedesco, imparando a parlare dei propri progetti futuri.",
+      "competencies": [
+        "Comprensione scritta",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare il lessico specifico per parlare di professioni",
+        "Esprimere desideri e progetti futuri"
+      ]
+    },
+    {
+      "title": "Animali e natura",
+      "description": "Esplorare il lessico relativo agli animali e alla natura in tedesco, imparando a parlare di biodiversità e conservazione.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere i termini relativi agli animali e alla natura",
+        "Discutere di temi legati alla biodiversità"
+      ]
+    },
+    {
+      "title": "Celebrazioni e festività",
+      "description": "Approfondire il lessico riguardante le celebrazioni e le festività in tedesco, imparando a parlare di tradizioni e usanze.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Conoscere il lessico specifico per parlare di festività",
+        "Descrivere tradizioni e usanze legate alle celebrazioni"
+      ]
+    },
+    {
+      "title": "Sport e attività fisica",
+      "description": "Studiare il vocabolario relativo allo sport e alle attività fisiche in tedesco, imparando a parlare di abitudini salutari.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare i termini legati allo sport e all'attività fisica",
+        "Discutere sull'importanza dell'esercizio fisico"
+      ]
+    },
+    {
+      "title": "Viaggi e vacanze",
+      "description": "Approfondire il lessico utile per parlare di viaggi e vacanze in tedesco, imparando a prenotare alberghi e chiedere informazioni turistiche.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di comunicare in contesti turistici",
+        "Prenotare alloggi e chiedere informazioni per un viaggio"
+      ]
+    },
+    {
+      "title": "Città e luoghi di interesse",
+      "description": "Esplorare il vocabolario relativo alle città e ai luoghi di interesse in tedesco, imparando a descrivere destinazioni turistiche.",
+      "competencies": [
+        "Comprensione scritta",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Conoscere i principali luoghi di interesse turistico",
+        "Descrivere città e attrazioni turistiche in tedesco"
+      ]
+    },
+    {
+      "title": "Mezzi di trasporto",
+      "description": "Studiare i mezzi di trasporto in tedesco per poter parlare dei propri spostamenti e dell'ambiente urbano.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare il lessico relativo ai mezzi di trasporto",
+        "Descrivere spostamenti e traffico urbano"
+      ]
+    },
+    {
+      "title": "Musica e cultura pop",
+      "description": "Approfondire il lessico legato alla musica e alla cultura pop in tedesco, imparando a parlare di gusti e tendenze.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Conoscere termini specifici per parlare di musica e cultura pop",
+        "Discutere di interessi e preferenze culturali"
+      ]
+    },
+    {
+      "title": "Ecologia e ambiente",
+      "description": "Esplorare il lessico legato all'ecologia e all'ambiente in tedesco, imparando a parlare di sostenibilità e cambiamenti climatici",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere termini per discutere di ecologia e ambiente",
+        "Esprimere opinioni sui temi ambientali in tedesco"
+      ]
+    },
+    {
+      "title": "Tecnologia e innovazione",
+      "description": "Studiare il vocabolario tecnologico e delle innovazioni in tedesco, imparando a parlare di dispositivi e sviluppi tecnologici.",
+      "competencies": [
+        "Comprensione scritta",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare i termini legati alla tecnologia",
+        "Discutere di innovazioni e impatti tecnologici"
+      ]
+    }
+  ]
+}

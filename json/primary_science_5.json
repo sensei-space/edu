@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "science",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Il ciclo dell'acqua",
+      "description": "Studio del ciclo dell'acqua, con focus sulla evaporazione, condensazione, precipitazione e riciclo dell'acqua nella natura.",
+      "competencies": [
+        "Comprendere il ciclo dell'acqua",
+        "Riconoscere i vari processi che lo caratterizzano"
+      ],
+      "objectives": [
+        "Identificare le fasi del ciclo dell'acqua",
+        "Descrivere il ruolo dell'acqua nell'ecosistema"
+      ]
+    },
+    {
+      "title": "Le piante e la fotosintesi clorofilliana",
+      "description": "Approfondimento sulle piante, le foglie e il processo di fotosintesi clorofilliana per la produzione di cibo e ossigeno.",
+      "competencies": [
+        "Conoscere il processo di fotosintesi",
+        "Comprendere il ruolo delle piante nell'ecosistema"
+      ],
+      "objectives": [
+        "Riconoscere la struttura delle foglie coinvolte nella fotosintesi",
+        "Spiegare il ruolo dell'ossigeno prodotto dalle piante"
+      ]
+    },
+    {
+      "title": "La materia e le sue trasformazioni",
+      "description": "Studio dei cambiamenti di stato della materia: solidificazione, fusione, evaporazione e condensazione.",
+      "competencies": [
+        "Capire le trasformazioni della materia",
+        "Identificare i diversi stati della materia"
+      ],
+      "objectives": [
+        "Riconoscere i processi di cambiamento di stato",
+        "Descrivere come avvengono le trasformazioni della materia"
+      ]
+    },
+    {
+      "title": "L'elettricità e i circuiti elettrici semplici",
+      "description": "Introduzione ai concetti di corrente elettrica, circuiti elettrici semplici, materiali conduttori e isolanti.",
+      "competencies": [
+        "Comprendere il concetto di corrente elettrica",
+        "Riconoscere i componenti di un circuito elettrico"
+      ],
+      "objectives": [
+        "Realizzare semplici circuiti elettrici",
+        "Classificare i materiali in conduttori e isolanti"
+      ]
+    },
+    {
+      "title": "La Terra nel sistema solare",
+      "description": "Studio delle caratteristiche della Terra come pianeta all'interno del sistema solare, con focus sulla luna e le stagioni.",
+      "competencies": [
+        "Conoscere il sistema solare",
+        "Comprendere l'influenza delle stagioni"
+      ],
+      "objectives": [
+        "Descrivere le caratteristiche principali della Terra",
+        "Spiegare il fenomeno delle stagioni"
+      ]
+    },
+    {
+      "title": "Le forze e i movimenti",
+      "description": "Approfondimento sulle diverse tipologie di forze e i relativi effetti sui corpi in movimento e in riposo.",
+      "competencies": [
+        "Capire il concetto di forza",
+        "Riconoscere gli effetti delle forze sul movimento"
+      ],
+      "objectives": [
+        "Identificare diverse forze presenti nella vita quotidiana",
+        "Spiegare come agiscono le forze sui corpi"
+      ]
+    },
+    {
+      "title": "Le risorse naturali e l'ambiente",
+      "description": "Studio delle risorse naturali, come vengono utilizzate, la loro importanza e le azioni per preservarle e proteggere l'ambiente.",
+      "competencies": [
+        "Conoscere le risorse naturali",
+        "Sensibilizzare sull'importanza della tutela ambientale"
+      ],
+      "objectives": [
+        "Riconoscere le risorse rinnovabili e non rinnovabili",
+        "Proporre azioni per la salvaguardia dell'ambiente"
+      ]
+    },
+    {
+      "title": "Il suolo e la sua importanza",
+      "description": "Approfondimento sul suolo come risorsa fondamentale per la vita, l'importanza della sua conservazione e le cause dell'erosione.",
+      "competencies": [
+        "Comprendere il ruolo del suolo",
+        "Riconoscere le cause dell'erosione"
+      ],
+      "objectives": [
+        "Descrivere la struttura del suolo",
+        "Spiegare come l'azione umana possa influenzare il suolo"
+      ]
+    },
+    {
+      "title": "La luce e la vista",
+      "description": "Studio delle caratteristiche della luce, la sua propagazione e il funzionamento dell'occhio umano nel processo di visione.",
+      "competencies": [
+        "Conoscere il concetto di luce",
+        "Comprendere il funzionamento dell'occhio"
+      ],
+      "objectives": [
+        "Spiegare la propagazione della luce",
+        "Riconoscere le componenti dell'occhio e il loro ruolo nella visione"
+      ]
+    },
+    {
+      "title": "Le rocce e i minerali",
+      "description": "Approfondimento sulle caratteristiche delle rocce e dei minerali, la loro formazione e classificazione, e il ciclo delle rocce.",
+      "competencies": [
+        "Conoscere le caratteristiche delle rocce",
+        "Riconoscere i diversi tipi di minerali"
+      ],
+      "objectives": [
+        "Classificare le rocce in base alla loro origine",
+        "Descrivere il ciclo delle rocce"
+      ]
+    }
+  ]
+}

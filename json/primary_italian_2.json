@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "italian",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Presentazione di se stessi",
+      "description": "Imparare a presentarsi in modo semplice, utilizzando informazioni personali come il nome, l'età, la scuola frequentata, i propri hobby.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione del testo"
+      ],
+      "objectives": [
+        "Saper presentare se stessi in italiano",
+        "Essere in grado di comprendere brevi presentazioni di compagni di classe"
+      ]
+    },
+    {
+      "title": "Descrizione di animali",
+      "description": "Studiare vocaboli relativi agli animali e imparare a fare descrizioni semplici riguardo aspetto fisico e caratteristiche.",
+      "competencies": [
+        "Vocabolario",
+        "Capacità descrittive"
+      ],
+      "objectives": [
+        "Riconoscere e nominare diversi animali",
+        "Essere in grado di fare una breve descrizione di un animale"
+      ]
+    },
+    {
+      "title": "Favole e fiabe",
+      "description": "Ascoltare e leggere favole e fiabe classiche italiane per sviluppare l'ascolto attivo e la comprensione di testi narrativi.",
+      "competencies": [
+        "Comprensione del testo",
+        "Immaginazione e creatività"
+      ],
+      "objectives": [
+        "Comprendere il messaggio principale di una favola",
+        "Identificare personaggi e contesto di una fiaba"
+      ]
+    },
+    {
+      "title": "Formazione delle frasi",
+      "description": "Studiare la struttura di base delle frasi italiane: soggetto, verbo, predicato. Comporre frasi semplici con coerenza.",
+      "competencies": [
+        "Grammatica",
+        "Coerenza testuale"
+      ],
+      "objectives": [
+        "Riconoscere le parti fondamentali di una frase",
+        "Comporre frasi corrette ed elementari"
+      ]
+    },
+    {
+      "title": "Aggettivi e colori",
+      "description": "Imparare gli aggettivi e i colori in italiano per arricchire il vocabolario e la capacità descrittiva.",
+      "competencies": [
+        "Vocabolario",
+        "Capacità descrittive"
+      ],
+      "objectives": [
+        "Essere in grado di associare un aggettivo a un sostantivo corrispondente",
+        "Riconoscere e nominare i colori principali"
+      ]
+    },
+    {
+      "title": "Letture guidate",
+      "description": "Lettura di testi brevi e semplici con l'aiuto dell'insegnante per comprendere e interpretare il contenuto.",
+      "competencies": [
+        "Comprensione del testo",
+        "Fluency in lettura"
+      ],
+      "objectives": [
+        "Essere in grado di leggere fluidamente testi semplici",
+        "Rispondere a domande basate sul testo letto"
+      ]
+    },
+    {
+      "title": "Costruzione di storie",
+      "description": "Sviluppare la capacità narrativa componendo storie semplici utilizzando le regole fondamentali della narrazione.",
+      "competencies": [
+        "Immaginazione e creatività",
+        "Coerenza narrativa"
+      ],
+      "objectives": [
+        "Scrivere una breve storia con inizio, svolgimento e finale",
+        "Utilizzare connettivi per rendere la narrazione fluida"
+      ]
+    },
+    {
+      "title": "Parole composte",
+      "description": "Studiare le parole composte in italiano e imparare a riconoscere e comporre parole formate da più elementi.",
+      "competencies": [
+        "Vocabolario",
+        "Comprensione lessicale"
+      ],
+      "objectives": [
+        "Riconoscere parole composte e le loro componenti",
+        "Essere in grado di comporre parole composte in modo corretto"
+      ]
+    },
+    {
+      "title": "Scrittura creativa",
+      "description": "Esprimere liberamente idee e sentimenti tramite la scrittura creativa, utilizzando vocaboli appresi e fantasia.",
+      "competencies": [
+        "Espressività scritta",
+        "Immaginazione e creatività"
+      ],
+      "objectives": [
+        "Esprimere in forma scritta pensieri e emozioni personali",
+        "Creare brevi testi narrativi inventati"
+      ]
+    },
+    {
+      "title": "Ripasso e recupero",
+      "description": "Revisione e recupero di argomenti già studiati per consolidare le conoscenze acquisite durante l'anno scolastico.",
+      "competencies": [
+        "Ripasso e consolidamento",
+        "Memoria a breve termine"
+      ],
+      "objectives": [
+        "Rivedere e praticare argomenti precedenti",
+        "Consolidare le abilità linguistiche acquisite"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "english",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Greetings and Introductions",
+      "description": "Imparare a salutare e presentarsi in inglese attraverso frasi di base.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione di base dell'inglese"
+      ],
+      "objectives": [
+        "Sapere salutare in modo formale e informale",
+        "Presentarsi in inglese con nome, età e nazionalità"
+      ]
+    },
+    {
+      "title": "Colors and Shapes",
+      "description": "Imparare i colori e le forme in inglese, anche mediante giochi e attività pratiche.",
+      "competencies": [
+        "Vocabolario di base in inglese",
+        "Conoscenza dei concetti di colori e forme"
+      ],
+      "objectives": [
+        "Identificare e nominare i colori principali",
+        "Riconoscere e denominare le forme comuni"
+      ]
+    },
+    {
+      "title": "Family Members",
+      "description": "Imparare i nomi dei membri della famiglia in inglese e costruire frasi brevi.",
+      "competencies": [
+        "Sviluppo lessicale",
+        "Comprensione di base delle relazioni familiari"
+      ],
+      "objectives": [
+        "Conoscere i nomi dei familiari più comuni",
+        "Creare frasi semplici per descrivere la propria famiglia"
+      ]
+    },
+    {
+      "title": "Daily Activities",
+      "description": "Immagini e vocaboli per descrivere le attività quotidiane in inglese.",
+      "competencies": [
+        "Sviluppo del vocabolario",
+        "Espressione di routine quotidiana"
+      ],
+      "objectives": [
+        "Identificare e comprendere le attività quotidiane",
+        "Descrivere la propria giornata utilizzando frasi semplici"
+      ]
+    },
+    {
+      "title": "Animals and Habitats",
+      "description": "Esplorare nomi di animali e i luoghi in cui vivono, arricchendo la conoscenza del mondo animale.",
+      "competencies": [
+        "Espansione del vocabolario",
+        "Comprensione degli ambienti naturali"
+      ],
+      "objectives": [
+        "Riconoscere e nominare diversi animali in inglese",
+        "Associare gli animali ai loro habitat corrispondenti"
+      ]
+    },
+    {
+      "title": "Seasons and Weather",
+      "description": "Studiare le stagioni e il vocabolario legato alle condizioni meteorologiche.",
+      "competencies": [
+        "Conoscenza delle stagioni e del clima",
+        "Sviluppo del lessico relativo al tempo atmosferico"
+      ],
+      "objectives": [
+        "Identificare le stagioni e il tempo atmosferico in inglese",
+        "Descrivere il clima in ciascuna stagione"
+      ]
+    },
+    {
+      "title": "Food and Drinks",
+      "description": "Esplorare il vocabolario legato al cibo e alle bevande, anche attraverso attività pratiche.",
+      "competencies": [
+        "Enunciazione di bisogni alimentari",
+        "Espansione del vocabolario legato all'alimentazione"
+      ],
+      "objectives": [
+        "Riconoscere e nominare vari cibi e bevande in inglese",
+        "Esprimere preferenze alimentari in modo basico"
+      ]
+    },
+    {
+      "title": "Clothing and Accessories",
+      "description": "Conoscere le parole per descrivere vestiti e accessori comuni, incentivando la capacità di creare combinazioni.",
+      "competencies": [
+        "Vocabolario specifico di abbigliamento",
+        "Espressione delle preferenze personali"
+      ],
+      "objectives": [
+        "Identificare tipi di abbigliamento e accessori in inglese",
+        "Creare frasi semplici per discutere abiti preferiti"
+      ]
+    },
+    {
+      "title": "Time and Daily Routine",
+      "description": "Imparare a dire l'ora e descrivere la routine giornaliera in inglese.",
+      "competencies": [
+        "Comprendere l'importanza del tempo",
+        "Espressione della routine quotidiana"
+      ],
+      "objectives": [
+        "Chiedere e dire l'ora in modo elementare",
+        "Descrivere la propria routine quotidiana utilizzando espressioni temporali"
+      ]
+    },
+    {
+      "title": "Hobbies and Leisure Activities",
+      "description": "Esplorare i hobby e le attività ricreative in inglese, potenziando l'espressività e l'interesse personale.",
+      "competencies": [
+        "Conoscenza di attività di svago",
+        "Espressione di interessi e preferenze"
+      ],
+      "objectives": [
+        "Identificare e nominare hobby diversi",
+        "Condividere le proprie attività preferite in inglese"
+      ]
+    },
+    {
+      "title": "School Subjects",
+      "description": "Apprendere i nomi delle materie scolastiche in inglese, sviluppando la comprensione del contesto educativo.",
+      "competencies": [
+        "Vocabolario specifico dell'ambito scolastico",
+        "Comprensione del sistema educativo"
+      ],
+      "objectives": [
+        "Identificare e denominare varie materie scolastiche in inglese",
+        "Esprimere preferenze su specifici insegnamenti"
+      ]
+    },
+    {
+      "title": "Body Parts and Health",
+      "description": "Conoscere i nomi delle parti del corpo umano e legare la salute alle azioni quotidiane.",
+      "competencies": [
+        "Vocabolario relativo al corpo umano",
+        "Sensibilizzazione all'importanza della salute"
+      ],
+      "objectives": [
+        "Riconoscere e nominare le principali parti del corpo in inglese",
+        "Esprimere sensazioni fisiche e bisogni legati alla salute"
+      ]
+    },
+    {
+      "title": "Transportation",
+      "description": "Esplorare diversi mezzi di trasporto e arricchire il lessico legato agli spostamenti.",
+      "competencies": [
+        "Conoscenza dei mezzi di trasporto",
+        "Acquisizione di termini specifici"
+      ],
+      "objectives": [
+        "Identificare e nominare vari mezzi di trasporto in inglese",
+        "Descrivere il proprio mezzo di trasporto preferito"
+      ]
+    },
+    {
+      "title": "The House and Furniture",
+      "description": "Studiare il vocabolario della casa e degli arredi, favorendo la comprensione e la descrizione degli ambienti abitativi.",
+      "competencies": [
+        "Conoscenza degli elementi di una casa",
+        "Vocabolario legato agli oggetti domestici"
+      ],
+      "objectives": [
+        "Riconoscere e nominare vari oggetti domestici in inglese",
+        "Descrivere le stanze e gli arredi della propria casa"
+      ]
+    },
+    {
+      "title": "Jobs and Professions",
+      "description": "Esplorare ruoli lavorativi e professioni comuni, collegando le attività svolte alle figure professionali.",
+      "competencies": [
+        "Vocabolario relativo al mondo del lavoro",
+        "Conoscenza di differenti professioni"
+      ],
+      "objectives": [
+        "Identificare e denominare varie professioni in inglese",
+        "Associare le attività svolte ai diversi lavori"
+      ]
+    },
+    {
+      "title": "Festivals and Celebrations",
+      "description": "Conoscere festività e celebrazioni tradizionali in diverse culture, arricchendo la comprensione interculturale.",
+      "competencies": [
+        "Esplorazione di tradizioni culturali",
+        "Rispetto e valorizzazione delle diversità"
+      ],
+      "objectives": [
+        "Riconoscere e nominare festività principali in diverse culture",
+        "Condividere usanze e tradizioni legate alle celebrazioni"
+      ]
+    },
+    {
+      "title": "Around the World",
+      "description": "Esplorare i continenti, paesi e capitali del mondo, ampliando la conoscenza geografica e culturale.",
+      "competencies": [
+        "Conoscenza geografica di base",
+        "Apprezzamento delle diversità culturali"
+      ],
+      "objectives": [
+        "Identificare e nominare continenti, paesi e capitali in inglese",
+        "Descrivere brevemente alcune caratteristiche dei diversi luoghi"
+      ]
+    },
+    {
+      "title": "Tell a Story",
+      "description": "Scrivere e raccontare storie brevi in inglese, stimolando la creatività e la capacità narrativa.",
+      "competencies": [
+        "Narrativa creativa",
+        "Espressione verbale di un racconto"
+      ],
+      "objectives": [
+        "Creare una storia con inizio, sviluppo e finale",
+        "Narrare la propria storia utilizzando lessico e strutture grammaticali apprese"
+      ]
+    },
+    {
+      "title": "My Community",
+      "description": "Descrivere la propria comunità di appartenenza in inglese, evidenziando luoghi, persone e attività.",
+      "competencies": [
+        "Espressione di identità e appartenenza",
+        "Descrizione di luoghi familiari"
+      ],
+      "objectives": [
+        "Identificare e nominare luoghi significativi della propria comunità",
+        "Descrivere le attività e le persone presenti nel proprio contesto locale"
+      ]
+    },
+    {
+      "title": "Nature and Environment",
+      "description": "Approfondire la conoscenza degli elementi naturali e sensibilizzare alla tutela dell'ambiente.",
+      "competencies": [
+        "Comprensione dell'ecosistema",
+        "Sensibilizzazione ecologica"
+      ],
+      "objectives": [
+        "Identificare e nominare elementi naturali in inglese",
+        "Esprimere l'importanza della salvaguardia ambientale"
+      ]
+    }
+  ]
+}

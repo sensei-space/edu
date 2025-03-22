@@ -1,0 +1,67 @@
+{
+  "school": "secondary",
+  "subject": "civic",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Diritti dei bambini",
+      "description": "Studio della Convenzione sui Diritti dell'Infanzia e dell'Adolescenza e dei diritti fondamentali dei bambini.",
+      "competencies": [
+        "Conoscenza dei diritti umani",
+        "Capacità di analisi critica"
+      ],
+      "objectives": [
+        "Comprendere i principali diritti garantiti ai bambini",
+        "Riflettere sul rispetto dei diritti nei propri contesti di vita"
+      ]
+    },
+    {
+      "title": "Democrazia e partecipazione",
+      "description": "Approfondimento sul concetto di democrazia, il ruolo dei cittadini nel processo decisionale e l'importanza della partecipazione attiva.",
+      "competencies": [
+        "Comprensione dei principi democratici",
+        "Capacità di partecipazione"
+      ],
+      "objectives": [
+        "Comprendere il significato di democrazia",
+        "Riflettere sull'importanza della partecipazione per una società democratica"
+      ]
+    },
+    {
+      "title": "Istituzioni democratiche",
+      "description": "Studio delle principali istituzioni democratiche, come il Parlamento, il Governo e la Costituzione.",
+      "competencies": [
+        "Conoscenza delle istituzioni politiche",
+        "Capacità di valutazione critica"
+      ],
+      "objectives": [
+        "Conoscere le funzioni delle istituzioni democratiche",
+        "Valutare il ruolo di tali istituzioni nella società"
+      ]
+    },
+    {
+      "title": "Tolleranza e diversità",
+      "description": "Approfondimento sul concetto di tolleranza, il rispetto delle diversità culturali, religiose e sociali nella società.",
+      "competencies": [
+        "Rispetto delle diversità",
+        "Capacità di dialogo interculturale"
+      ],
+      "objectives": [
+        "Comprendere l'importanza della tolleranza",
+        "Riflettere sulle implicazioni della diversità nella convivenza sociale"
+      ]
+    },
+    {
+      "title": "Media e informazione",
+      "description": "Analisi critica del ruolo dei media nell'informazione, la diffusione delle fake news e la media literacy.",
+      "competencies": [
+        "Capacità critica nell'analisi dei media",
+        "Consapevolezza dell'importanza dell'informazione"
+      ],
+      "objectives": [
+        "Sviluppare la capacità di discernimento tra notizie veritiere e false",
+        "Riflettere sul potere dei media nell'opinione pubblica"
+      ]
+    }
+  ]
+}

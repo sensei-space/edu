@@ -1,0 +1,267 @@
+{
+  "school": "secondary",
+  "subject": "math",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Numeri naturali fino a 100.000",
+      "description": "Studio dei numeri naturali fino a 100.000, operazioni di addizione, sottrazione, moltiplicazione e divisione, proprietà dei numeri.",
+      "competencies": [
+        "Calcolo con numeri naturali",
+        "Risolvere problemi matematici"
+      ],
+      "objectives": [
+        "Rappresentare numeri naturali fino a 100.000",
+        "Effettuare operazioni con numeri naturali",
+        "Risolvere problemi con numeri naturali"
+      ]
+    },
+    {
+      "title": "Numeri decimali",
+      "description": "Introduzione ai numeri decimali, confronto, ordinamento, operazioni di addizione, sottrazione, moltiplicazione e divisione.",
+      "competencies": [
+        "Rappresentare numeri decimali",
+        "Risolvere problemi con numeri decimali"
+      ],
+      "objectives": [
+        "Confrontare e ordinare numeri decimali",
+        "Effettuare operazioni con numeri decimali",
+        "Risolvere problemi con numeri decimali"
+      ]
+    },
+    {
+      "title": "Misure di lunghezza, superficie e volume",
+      "description": "Studio delle misure di lunghezza, superficie e volume, conversioni tra unità di misura, calcoli con le misure.",
+      "competencies": [
+        "Misurare lunghezze, superfici e volumi",
+        "Risolvere problemi di misurazione"
+      ],
+      "objectives": [
+        "Convertire tra diverse unità di misura",
+        "Calcolare le misure di lunghezza, superficie e volume",
+        "Risolvere problemi di misura"
+      ]
+    },
+    {
+      "title": "Rappresentazione e interpretazione dei dati",
+      "description": "Grafici a barre, grafici a torta, diagrammi a bastoni, interpretazione dei dati e risoluzione di problemi.",
+      "competencies": [
+        "Rappresentare dati in forma grafica",
+        "Interpretare informazioni da grafici"
+      ],
+      "objectives": [
+        "Costruire grafici a barre, a torta e a bastoni",
+        "Interpretare dati da grafici",
+        "Risolvere problemi basati su rappresentazioni grafiche"
+      ]
+    },
+    {
+      "title": "Suddivisione di figure geometriche",
+      "description": "Studio della suddivisione di figure geometriche in parti uguali, calcolo di aree e perimetri semplici.",
+      "competencies": [
+        "Comprendere divisioni geometriche",
+        "Calcolare aree e perimetri"
+      ],
+      "objectives": [
+        "Suddividere figure geometriche in parti uguali",
+        "Calcolare aree di figure geometriche semplici",
+        "Calcolare perimetri di figure geometriche semplici"
+      ]
+    },
+    {
+      "title": "Numeri frazionari",
+      "description": "Introduzione ai numeri frazionari, somma e differenza di frazioni, operazioni con frazioni.",
+      "competencies": [
+        "Rappresentare numeri frazionari",
+        "Effettuare operazioni con frazioni"
+      ],
+      "objectives": [
+        "Rappresentare numeri frazionari",
+        "Effettuare somma e differenza di frazioni",
+        "Eseguire moltiplicazione e divisione con frazioni"
+      ]
+    },
+    {
+      "title": "Angoli: misura e classificazione",
+      "description": "Studio degli angoli, misurazione, classificazione e proprietà degli angoli.",
+      "competencies": [
+        "Misurare angoli",
+        "Classificare angoli"
+      ],
+      "objectives": [
+        "Misurare la grandezza degli angoli",
+        "Classificare gli angoli in base alla loro ampiezza",
+        "Riconoscere le proprietà degli angoli"
+      ]
+    },
+    {
+      "title": "Moltiplicazione di numeri decimali",
+      "description": "Moltiplicazione tra numeri decimali, posizione delle cifre decimali nei fattori e nel prodotto.",
+      "competencies": [
+        "Moltiplicare numeri decimali",
+        "Comprendere la posizione delle cifre decimali"
+      ],
+      "objectives": [
+        "Eseguire moltiplicazioni tra numeri decimali",
+        "Riconoscere la posizione delle cifre decimali nei calcoli",
+        "Risolvere problemi con moltiplicazioni di numeri decimali"
+      ]
+    },
+    {
+      "title": "Divisione con numeri decimali",
+      "description": "Divisione tra numeri decimali, posizione delle cifre decimali nel dividendo e nel divisore.",
+      "competencies": [
+        "Effettuare divisioni con numeri decimali",
+        "Comprendere la posizione delle cifre decimali"
+      ],
+      "objectives": [
+        "Eseguire divisioni tra numeri decimali",
+        "Identificare la posizione delle cifre decimali nei calcoli divisionali",
+        "Risolvere problemi con divisioni di numeri decimali"
+      ]
+    },
+    {
+      "title": "Proporzioni",
+      "description": "Introduzione alle proporzioni, proprietà delle proporzioni, risoluzione di problemi con le proporzioni.",
+      "competencies": [
+        "Comprendere il concetto di proporzione",
+        "Risolvere problemi di proporzioni"
+      ],
+      "objectives": [
+        "Identificare situazioni proporzionali",
+        "Applicare le proprietà delle proporzioni",
+        "Risolvere problemi utilizzando le proporzioni"
+      ]
+    },
+    {
+      "title": "Numeri razionali: frazioni equivalenti",
+      "description": "Studio delle frazioni equivalenti, confronto e ordinamento di frazioni, conversione tra frazioni equivalenti.",
+      "competencies": [
+        "Comprendere il concetto di frazioni equivalenti",
+        "Eseguire confronto e ordinamento di frazioni"
+      ],
+      "objectives": [
+        "Riconoscere le frazioni equivalenti",
+        "Confrontare e ordinare frazioni",
+        "Convertire frazioni in equivalenti"
+      ]
+    },
+    {
+      "title": "Distanza e punto medio",
+      "description": "Calcolo della distanza tra due punti su una retta numerica, individuazione del punto medio di un segmento.",
+      "competencies": [
+        "Calcolare distanze",
+        "Individuare punti medi"
+      ],
+      "objectives": [
+        "Calcolare la distanza tra due punti su una retta",
+        "Individuare il punto medio di un segmento",
+        "Risolvere problemi che coinvolgono distanze e punti medi"
+      ]
+    },
+    {
+      "title": "Area di figure geometriche piane",
+      "description": "Calcolo dell'area di quadrati, rettangoli, triangoli e parallelogrammi, utilizzando le formule appropriate.",
+      "competencies": [
+        "Calcolare aree di figure piane",
+        "Utilizzare formule per calcolare aree"
+      ],
+      "objectives": [
+        "Calcolare l'area di figure piane semplici",
+        "Applicare le formule per il calcolo dell'area di quadrati, rettangoli, triangoli e parallelogrammi",
+        "Risolvere problemi che richiedono il calcolo di aree"
+      ]
+    },
+    {
+      "title": "Classificazione dei poligoni",
+      "description": "Studio delle caratteristiche dei poligoni, classificazione in base al numero di lati e agli angoli interni.",
+      "competencies": [
+        "Classificare i poligoni",
+        "Identificare caratteristiche dei poligoni"
+      ],
+      "objectives": [
+        "Riconoscere poligoni in base al numero di lati",
+        "Classificare i poligoni in base agli angoli interni",
+        "Identificare caratteristiche specifiche dei poligoni"
+      ]
+    },
+    {
+      "title": "Molteplicazione e divisione con numeri frazionari",
+      "description": "Operazioni di moltiplicazione e divisione con numeri frazionari, semplificazione delle frazioni.",
+      "competencies": [
+        "Effettuare moltiplicazioni con frazioni",
+        "Risolvere divisioni con frazioni"
+      ],
+      "objectives": [
+        "Moltiplicare numeri frazionari",
+        "Dividere numeri frazionari",
+        "Semplificare le frazioni"
+      ]
+    },
+    {
+      "title": "Volume di solidi",
+      "description": "Calcolo del volume di cubi e parallelepipedi, utilizzo della formula corretta per il calcolo del volume.",
+      "competencies": [
+        "Calcolare il volume dei solidi",
+        "Utilizzare formule di calcolo del volume"
+      ],
+      "objectives": [
+        "Calcolare il volume di cubi e parallelepipedi",
+        "Applicare la formula corretta per il calcolo del volume",
+        "Risolvere problemi che richiedono il calcolo del volume di solidi"
+      ]
+    },
+    {
+      "title": "Teorema di Pitagora",
+      "description": "Studio del teorema di Pitagora, calcolo della lunghezza di un lato di un triangolo rettangolo, risoluzione di problemi con il teorema di Pitagora.",
+      "competencies": [
+        "Comprendere il teorema di Pitagora",
+        "Utilizzare il teorema di Pitagora per calcoli"
+      ],
+      "objectives": [
+        "Riconoscere situazioni in cui si applica il teorema di Pitagora",
+        "Calcolare la lunghezza di un lato di un triangolo rettangolo",
+        "Risolvere problemi utilizzando il teorema di Pitagora"
+      ]
+    },
+    {
+      "title": "Proprietà degli angoli nelle figure geometriche",
+      "description": "Angoli interni ed esterni in poligoni, somma degli angoli interni di un poligono, proprietà degli angoli in figure geometriche.",
+      "competencies": [
+        "Comprendere relazioni angolari",
+        "Identificare proprietà degli angoli"
+      ],
+      "objectives": [
+        "Calcolare la somma degli angoli interni di un poligono",
+        "Riconoscere le proprietà degli angoli in poligoni e figure geometriche",
+        "Applicare le conoscenze sulle proprietà degli angoli"
+      ]
+    },
+    {
+      "title": "Risolvere problemi con le percentuali",
+      "description": "Calcolo delle percentuali, sconto, interesse, aumento percentuale, applicazioni pratiche delle percentuali.",
+      "competencies": [
+        "Calcolare percentuali",
+        "Risolvere problemi con percentuali"
+      ],
+      "objectives": [
+        "Calcolare percentuali di quantità",
+        "Determinare sconti e aumenti percentuali",
+        "Risolvere problemi pratici che coinvolgono le percentuali"
+      ]
+    },
+    {
+      "title": "Equazioni: concetto base",
+      "description": "Introduzione alle equazioni, concetto di equazione, risoluzione di equazioni di primo grado con una variabile.",
+      "competencies": [
+        "Comprendere il concetto di equazione",
+        "Risolvere equazioni di primo grado"
+      ],
+      "objectives": [
+        "Riconoscere situazioni che richiedono l'uso di un'equazione",
+        "Risolvere equazioni di primo grado con una variabile",
+        "Verificare le soluzioni delle equazioni ottenute"
+      ]
+    }
+  ]
+}

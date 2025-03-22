@@ -1,0 +1,163 @@
+{
+  "school": "secondary",
+  "subject": "history",
+  "class": "1",
+  "topics": [
+    {
+      "title": "La Preistoria",
+      "description": "Studio delle prime forme di vita umana, la scoperta del fuoco, la caccia e la raccolta.",
+      "competencies": [
+        "Conoscenza del contesto storico",
+        "Capacità di analisi dei cambiamenti sociali"
+      ],
+      "objectives": [
+        "Comprendere le fasi iniziali dell'evoluzione umana",
+        "Riconoscere l'importanza del fuoco nelle prime comunità"
+      ]
+    },
+    {
+      "title": "Le prime civiltà",
+      "description": "Mesopotamia, Egitto, Cina: organizzazione sociale, religione, scrittura cuneiforme, piramidi.",
+      "competencies": [
+        "Comprendere l'evoluzione delle prime civiltà",
+        "Capacità di confronto tra diverse culture"
+      ],
+      "objectives": [
+        "Ricostruire le caratteristiche principali delle civiltà mesopotamiche ed egiziane",
+        "Comprendere l'importanza della scrittura nella storia umana"
+      ]
+    },
+    {
+      "title": "L'Età del Bronzo",
+      "description": "Diffusione della metallurgia, sviluppo delle prime città-stato, commerci nell'area del Mediterraneo.",
+      "competencies": [
+        "Capacità di contestualizzazione storica",
+        "Conoscenza dei principali eventi del periodo"
+      ],
+      "objectives": [
+        "Riconoscere l'importanza della metallurgia nella storia dell'umanità",
+        "Analizzare le caratteristiche delle città-stato nell'Età del Bronzo"
+      ]
+    },
+    {
+      "title": "Le grandi civiltà antiche",
+      "description": "Grecia e Roma: democrazia, mitologia, impero romano, filosofia, teatro.",
+      "competencies": [
+        "Comprendere l'importanza delle civiltà classiche",
+        "Capacità di analisi dei sistemi politici"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche principali della democrazia greca",
+        "Analizzare le cause della caduta dell'impero romano"
+      ]
+    },
+    {
+      "title": "Il Medioevo",
+      "description": "Caduta dell'Impero Romano d'Occidente, feudalesimo, Chiesa medievale, nascita delle Università.",
+      "competencies": [
+        "Conoscenza dei principali eventi medievali",
+        "Capacità di comprensione del feudalesimo"
+      ],
+      "objectives": [
+        "Ricostruire le tappe della caduta dell'Impero Romano d'Occidente",
+        "Comprendere il ruolo della Chiesa nel Medioevo"
+      ]
+    },
+    {
+      "title": "L'Oriente Medievale",
+      "description": "L'Impero Bizantino, la civiltà araba, l'espansione dell'Islam, la Cina delle dinastie Tang e Song.",
+      "competencies": [
+        "Conoscenza delle culture orientali",
+        "Capacità di analisi delle strutture politiche"
+      ],
+      "objectives": [
+        "Comprendere l'importanza dell'Impero Bizantino nel contesto medievale",
+        "Analizzare le cause dell'espansione dell'Islam"
+      ]
+    },
+    {
+      "title": "Il Rinascimento",
+      "description": "Umanesimo, scoperte geografiche, l'arte rinascimentale, la Riforma protestante.",
+      "competencies": [
+        "Conoscenza delle idee rinascimentali",
+        "Capacità di interpretazione delle opere d'arte"
+      ],
+      "objectives": [
+        "Comprendere il significato dell'umanesimo nel Rinascimento",
+        "Analizzare le motivazioni delle scoperte geografiche"
+      ]
+    },
+    {
+      "title": "L'Età della Ragione",
+      "description": "Illuminismo, rivoluzione scientifica, rivoluzione americana, illuministi italiani.",
+      "competencies": [
+        "Comprendere le basi dell'Illuminismo",
+        "Capacità di analisi delle rivoluzioni"
+      ],
+      "objectives": [
+        "Ricostruire le idee centrali dell'Illuminismo",
+        "Analizzare le conseguenze della rivoluzione scientifica"
+      ]
+    },
+    {
+      "title": "La Rivoluzione Francese",
+      "description": "Cause della rivoluzione, il regno del terrore, la nascita della Repubblica, Napoleone Bonaparte.",
+      "competencies": [
+        "Conoscenza delle fasi rivoluzionarie",
+        "Capacità di comprensione dei moti sociali"
+      ],
+      "objectives": [
+        "Identificare le principali cause della Rivoluzione Francese",
+        "Comprendere il ruolo di Napoleone nella storia europea"
+      ]
+    },
+    {
+      "title": "L'Età Contemporanea",
+      "description": "Rivoluzione industriale, unificazione italiana e tedesca, imperialismi, Prima Guerra Mondiale.",
+      "competencies": [
+        "Conoscenza dei processi industriali",
+        "Capacità di contestualizzazione delle guerre"
+      ],
+      "objectives": [
+        "Analizzare le trasformazioni dovute alla Rivoluzione Industriale",
+        "Comprendere le conseguenze della Prima Guerra Mondiale"
+      ]
+    },
+    {
+      "title": "La Seconda Guerra Mondiale",
+      "description": "Le cause del conflitto, gli eventi principali, le conseguenze sul piano politico e sociale.",
+      "competencies": [
+        "Conoscenza delle cause dei conflitti bellici",
+        "Capacità di analisi delle dinamiche internazionali"
+      ],
+      "objectives": [
+        "Identificare le principali cause della Seconda Guerra Mondiale",
+        "Analizzare le conseguenze del conflitto sulla popolazione"
+      ]
+    },
+    {
+      "title": "La Guerra Fredda",
+      "description": "Il bipolarismo tra USA e URSS, la nascita delle Nazioni Unite, la corsa agli armamenti.",
+      "competencies": [
+        "Conoscenza dei sistemi politici della Guerra Fredda",
+        "Capacità di interpretazione delle relazioni internazionali"
+      ],
+      "objectives": [
+        "Ricostruire le dinamiche della Guerra Fredda",
+        "Comprendere il ruolo delle Nazioni Unite nel contesto globale"
+      ]
+    },
+    {
+      "title": "Il Mondo Contemporaneo",
+      "description": "Globalizzazione, crisi ambientale, nuove tecnologie, terrorismo internazionale.",
+      "competencies": [
+        "Comprendere le sfide della contemporaneità",
+        "Capacità di analisi dei fenomeni globali"
+      ],
+      "objectives": [
+        "Analizzare le cause della globalizzazione",
+        "Comprendere l'impatto delle nuove tecnologie sul mondo moderno"
+      ]
+    }
+  ]
+}

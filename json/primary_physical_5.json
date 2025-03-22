@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "physical",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Riscaldamento e stretching",
+      "description": "Attività di riscaldamento muscolare e stretching per preparare il corpo all'attività fisica.",
+      "competencies": [
+        "Conoscenza delle modalità di preparazione al movimento",
+        "Capacità di eseguire correttamente i movimenti"
+      ],
+      "objectives": [
+        "Comprendere l'importanza del riscaldamento prima dell'attività fisica",
+        "Eseguire correttamente gli esercizi di stretching"
+      ]
+    },
+    {
+      "title": "Corsa a resistenza",
+      "description": "Esercizi di corsa con variazioni di velocità e intensità per migliorare la resistenza fisica.",
+      "competencies": [
+        "Miglioramento della resistenza fisica",
+        "Capacità di regolare l'intensità dello sforzo"
+      ],
+      "objectives": [
+        "Aumentare la resistenza fisica attraverso l'attività di corsa",
+        "Regolare la propria intensità durante l'esercizio"
+      ]
+    },
+    {
+      "title": "Salto in lungo",
+      "description": "Apprendimento della tecnica corretta per il salto in lungo, con focus sull'equilibrio e sulla coordinazione.",
+      "competencies": [
+        "Sviluppo delle capacità motorie",
+        "Miglioramento della coordinazione"
+      ],
+      "objectives": [
+        "Acquisire la corretta tecnica di salto in lungo",
+        "Migliorare l'equilibrio e la coordinazione motoria"
+      ]
+    },
+    {
+      "title": "Gioco di squadra: Pallavolo",
+      "description": "Introduzione al gioco della pallavolo, apprendimento delle regole di base e del posizionamento in campo.",
+      "competencies": [
+        "Collaborazione e cooperazione in squadra",
+        "Conoscenza delle regole di base della pallavolo"
+      ],
+      "objectives": [
+        "Comprendere le regole base del gioco della pallavolo",
+        "Applicare le nozioni acquisite durante le partite in classe"
+      ]
+    },
+    {
+      "title": "Gestione del fioretto",
+      "description": "Introduzione all'uso del fioretto e delle tecniche di base della scherma.",
+      "competencies": [
+        "Apprendimento delle norme di sicurezza nell'uso degli attrezzi",
+        "Sviluppo dell'abilità nell'uso del fioretto"
+      ],
+      "objectives": [
+        "Conoscere le norme di sicurezza per la pratica della scherma",
+        "Saper utilizzare correttamente il fioretto in esercizi di base"
+      ]
+    },
+    {
+      "title": "Gara di corsa ad ostacoli",
+      "description": "Organizzazione di una gara di corsa ad ostacoli per testare la velocità e la capacità nel superare gli ostacoli.",
+      "competencies": [
+        "Miglioramento delle capacità fisiche",
+        "Sviluppo della velocità e della destrezza"
+      ],
+      "objectives": [
+        "Partecipare attivamente alla gara di corsa ad ostacoli",
+        "Superare gli ostacoli con velocità e agilità"
+      ]
+    },
+    {
+      "title": "Tecnica di tuffo in piscina",
+      "description": "Apprendimento della corretta tecnica di tuffo in piscina, con focus sull'entrata in acqua e sulla posizione del corpo.",
+      "competencies": [
+        "Miglioramento delle abilità natatorie",
+        "Conoscenza delle regole di sicurezza in acqua"
+      ],
+      "objectives": [
+        "Eseguire correttamente il tuffo in piscina rispettando la tecnica",
+        "Rispettare le regole di sicurezza durante l'attività acquatica"
+      ]
+    },
+    {
+      "title": "Giochi tradizionali: Il cerchio magico",
+      "description": "Attività ludica ispirata ai giochi tradizionali con il cerchio magico, volta a potenziare la coordinazione e la concentrazione.",
+      "competencies": [
+        "Sviluppo delle capacità cognitive attraverso il gioco",
+        "Miglioramento della concentrazione"
+      ],
+      "objectives": [
+        "Partecipare attivamente al gioco del cerchio magico",
+        "Migliorare la capacità di concentrazione e coordinazione"
+      ]
+    },
+    {
+      "title": "Tiro con l'arco",
+      "description": "Introduzione alla pratica del tiro con l'arco con focus sull'ascolto delle istruzioni e sull'ottimizzazione della postura durante la freccia.",
+      "competencies": [
+        "Sviluppo dell'abilità nel tiro con l'arco",
+        "Attenzione alle istruzioni e alla sicurezza"
+      ],
+      "objectives": [
+        "Apprendere la corretta tecnica di tiro con l'arco",
+        "Migliorare la precisione nel lancio della freccia"
+      ]
+    },
+    {
+      "title": "Acrobazie ginniche",
+      "description": "Esercizi di acrobazie ginniche per potenziare la forza fisica, l'equilibrio e la coordinazione motoria.",
+      "competencies": [
+        "Sviluppo della forza e della flessibilità fisica",
+        "Miglioramento dell'equilibrio"
+      ],
+      "objectives": [
+        "Eseguire acrobazie ginniche in sicurezza",
+        "Sviluppare la forza e l'equilibrio tramite gli esercizi proposti"
+      ]
+    },
+    {
+      "title": "Gara di corsa a staffetta",
+      "description": "Organizzazione di una gara a staffetta per potenziare la collaborazione in squadra e la velocità nello scambio del testimone.",
+      "competencies": [
+        "Collaborazione e competenze di squadra",
+        "Miglioramento della velocità di corsa"
+      ],
+      "objectives": [
+        "Partecipare attivamente alla staffetta",
+        "Migliorare la velocità nello scambio del testimone tra i membri della squadra"
+      ]
+    },
+    {
+      "title": "Danza coreografica",
+      "description": "Apprendimento e pratica di una coreografia di gruppo per potenziare la creatività, il senso del ritmo e il lavoro di squadra.",
+      "competencies": [
+        "Miglioramento della creatività e della coordinazione",
+        "Capacità di espressione corporea"
+      ],
+      "objectives": [
+        "Apprendere la coreografia proposta",
+        "Eseguire la danza con coordinazione e senso ritmico insieme ai compagni"
+      ]
+    },
+    {
+      "title": "Calcio: Dribbling e tiri in porta",
+      "description": "Esercizi di dribbling e tiri in porta per migliorare la tecnica di base nel calcio e la precisione nei tiri.",
+      "competencies": [
+        "Sviluppo delle abilità nel gioco del calcio",
+        "Miglioramento della coordinazione e della precisione"
+      ],
+      "objectives": [
+        "Migliorare la tecnica di dribbling nel calcio",
+        "Allenare la precisione nei tiri in porta"
+      ]
+    },
+    {
+      "title": "Partita di basket",
+      "description": "Organizzazione di una partita di basket per applicare le nozioni apprese sulle regole di gioco e il movimento in campo.",
+      "competencies": [
+        "Applicazione delle regole del basket in una partita",
+        "Miglioramento delle capacità di coordinazione e collaborazione"
+      ],
+      "objectives": [
+        "Partecipare attivamente alla partita di basket",
+        "Migliorare la capacità di collaborazione in squadra"
+      ]
+    },
+    {
+      "title": "Allenamento funzionale",
+      "description": "Esercizi di allenamento funzionale per potenziare la resistenza e la forza muscolare con l'utilizzo del peso del corpo.",
+      "competencies": [
+        "Miglioramento della resistenza e della forza fisica",
+        "Conoscenza degli esercizi funzionali"
+      ],
+      "objectives": [
+        "Svolgere gli esercizi funzionali in modo corretto",
+        "Potenziare la resistenza e la forza tramite l'allenamento proposto"
+      ]
+    },
+    {
+      "title": "Percorso motorio: Superare gli ostacoli",
+      "description": "Creazione di un percorso motorio con ostacoli da superare, promuovendo la destrezza e la capacità di superare le sfide fisiche.",
+      "competencies": [
+        "Miglioramento della destrezza motoria",
+        "Capacità di affrontare le sfide in modo proattivo"
+      ],
+      "objectives": [
+        "Superare con successo gli ostacoli del percorso motorio",
+        "Sviluppare la capacità di affrontare le sfide fisiche in modo positivo"
+      ]
+    },
+    {
+      "title": "Giochi cooperativi: La tela del ragno",
+      "description": "Attività cooperativa basata sul gioco della tela del ragno, mirata a potenziare la collaborazione e la comunicazione tra i partecipanti.",
+      "competencies": [
+        "Collaborazione e comunicazione efficace",
+        "Sviluppo delle capacità relazionali"
+      ],
+      "objectives": [
+        "Partecipare attivamente al gioco della tela del ragno",
+        "Migliorare la comunicazione e la collaborazione all'interno del gruppo"
+      ]
+    },
+    {
+      "title": "Salto in alto",
+      "description": "Apprendimento della tecnica corretta per il salto in alto, con focus sull'accelerazione e sull'uso delle braccia durante il salto.",
+      "competencies": [
+        "Sviluppo delle capacità atletiche specifiche",
+        "Miglioramento della tecnica di salto"
+      ],
+      "objectives": [
+        "Acquisire la tecnica corretta per il salto in alto",
+        "Migliorare la distanza e l'altezza del salto"
+      ]
+    },
+    {
+      "title": "Espressione corporea",
+      "description": "Attività di espressione corporea attraverso movimenti e coreografie creative, finalizzata a potenziare la consapevolezza del proprio corpo e delle emozioni.",
+      "competencies": [
+        "Espressione artistica attraverso il movimento",
+        "Miglioramento della consapevolezza corporea"
+      ],
+      "objectives": [
+        "Esprimere liberamente attraverso il movimento corporeo",
+        "Sviluppare la consapevolezza di sé e delle proprie emozioni"
+      ]
+    },
+    {
+      "title": "Ginnastica artistica: La trave",
+      "description": "Esercizi di ginnastica artistica sulla trave per potenziare l'equilibrio, la coordinazione e la forza muscolare.",
+      "competencies": [
+        "Sviluppo delle capacità ginniche specifiche",
+        "Miglioramento dell'equilibrio e della forza muscolare"
+      ],
+      "objectives": [
+        "Eseguire gli esercizi di ginnastica sulla trave con correttezza",
+        "Potenziare l'equilibrio e la forza attraverso l'attività proposta"
+      ]
+    }
+  ]
+}

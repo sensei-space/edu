@@ -1,0 +1,123 @@
+{
+  "school": "secondary",
+  "subject": "civic",
+  "class": "1",
+  "topics": [
+    {
+      "title": "I diritti dell'infanzia",
+      "description": "Introduzione ai principali diritti dei bambini e degli adolescenti sanciti dalla Convenzione ONU sui diritti dell'infanzia e dell'adolescenza.",
+      "competencies": [
+        "Conoscenza dei diritti fondamentali",
+        "Rispetto e promozione dei diritti umani"
+      ],
+      "objectives": [
+        "Comprendere i principali diritti dell'infanzia",
+        "Consapevolezza dell'importanza della tutela dei minori"
+      ]
+    },
+    {
+      "title": "La cittadinanza e l'appartenenza alla comunità",
+      "description": "Analisi della nozione di cittadinanza, dei doveri e dei diritti dei cittadini all'interno della società. Approfondimento del concetto di comunità.",
+      "competencies": [
+        "Rispetto delle regole comunitarie",
+        "Partecipazione alla vita sociale"
+      ],
+      "objectives": [
+        "Comprendere il significato di cittadinanza",
+        "Identificare i doveri e i diritti dei cittadini",
+        "Riflettere sull'importanza della partecipazione attiva alla comunità"
+      ]
+    },
+    {
+      "title": "La regola democratica",
+      "description": "Studio dei principi e delle caratteristiche della democrazia come forma di governo. Approfondimento sui valori democratici e sul concetto di uguaglianza.",
+      "competencies": [
+        "Comprendere il funzionamento della democrazia",
+        "Rispetto delle diversità e promozione dell'inclusione"
+      ],
+      "objectives": [
+        "Conoscere i principi fondamentali della democrazia",
+        "Valorizzare la diversità all'interno della società",
+        "Promuovere la partecipazione democratica"
+      ]
+    },
+    {
+      "title": "Le istituzioni democratiche",
+      "description": "Analisi delle istituzioni democratiche di uno Stato, con focus su Parlamento, Governo, e potere giudiziario. Funzioni e ruoli di ciascuna istituzione.",
+      "competencies": [
+        "Conoscenza delle istituzioni democratiche",
+        "Rispetto delle istituzioni e delle regole"
+      ],
+      "objectives": [
+        "Comprendere le funzioni del Parlamento, del Governo e del potere giudiziario",
+        "Riflettere sull'importanza delle istituzioni nella democrazia",
+        "Rispettare le regole e le leggi come base della convivenza civile"
+      ]
+    },
+    {
+      "title": "La Costituzione italiana",
+      "description": "Studio della Costituzione italiana come legge fondamentale dello Stato. Principi, valori e diritti tutelati dalla Costituzione.",
+      "competencies": [
+        "Conoscenza della Costituzione italiana",
+        "Rispetto dei principi costituzionali"
+      ],
+      "objectives": [
+        "Conoscere i principi fondamentali della Costituzione",
+        "Apprezzare i valori di uguaglianza e libertà sanciti dalla Costituzione",
+        "Rispettare e difendere i diritti costituzionali"
+      ]
+    },
+    {
+      "title": "Elezioni e partecipazione democratica",
+      "description": "Approfondimento sulle elezioni come momento centrale della democrazia. Importanza della partecipazione attiva e consapevole dei cittadini al processo decisionale.",
+      "competencies": [
+        "Partecipazione alle scelte collettive",
+        "Riflessione critica sulla politica"
+      ],
+      "objectives": [
+        "Comprendere il significato delle elezioni in una democrazia",
+        "Promuovere la partecipazione consapevole alla vita politica",
+        "Sviluppare spirito critico verso le dinamiche politiche"
+      ]
+    },
+    {
+      "title": "I valori della convivenza civile",
+      "description": "Studio dei principali valori che regolano la convivenza civile, come il rispetto reciproco, la solidarietà, la giustizia e la non discriminazione.",
+      "competencies": [
+        "Rispetto delle regole sociali",
+        "Promozione di una cultura inclusiva"
+      ],
+      "objectives": [
+        "Riflettere sull'importanza del rispetto reciproco",
+        "Valorizzare la solidarietà come principio fondamentale",
+        "Contrastare e prevenire atti discriminatori"
+      ]
+    },
+    {
+      "title": "La partecipazione attiva alla vita della scuola e della comunità",
+      "description": "Promozione del coinvolgimento degli studenti nella vita scolastica e comunitaria. Importanza della collaborazione e dell'impegno per il bene comune.",
+      "competencies": [
+        "Collaborazione e responsabilità",
+        "Partecipazione attiva alla vita della scuola"
+      ],
+      "objectives": [
+        "Valorizzare la partecipazione degli studenti alle attività scolastiche",
+        "Sviluppare senso di responsabilità verso la comunità",
+        "Favorire il dialogo e la cooperazione tra i membri della comunità educativa"
+      ]
+    },
+    {
+      "title": "La tutela dell'ambiente e lo sviluppo sostenibile",
+      "description": "Approfondimento sui temi legati alla salvaguardia dell'ambiente e allo sviluppo sostenibile. Sensibilizzazione all'importanza della tutela del pianeta.",
+      "competencies": [
+        "Rispetto dell'ambiente e delle risorse naturali",
+        "Promozione di comportamenti sostenibili"
+      ],
+      "objectives": [
+        "Comprendere l'importanza della tutela dell'ambiente",
+        "Riflettere sulle conseguenze delle azioni umane sull'ecosistema",
+        "Adottare comportamenti orientati allo sviluppo sostenibile"
+      ]
+    }
+  ]
+}

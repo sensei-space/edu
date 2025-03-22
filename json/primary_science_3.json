@@ -1,0 +1,103 @@
+{
+  "school": "primary",
+  "subject": "science",
+  "class": "3",
+  "topics": [
+    {
+      "title": "L'aria e il vento",
+      "description": "Studio delle caratteristiche dell'aria e del vento, comprensione del concetto di aria in movimento",
+      "competencies": [
+        "Osservare e descrivere fenomeni naturali",
+        "Comprendere il concetto di pressione atmosferica"
+      ],
+      "objectives": [
+        "Riconoscere il vento come movimento dell'aria",
+        "Capire come la pressione atmosferica influenzi il clima"
+      ]
+    },
+    {
+      "title": "Le stagioni",
+      "description": "Approfondimento sulle caratteristiche delle stagioni e dei cambiamenti climatici che comportano",
+      "competencies": [
+        "Identificare il ciclo delle stagioni",
+        "Osservare e comprendere i cambiamenti del clima"
+      ],
+      "objectives": [
+        "Riconoscere le cause dei cambiamenti stagionali",
+        "Comprendere l'importanza delle stagioni per la vita sulla Terra"
+      ]
+    },
+    {
+      "title": "L'acqua: risorsa essenziale",
+      "description": "Studio delle proprietà dell'acqua, del ciclo dell'acqua e dell'importanza della sua preservazione",
+      "competencies": [
+        "Identificare le proprietà dell'acqua",
+        "Comprendere il ciclo dell'acqua"
+      ],
+      "objectives": [
+        "Capire l'importanza dell'acqua per gli esseri viventi",
+        "Conoscere le fasi del ciclo dell'acqua"
+      ]
+    },
+    {
+      "title": "La materia e i suoi stati",
+      "description": "Studio dei diversi stati della materia (liquido, solido, gassoso) e dei cambiamenti di stato",
+      "competencies": [
+        "Osservare e descrivere i diversi stati della materia",
+        "Comprendere i cambiamenti di stato"
+      ],
+      "objectives": [
+        "Riconoscere e classificare i diversi stati della materia",
+        "Comprendere come avvengono i cambiamenti di stato"
+      ]
+    },
+    {
+      "title": "La terra e il fuoco",
+      "description": "Approfondimento sulle caratteristiche della Terra, sui fenomeni geologici e sui benefici e rischi del fuoco",
+      "competencies": [
+        "Riconoscere la struttura della Terra",
+        "Comprendere i fenomeni geologici"
+      ],
+      "objectives": [
+        "Identificare i benefici e i rischi del fuoco per l'ambiente",
+        "Capire l'importanza della protezione dell'ambiente"
+      ]
+    },
+    {
+      "title": "Le piante e il nutrimento",
+      "description": "Studio del processo di fotosintesi clorofilliana e delle proprietà nutritive delle piante",
+      "competencies": [
+        "Comprendere il processo di fotosintesi",
+        "Conoscere le proprietà nutritive delle piante"
+      ],
+      "objectives": [
+        "Riconoscere il ruolo delle piante per la produzione di ossigeno",
+        "Comprendere l'importanza di un'alimentazione equilibrata"
+      ]
+    },
+    {
+      "title": "Gli animali e il loro ambiente",
+      "description": "Analisi delle caratteristiche degli animali, dei loro habitat e delle interazioni con l'ambiente",
+      "competencies": [
+        "Identificare le caratteristiche degli animali",
+        "Capire le relazioni tra gli animali e l'ambiente"
+      ],
+      "objectives": [
+        "Riconoscere la diversità degli habitat animali",
+        "Comprendere l'impatto umano sull'ambiente e sugli animali"
+      ]
+    },
+    {
+      "title": "L'uomo e la salute dell'ambiente",
+      "description": "Approfondimento sull'importanza della tutela dell'ambiente per la salute dell'uomo",
+      "competencies": [
+        "Comprendere l'interconnessione tra ambiente e salute umana",
+        "Conoscere le azioni per la tutela dell'ambiente"
+      ],
+      "objectives": [
+        "Capire come le azioni umane possano influenzare la salute dell'ambiente",
+        "Riconoscere l'importanza della responsabilità individuale nella tutela ambientale"
+      ]
+    }
+  ]
+}

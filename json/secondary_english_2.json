@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "english",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Introduction to Present Simple",
+      "description": "Introduzione alla costruzione e all'uso del Present Simple per esprimere abitudini e verità generali.",
+      "competencies": [
+        "Comprendere le regole base della grammatica inglese",
+        "Esprimere azioni abituali"
+      ],
+      "objectives": [
+        "Comprendere come formare il Present Simple",
+        "Utilizzare correttamente il Present Simple per parlare di abitudini quotidiane"
+      ]
+    },
+    {
+      "title": "Daily Routine",
+      "description": "Descrizione delle attività quotidiane tramite l'uso del Present Simple. Presentazione di espressioni tipiche per parlare della routine quotidiana.",
+      "competencies": [
+        "Descrivere attività quotidiane",
+        "Capire l'uso del Present Simple nel contesto della routine"
+      ],
+      "objectives": [
+        "Esprimere la propria routine quotidiana in forma scritta e orale",
+        "Utilizzare espressioni temporali appropriate per parlare delle attività giornaliere"
+      ]
+    },
+    {
+      "title": "Past Simple - Regular Verbs",
+      "description": "Introduzione al Passato Semplice con focus sui verbi regolari. Spiegazione delle regole di formazione e degli usi principali.",
+      "competencies": [
+        "Comprendere la differenza tra Present Simple e Past Simple",
+        "Coniugare correttamente i verbi regolari al passato"
+      ],
+      "objectives": [
+        "Saper utilizzare i verbi regolari al passato in frasi affermative, negative e interrogative",
+        "Distinguere tra eventi passati e azioni presenti"
+      ]
+    },
+    {
+      "title": "Family and Friends",
+      "description": "Descrizione di familiari, amici e relazioni usando il Present Simple e il Past Simple. Introduzione di aggettivi e possessivi.",
+      "competencies": [
+        "Descrivere persone e relazioni familiari",
+        "Utilizzare correttamente aggettivi e possessivi"
+      ],
+      "objectives": [
+        "Esprimere dettagli sulle persone vicine utilizzando il vocabolario appreso",
+        "Coniugare i verbi al presente e passato per descrivere azioni legate a familiari ed amici"
+      ]
+    },
+    {
+      "title": "Present Continuous",
+      "description": "Apprendimento della costruzione e dell'uso del Present Continuous per parlare di azioni in corso nel momento presente.",
+      "competencies": [
+        "Esprimere azioni attuali in corso",
+        "Capire la differenza tra Present Simple e Present Continuous"
+      ],
+      "objectives": [
+        "Formare correttamente il Present Continuous",
+        "Descrivere azioni in corso nel momento presente utilizzando le forme affermative, negative e interrogative"
+      ]
+    },
+    {
+      "title": "Outdoor Activities",
+      "description": "Descrizione delle attività all'aperto utilizzando il Present Continuous. Introduzione di vocabolario relativo alle attività all'aria aperta.",
+      "competencies": [
+        "Descrivere attività all'aperto",
+        "Applicare il Present Continuous in contesti specifici"
+      ],
+      "objectives": [
+        "Esprimere azioni in corso durante attività all'aperto in forma scritta e orale",
+        "Arricchire il proprio vocabolario con termini relativi alle attività all'esterno"
+      ]
+    },
+    {
+      "title": "Comparatives and Superlatives",
+      "description": "Approfondimento sul confronto tra caratteristiche di oggetti, persone o luoghi utilizzando comparativi e superlativi.",
+      "competencies": [
+        "Confrontare e descrivere differenze tra oggetti e persone",
+        "Utilizzare la forma comparativa e superlativa degli aggettivi"
+      ],
+      "objectives": [
+        "Sapere come formare comparativi e superlativi di aggettivi",
+        "Descrivere e confrontare oggetti, persone o luoghi utilizzando i comparativi e superlativi"
+      ]
+    },
+    {
+      "title": "Hobbies and Free Time",
+      "description": "Discussione su hobby e tempo libero integrando il Present Simple, il Present Continuous e vocabolario specifico.",
+      "competencies": [
+        "Descrivere le proprie passioni",
+        "Utilizzare i tempi verbali in contesti reali"
+      ],
+      "objectives": [
+        "Esprimere le proprie attività preferite e hobby in forma scritta e orale",
+        "Saper differenziare l'uso del Present Simple e del Present Continuous per parlare di attività ricreative"
+      ]
+    },
+    {
+      "title": "Modal Verbs: Can, Could, Shall, Should",
+      "description": "Studio e pratica dell'uso dei verbi modali per esprimere capacità, possibilità, obbligo, consiglio e futuro.",
+      "competencies": [
+        "Esprimere diverse sfumature di significato",
+        "Coniugare correttamente i verbi modali"
+      ],
+      "objectives": [
+        "Utilizzare correttamente i verbi modali in frasi affermative, negative e interrogative",
+        "Saper esprimere capacità, possibilità o consiglio utilizzando i verbi modali adeguati"
+      ]
+    },
+    {
+      "title": "Past Continuous",
+      "description": "Apprendimento della costruzione e dell'uso del Past Continuous per descrivere azioni in corso in un determinato momento nel passato.",
+      "competencies": [
+        "Descrivere azioni in corso nel passato",
+        "Confrontare il Present Continuous con il Past Continuous"
+      ],
+      "objectives": [
+        "Formulare frasi usando il Past Continuous",
+        "Descrivere situazioni passate utilizzando il Past Continuous per azioni in corso"
+      ]
+    },
+    {
+      "title": "Health and Daily Habits",
+      "description": "Discussione sul benessere, l'alimentazione e le abitudini quotidiane. Utilizzo del Present Simple e del Past Simple in contesti legati alla salute.",
+      "competencies": [
+        "Esprimere opinioni sulla salute e l'alimentazione",
+        "Descrivere le proprie routine sanitarie"
+      ],
+      "objectives": [
+        "Coniugare verbi riguardanti la salute al presente e al passato",
+        "Esprimere opinioni sulla dieta e l'importanza delle buone abitudini tramite il vocabolario appreso"
+      ]
+    },
+    {
+      "title": "Question Words",
+      "description": "Studio e pratica delle principali interrogative words per formare domande di diverso tipo.",
+      "competencies": [
+        "Formulare domande corrette",
+        "Utilizzare le question words in modo appropriato"
+      ],
+      "objectives": [
+        "Sapere come utilizzare le interrogative words per formare domande",
+        "Creare domande adeguate utilizzando le question words in diverse situazioni"
+      ]
+    },
+    {
+      "title": "First Conditional",
+      "description": "Introduzione al primo tipo di periodo ipotetico: relazione tra condizione e risultato futuro possibile. Utilizzo di If + Present Simple e Will.",
+      "competencies": [
+        "Esprimere condizioni e conseguenze future",
+        "Utilizzare correttamente la struttura del First Conditional"
+      ],
+      "objectives": [
+        "Saper costruire frasi del First Conditional",
+        "Esprimere condizioni e risultati futuri possibili usando la struttura condizionale appresa"
+      ]
+    },
+    {
+      "title": "Town and Places",
+      "description": "Descrizione di città e luoghi utilizzando aggettivi, vocabolario specifico e il Present Continuous. Introduzione delle preposizioni di luogo.",
+      "competencies": [
+        "Descrivere città e località geografiche",
+        "Utilizzare preposizioni di luogo in modo corretto"
+      ],
+      "objectives": [
+        "Descrivere la propria città o luoghi conosciuti utilizzando aggettivi e il Present Continuous",
+        "Indicare la posizione di oggetti o luoghi utilizzando preposizioni appropriate"
+      ]
+    },
+    {
+      "title": "Past Simple - Irregular Verbs",
+      "description": "Studio dei verbi irregolari più comuni al passato. Esercitazioni sulla corretta coniugazione e sull'uso dei verbi irregolari.",
+      "competencies": [
+        "Coniugare i verbi irregolari al passato",
+        "Capire la variazione dei verbi irregolari rispetto a quelli regolari"
+      ],
+      "objectives": [
+        "Memorizzare la forma al passato dei verbi irregolari più comuni",
+        "Utilizzare correttamente i verbi irregolari al passato in frasi e contesti diversi"
+      ]
+    },
+    {
+      "title": "The Environment",
+      "description": "Discussione sul tema dell'ambiente, inquinamento e salvaguardia del pianeta. Utilizzo del Present Simple e del Present Continuous.",
+      "competencies": [
+        "Esprimere opinioni sull'ambiente",
+        "Utilizzare il vocabolario relativo all'ecologia"
+      ],
+      "objectives": [
+        "Descrivere problemi legati all'ambiente in forma scritta e orale",
+        "Utilizzare correttamente i tempi verbali per parlare dell'ambiente e delle azioni di tutela"
+      ]
+    },
+    {
+      "title": "Second Conditional",
+      "description": "Approfondimento sul secondo tipo di periodo ipotetico: situazioni immaginarie nel presente. Uso di If + Past Simple e Would.",
+      "competencies": [
+        "Esprimere situazioni ipotetiche nel presente",
+        "Utilizzare il Second Conditional in contesti specifici"
+      ],
+      "objectives": [
+        "Saper costruire frasi del Second Conditional",
+        "Esprimere desideri o situazioni non reali nel presente utilizzando il Second Conditional"
+      ]
+    },
+    {
+      "title": "Food and Cooking",
+      "description": "Descrizione di cibo, ingredienti e ricette tramite l'uso del Present Simple e del Present Continuous. Introduzione di vocabolario culinario.",
+      "competencies": [
+        "Descrivere cibi e ricette",
+        "Utilizzare vocabolario specifico in ambito culinario"
+      ],
+      "objectives": [
+        "Presentare una ricetta utilizzando il Present Simple e il Present Continuous",
+        "Identificare ingredienti e processi culinari utilizzando termini appropriati"
+      ]
+    },
+    {
+      "title": "Third Conditional",
+      "description": "Approfondimento sul terzo tipo di periodo ipotetico: eventi passati immaginari e rimpianti. Uso di If + Past Perfect e Would Have.",
+      "competencies": [
+        "Esprimere situazioni ipotetiche nel passato",
+        "Utilizzare il Third Conditional per esprimere rimpianti"
+      ],
+      "objectives": [
+        "Saper costruire frasi del Third Conditional",
+        "Esprimere rimpianti o eventi passati immaginari usando il Third Conditional"
+      ]
+    },
+    {
+      "title": "Celebrations and Traditions",
+      "description": "Discussione su festività, celebrazioni e tradizioni culturali. Utilizzo del Present Simple e del Past Simple per descrivere eventi passati e presenti.",
+      "competencies": [
+        "Descrivere e confrontare festività",
+        "Capire le tradizioni culturali di diversi paesi"
+      ],
+      "objectives": [
+        "Descrivere festività e celebrazioni tipiche del proprio paese o di altri, usando correttamente i tempi verbali",
+        "Confrontare tradizioni culturali diverse e riconoscere somiglianze e differenze"
+      ]
+    }
+  ]
+}

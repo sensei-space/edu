@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SENSEi edu - argomenti per ogni ordine di scuola e materia</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
+    <meta property="og:image" content="https://sensei-space.github.io/edu/topics/images/SENSEi.png" />
+</head>
+
+<body id="mainBody">
+
+    <div class="print" title="Stampa senza parametri" onclick="printWithParameters(0)">🖶</div>
+    <div class="printParams" title="Stampa con parametri" onclick="printWithParameters(1)">⎙</div>
+
+    <div class="container">
+        <div class="titleContainer">
+            <h1 id="activitiesTitle">Argomenti disponibili in</h1>
+            <img src="./images/logo.png" id="logo" alt="logo" />
+            <img src="./images/logo_print.png" id="logo_print" alt="logo" />
+        </div>
+        <p id="activitiesDescription" class="mainDescription"></p>
+        <div class="selectors">
+            <select id="schoolSelect" title="school">
+                <option disabled selected value="">Livello scuola</option>
+            </select>
+            <select id="subjectSelect" title="subject">
+                <option disabled selected value="">Scegli Materia</option>
+            </select>
+            <select id="classSelect" title="class">
+                <option disabled selected value="">Scegli Classe</option>
+            </select>
+        </div>
+        
+        <div id="activitiesList"></div>
+    </div>
+
+    <script src="script.js" defer></script>
+
+</body>
+
+</html>

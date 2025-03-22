@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "science",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Il mio corpo",
+      "description": "Studio delle parti del corpo umano e delle relative funzioni.",
+      "competencies": [
+        "Conoscenza del corpo umano",
+        "Identificazione delle funzioni corporee"
+      ],
+      "objectives": [
+        "Riconoscere le principali parti del corpo",
+        "Comprendere le funzioni svolte dalle diverse parti del corpo"
+      ]
+    },
+    {
+      "title": "Gli animali",
+      "description": "Introduzione al mondo degli animali, differenze tra animali domestici e selvatici.",
+      "competencies": [
+        "Conoscenza degli animali",
+        "Classificazione degli animali"
+      ],
+      "objectives": [
+        "Identificare alcuni animali domestici e selvatici",
+        "Conoscere le caratteristiche principali di alcuni tipi di animali"
+      ]
+    },
+    {
+      "title": "Le piante",
+      "description": "Studio delle parti delle piante e delle loro funzioni, differenze tra piante da frutto e piante da fiore.",
+      "competencies": [
+        "Conoscenza delle piante",
+        "Identificazione delle parti di una pianta"
+      ],
+      "objectives": [
+        "Riconoscere le principali parti di una pianta",
+        "Comprendere le diverse funzioni svolte dalle radici, dal fusto e dalle foglie"
+      ]
+    },
+    {
+      "title": "Le stagioni",
+      "description": "Analisi delle caratteristiche e delle variazioni climatiche delle quattro stagioni dell'anno.",
+      "competencies": [
+        "Conoscenza delle stagioni",
+        "Descrizione delle differenze climatiche"
+      ],
+      "objectives": [
+        "Identificare le quattro stagioni",
+        "Comprendere come cambia il clima e l'ambiente naturale in base alla stagione"
+      ]
+    },
+    {
+      "title": "Gli alimenti",
+      "description": "Studio dei principali alimenti e delle loro caratteristiche nutrizionali.",
+      "competencies": [
+        "Conoscenza degli alimenti",
+        "Identificazione delle proprietà nutritive"
+      ],
+      "objectives": [
+        "Riconoscere e classificare alcuni alimenti",
+        "Comprendere l'importanza di una dieta equilibrata"
+      ]
+    },
+    {
+      "title": "I minerali",
+      "description": "Introduzione ai concetti di minerali e rocce, differenza tra minerali preziosi e comuni.",
+      "competencies": [
+        "Conoscenza dei minerali",
+        "Classificazione dei minerali"
+      ],
+      "objectives": [
+        "Identificare alcune tipologie di minerali",
+        "Comprendere le differenze tra minerali preziosi e comuni"
+      ]
+    },
+    {
+      "title": "L'acqua",
+      "description": "Studio delle proprietà e dell'importanza dell'acqua per gli esseri viventi.",
+      "competencies": [
+        "Conoscenza dell'acqua",
+        "Consapevolezza dell'importanza dell'acqua"
+      ],
+      "objectives": [
+        "Riconoscere le proprietà dell'acqua",
+        "Comprendere perché l'acqua è essenziale per la vita"
+      ]
+    },
+    {
+      "title": "La terra",
+      "description": "Esplorazione del pianeta Terra, studio dei diversi tipi di terreno e formazioni geologiche.",
+      "competencies": [
+        "Conoscenza del pianeta Terra",
+        "Identificazione delle formazioni terrestri"
+      ],
+      "objectives": [
+        "Riconoscere i diversi tipi di terreno (sabbia, argilla, ecc.)",
+        "Comprendere che la Terra è formata da terra, acqua, aria e rocce"
+      ]
+    },
+    {
+      "title": "Il tempo atmosferico",
+      "description": "Studio dei fenomeni atmosferici come pioggia, sole, vento e neve.",
+      "competencies": [
+        "Conoscenza del tempo atmosferico",
+        "Descrizione dei fenomeni meteorologici"
+      ],
+      "objectives": [
+        "Identificare i principali fenomeni atmosferici",
+        "Comprendere come il tempo atmosferico influenzi la vita quotidiana"
+      ]
+    },
+    {
+      "title": "Le fasi lunari",
+      "description": "Analisi delle diverse fasi della Luna nel corso di un mese.",
+      "competencies": [
+        "Conoscenza delle fasi lunari",
+        "Descrizione dei movimenti celesti"
+      ],
+      "objectives": [
+        "Riconoscere le principali fasi lunari",
+        "Comprendere le cause dei diversi aspetti della Luna visibili dalla Terra"
+      ]
+    },
+    {
+      "title": "I suoni",
+      "description": "Studio dei suoni prodotti da oggetti e animali, distinzione tra suoni forti e deboli.",
+      "competencies": [
+        "Conoscenza dei suoni",
+        "Classificazione dei suoni"
+      ],
+      "objectives": [
+        "Riconoscere la provenienza di alcuni suoni",
+        "Comprendere la differenza tra suoni forti e suoni deboli"
+      ]
+    },
+    {
+      "title": "Le piante da frutto",
+      "description": "Esplorazione delle piante per la produzione di frutti, riconoscimento di frutti comuni.",
+      "competencies": [
+        "Conoscenza delle piante da frutto",
+        "Identificazione dei frutti"
+      ],
+      "objectives": [
+        "Riconoscere alcune piante da frutto (albero di mele, albero di arance, ecc.)",
+        "Comprendere che i frutti sono parte delle piante da frutto"
+      ]
+    },
+    {
+      "title": "La prevenzione",
+      "description": "Discussione sull'importanza della prevenzione per la salute.",
+      "competencies": [
+        "Consapevolezza della prevenzione",
+        "Promozione del benessere"
+      ],
+      "objectives": [
+        "Comprendere l'importanza delle norme di igiene e prevenzione per la salute",
+        "Promuovere comportamenti sani a scuola e in famiglia"
+      ]
+    },
+    {
+      "title": "Gli ambienti naturali",
+      "description": "Studio dei diversi tipi di ambienti naturali come il bosco, il fiume, la montagna.",
+      "competencies": [
+        "Conoscenza degli ambienti naturali",
+        "Identificazione degli ecosistemi"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche principali di diversi ambienti naturali",
+        "Comprendere l'importanza della tutela dell'ambiente"
+      ]
+    },
+    {
+      "title": "La materia",
+      "description": "Introduzione ai concetti di materia solida, liquida e gassosa, riconoscimento di oggetti in diversi stati.",
+      "competencies": [
+        "Conoscenza dei diversi stati della materia",
+        "Classificazione della materia"
+      ],
+      "objectives": [
+        "Identificare oggetti solidi, liquidi e gassosi nella vita quotidiana",
+        "Comprendere le caratteristiche principali di ciascuno stato della materia"
+      ]
+    },
+    {
+      "title": "Le basi della nutrizione",
+      "description": "Discussione sui principi base di una sana alimentazione con focus su frutta, verdura e cereali.",
+      "competencies": [
+        "Conoscenza degli alimenti salutari",
+        "Promozione di una corretta alimentazione"
+      ],
+      "objectives": [
+        "Identificare alimenti salutari per una dieta equilibrata",
+        "Comprendere l'importanza di consumare frutta, verdura e cereali per la salute"
+      ]
+    },
+    {
+      "title": "L'energia solare",
+      "description": "Studio dell'energia proveniente dal Sole, importanza per la vita sulla Terra.",
+      "competencies": [
+        "Conoscenza dell'energia solare",
+        "Consapevolezza dell'importanza dell'energia"
+      ],
+      "objectives": [
+        "Comprendere che il Sole è la principale fonte di energia per la vita sulla Terra",
+        "Riconoscere l'utilizzo dell'energia solare in alcune situazioni quotidiane"
+      ]
+    },
+    {
+      "title": "La compostaggio",
+      "description": "Spiegazione del processo di compostaggio e dell'importanza del riciclo dei rifiuti organici.",
+      "competencies": [
+        "Conoscenza del compostaggio",
+        "Promozione del riciclo"
+      ],
+      "objectives": [
+        "Comprendere come avviene il processo di trasformazione dei rifiuti organici in compost",
+        "Promuovere la pratica del compostaggio per ridurre gli sprechi e preservare l'ambiente"
+      ]
+    },
+    {
+      "title": "Le forme degli oggetti",
+      "description": "Riconoscimento e classificazione delle forme geometriche presenti negli oggetti di uso quotidiano.",
+      "competencies": [
+        "Conoscenza delle forme geometriche",
+        "Identificazione delle forme"
+      ],
+      "objectives": [
+        "Riconoscere e nominare le forme geometriche (cerchio, quadrato, rettangolo, ecc.)",
+        "Associare le forme geometriche agli oggetti corrispondenti"
+      ]
+    },
+    {
+      "title": "Il riciclo",
+      "description": "Discussione sull'importanza del riciclo dei materiali per la salvaguardia dell'ambiente.",
+      "competencies": [
+        "Consapevolezza del riciclo",
+        "Promozione di comportamenti sostenibili"
+      ],
+      "objectives": [
+        "Comprendere il concetto di riciclo e la differenza tra vetro, plastica, carta, ecc.",
+        "Promuovere attività di riciclo a scuola e in famiglia per contribuire alla tutela dell'ambiente"
+      ]
+    }
+  ]
+}

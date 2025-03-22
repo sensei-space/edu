@@ -1,0 +1,79 @@
+{
+  "school": "secondary",
+  "subject": "civic",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Conoscenza dei diritti d'infanzia",
+      "description": "Approfondimento sui diritti riconosciuti ai bambini e ai ragazzi dalla Convenzione ONU del 1989.",
+      "competencies": [
+        "Conoscenza dei principi fondamentali della Convenzione ONU sui diritti dell'infanzia",
+        "Riflessione sull'importanza dei diritti umani già nell'età evolutiva"
+      ],
+      "objectives": [
+        "Comprendere i principali diritti garantiti ai bambini dalla Convenzione ONU",
+        "Riflettere sul concetto di uguaglianza e rispetto sin dalla giovane età"
+      ]
+    },
+    {
+      "title": "Storia dei movimenti per i diritti civili",
+      "description": "Analisi dei movimenti storici e contemporanei che hanno lottato per l'affermazione dei diritti civili e della parità di trattamento.",
+      "competencies": [
+        "Capacità di analisi critica di eventi storici",
+        "Sviluppo del senso di giustizia e solidarietà"
+      ],
+      "objectives": [
+        "Comprendere il contesto storico dei principali movimenti per i diritti civili",
+        "Riconoscere l'importanza dell'impegno civico nella tutela dei diritti umani"
+      ]
+    },
+    {
+      "title": "Partecipazione democratica",
+      "description": "Approfondimento sul concetto di partecipazione attiva dei cittadini alla vita politica e sociale.",
+      "competencies": [
+        "Comprendere il funzionamento delle istituzioni democratiche",
+        "Sviluppo del senso di cittadinanza attiva"
+      ],
+      "objectives": [
+        "Conoscere le principali forme di partecipazione democratica",
+        "Sviluppare capacità di dialogo e confronto per il miglioramento della comunità"
+      ]
+    },
+    {
+      "title": "Rispetto delle diversità",
+      "description": "Promozione del rispetto delle diversità, inclusa quella di genere, etnia e cultura.",
+      "competencies": [
+        "Rispetto delle diversità e promozione dell'inclusione",
+        "Sensibilizzazione alla parità di trattamento"
+      ],
+      "objectives": [
+        "Comprendere l'importanza del rispetto delle differenze nella costruzione di una società inclusiva",
+        "Contrastare pregiudizi e discriminazioni attraverso l'educazione e il dialogo"
+      ]
+    },
+    {
+      "title": "Diritti umani e ambiente",
+      "description": "Approfondimento sull'interconnessione tra diritti umani e tutela dell'ambiente.",
+      "competencies": [
+        "Consapevolezza dell'interdipendenza tra tutela ambientale e diritti umani",
+        "Promozione di comportamenti responsabili"
+      ],
+      "objectives": [
+        "Comprendere come la salvaguardia dell'ambiente sia legata alla tutela dei diritti umani",
+        "Proporre azioni concrete per la salvaguardia dell'ambiente nel rispetto dei diritti delle persone"
+      ]
+    },
+    {
+      "title": "Media literacy e disinformazione",
+      "description": "Analisi critica dei media, della diffusione di fake news e dell'importanza di una corretta informazione.",
+      "competencies": [
+        "Capacità di analisi critica dei messaggi mediatici",
+        "Consapevolezza dell'importanza di fonti affidabili"
+      ],
+      "objectives": [
+        "Sviluppare un approccio critico verso le informazioni ricevute attraverso i media",
+        "Riconoscere e contrastare la diffusione di fake news e disinformazione"
+      ]
+    }
+  ]
+}

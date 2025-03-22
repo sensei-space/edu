@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "history",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Le origini dell'uomo",
+      "description": "Studio delle prime specie umane e delle loro caratteristiche principali.",
+      "competencies": [
+        "Conoscenza della preistoria",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Comprendere le caratteristiche delle prime specie umane",
+        "Riconoscere le principali tappe dell'evoluzione umana"
+      ]
+    },
+    {
+      "title": "Le prime civiltà",
+      "description": "Approfondimento sulle prime civiltà che hanno dato origine alle prime società organizzate.",
+      "competencies": [
+        "Conoscenza delle prime civiltà",
+        "Capacità di comparazione storica"
+      ],
+      "objectives": [
+        "Identificare le principali prime civiltà",
+        "Comprendere le prime forme di organizzazione sociale"
+      ]
+    },
+    {
+      "title": "Gli Egizi",
+      "description": "Studio della civiltà egizia, della sua organizzazione politica, sociale e culturale.",
+      "competencies": [
+        "Conoscenza della civiltà egizia",
+        "Capacità di contestualizzazione storica"
+      ],
+      "objectives": [
+        "Riconoscere l'importanza della civiltà egizia nell'antichità",
+        "Capire le caratteristiche dell'organizzazione politica egizia"
+      ]
+    },
+    {
+      "title": "Gli Ittiti e gli Assiri",
+      "description": "Analisi delle civiltà ittite e assire, con focus su strutture politiche e militari.",
+      "competencies": [
+        "Conoscenza delle civiltà ittite e assire",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Comprendere le caratteristiche delle civiltà ittite e assire",
+        "Riconoscere l'importanza storica di queste civiltà"
+      ]
+    },
+    {
+      "title": "Gli Etruschi",
+      "description": "Studio della civiltà etrusca, con particolare attenzione alle loro abitudini e organizzazione politica.",
+      "competencies": [
+        "Conoscenza della civiltà etrusca",
+        "Capacità di riflessione storica"
+      ],
+      "objectives": [
+        "Identificare le principali caratteristiche degli Etruschi",
+        "Comprendere il ruolo politico degli Etruschi nell'Italia antica"
+      ]
+    },
+    {
+      "title": "Gli antichi Greci",
+      "description": "Esplorazione della civiltà greca, dalla nascita della democrazia alle conquiste di Alessandro Magno.",
+      "competencies": [
+        "Conoscenza della civiltà greca",
+        "Capacità di contestualizzazione storica"
+      ],
+      "objectives": [
+        "Riconoscere l'importanza della civiltà greca per lo sviluppo dell'Occidente",
+        "Comprendere il concetto di democrazia ateniese"
+      ]
+    },
+    {
+      "title": "La Roma antica",
+      "description": "Analisi della civiltà romana, dall'antica monarchia alla Repubblica e all'Impero.",
+      "competencies": [
+        "Conoscenza della civiltà romana",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Identificare le tappe principali della storia di Roma",
+        "Comprendere l'evoluzione politica di Roma"
+      ]
+    },
+    {
+      "title": "I barbari e le invasioni",
+      "description": "Esame delle popolazioni barbariche e delle loro invasioni durante il declino dell'Impero romano.",
+      "competencies": [
+        "Conoscenza dei popoli barbari",
+        "Capacità di comparazione storica"
+      ],
+      "objectives": [
+        "Comprendere le cause e le conseguenze delle invasioni barbariche",
+        "Riconoscere il ruolo dei barbari nella caduta dell'Impero romano"
+      ]
+    },
+    {
+      "title": "La nascita del Cristianesimo",
+      "description": "Studio dell'origine e della diffusione del Cristianesimo nell'Impero romano.",
+      "competencies": [
+        "Conoscenza delle origini del Cristianesimo",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Comprendere il contesto storico della nascita del Cristianesimo",
+        "Riconoscere l'importanza del Cristianesimo nell'Impero romano"
+      ]
+    },
+    {
+      "title": "L'Impero bizantino",
+      "description": "Approfondimento sulla civiltà bizantina, dal periodo romano all'espansione dell'Impero.",
+      "competencies": [
+        "Conoscenza dell'Impero bizantino",
+        "Capacità di contestualizzazione storica"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche dell'Impero bizantino",
+        "Comprendere il ruolo dell'Impero bizantino nel Medioevo"
+      ]
+    },
+    {
+      "title": "I Vichinghi",
+      "description": "Analisi della società e delle incursioni dei Vichinghi nell'Europa medievale.",
+      "competencies": [
+        "Conoscenza dei Vichinghi",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche della società vichinga",
+        "Comprendere le conseguenze delle incursioni vichinghe"
+      ]
+    },
+    {
+      "title": "Le Crociate",
+      "description": "Studio delle Crociate, con focus su motivazioni, svolgimento e conseguenze.",
+      "competencies": [
+        "Conoscenza delle Crociate",
+        "Capacità di riflessione storica"
+      ],
+      "objectives": [
+        "Identificare le cause e le tappe delle Crociate",
+        "Comprendere le conseguenze delle Crociate sul Medioevo europeo"
+      ]
+    },
+    {
+      "title": "Il Trecento italiano",
+      "description": "Esplorazione del Trecento italiano con grande attenzione al Rinascimento.",
+      "competencies": [
+        "Conoscenza del Trecento italiano",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche del Trecento italiano",
+        "Comprendere il contesto storico del Rinascimento"
+      ]
+    },
+    {
+      "title": "La scoperta dell'America",
+      "description": "Analisi dei viaggi di esplorazione che portarono alla scoperta dell'America.",
+      "competencies": [
+        "Conoscenza delle esplorazioni geografiche",
+        "Capacità di contestualizzazione storica"
+      ],
+      "objectives": [
+        "Comprendere le motivazioni dei viaggi di esplorazione",
+        "Riconoscere l'importanza della scoperta dell'America"
+      ]
+    },
+    {
+      "title": "I grandi navigatori",
+      "description": "Studio delle vite e delle imprese dei grandi navigatori dell'Età delle scoperte.",
+      "competencies": [
+        "Conoscenza dei grandi navigatori",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Identificare i principali navigatori dell'Età delle scoperte",
+        "Comprendere l'importanza delle loro imprese per l'espansione europea"
+      ]
+    },
+    {
+      "title": "L'Europa nell'Epoca Moderna",
+      "description": "Esame delle principali potenze europee e degli avvenimenti che caratterizzarono l'Epoca Moderna.",
+      "competencies": [
+        "Conoscenza dell'Epoca Moderna",
+        "Capacità di comparazione storica"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche delle principali potenze europee",
+        "Comprendere gli eventi significativi dell'Epoca Moderna"
+      ]
+    },
+    {
+      "title": "La Rivoluzione francese",
+      "description": "Studio della Rivoluzione francese: cause, svolgimento e conseguenze.",
+      "competencies": [
+        "Conoscenza della Rivoluzione francese",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Identificare le cause della Rivoluzione francese",
+        "Comprendere le tappe e gli effetti della Rivoluzione"
+      ]
+    },
+    {
+      "title": "Il Risorgimento italiano",
+      "description": "Analisi del processo storico che portò all'unità d'Italia nel XIX secolo.",
+      "competencies": [
+        "Conoscenza del Risorgimento",
+        "Capacità di contestualizzazione storica"
+      ],
+      "objectives": [
+        "Comprendere le tappe e i protagonisti del Risorgimento italiano",
+        "Riconoscere l'importanza dell'unità d'Italia"
+      ]
+    },
+    {
+      "title": "La Prima Guerra Mondiale",
+      "description": "Esame delle cause, degli svolgimenti e delle conseguenze della Prima Guerra Mondiale.",
+      "competencies": [
+        "Conoscenza della Prima Guerra Mondiale",
+        "Capacità di riflessione storica"
+      ],
+      "objectives": [
+        "Identificare le cause scatenanti della Prima Guerra Mondiale",
+        "Comprendere le conseguenze del conflitto sul mondo"
+      ]
+    },
+    {
+      "title": "La Seconda Guerra Mondiale",
+      "description": "Studio della Seconda Guerra Mondiale con focus su cause, battaglie e conseguenze.",
+      "competencies": [
+        "Conoscenza della Seconda Guerra Mondiale",
+        "Capacità di analisi storica"
+      ],
+      "objectives": [
+        "Riconoscere le tappe principali della Seconda Guerra Mondiale",
+        "Comprendere l'importanza del conflitto per la storia contemporanea"
+      ]
+    }
+  ]
+}

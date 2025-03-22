@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "physical",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Conoscenza e utilizzo degli attrezzi ginnici",
+      "description": "Introduzione agli attrezzi ginnici più comuni in palestra e alla corretta esecuzione di esercizi di base con essi.",
+      "competencies": [
+        "Conoscenza delle attrezzature ginniche",
+        "Sviluppo della coordinazione motoria"
+      ],
+      "objectives": [
+        "Riconoscere e nominare gli attrezzi ginnici",
+        "Eseguire correttamente esercizi di base utilizzando attrezzi ginnici"
+      ]
+    },
+    {
+      "title": "Riscaldamento e stretching",
+      "description": "Apprendimento di routine di riscaldamento e stretching per preparare il corpo all'attività fisica e prevenire infortuni.",
+      "competencies": [
+        "Conoscenza dell'importanza del riscaldamento",
+        "Sviluppo della flessibilità"
+      ],
+      "objectives": [
+        "Eseguire correttamente una serie di esercizi di riscaldamento",
+        "Eseguire correttamente una serie di esercizi di stretching"
+      ]
+    },
+    {
+      "title": "Fondamenti della corsa",
+      "description": "Apprendimento della tecnica di corsa corretta, enfatizzando la postura, la respirazione e il movimento delle braccia e delle gambe.",
+      "competencies": [
+        "Corretta postura nella corsa",
+        "Sviluppo della resistenza"
+      ],
+      "objectives": [
+        "Correggere la postura durante la corsa",
+        "Migliorare la tecnica di corsa attraverso esercizi pratici"
+      ]
+    },
+    {
+      "title": "Gioco di squadra: Pallavolo",
+      "description": "Introduzione al gioco della pallavolo con focus sulle regole di base, posizionamento in campo e tecniche di ricezione e palleggio.",
+      "competencies": [
+        "Collaborazione di gruppo",
+        "Sviluppo delle capacità motorie"
+      ],
+      "objectives": [
+        "Capire le regole di base della pallavolo",
+        "Eseguire correttamente le tecniche di ricezione e palleggio"
+      ]
+    },
+    {
+      "title": "Educazione alla postura corretta",
+      "description": "Consapevolezza sull'importanza di una corretta postura nel quotidiano e durante l'attività fisica, con esercizi specifici.",
+      "competencies": [
+        "Conoscenza dell'importanza della postura",
+        "Sviluppo della consapevolezza corporea"
+      ],
+      "objectives": [
+        "Riconoscere una postura corretta",
+        "Mantenere una postura corretta durante diverse attività"
+      ]
+    },
+    {
+      "title": "Salto in lungo",
+      "description": "Apprendimento della tecnica corretta per il salto in lungo, includendo la rincorsa, l'impulso e il posizionamento del corpo durante il salto.",
+      "competencies": [
+        "Sviluppo della forza muscolare",
+        "Miglioramento della coordinazione"
+      ],
+      "objectives": [
+        "Eseguire una rincorsa corretta per il salto in lungo",
+        "Migliorare la distanza nel salto attraverso la corretta tecnica"
+      ]
+    },
+    {
+      "title": "Educazione alla respirazione",
+      "description": "Apprendimento dell'importanza della respirazione corretta durante l'attività fisica e tecniche per migliorarla.",
+      "competencies": [
+        "Conoscenza del ruolo della respirazione",
+        "Miglioramento della resistenza"
+      ],
+      "objectives": [
+        "Praticare tecniche di respirazione durante l'attività fisica",
+        "Migliorare la resistenza attraverso la corretta respirazione"
+      ]
+    },
+    {
+      "title": "Equilibrio e coordinazione",
+      "description": "Esercizi per migliorare l'equilibrio e la coordinazione corporea, con focus su giochi e attività divertenti e stimolanti.",
+      "competencies": [
+        "Miglioramento dell'equilibrio",
+        "Sviluppo della coordinazione motoria"
+      ],
+      "objectives": [
+        "Eseguire esercizi specifici per migliorare l'equilibrio",
+        "Sviluppare la coordinazione attraverso attività ludiche"
+      ]
+    },
+    {
+      "title": "Ginnastica artistica: Elementi base",
+      "description": "Apprendimento di elementi base della ginnastica artistica, come capriole, ruote e bilanciamenti, con attenzione alla sicurezza.",
+      "competencies": [
+        "Sviluppo della flessibilità",
+        "Acquisizione di nuove abilità motorie"
+      ],
+      "objectives": [
+        "Eseguire correttamente una capriola",
+        "Migliorare la flessibilità attraverso esercizi di ginnastica artistica"
+      ]
+    },
+    {
+      "title": "Corsa ad ostacoli",
+      "description": "Conoscenza e pratica della corsa ad ostacoli per migliorare la velocità e la capacità di superare barriere fisiche.",
+      "competencies": [
+        "Miglioramento della velocità",
+        "Sviluppo della determinazione"
+      ],
+      "objectives": [
+        "Superare gli ostacoli con successo",
+        "Aumentare la velocità attraverso esercizi specifici"
+      ]
+    },
+    {
+      "title": "Gioco di squadra: Calcio",
+      "description": "Introduzione al gioco del calcio con focus sulle regole di base, posizionamento in campo, tecniche di dribbling e tiro in porta.",
+      "competencies": [
+        "Collaborazione di gruppo",
+        "Sviluppo delle abilità tattiche"
+      ],
+      "objectives": [
+        "Capire le regole di base del calcio",
+        "Eseguire correttamente tecniche di dribbling e tiro"
+      ]
+    },
+    {
+      "title": "Esercizi di forza",
+      "description": "Apprendimento di esercizi per sviluppare la forza muscolare, con attenzione alla corretta esecuzione e all'importanza del recupero.",
+      "competencies": [
+        "Sviluppo della forza muscolare",
+        "Conoscenza dell'importanza del recupero"
+      ],
+      "objectives": [
+        "Eseguire correttamente esercizi di forza con pesi leggeri",
+        "Comprendere l'importanza del recupero dopo l'allenamento"
+      ]
+    },
+    {
+      "title": "Lancio del peso",
+      "description": "Apprendimento della tecnica corretta per il lancio del peso, comprendendo la posizione iniziale, la rotazione e il lancio.",
+      "competencies": [
+        "Sviluppo della forza muscolare",
+        "Miglioramento della coordinazione"
+      ],
+      "objectives": [
+        "Migliorare la tecnica di lancio del peso",
+        "Aumentare la distanza nel lancio attraverso la corretta tecnica"
+      ]
+    },
+    {
+      "title": "Educazione all'igiene e al benessere",
+      "description": "Consapevolezza sull'importanza dell'igiene e delle abitudini di vita salutari per il benessere fisico e mentale.",
+      "competencies": [
+        "Conoscenza dell'importanza dell'igiene",
+        "Promozione del benessere"
+      ],
+      "objectives": [
+        "Comprendere l'importanza dell'igiene personale",
+        "Adottare abitudini di vita salutari"
+      ]
+    },
+    {
+      "title": "Bracciate e gambate",
+      "description": "Apprendimento della tecnica corretta per bracciata e gambrata in vista della futura introduzione al nuoto.",
+      "competencies": [
+        "Sviluppo della resistenza",
+        "Miglioramento della coordinazione"
+      ],
+      "objectives": [
+        "Eseguire correttamente la bracciata",
+        "Migliorare la coordinazione braccia-gambe nelle gambrate"
+      ]
+    },
+    {
+      "title": "Educazione alla sicurezza in palestra",
+      "description": "Conoscenza delle regole di sicurezza da rispettare durante gli allenamenti in palestra e l'importanza dell'uso corretto degli attrezzi.",
+      "competencies": [
+        "Rispetto delle norme di sicurezza",
+        "Conoscenza dell'uso corretto delle attrezzature"
+      ],
+      "objectives": [
+        "Rispettare le regole di sicurezza in palestra",
+        "Utilizzare correttamente gli attrezzi ginnici"
+      ]
+    },
+    {
+      "title": "Lancio del vortex",
+      "description": "Apprendimento della tecnica di lancio del vortex, concentrando l'attenzione sull'impugnatura, la rotazione e la traiettoria.",
+      "competencies": [
+        "Miglioramento della precisione",
+        "Sviluppo della potenza"
+      ],
+      "objectives": [
+        "Lanciare il vortex in modo preciso",
+        "Aumentare la distanza di lancio attraverso la corretta tecnica"
+      ]
+    },
+    {
+      "title": "Corsa a staffetta",
+      "description": "Conoscenza e pratica della corsa a staffetta, migliora la collaborazione di gruppo e la capacità di passaggio del testimone.",
+      "competencies": [
+        "Collaborazione di gruppo",
+        "Miglioramento della velocità"
+      ],
+      "objectives": [
+        "Completare una staffetta con successo",
+        "Migliorare i tempi di passaggio del testimone"
+      ]
+    },
+    {
+      "title": "Educazione alla nutrizione sportiva",
+      "description": "Consapevolezza sull'importanza di una corretta alimentazione per sostenere l'attività fisica, con focus su alimenti adatti agli sportivi.",
+      "competencies": [
+        "Conoscenza dell'alimentazione",
+        "Promozione di stili di vita sani"
+      ],
+      "objectives": [
+        "Identificare cibi adatti al supporto dell'attività fisica",
+        "Comprendere l'importanza di una corretta alimentazione per gli sportivi"
+      ]
+    },
+    {
+      "title": "Giuramento olimpico e storia dei Giochi",
+      "description": "Conoscenza del giuramento olimpico e delle origini storiche dei Giochi Olimpici, promuovendo valori di fair play e competizione sana.",
+      "competencies": [
+        "Conoscenza della storia dello sport",
+        "Promozione dei valori olimpici"
+      ],
+      "objectives": [
+        "Riconoscere il significato del giuramento olimpico",
+        "Comprendere le origini e l'importanza dei Giochi Olimpici"
+      ]
+    }
+  ]
+}

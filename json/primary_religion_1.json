@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "religion",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione ai valori",
+      "description": "Conoscenza dei valori fondamentali come il rispetto, la solidarietà, la gentilezza. Analisi di piccole storie che illustrano tali valori.",
+      "competencies": [
+        "Sviluppo del senso civico e morale",
+        "Capacità di identificare comportamenti positivi"
+      ],
+      "objectives": [
+        "Riconoscere i valori fondamentali",
+        "Capire l'importanza del rispetto verso gli altri"
+      ]
+    },
+    {
+      "title": "Le festività religiose",
+      "description": "Studio delle principali festività legate alle diverse religioni. Approfondimento di festività come Natale, Pasqua, ecc.",
+      "competencies": [
+        "Rispetto delle diversità culturali",
+        "Conoscenza delle tradizioni religiose"
+      ],
+      "objectives": [
+        "Riconoscere e rispettare le festività religiose",
+        "Conoscere le tradizioni legate alle festività principali"
+      ]
+    },
+    {
+      "title": "La figura del creato",
+      "description": "Esplorazione della natura come opera creativa. Riflessioni sulla bellezza e diversità delle creature presenti nel mondo.",
+      "competencies": [
+        "Rispetto per l'ambiente",
+        "Apprezzamento della bellezza naturale"
+      ],
+      "objectives": [
+        "Osservare e apprezzare la natura circostante",
+        "Comprendere che la natura è un dono da preservare"
+      ]
+    },
+    {
+      "title": "La preghiera",
+      "description": "Introduzione alla pratica della preghiera come momento di riflessione e contatto con l'interiore. Studio di preghiere semplici.",
+      "competencies": [
+        "Sviluppo della spiritualità",
+        "Capacità di riflessione interiore"
+      ],
+      "objectives": [
+        "Comprendere il significato della preghiera",
+        "Esperienziare momenti di silenzio e contemplazione"
+      ]
+    },
+    {
+      "title": "Gli insegnamenti dei grandi maestri spirituali",
+      "description": "Studio di figure spirituali che hanno diffuso insegnamenti di pace, amore e altruismo. Esempi: San Francesco, Gandhi, Madre Teresa.",
+      "competencies": [
+        "Conoscenza delle figure spirituali significative",
+        "Valorizzazione dei principi di pace e altruismo"
+      ],
+      "objectives": [
+        "Conoscere la vita e gli insegnamenti dei grandi maestri spirituali",
+        "Ispirarsi ai principi di amore e solidarietà"
+      ]
+    },
+    {
+      "title": "Racconti biblici",
+      "description": "Illustrazione di brevi storie della Bibbia adatte ai bambini. Esempi: la creazione, Noè e l'arca, David e Golia.",
+      "competencies": [
+        "Conoscenza dei racconti biblici fondamentali",
+        "Capacità di interpretazione simbolica"
+      ],
+      "objectives": [
+        "Familiarizzare con i racconti della Bibbia",
+        "Comprendere i valori espressi attraverso le storie sacre"
+      ]
+    }
+  ]
+}

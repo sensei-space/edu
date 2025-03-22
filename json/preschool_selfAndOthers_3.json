@@ -1,0 +1,127 @@
+{
+  "school": "preschool",
+  "subject": "selfAndOthers",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Conoscere se stessi",
+      "description": "Iniziare a esplorare e comprendere le proprie caratteristiche, emozioni e capacità.",
+      "competencies": [
+        "Autoconsapevolezza",
+        "Gestione delle emozioni"
+      ],
+      "objectives": [
+        "Identificare le proprie emozioni",
+        "Riconoscere e accettare le proprie peculiarità"
+      ]
+    },
+    {
+      "title": "Le relazioni con gli altri",
+      "description": "Approfondire l'importanza delle relazioni sociali e delle interazioni con gli altri.",
+      "competencies": [
+        "Empatia",
+        "Cooperazione"
+      ],
+      "objectives": [
+        "Rispettare le differenze personali",
+        "Sviluppare capacità di condivisione"
+      ]
+    },
+    {
+      "title": "Comprendere le emozioni altrui",
+      "description": "Imparare a riconoscere le emozioni e i bisogni degli altri attraverso l'osservazione e l'ascolto attivo.",
+      "competencies": [
+        "Empatia",
+        "Comunicazione non verbale"
+      ],
+      "objectives": [
+        "Riconoscere le espressioni emotive degli altri",
+        "Mostrare compassione e supporto verso i compagni"
+      ]
+    },
+    {
+      "title": "Le regole del gioco di gruppo",
+      "description": "Sperimentare il rispetto delle regole nel contesto del gioco di gruppo.",
+      "competencies": [
+        "Rispetto delle regole",
+        "Collaborazione"
+      ],
+      "objectives": [
+        "Seguire le regole in maniera condivisa",
+        "Imparare a gestire la vittoria e la sconfitta in modo equilibrato"
+      ]
+    },
+    {
+      "title": "Risolvere conflitti pacificamente",
+      "description": "Capire l'importanza della mediazione e dell'ascolto reciproco nell'affrontare situazioni di conflitto.",
+      "competencies": [
+        "Gestione dei conflitti",
+        "Empatia"
+      ],
+      "objectives": [
+        "Applicare strategie di risoluzione pacifica dei conflitti",
+        "Comunicare in modo costruttivo durante una discussione"
+      ]
+    },
+    {
+      "title": "Responsabilità e impegno reciproco",
+      "description": "Sviluppare un senso di responsabilità e condivisione degli impegni all'interno del gruppo.",
+      "competencies": [
+        "Responsabilità",
+        "Cooperazione"
+      ],
+      "objectives": [
+        "Contribuire attivamente al raggiungimento degli obiettivi comuni",
+        "Rispettare gli impegni presi verso i compagni"
+      ]
+    },
+    {
+      "title": "Celebrare le diversità",
+      "description": "Valorizzare la diversità culturale e individuale all'interno del gruppo classe.",
+      "competencies": [
+        "Rispetto delle differenze",
+        "Sensibilità interculturale"
+      ],
+      "objectives": [
+        "Riconoscere e apprezzare le diversità tra i compagni",
+        "Partecipare attivamente a iniziative che celebrano la diversità"
+      ]
+    },
+    {
+      "title": "Il supporto reciproco",
+      "description": "Promuovere la solidarietà e l'aiuto reciproco tra i bambini durante le attività scolastiche.",
+      "competencies": [
+        "Empatia",
+        "Collaborazione"
+      ],
+      "objectives": [
+        "Offrire aiuto e supporto ai compagni in difficoltà",
+        "Accogliere il supporto offerto dagli altri con gratitudine"
+      ]
+    },
+    {
+      "title": "Cura e rispetto dell'ambiente condiviso",
+      "description": "Sensibilizzare i bambini sull'importanza del rispetto dell'ambiente e degli spazi condivisi.",
+      "competencies": [
+        "Rispetto dell'ambiente",
+        "Collaborazione"
+      ],
+      "objectives": [
+        "Contribuire alla pulizia e all'ordine dell'ambiente scolastico",
+        "Imparare a condividere materiali e spazi in modo responsabile"
+      ]
+    },
+    {
+      "title": "Empowerment attraverso il supporto reciproco",
+      "description": "Favorire l'empowerment e la crescita personale attraverso la reciproca fiducia e sostegno tra i compagni.",
+      "competencies": [
+        "Autostima",
+        "Collaborazione"
+      ],
+      "objectives": [
+        "Valorizzare le potenzialità di sé e degli altri",
+        "Offrire e ricevere feedback positivi e costruttivi"
+      ]
+    }
+  ]
+}

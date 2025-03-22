@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "science",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione alla scienza",
+      "description": "Principi fondamentali della scienza, metodo scientifico, osservazioni e misurazioni.",
+      "competencies": [
+        "Comprendere il metodo scientifico",
+        "Sviluppare capacità di osservazione"
+      ],
+      "objectives": [
+        "Capire i principi fondamentali della scienza",
+        "Imparare a effettuare semplici osservazioni e misurazioni"
+      ]
+    },
+    {
+      "title": "Proprietà della materia",
+      "description": "Caratteristiche fisiche della materia, stati di aggregazione, proprietà misurabili.",
+      "competencies": [
+        "Identificare le proprietà della materia",
+        "Comprendere i concetti di solido, liquido e gas"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche fisiche dei diversi materiali",
+        "Capire le differenze tra solidi, liquidi e gas"
+      ]
+    },
+    {
+      "title": "Elementi e composti",
+      "description": "Differenza tra elementi e composti, concetto di formula chimica.",
+      "competencies": [
+        "Distinguere tra elementi e composti",
+        "Comprendere il concetto di formula chimica"
+      ],
+      "objectives": [
+        "Riconoscere la differenza tra elementi e composti",
+        "Essere in grado di scrivere formule chimiche semplici"
+      ]
+    },
+    {
+      "title": "La cellula",
+      "description": "Struttura e funzioni delle cellule, differenza tra cellule vegetali e animali.",
+      "competencies": [
+        "Conoscere la struttura delle cellule",
+        "Comprendere le funzioni cellulari"
+      ],
+      "objectives": [
+        "Identificare le principali parti di una cellula",
+        "Capire le differenze tra cellule animali e vegetali"
+      ]
+    },
+    {
+      "title": "Sistemi del corpo umano",
+      "description": "Sistema scheletrico, muscolare, digestivo, respiratorio e circolatorio.",
+      "competencies": [
+        "Conoscere i principali sistemi del corpo umano",
+        "Comprendere le funzioni di ogni sistema"
+      ],
+      "objectives": [
+        "Identificare gli organi principali di ciascun sistema",
+        "Capire le funzioni svolte dallo scheletro, dai muscoli, dall'apparato digerente, respiratorio e circolatorio"
+      ]
+    },
+    {
+      "title": "Ecosistemi",
+      "description": "Relazioni tra organismi viventi e ambiente, catene alimentari, ruolo dei diversi organismi nell'ecosistema.",
+      "competencies": [
+        "Comprendere la relazione tra organismi e ambiente",
+        "Conoscere la struttura delle catene alimentari"
+      ],
+      "objectives": [
+        "Capire come gli organismi viventi interagiscono con l'ambiente",
+        "Essere in grado di identificare i diversi livelli trofici in una catena alimentare"
+      ]
+    },
+    {
+      "title": "Il suolo e i minerali",
+      "description": "Composizione e formazione del suolo, tipi di minerali e loro utilizzo.",
+      "competencies": [
+        "Capire la formazione del suolo",
+        "Conoscere i principali minerali"
+      ],
+      "objectives": [
+        "Identificare i processi che portano alla formazione del suolo",
+        "Riconoscere i principali minerali e le loro applicazioni"
+      ]
+    },
+    {
+      "title": "Forze e movimento",
+      "description": "Definizione di forza, tipi di forze, movimento degli oggetti.",
+      "competencies": [
+        "Comprendere il concetto di forza",
+        "Conoscere i diversi tipi di movimento"
+      ],
+      "objectives": [
+        "Essere in grado di definire e identificare le forze",
+        "Comprendere come agiscono le forze sugli oggetti in movimento"
+      ]
+    },
+    {
+      "title": "Luce e ombra",
+      "description": "Propagazione della luce, formazione delle ombre, riflessione e rifrazione.",
+      "competencies": [
+        "Comprendere i fenomeni legati alla luce",
+        "Riconoscere la formazione delle ombre"
+      ],
+      "objectives": [
+        "Capire come si propaga la luce",
+        "Essere in grado di spiegare la formazione delle ombre e dei fenomeni di riflessione e rifrazione"
+      ]
+    },
+    {
+      "title": "Energia",
+      "description": "Forme di energia, trasformazioni energetiche, risparmio energetico.",
+      "competencies": [
+        "Conoscere le varie forme di energia",
+        "Comprendere il concetto di trasformazione energetica"
+      ],
+      "objectives": [
+        "Riconoscere e definire le diverse forme di energia",
+        "Capire come avvengono le trasformazioni energetiche e l'importanza del risparmio energetico"
+      ]
+    },
+    {
+      "title": "Materiali e loro proprietà",
+      "description": "Classificazione dei materiali, proprietà termiche, elettriche e meccaniche.",
+      "competencies": [
+        "Identificare le diverse categorie di materiali",
+        "Conoscere le proprietà termiche, elettriche e meccaniche"
+      ],
+      "objectives": [
+        "Essere in grado di classificare i materiali in base alle loro caratteristiche",
+        "Capire come le proprietà termiche, elettriche e meccaniche influenzano l'utilizzo dei materiali"
+      ]
+    },
+    {
+      "title": "Applicazioni della tecnologia",
+      "description": "Ruolo della tecnologia nella società, innovazioni tecnologiche, impatto sull'ambiente.",
+      "competencies": [
+        "Comprendere il ruolo della tecnologia",
+        "Conoscere le principali innovazioni tecnologiche"
+      ],
+      "objectives": [
+        "Capire come la tecnologia influisce sulla vita quotidiana",
+        "Essere consapevoli dell'impatto ambientale delle innovazioni tecnologiche"
+      ]
+    },
+    {
+      "title": "Terra e spazio",
+      "description": "Struttura della Terra, movimento dei pianeti, fenomeni atmosferici, esplorazione spaziale.",
+      "competencies": [
+        "Conoscere la struttura della Terra e dei pianeti",
+        "Comprendere i fenomeni atmosferici"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche principali della Terra e dei pianeti del sistema solare",
+        "Capire come si verificano i fenomeni atmosferici e il concetto di esplorazione spaziale"
+      ]
+    },
+    {
+      "title": "Genetica e ereditarietà",
+      "description": "Concetto di genetica, ereditarietà dei tratti fisici, DNA e cromosomi.",
+      "competencies": [
+        "Comprendere i concetti di genetica ed ereditarietà",
+        "Conoscere la struttura del DNA e dei cromosomi"
+      ],
+      "objectives": [
+        "Capire come si trasmettono i tratti fisici tra generazioni",
+        "Essere in grado di identificare la struttura del DNA e dei cromosomi"
+      ]
+    },
+    {
+      "title": "Salute e alimentazione",
+      "description": "Corretta alimentazione, importanza dell'esercizio fisico, prevenzione delle malattie.",
+      "competencies": [
+        "Comprendere l'importanza della salute e dell'alimentazione",
+        "Conoscere le buone pratiche per prevenire le malattie"
+      ],
+      "objectives": [
+        "Essere consapevoli dell'importanza di un'alimentazione sana ed equilibrata",
+        "Sapere come prevenire alcune malattie attraverso corrette abitudini di vita"
+      ]
+    },
+    {
+      "title": "Risorse naturali e sostenibilità",
+      "description": "Utilizzo delle risorse naturali, sviluppo sostenibile, impatto delle attività umane sull'ambiente.",
+      "competencies": [
+        "Comprendere il concetto di sviluppo sostenibile",
+        "Conoscere l'impatto delle attività umane sull'ambiente"
+      ],
+      "objectives": [
+        "Capire l'importanza della gestione sostenibile delle risorse naturali",
+        "Essere consapevoli delle conseguenze negative dell'inquinamento e di altre azioni dannose per l'ambiente"
+      ]
+    },
+    {
+      "title": "Balene, fiori e batteri: da Galileo a Linneo e Pasteur",
+      "description": "Storia della scienza, importanti scoperte e scienziati nel campo della biologia e della medicina.",
+      "competencies": [
+        "Conoscere le principali scoperte scientifiche nel campo della biologia",
+        "Riconoscere il contributo di importanti scienziati alla scienza"
+      ],
+      "objectives": [
+        "Essere consapevoli del ruolo cruciale che la ricerca scientifica ha avuto nello sviluppo della medicina e della biologia",
+        "Riconoscere i principali contributi di Galileo, Linneo e Pasteur alla scienza"
+      ]
+    },
+    {
+      "title": "Fenomeni magnetici",
+      "description": "Proprietà magnetiche dei materiali, campi magnetici, applicazioni pratiche dei magneti.",
+      "competencies": [
+        "Comprendere le proprietà magnetiche",
+        "Conoscere le applicazioni dei magneti"
+      ],
+      "objectives": [
+        "Essere in grado di spiegare come funzionano i campi magnetici",
+        "Capire le principali applicazioni pratiche dei magneti"
+      ]
+    },
+    {
+      "title": "Acidi e basi",
+      "description": "Caratteristiche degli acidi e delle basi, indicazioni per il riconoscimento, reazioni chimiche.",
+      "competencies": [
+        "Riconoscere gli acidi e le basi",
+        "Comprendere le reazioni chimiche che avvengono"
+      ],
+      "objectives": [
+        "Essere in grado di identificare acidi e basi nella vita di tutti i giorni",
+        "Capire le reazioni chimiche che avvengono quando acidi e basi si mescolano"
+      ]
+    },
+    {
+      "title": "Onde sonore",
+      "description": "Proprietà delle onde sonore, propagazione del suono, frequenza e intensità.",
+      "competencies": [
+        "Comprendere le proprietà delle onde sonore",
+        "Riconoscere i fattori che influenzano il suono"
+      ],
+      "objectives": [
+        "Essere in grado di spiegare come si propagano le onde sonore",
+        "Capire come la frequenza e l'intensità influenzano il suono"
+      ]
+    }
+  ]
+}

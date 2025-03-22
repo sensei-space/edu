@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "geography",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Il clima",
+      "description": "Studio delle caratteristiche del clima, influenze e differenze tra le varie stagioni.",
+      "competencies": [
+        "Riconoscere gli elementi climatici",
+        "Comprendere le variazioni climatiche"
+      ],
+      "objectives": [
+        "Identificare i principali elementi del clima",
+        "Capire le cause delle diverse stagioni"
+      ]
+    },
+    {
+      "title": "I continenti e gli oceani",
+      "description": "Studio della geografia fisica del pianeta Terra, con focus sui continenti e gli oceani che li separano.",
+      "competencies": [
+        "Conoscere la composizione geografica terrestre",
+        "Distinguere tra continenti e oceani"
+      ],
+      "objectives": [
+        "Identificare i continenti e gli oceani sulla mappa",
+        "Comprendere il concetto di continente e oceano"
+      ]
+    },
+    {
+      "title": "Le principali catene montuose",
+      "description": "Esplorazione delle principali catene montuose del mondo e delle caratteristiche di alcune di esse.",
+      "competencies": [
+        "Conoscere le principali catene montuose",
+        "Comprendere l'importanza delle montagne"
+      ],
+      "objectives": [
+        "Riconoscere sulle mappe le catene montuose più importanti",
+        "Capire il ruolo delle montagne nel nostro pianeta"
+      ]
+    },
+    {
+      "title": "Le fiumi e i laghi",
+      "description": "Studio dei fiumi e dei laghi più significativi a livello mondiale e delle loro caratteristiche.",
+      "competencies": [
+        "Conoscere i principali fiumi e laghi",
+        "Comprendere il ciclo dell'acqua"
+      ],
+      "objectives": [
+        "Identificare i fiumi e laghi più importanti sulle mappe",
+        "Capire il percorso dell'acqua nel ciclo idrologico"
+      ]
+    },
+    {
+      "title": "I deserti del mondo",
+      "description": "Esplorazione dei principali deserti presenti sulla Terra, con particolare attenzione alle loro caratteristiche.",
+      "competencies": [
+        "Riconoscere i principali deserti",
+        "Comprendere l'ecosistema desertico"
+      ],
+      "objectives": [
+        "Identificare i deserti sui continenti",
+        "Capire come gli esseri viventi si adattano alla vita nel deserto"
+      ]
+    },
+    {
+      "title": "La vegetazione della Terra",
+      "description": "Studio della diversità vegetale del pianeta Terra, focalizzandosi su differenti tipologie di flora.",
+      "competencies": [
+        "Conoscere i principali tipi di vegetazione",
+        "Comprendere l'importanza della flora"
+      ],
+      "objectives": [
+        "Riconoscere i tipi di vegetazione sulla mappa",
+        "Capire il ruolo della vegetazione nell'ecosistema terrestre"
+      ]
+    },
+    {
+      "title": "La fauna mondiale",
+      "description": "Esplorazione della diversità faunistica presente sulla Terra e delle caratteristiche degli animali che la compongono.",
+      "competencies": [
+        "Riconoscere la diversità faunistica",
+        "Comprendere l'adattamento degli animali"
+      ],
+      "objectives": [
+        "Identificare gli animali tipici di diverse regioni del mondo",
+        "Capire come gli animali si sono adattati ai vari ambienti"
+      ]
+    },
+    {
+      "title": "Le tradizioni e i costumi dei popoli",
+      "description": "Approfondimento sulle tradizioni, i costumi e le abitudini dei vari popoli presenti nel mondo, con particolare attenzione alla diversità culturale.",
+      "competencies": [
+        "Conoscere le tradizioni e i costumi delle popolazioni",
+        "Rispettare la diversità culturale"
+      ],
+      "objectives": [
+        "Riconoscere le diverse tradizioni dei popoli",
+        "Capire e apprezzare la ricchezza della diversità culturale"
+      ]
+    },
+    {
+      "title": "Le mappe geografiche",
+      "description": "Studio della rappresentazione cartografica e della lettura delle mappe geografiche per comprendere meglio il nostro pianeta.",
+      "competencies": [
+        "Saper leggere una mappa",
+        "Comprendere la simbologia cartografica"
+      ],
+      "objectives": [
+        "Interpretare le informazioni presenti in una mappa",
+        "Riconoscere simboli e legende cartografiche"
+      ]
+    },
+    {
+      "title": "La sostenibilità ambientale",
+      "description": "Approfondimento sull'importanza della sostenibilità ambientale e sulle azioni che possiamo compiere per proteggere il nostro pianeta.",
+      "competencies": [
+        "Comprendere l'importanza della sostenibilità",
+        "Riconoscere le azioni per la tutela dell'ambiente"
+      ],
+      "objectives": [
+        "Capire come comportarsi in modo sostenibile",
+        "Identificare le azioni quotidiane per proteggere l'ambiente"
+      ]
+    }
+  ]
+}

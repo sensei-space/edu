@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "math",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Numeri fino a 100",
+      "description": "Approfondimento sui numeri da 0 a 100: ordine, confronto, segno maggiore e minore.",
+      "competencies": [
+        "Capacità di ordinare numeri fino a 100",
+        "Capacità di confrontare numeri fino a 100"
+      ],
+      "objectives": [
+        "Riconoscere e scrivere numeri fino a 100",
+        "Confrontare due numeri fino a 100"
+      ]
+    },
+    {
+      "title": "Addizioni entro 100",
+      "description": "Introduzione alle addizioni entro 100 utilizzando i concetti di somma, addendi e uguaglianza.",
+      "competencies": [
+        "Capacità di eseguire addizioni entro 100",
+        "Capacità di riconoscere addendi e somma"
+      ],
+      "objectives": [
+        "Eseguire addizioni orizzontali e verticali entro 100",
+        "Risolvere problemi di somme entro 100"
+      ]
+    },
+    {
+      "title": "Sottrazioni entro 100",
+      "description": "Introduzione alle sottrazioni entro 100 utilizzando i concetti di differenza, minuendo e sottraendo.",
+      "competencies": [
+        "Capacità di eseguire sottrazioni entro 100",
+        "Capacità di riconoscere minuendo e sottraendo"
+      ],
+      "objectives": [
+        "Eseguire sottrazioni orizzontali e verticali entro 100",
+        "Risolvere problemi di differenze entro 100"
+      ]
+    },
+    {
+      "title": "Numeri pari e dispari",
+      "description": "Distinguere numeri pari da numeri dispari e applicare criteri per riconoscerli.",
+      "competencies": [
+        "Capacità di riconoscere numeri pari e dispari",
+        "Capacità di identificare pattern nei numeri"
+      ],
+      "objectives": [
+        "Classificare numeri come pari o dispari",
+        "Risolvere problemi che richiedono l'identificazione di numeri pari e dispari"
+      ]
+    },
+    {
+      "title": "Tabelline del 2 e del 5",
+      "description": "Imparare e memorizzare le tabelline del 2 e del 5 per facilitare successivamente le moltiplicazioni.",
+      "competencies": [
+        "Capacità di moltiplicare per 2 e 5",
+        "Capacità di memorizzare tabelline"
+      ],
+      "objectives": [
+        "Ripetere le tabelline del 2 e del 5",
+        "Risolvere problemi di moltiplicazioni specifiche con il 2 e il 5"
+      ]
+    },
+    {
+      "title": "Problemi matematici con le operazioni",
+      "description": "Affrontare problemi che richiedono l'applicazione di addizioni e sottrazioni in contesti reali.",
+      "competencies": [
+        "Capacità di risolvere problemi matematici",
+        "Capacità di applicare addizioni e sottrazioni"
+      ],
+      "objectives": [
+        "Analizzare e comprendere problemi matematici",
+        "Utilizzare le operazioni di addizione e sottrazione per risolvere i problemi"
+      ]
+    },
+    {
+      "title": "Misurazione: orologio e calendario",
+      "description": "Introduzione alla misurazione del tempo tramite la lettura dell'orologio e della gestione del calendario.",
+      "competencies": [
+        "Capacità di leggere l'orologio",
+        "Capacità di operare con il calendario"
+      ],
+      "objectives": [
+        "Riconoscere le ore e i minuti sull'orologio",
+        "Determinare giorni della settimana e mesi dell'anno"
+      ]
+    },
+    {
+      "title": "Numeri fino a 1000",
+      "description": "Approfondimento sui numeri da 0 a 1000: leggere, scrivere e rappresentarli con oggetti.",
+      "competencies": [
+        "Capacità di leggere numeri fino a 1000",
+        "Capacità di rappresentare numeri con materiali concreti"
+      ],
+      "objectives": [
+        "Rappresentare numeri fino a 1000 con materiali concreti",
+        "Leggere e scrivere numeri fino a 1000"
+      ]
+    },
+    {
+      "title": "Addizioni e sottrazioni in colonna",
+      "description": "Introduzione alle addizioni e sottrazioni in colonna per numeri entro 100.",
+      "competencies": [
+        "Capacità di eseguire addizioni e sottrazioni in colonna",
+        "Capacità di organizzare e procedere per righe e colonne"
+      ],
+      "objectives": [
+        "Eseguire addizioni in colonna con 2 addendi",
+        "Eseguire sottrazioni in colonna con minuendo di 2 cifre"
+      ]
+    },
+    {
+      "title": "Numerali romani",
+      "description": "Familiarizzare con il sistema numerico dei numerali romani e associarli alla rappresentazione decimale.",
+      "competencies": [
+        "Capacità di riconoscere numerali romani",
+        "Capacità di associare diversi sistemi numerici"
+      ],
+      "objectives": [
+        "Rappresentare numeri fino a 1000 con i numerali romani",
+        "Praticare l'utilizzo dei numerali romani in contesti specifici"
+      ]
+    },
+    {
+      "title": "Problemi matematici su più operazioni",
+      "description": "Risolvere problemi matematici che richiedono l'uso combinato di addizioni e sottrazioni.",
+      "competencies": [
+        "Capacità di risolvere problemi complessi",
+        "Capacità di applicare più operazioni in sequenza"
+      ],
+      "objectives": [
+        "Identificare le operazioni richieste in un problema complesso",
+        "Risolvere problemi che coinvolgono più operazioni in sequenza"
+      ]
+    },
+    {
+      "title": "Rappresentazione dei dati",
+      "description": "Introduzione alla rappresentazione dei dati attraverso diagrammi a barre e tabella numerica.",
+      "competencies": [
+        "Capacità di interpretare dati",
+        "Capacità di rappresentare dati graficamente"
+      ],
+      "objectives": [
+        "Creare diagrammi a barre per rappresentare dati",
+        "Estrarre informazioni da tabelle numeriche"
+      ]
+    },
+    {
+      "title": "Numeri ordinali",
+      "description": "Apprendere i numeri ordinali, come primo, secondo, terzo, per indicare l'ordine di elementi.",
+      "competencies": [
+        "Capacità di riconoscere numeri ordinali",
+        "Capacità di ordinare elementi"
+      ],
+      "objectives": [
+        "Utilizzare i numeri ordinali per ordinare oggetti",
+        "Scrivere correttamente i numeri ordinali fino al decimo"
+      ]
+    },
+    {
+      "title": "Moltiplicazioni semplici",
+      "description": "Introduzione alle moltiplicazioni semplici, con numeri fino a 10.",
+      "competencies": [
+        "Capacità di moltiplicare con numeri fino a 10",
+        "Capacità di applicare la proprietà commutativa"
+      ],
+      "objectives": [
+        "Moltiplicare numeri fino a 10 con il metodo ripetitivo",
+        "Comprendere e applicare la proprietà commutativa nella moltiplicazione"
+      ]
+    },
+    {
+      "title": "Divisioni semplici",
+      "description": "Introduzione alle divisioni semplici, con numeri fino a 20 e concetti di divisione come ripartire e contare gruppi.",
+      "competencies": [
+        "Capacità di dividere numeri entro il 20",
+        "Capacità di comprendere il concetto di divisione"
+      ],
+      "objectives": [
+        "Dividere in parti uguali numeri entro 20",
+        "Rappresentare divisioni attraverso ripartizioni e contare gruppi"
+      ]
+    },
+    {
+      "title": "Problemi di logica",
+      "description": "Risolvere problemi matematici che richiedono logica e ragionamento, con operazioni elementari.",
+      "competencies": [
+        "Capacità di risolvere problemi con logica",
+        "Capacità di applicare le quattro operazioni elementari"
+      ],
+      "objectives": [
+        "Utilizzare la logica per risolvere semplici problemi matematici",
+        "Applicare operazioni di base per trovare soluzioni"
+      ]
+    },
+    {
+      "title": "Misure di lunghezza",
+      "description": "Introduzione alle misure di lunghezza tramite confronto di oggetti e l'uso di unità di misura non standard.",
+      "competencies": [
+        "Capacità di misurare e confrontare lunghezze",
+        "Capacità di utilizzare unità di misura non convenzionali"
+      ],
+      "objectives": [
+        "Misurare lunghezze con unità non convenzionali",
+        "Comparare lunghezze di oggetti in base alle misurazioni"
+      ]
+    },
+    {
+      "title": "Simmetria",
+      "description": "Introduzione al concetto di simmetria, identificando linee di simmetria in figure geometriche.",
+      "competencies": [
+        "Capacità di riconoscere la simmetria",
+        "Capacità di identificare linee di simmetria"
+      ],
+      "objectives": [
+        "Identificare linee di simmetria in figure semplici",
+        "Creare figure con linee di simmetria"
+      ]
+    },
+    {
+      "title": "Numeri mancanti nella sequenza",
+      "description": "Completare sequenze numeriche con numeri mancanti, seguendo regolarità e pattern.",
+      "competencies": [
+        "Capacità di riconoscere pattern numerici",
+        "Capacità di completare sequenze"
+      ],
+      "objectives": [
+        "Identificare e completare sequenze numeriche con regolarità",
+        "Estendere sequenze con numeri mancanti"
+      ]
+    },
+    {
+      "title": "Problemi con il calcolo mentale",
+      "description": "Risolvere problemi matematici in modo rapido e accurato utilizzando il calcolo mentale.",
+      "competencies": [
+        "Capacità di sviluppare il calcolo mentale",
+        "Capacità di risolvere problemi in modo efficiente"
+      ],
+      "objectives": [
+        "Utilizzare il calcolo mentale per risolvere problemi semplici",
+        "Migliorare la velocità nel risolvere problemi matematici"
+      ]
+    }
+  ]
+}

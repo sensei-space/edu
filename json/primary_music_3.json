@@ -1,0 +1,163 @@
+{
+  "school": "primary",
+  "subject": "music",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Cenni di storia della musica",
+      "description": "Introduzione ai principali periodi della storia della musica (antica, barocca, classica, romantica, contemporanea) attraverso brevi racconti e ascolti musicali",
+      "competencies": [
+        "Riconoscere periodi storici della musica",
+        "Identificare diversi stili musicali"
+      ],
+      "objectives": [
+        "Conoscere i principali periodi della storia della musica",
+        "Capire le differenze stilistiche tra i vari periodi"
+      ]
+    },
+    {
+      "title": "Strumenti musicali",
+      "description": "Studio e riconoscimento dei principali strumenti musicali: corda, fiato, percussione, tastiera. Ascolto di brani e identificazione degli strumenti in essi presenti",
+      "competencies": [
+        "Riconoscere e distinguere tipologie di strumenti musicali",
+        "Sviluppare l'ascolto musicale"
+      ],
+      "objectives": [
+        "Conoscere i principali strumenti musicali e le loro caratteristiche",
+        "Essere in grado di identificare gli strumenti in brani musicali"
+      ]
+    },
+    {
+      "title": "Scoperta della voce",
+      "description": "Esplorazione della voce come strumento musicale. Esercizi di vocalità, giochi vocali e canti semplici da imparare e interpretare",
+      "competencies": [
+        "Sviluppare la consapevolezza della propria voce",
+        "Esprimersi attraverso il canto"
+      ],
+      "objectives": [
+        "Riconoscere le potenzialità espressive della propria voce",
+        "Imparare a eseguire brevi canti in gruppo"
+      ]
+    },
+    {
+      "title": "Canti tradizionali",
+      "description": "Studio e interpretazione di canti tradizionali italiani e stranieri. Approfondimento delle caratteristiche di diverse tradizioni musicali",
+      "competencies": [
+        "Apprezzare la diversità musicale",
+        "Valorizzare il patrimonio culturale attraverso la musica"
+      ],
+      "objectives": [
+        "Conoscere e cantare alcuni canti tradizionali italiani e stranieri",
+        "Apprezzare la ricchezza delle tradizioni musicali"
+      ]
+    },
+    {
+      "title": "Ritmo e movimento",
+      "description": "Esplorazione del concetto di ritmo attraverso il movimento corporeo e l'uso di strumenti ritmici. Creazione di semplici composizioni ritmiche",
+      "competencies": [
+        "Sviluppare il senso ritmico",
+        "Esprimere il ritmo attraverso il movimento"
+      ],
+      "objectives": [
+        "Comprendere il concetto di ritmo e saperlo esprimere corporeamente",
+        "Creare brevi composizioni ritmiche utilizzando strumenti semplici"
+      ]
+    },
+    {
+      "title": "Notazione musicale elementare",
+      "description": "Introduzione ai concetti di pentagramma, note musicali, chiave di sol e durata delle note. Esercitazioni pratiche di scrittura e lettura di semplici melodie",
+      "competencies": [
+        "Comprendere la notazione musicale di base",
+        "Sviluppare la capacità di leggere e scrivere musica"
+      ],
+      "objectives": [
+        "Imparare a leggere e scrivere note musicali elementari",
+        "Essere in grado di eseguire semplici melodie scritte"
+      ]
+    },
+    {
+      "title": "Canti di Natale e tradizioni musicali",
+      "description": "Studio e interpretazione di canti natalizi italiani e stranieri. Approfondimento delle tradizioni musicali legate al periodo natalizio",
+      "competencies": [
+        "Valorizzare il repertorio natalizio",
+        "Unire la musica alle festività tradizionali"
+      ],
+      "objectives": [
+        "Cantare canti di Natale italiani e stranieri",
+        "Conoscere e apprezzare le tradizioni musicali legate al Natale"
+      ]
+    },
+    {
+      "title": "Ascolto musicale attivo",
+      "description": "Attività di ascolto guidato di brani musicali di diverse epoche e generi. Analisi delle caratteristiche musicali e delle emozioni suscitate dalla musica",
+      "competencies": [
+        "Sviluppare l'ascolto critico",
+        "Riconoscere e apprezzare diversi stili musicali"
+      ],
+      "objectives": [
+        "Essere in grado di ascoltare attivamente e analizzare brani musicali",
+        "Esprimere le proprie sensazioni e emozioni legate alla musica"
+      ]
+    },
+    {
+      "title": "Costruzione di strumenti musicali",
+      "description": "Realizzazione di semplici strumenti musicali utilizzando materiali di riciclo e comuni nella quotidianità. Utilizzo e sperimentazione dei nuovi strumenti creati",
+      "competencies": [
+        "Esplorare la fisicità del suono",
+        "Saper utilizzare materiali di recupero in modo creativo"
+      ],
+      "objectives": [
+        "Costruire strumenti musicali semplici e sperimentarne il suono",
+        "Comprendere il legame tra materiali e produzione sonora"
+      ]
+    },
+    {
+      "title": "Danza e musica",
+      "description": "Abbinamento tra musica e movimento corporeo. Creazione di coreografie semplici su brani musicali studiati in classe",
+      "competencies": [
+        "Unire musica e movimento",
+        "Sviluppare la coordinazione motoria"
+      ],
+      "objectives": [
+        "Creare e eseguire semplici coreografie su brani musicali",
+        "Esprimere il proprio corpo in relazione alla musica"
+      ]
+    },
+    {
+      "title": "Musica e poesia",
+      "description": "Esplorazione delle relazioni tra musica e poesia. Studio di componimenti poetici da musicare e interpretare attraverso la voce",
+      "competencies": [
+        "Unire linguaggi artistici diversi",
+        "Esprimere emozioni attraverso la musica e la poesia"
+      ],
+      "objectives": [
+        "Comprendere le relazioni tra testi poetici e musiche",
+        "Musicare e interpretare poesie attraverso la voce"
+      ]
+    },
+    {
+      "title": "Composizione musicale",
+      "description": "Sperimentazione della composizione musicale attraverso l'utilizzo di strumenti ritmici e melodici. Creazione di brevi brani musicali in gruppo",
+      "competencies": [
+        "Stimolare la creatività musicale",
+        "Collaborare nella creazione musicale"
+      ],
+      "objectives": [
+        "Sperimentare la composizione musicale attraverso l'improvvisazione guidata",
+        "Creare e eseguire brevi brani musicali in gruppo"
+      ]
+    },
+    {
+      "title": "Esibizione musicale",
+      "description": "Preparazione e organizzazione di un'esibizione musicale finale per mettere in pratica quanto appreso durante l'anno. Scelta e preparazione dei brani da eseguire",
+      "competencies": [
+        "Esibirsi in pubblico",
+        "Valorizzare il lavoro di gruppo"
+      ],
+      "objectives": [
+        "Essere in grado di preparare e eseguire un'esibizione musicale in pubblico",
+        "Valorizzare il contributo individuale nell'esecuzione collettiva"
+      ]
+    }
+  ]
+}

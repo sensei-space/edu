@@ -1,0 +1,79 @@
+{
+  "school": "secondary",
+  "subject": "technology",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione alla tecnologia",
+      "description": "Definizione di tecnologia e suoi ambiti di applicazione. Storia delle tecnologie e loro evoluzione nel tempo.",
+      "competencies": [
+        "Comprendere il concetto di tecnologia",
+        "Riconoscere diversi ambiti di applicazione tecnologica"
+      ],
+      "objectives": [
+        "Comprendere il ruolo della tecnologia nella società",
+        "Conoscere le tappe principali dell'evoluzione tecnologica"
+      ]
+    },
+    {
+      "title": "Strumenti digitali di base",
+      "description": "Presentazione e utilizzo di strumenti digitali come computer, tablet, smartphone. Concetti di hardware e software.",
+      "competencies": [
+        "Utilizzare correttamente strumenti digitali",
+        "Comprendere la differenza tra hardware e software"
+      ],
+      "objectives": [
+        "Imparare a utilizzare un computer o un tablet",
+        "Riconoscere le principali componenti hardware di un dispositivo"
+      ]
+    },
+    {
+      "title": "Sistemi operativi e software",
+      "description": "Concetti di sistema operativo, software preinstallato e software scaricabile. Esempi di software utilizzati comunemente.",
+      "competencies": [
+        "Conoscere il funzionamento di un sistema operativo",
+        "Utilizzare software per compiere varie attività"
+      ],
+      "objectives": [
+        "Saper distinguere tra diversi sistemi operativi",
+        "Saper installare e utilizzare software specifici"
+      ]
+    },
+    {
+      "title": "Reti e internet",
+      "description": "Rappresentazione delle reti informatiche, funzionamento di internet, principali servizi online e regole di sicurezza nell'uso della rete.",
+      "competencies": [
+        "Comprendere il funzionamento delle reti informatiche",
+        "Utilizzare internet in modo consapevole e sicuro"
+      ],
+      "objectives": [
+        "Comprendere la struttura di internet",
+        "Saper navigare in modo consapevole e rispettando la privacy online"
+      ]
+    },
+    {
+      "title": "Elaborazione testi e immagini",
+      "description": "Utilizzo di software di videoscrittura e di editing immagini per creare documenti testuali e visivi.",
+      "competencies": [
+        "Saper redigere testi utilizzando un software specifico",
+        "Essere in grado di modificare immagini digitali"
+      ],
+      "objectives": [
+        "Creare un documento testuale corretto",
+        "Modificare un'immagine seguendo determinate specifiche"
+      ]
+    },
+    {
+      "title": "Sicurezza informatica",
+      "description": "Concetti di base sulla sicurezza informatica: password sicure, phishing, virus informatici, protezione dei dati personali.",
+      "competencies": [
+        "Proteggere la propria identità online",
+        "Riconoscere potenziali minacce informatiche"
+      ],
+      "objectives": [
+        "Sapere come creare e gestire password sicure",
+        "Essere in grado di riconoscere e evitare tentativi di phishing"
+      ]
+    }
+  ]
+}

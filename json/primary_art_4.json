@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "art",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Storia dell'arte: Arte Egizia",
+      "description": "Studio delle caratteristiche dell'arte egizia con focus sulle pitture rupestri, geroglifici e sculture.",
+      "competencies": [
+        "Riconoscere le caratteristiche dell'arte egizia",
+        "Comprendere l'importanza delle produzioni artistiche nell'antico Egitto"
+      ],
+      "objectives": [
+        "Identificare i principali elementi artistici dell'arte egizia",
+        "Conoscere il significato simbolico dei geroglifici"
+      ]
+    },
+    {
+      "title": "Tecniche pittoriche: Acquerelli",
+      "description": "Introduzione alla pittura ad acquerelli, sperimentando l'utilizzo di colori, sfumature e pennelli.",
+      "competencies": [
+        "Sperimentare diverse tecniche pittoriche",
+        "Esprimere la propria creatività attraverso il disegno"
+      ],
+      "objectives": [
+        "Utilizzare correttamente gli acquerelli per creare sfumature e tonalità",
+        "Realizzare una composizione artistica utilizzando la tecnica degli acquerelli"
+      ]
+    },
+    {
+      "title": "Disegno dal vero: Natura morta",
+      "description": "Analisi e disegno di oggetti della vita quotidiana in una composizione di natura morta.",
+      "competencies": [
+        "Osservare e rappresentare oggetti della realtà",
+        "Sviluppare l'abilità nel disegno dal vivo"
+      ],
+      "objectives": [
+        "Disegnare oggetti con proporzioni realistiche",
+        "Comporre una natura morta equilibrata e armoniosa"
+      ]
+    },
+    {
+      "title": "Scultura: Creare con il cartone",
+      "description": "Sperimentazione della tecnica scultorea con materiali leggeri come il cartone, creando forme tridimensionali.",
+      "competencies": [
+        "Sviluppare la creatività nello spazio tridimensionale",
+        "Utilizzare materiali di riciclo per scopi artistici"
+      ],
+      "objectives": [
+        "Realizzare una scultura in cartone con proporzioni e stabilità",
+        "Esprimere concetti artistici attraverso la manipolazione del materiale"
+      ]
+    },
+    {
+      "title": "Colori e emozioni: L'uso del colore nell'arte",
+      "description": "Studio dell'associazione tra colori e emozioni nella pittura, con esempi di artisti famosi e prove pratiche.",
+      "competencies": [
+        "Capire il legame tra colore ed emozione",
+        "Sperimentare l'uso dei colori nella propria espressione artistica"
+      ],
+      "objectives": [
+        "Associare determinati colori a sensazioni ed emozioni",
+        "Realizzare un'opera artistica che trasmetta un'emozione attraverso i colori scelti"
+      ]
+    }
+  ]
+}

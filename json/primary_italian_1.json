@@ -1,0 +1,247 @@
+{
+  "school": "primary",
+  "subject": "italian",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Imparare l'alfabeto",
+      "description": "Introduzione all'alfabeto italiano: riconoscimento delle lettere e loro sequenza.",
+      "competencies": [
+        "Riconoscimento delle lettere dell'alfabeto",
+        "Memorizzazione sequenza alfabetica"
+      ],
+      "objectives": [
+        "Identificare e nominare le lettere dell'alfabeto",
+        "Ripetere la sequenza alfabetica corretta"
+      ]
+    },
+    {
+      "title": "Formare le prime parole",
+      "description": "Combinazione delle lettere per formare parole semplici e di uso comune.",
+      "competencies": [
+        "Costruzione di parole semplici",
+        "Abbinamento suono-lettera"
+      ],
+      "objectives": [
+        "Formare parole utilizzando le lettere apprese",
+        "Associare il suono alle lettere per leggere correttamente"
+      ]
+    },
+    {
+      "title": "Lettura di frasi brevi",
+      "description": "Lettura di frasi brevi e semplici per migliorare la comprensione e la fluidità nella lettura.",
+      "competencies": [
+        "Lettura di base di frasi",
+        "Comprensione del testo"
+      ],
+      "objectives": [
+        "Leggere frasi semplici con correttezza",
+        "Comprendere il significato di frasi di base"
+      ]
+    },
+    {
+      "title": "Scrivere le prime parole",
+      "description": "Inserimento delle parole apprese nella scrittura con attenzione alla grafia corretta.",
+      "competencies": [
+        "Scrittura di parole semplici",
+        "Grafia corretta"
+      ],
+      "objectives": [
+        "Scrivere le parole apprese in modo leggibile",
+        "Rispettare la corretta forma delle lettere"
+      ]
+    },
+    {
+      "title": "Descrivere illustrazioni",
+      "description": "Esprimere in modo scritto brevi descrizioni riguardanti illustrazioni o immagini date.",
+      "competencies": [
+        "Espressione scritta di concetti semplici",
+        "Utilizzo del lessico di base"
+      ],
+      "objectives": [
+        "Descrivere in poche parole ciò che viene mostrato",
+        "Utilizzare lessico appropriato alle illustrazioni"
+      ]
+    },
+    {
+      "title": "Coniugazione verbi essere e avere",
+      "description": "Introduzione alla coniugazione dei verbi 'essere' e 'avere' al presente.",
+      "competencies": [
+        "Coniugazione di base dei verbi",
+        "Utilizzo verbi ausiliari"
+      ],
+      "objectives": [
+        "Coniugare correttamente i verbi essere e avere al presente",
+        "Comprendere il ruolo dei verbi ausiliari"
+      ]
+    },
+    {
+      "title": "Descrivere la propria famiglia",
+      "description": "Saper esprimere in modo orale e scritto informazioni riguardanti i membri della propria famiglia.",
+      "competencies": [
+        "Espressione orale su argomenti familiari",
+        "Descrizione di relazioni familiari"
+      ],
+      "objectives": [
+        "Presentare i membri della propria famiglia utilizzando espressioni adeguate",
+        "Comprendere concetti di parentela"
+      ]
+    },
+    {
+      "title": "Raccontare una breve esperienza",
+      "description": "Narrare oralmente e/o per iscritto una breve esperienza personale vissuta.",
+      "competencies": [
+        "Esposizione di fatti personali",
+        "Organizzazione di brevi narrazioni"
+      ],
+      "objectives": [
+        "Esprimere in modo chiaro e coerente un'esperienza vissuta",
+        "Completare la narrazione in maniera comprensibile"
+      ]
+    },
+    {
+      "title": "Lettura di racconti brevi",
+      "description": "Lettura di racconti brevi per sviluppare la comprensione della narrazione e dell'immaginazione.",
+      "competencies": [
+        "Lettura comprensiva di testi narrativi",
+        "Immedesimazione nei personaggi"
+      ],
+      "objectives": [
+        "Leggere racconti brevi comprendendone il significato",
+        "Immaginare ambientazioni e personaggi narrativi"
+      ]
+    },
+    {
+      "title": "Descrivere personaggi di un racconto",
+      "description": "Analisi e descrizione dei personaggi presenti in un racconto letto in classe.",
+      "competencies": [
+        "Analisi testuale di personaggi",
+        "Descrizione fisica e di carattere"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche principali di un personaggio",
+        "Esprimere le proprie opinioni sulla base delle caratteristiche dei personaggi"
+      ]
+    },
+    {
+      "title": "Costruire una breve storia",
+      "description": "Sviluppare la creatività e la capacità narrativa componendo una breve storia originale.",
+      "competencies": [
+        "Capacità narrativa creativa",
+        "Costruzione di una trama semplice"
+      ],
+      "objectives": [
+        "Elaborare una trama significativa per una storia breve",
+        "Esprimere con coerenza e originalità il proprio pensiero"
+      ]
+    },
+    {
+      "title": "Descrivere oggetti comuni",
+      "description": "Descrizione orale e scritta di oggetti di uso comune per arricchire il vocabolario di base.",
+      "competencies": [
+        "Uso appropriato del lessico",
+        "Descrizione di oggetti fisici"
+      ],
+      "objectives": [
+        "Descrivere oralmente e per iscritto le caratteristiche di oggetti conosciuti",
+        "Arricchire il vocabolario con termini legati alla realtà quotidiana"
+      ]
+    },
+    {
+      "title": "Coniugazione di verbi regolari",
+      "description": "Apprendimento della coniugazione dei verbi regolari al presente.",
+      "competencies": [
+        "Coniugazione corretta di verbi regolari",
+        "Riconoscimento delle desinenze verbali"
+      ],
+      "objectives": [
+        "Coniugare verbi regolari correttamente al presente",
+        "Identificare e utilizzare le desinenze verbali specifiche"
+      ]
+    },
+    {
+      "title": "Descrivere una sequenza di azioni",
+      "description": "Esprimere in modo ordinato e chiaro una serie di azioni svolte seguendo un ordine temporale.",
+      "competencies": [
+        "Descrizione ordinata di eventi",
+        "Utilizzo di connettivi temporali"
+      ],
+      "objectives": [
+        "Raccontare ordinate e coerenti sequenze di azioni",
+        "Utilizzare connettivi temporali appropriati nella descrizione"
+      ]
+    },
+    {
+      "title": "Parlare di festività e tradizioni",
+      "description": "Approfondimento sulle festività e tradizioni italiane e straniere, con relativa espressione orale e scritta.",
+      "competencies": [
+        "Conoscenza di tradizioni culturali",
+        "Espressione su temi culturali"
+      ],
+      "objectives": [
+        "Raccontare festività e tradizioni con parole proprie",
+        "Esprimere il proprio pensiero su eventi culturali"
+      ]
+    },
+    {
+      "title": "Lettura di filastrocche e poesie",
+      "description": "Lettura di filastrocche e poesie per stimolare la recitazione e la comprensione dei testi poetici.",
+      "competencies": [
+        "Lettura espressiva di testi poetici",
+        "Interpretazione di versi semplici"
+      ],
+      "objectives": [
+        "Riprodurre correttamente ritmo e melodia delle filastrocche",
+        "Interpretare in modo personale versi poetici semplici"
+      ]
+    },
+    {
+      "title": "Descrivere il proprio ambiente",
+      "description": "Descrizione orale e/o scritta dell'ambiente quotidiano in cui si vive.",
+      "competencies": [
+        "Descrizione di spazi fisici",
+        "Utilizzo di aggettivi descrittivi"
+      ],
+      "objectives": [
+        "Descrivere l'ambiente domestico o scolastico in modo dettagliato",
+        "Arricchire il lessico con aggettivi per descrizioni più precise"
+      ]
+    },
+    {
+      "title": "Analizzare favole e racconti tradizionali",
+      "description": "Studio e analisi di favole e racconti tradizionali in chiave didattica per arricchire la comprensione e il lessico.",
+      "competencies": [
+        "Comprensione testuale di racconti",
+        "Analisi critica di narrazioni"
+      ],
+      "objectives": [
+        "Comprendere il significato e la morali delle favole lette",
+        "Saper distinguere i personaggi principali e gli eventi chiave di una fiaba"
+      ]
+    },
+    {
+      "title": "Scrivere una lettera",
+      "description": "Composizione e struttura di una semplice lettera per esprimere un pensiero o un'emozione.",
+      "competencies": [
+        "Scrittura di testi strutturati",
+        "Espressione di sentimenti e desideri"
+      ],
+      "objectives": [
+        "Scrivere una lettera con introduzione, corpo e conclusione",
+        "Esprimere in modo chiaro sentimenti o richieste nella lettera"
+      ]
+    },
+    {
+      "title": "Descrivere le stagioni dell'anno",
+      "description": "Illustrazione delle caratteristiche e attività tipiche delle stagioni primavera, estate, autunno e inverno.",
+      "competencies": [
+        "Conoscenza delle stagioni",
+        "Descrizione delle peculiarità stagionali"
+      ],
+      "objectives": [
+        "Descrivere le caratteristiche distintive di ogni stagione",
+        "Riconoscere gli eventi e i cambiamenti propri di ciascuna stagione"
+      ]
+    }
+  ]
+}

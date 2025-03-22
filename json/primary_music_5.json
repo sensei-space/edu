@@ -1,0 +1,235 @@
+{
+  "school": "primary",
+  "subject": "music",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Storia della musica",
+      "description": "Approfondimento delle epoche musicali principali, dai grandi compositori alle peculiarità dei vari periodi storici.",
+      "competencies": [
+        "Conoscenza delle diverse epoche musicali",
+        "Identificazione dei principali compositori"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche salienti dei periodi musicali",
+        "Identificare i principali compositori e le loro opere"
+      ]
+    },
+    {
+      "title": "Musica tradizionale italiana",
+      "description": "Studio delle tradizioni musicali italiane regionali, con particolare attenzione ai canti popolari e alle danze tipiche.",
+      "competencies": [
+        "Conoscenza della musica tradizionale italiana",
+        "Apprezzamento delle diverse espressioni musicali"
+      ],
+      "objectives": [
+        "Riconoscere le diverse tradizioni musicali italiane",
+        "Apprezzare la ricchezza della musica popolare italiana"
+      ]
+    },
+    {
+      "title": "Canzoni d'autore",
+      "description": "Analisi delle parole e delle musiche di importanti cantautori italiani, con focus sulle tematiche trattate e l'originalità artistica.",
+      "competencies": [
+        "Analisi testuale e musicale",
+        "Comprensione delle tematiche trattate"
+      ],
+      "objectives": [
+        "Comprendere il significato delle canzoni d'autore",
+        "Apprezzare la poesia e l'arte musicale nelle opere dei cantautori"
+      ]
+    },
+    {
+      "title": "Strumenti musicali",
+      "description": "Approfondimento sulle famiglie degli strumenti musicali, le caratteristiche principali e le tecniche di esecuzione.",
+      "competencies": [
+        "Conoscenza degli strumenti musicali",
+        "Applicazione delle tecniche di esecuzione"
+      ],
+      "objectives": [
+        "Riconoscere le famiglie degli strumenti musicali",
+        "Sperimentare le tecniche base di esecuzione di alcuni strumenti"
+      ]
+    },
+    {
+      "title": "Composizione musicale",
+      "description": "Creazione di brevi composizioni musicali utilizzando elementi ritmici e melodici studiati in classe.",
+      "competencies": [
+        "Creatività musicale",
+        "Rispetto delle regole compositive"
+      ],
+      "objectives": [
+        "Comporre brani musicali semplici",
+        "Applicare le regole base della composizione musicale"
+      ]
+    },
+    {
+      "title": "Conoscenza degli strumenti orchestrali",
+      "description": "Studio degli strumenti tipici dell'orchestra, suddivisi per famiglie e ruoli all'interno dell'ensemble.",
+      "competencies": [
+        "Riconoscimento degli strumenti orchestrali",
+        "Comprensione del ruolo di ogni strumento"
+      ],
+      "objectives": [
+        "Identificare gli strumenti delle diverse famiglie orchestrali",
+        "Comprendere il contributo di ogni strumento all'insieme musicale"
+      ]
+    },
+    {
+      "title": "Musica nel cinema",
+      "description": "Analisi delle colonne sonore di film famosi, scoprendo come la musica coinvolga ed enfatizzi le emozioni delle scene.",
+      "competencies": [
+        "Interazione tra musica e immagini",
+        "Comprensione dell'importanza della colonna sonora"
+      ],
+      "objectives": [
+        "Riconoscere l'impatto emotivo della musica nei film",
+        "Apprezzare il lavoro dei compositori di colonne sonore"
+      ]
+    },
+    {
+      "title": "Musica internazionale",
+      "description": "Esplorazione di diverse tradizioni musicali provenienti da vari Paesi del mondo, confrontando stili e strumentazioni.",
+      "competencies": [
+        "Apertura alla diversità culturale",
+        "Conoscenza delle musiche del mondo"
+      ],
+      "objectives": [
+        "Apprezzare le diversità musicali delle varie culture",
+        "Identificare tratti distintivi delle musiche internazionali"
+      ]
+    },
+    {
+      "title": "Canti della Resistenza",
+      "description": "Approfondimento dei canti partigiani italiani, analizzando il ruolo della musica nella storia e rivendicando valori di libertà e coraggio.",
+      "competencies": [
+        "Conoscenza della storia attraverso la musica",
+        "Sensibilizzazione ai valori della Resistenza"
+      ],
+      "objectives": [
+        "Riconoscere i canti partigiani più significativi",
+        "Comprendere il messaggio di libertà veicolato attraverso la musica"
+      ]
+    },
+    {
+      "title": "Musica leggera italiana",
+      "description": "Studio dei generi e degli artisti della musica leggera italiana, dagli anni '60 fino ai giorni nostri, con focus su testi e sonorità.",
+      "competencies": [
+        "Conoscenza della musica leggera italiana",
+        "Apprezzamento dei generi musicali moderni"
+      ],
+      "objectives": [
+        "Riconoscere gli artisti e i generi della musica leggera italiana",
+        "Apprezzare l'evoluzione della musica popolare nel tempo"
+      ]
+    },
+    {
+      "title": "Musica e poesia",
+      "description": "Analisi della relazione tra musica e poesia, tramite la composizione di canzoni partendo da testi poetici studiati in classe.",
+      "competencies": [
+        "Interazione tra musica e letteratura",
+        "Creazione artistica"
+      ],
+      "objectives": [
+        "Comprendere il legame tra parole e note nella creazione musicale",
+        "Sperimentare la trasformazione di testi poetici in canzoni"
+      ]
+    },
+    {
+      "title": "Musica e danza",
+      "description": "Esplorazione delle relazioni tra musica e movimento corporeo, con la creazione e l'esecuzione di coreografie su brani studiati.",
+      "competencies": [
+        "Interazione tra musica e arti performative",
+        "Coordinazione motoria"
+      ],
+      "objectives": [
+        "Sviluppare coreografie semplici su brani musicali",
+        "Esprimere emozioni e sensazioni attraverso il movimento in musica"
+      ]
+    },
+    {
+      "title": "Grandi eventi musicali",
+      "description": "Studio dei principali eventi musicali nazionali e internazionali, come festival e concerti, e delle figure chiave che li animano.",
+      "competencies": [
+        "Conoscenza degli eventi musicali",
+        "Apprezzamento dell'arte musicale dal vivo"
+      ],
+      "objectives": [
+        "Riconoscere l'importanza dei grandi eventi musicali",
+        "Apprezzare le performance dal vivo dei musicisti"
+      ]
+    },
+    {
+      "title": "Musica e solidarietà",
+      "description": "Esplorazione del ruolo della musica in progetti solidali e di beneficenza, sostenendo l'importanza dell'arte come strumento di inclusione sociale.",
+      "competencies": [
+        "Sensibilizzazione alla solidarietà",
+        "Inclusione attraverso la musica"
+      ],
+      "objectives": [
+        "Comprendere il potere della musica nel promuovere valori di aiuto reciproco",
+        "Partecipare attivamente a iniziative musicali solidali"
+      ]
+    },
+    {
+      "title": "Incontri con musicisti",
+      "description": "Organizzazione di incontri e interviste con musicisti locali o figure del mondo della musica, per scoprire il mestiere e l'arte della composizione e dell'esecuzione musicale.",
+      "competencies": [
+        "Esplorazione delle professioni musicali",
+        "Interviste e comunicazione"
+      ],
+      "objectives": [
+        "Conoscere da vicino la figura del musicista e del compositore",
+        "Intervistare professionalmente un ospite del mondo della musica"
+      ]
+    },
+    {
+      "title": "Musica e tecnologia",
+      "description": "Esplorazione degli strumenti e delle piattaforme digitali per creare, registrare e condividere musica, stimolando la creatività e l'espressione artistica.",
+      "competencies": [
+        "Utilizzo della tecnologia in ambito musicale",
+        "Creatività nell'uso degli strumenti digitali"
+      ],
+      "objectives": [
+        "Utilizzare strumenti digitali per creare e arrangiare musica",
+        "Sperimentare nuove forme espressive attraverso la tecnologia musicale"
+      ]
+    },
+    {
+      "title": "Rappresentazione teatrale musicale",
+      "description": "Organizzazione di uno spettacolo teatrale con performance musicali, coinvolgendo la classe nell'allestimento e nella messa in scena.",
+      "competencies": [
+        "Unione tra musica e teatro",
+        "Collaborazione e partecipazione attiva"
+      ],
+      "objectives": [
+        "Partecipare attivamente alla realizzazione di uno spettacolo teatrale musicale",
+        "Presentare brani musicali in forma scenica"
+      ]
+    },
+    {
+      "title": "Musica e natura",
+      "description": "Ascolto e creazione di musica ispirata alla natura, esplorando come i suoni dell'ambiente possano influenzare la composizione musicale.",
+      "competencies": [
+        "Rapporto tra musica e ambiente",
+        "Creatività ispirata alla natura"
+      ],
+      "objectives": [
+        "Creare composizioni musicali basate sui suoni della natura",
+        "Apprezzare la musicalità presente negli elementi naturali"
+      ]
+    },
+    {
+      "title": "Progetto musicale finale",
+      "description": "Realizzazione di un progetto musicale conclusivo, che integri le conoscenze acquisite durante l'anno in un'opera creativa e collettiva.",
+      "competencies": [
+        "Sintesi e applicazione delle conoscenze musicali",
+        "Lavoro di gruppo e collaborazione"
+      ],
+      "objectives": [
+        "Applicare in modo integrato le competenze musicali acquisite",
+        "Realizzare un'opera musicale collettiva completa"
+      ]
+    }
+  ]
+}

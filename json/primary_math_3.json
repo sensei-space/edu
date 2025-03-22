@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "math",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Numeri fino a 1000",
+      "description": "Studiare i numeri fino a 1000, compresi i concetti di centinaia, decine e unità.",
+      "competencies": [
+        "Riconoscere e leggere numeri fino a 1000",
+        "Confrontare e ordinare numeri fino a 1000"
+      ],
+      "objectives": [
+        "Identificare centinaia, decine e unità in un numero fino a 1000",
+        "Ordinare numeri fino a 1000 in modo crescente e decrescente"
+      ]
+    },
+    {
+      "title": "Addizioni e sottrazioni entro il 1000",
+      "description": "Risolvere operazioni di addizione e sottrazione entro il 1000, comprendendo la regolarità del sistema decimale.",
+      "competencies": [
+        "Saper eseguire addizioni e sottrazioni entro il 1000",
+        "Comprendere le regole delle operazioni matematiche"
+      ],
+      "objectives": [
+        "Risolvere addizioni con e senza riporto",
+        "Risolvere sottrazioni con e senza resto"
+      ]
+    },
+    {
+      "title": "Numeri pari e dispari",
+      "description": "Identificare i numeri pari e dispari fino a 1000 e comprendere le loro caratteristiche.",
+      "competencies": [
+        "Riconoscere numeri pari e dispari",
+        "Conoscere le proprietà dei numeri pari e dispari"
+      ],
+      "objectives": [
+        "Separare i numeri fino a 1000 in pari e dispari",
+        "Comprendere la regolarità dell'alternanza tra numeri pari e dispari"
+      ]
+    },
+    {
+      "title": "Tabelline dell'1, 2, 3, 5 e 10",
+      "description": "Memorizzare e applicare le tabelline dell'1, 2, 3, 5 e 10 per facilitare le operazioni matematiche.",
+      "competencies": [
+        "Memorizzare e applicare le tabelline fondamentali",
+        "Sviluppare il calcolo mentale"
+      ],
+      "objectives": [
+        "Ricordare le tabelline dell'1, 2, 3, 5 e 10",
+        "Utilizzare le tabelline per risolvere operazioni matematiche velocemente"
+      ]
+    },
+    {
+      "title": "Problemi matematici con operazioni miste",
+      "description": "Risolvere problemi matematici che richiedono l'uso di più operazioni (addizione, sottrazione, moltiplicazione, divisione) entro il 1000.",
+      "competencies": [
+        "Risolvere problemi con più operazioni",
+        "Applicare le conoscenze matematiche nella risoluzione di situazioni problematiche"
+      ],
+      "objectives": [
+        "Interpretare il testo di un problema matematico",
+        "Risolvere problemi che richiedono l'uso combinato di varie operazioni"
+      ]
+    }
+  ]
+}

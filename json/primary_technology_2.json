@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "technology",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Introduzione ai dispositivi tecnologici",
+      "description": "Conoscenza e identificazione di diversi dispositivi tecnologici comuni nell'ambiente quotidiano.",
+      "competencies": [
+        "Riconoscimento e utilizzo di strumenti tecnologici",
+        "Sviluppo della consapevolezza tecnologica"
+      ],
+      "objectives": [
+        "Riconoscere diversi dispositivi tecnologici",
+        "Descrivere le funzioni di base di tali dispositivi"
+      ]
+    },
+    {
+      "title": "Utilizzo sicuro dei dispositivi digitali",
+      "description": "Apprendimento delle regole di sicurezza di base nell'utilizzo di computer, tablet e smartphone.",
+      "competencies": [
+        "Sviluppo della consapevolezza tecnologica",
+        "Rispetto delle regole di sicurezza"
+      ],
+      "objectives": [
+        "Capire l'importanza della sicurezza nell'uso dei dispositivi digitali",
+        "Identificare e rispettare le regole di sicurezza"
+      ]
+    },
+    {
+      "title": "Cenni di digital citizenship",
+      "description": "Introduzione al concetto di cittadinanza digitale e al comportamento responsabile online.",
+      "competencies": [
+        "Consapevolezza delle responsabilità online",
+        "Rispetto delle regole di comportamento"
+      ],
+      "objectives": [
+        "Comprendere l'importanza della cittadinanza digitale",
+        "Rispettare le regole di comportamento online"
+      ]
+    },
+    {
+      "title": "Elementi di codifica visiva",
+      "description": "Esplorazione delle basi della codifica attraverso attività di disegno e creazione di semplici sequenze.",
+      "competencies": [
+        "Introduzione alla logica di programmazione",
+        "Sviluppo della creatività"
+      ],
+      "objectives": [
+        "Creare sequenze di disegni utilizzando la logica di codifica visiva",
+        "Comprendere la relazione tra azioni e risultati nella programmazione"
+      ]
+    },
+    {
+      "title": "Costruzione di modelli semplici con materiali di riciclo",
+      "description": "Realizzazione di piccoli oggetti utilizzando materiali di riciclo e tecniche di assemblaggio.",
+      "competencies": [
+        "Creatività e manualità",
+        "Sviluppo della capacità di progettazione"
+      ],
+      "objectives": [
+        "Realizzare modelli semplici seguendo un progetto prestabilito",
+        "Sperimentare con materiali diversi per costruire oggetti"
+      ]
+    },
+    {
+      "title": "Principi di funzionamento degli ingranaggi",
+      "description": "Studio dei principi basilari di funzionamento degli ingranaggi e creazione di semplici meccanismi.",
+      "competencies": [
+        "Conoscenza dei principi di base della meccanica",
+        "Sviluppo della capacità di costruzione"
+      ],
+      "objectives": [
+        "Comprendere come gli ingranaggi trasmettono il movimento",
+        "Realizzare meccanismi semplici utilizzando ingranaggi"
+      ]
+    },
+    {
+      "title": "Creazione di un percorso di ginnastica per palline",
+      "description": "Progettazione e realizzazione di un percorso che coinvolga il movimento delle palline su diverse superfici.",
+      "competencies": [
+        "Capacità progettuale e costruttiva",
+        "Sviluppo delle competenze motorie"
+      ],
+      "objectives": [
+        "Progettare un percorso con elementi di ginnastica per le palline",
+        "Realizzare il percorso sperimentando le diverse soluzioni"
+      ]
+    },
+    {
+      "title": "Introduzione ai circuiti elettrici semplici",
+      "description": "Apprendimento dei concetti base in merito ai circuiti elettrici attraverso semplici esperimenti.",
+      "competencies": [
+        "Conoscenza degli elementi elettrici di base",
+        "Sviluppo della curiosità scientifica"
+      ],
+      "objectives": [
+        "Riconoscere i componenti di un circuito elettrico semplice",
+        "Sperimentare con la chiusura e l'apertura di un circuito"
+      ]
+    },
+    {
+      "title": "Realizzazione di un mini-laboratorio scientifico",
+      "description": "Costruzione e organizzazione di un mini-laboratorio per esperimenti scientifici di base.",
+      "competencies": [
+        "Capacità organizzative",
+        "Sviluppo della curiosità scientifica"
+      ],
+      "objectives": [
+        "Scegliere e organizzare gli strumenti per un esperimento scientifico",
+        "Conducete semplici esperimenti per verificare ipotesi"
+      ]
+    },
+    {
+      "title": "Progettazione e costruzione di una semplice macchina",
+      "description": "Progettazione e realizzazione di una macchina utilizzando materiali semplici e principi di base della meccanica.",
+      "competencies": [
+        "Capacità progettuale e costruttiva",
+        "Conoscenza dei principi meccanici"
+      ],
+      "objectives": [
+        "Progettare una macchina semplice con uno scopo specifico",
+        "Costruire la macchina seguendo il progetto e verificandone il funzionamento"
+      ]
+    }
+  ]
+}

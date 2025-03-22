@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "french",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Presentazioni personali",
+      "description": "Imparare a presentarsi in francese, descrivendo sé stessi, interessi e hobby.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere presentarsi in lingua francese",
+        "Comprendere e rispondere a domande personali"
+      ]
+    },
+    {
+      "title": "La famiglia",
+      "description": "Studiare il lessico relativo alla famiglia e imparare a parlare dei membri della propria famiglia.",
+      "competencies": [
+        "Vocabolario familiare",
+        "Costruzione frasi semplici"
+      ],
+      "objectives": [
+        "Identificare e nominare i membri della famiglia",
+        "Descrivere la propria famiglia in francese"
+      ]
+    },
+    {
+      "title": "Gli animali domestici",
+      "description": "Esplorare il mondo degli animali domestici, imparando nomi e caratteristiche principali.",
+      "competencies": [
+        "Vocabolario animale",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Conoscere i nomi degli animali domestici in francese",
+        "Comprendere informazioni basilari su animali domestici"
+      ]
+    },
+    {
+      "title": "Tempo libero e hobby",
+      "description": "Familiarizzarsi con i passatempi e le attività preferite, imparando a parlare delle proprie passioni.",
+      "competencies": [
+        "Espressione orale",
+        "Comprensione delle preferenze"
+      ],
+      "objectives": [
+        "Esprimere interessi e hobby",
+        "Comprendere quali attività piacciono agli altri"
+      ]
+    },
+    {
+      "title": "La scuola e le materie",
+      "description": "Approfondire il lessico scolastico e parlare delle materie che si studiano.",
+      "competencies": [
+        "Vocabolario scolastico",
+        "Comprensione delle informazioni"
+      ],
+      "objectives": [
+        "Identificare le materie scolastiche in francese",
+        "Descrivere la propria giornata scolastica"
+      ]
+    },
+    {
+      "title": "Cibo e alimentazione",
+      "description": "Esplorare il tema del cibo, imparando termini legati all'alimentazione e alle abitudini alimentari.",
+      "competencies": [
+        "Vocabolario alimentare",
+        "Comprensione culturale"
+      ],
+      "objectives": [
+        "Conoscere il lessico relativo al cibo",
+        "Descrivere cosa si mangia tipicamente a pranzo"
+      ]
+    },
+    {
+      "title": "Viaggi e vacanze",
+      "description": "Studiare il lessico legato ai viaggi, alle vacanze e ai mezzi di trasporto.",
+      "competencies": [
+        "Vocabolario viaggi",
+        "Capacità di orientarsi"
+      ],
+      "objectives": [
+        "Identificare mezzi di trasporto in francese",
+        "Descrivere un viaggio o una vacanza passata"
+      ]
+    },
+    {
+      "title": "Abbigliamento e shopping",
+      "description": "Familiarizzarsi con il lessico dell'abbigliamento e delle attività di shopping.",
+      "competencies": [
+        "Vocabolario abbigliamento",
+        "Comprensione di indicazioni"
+      ],
+      "objectives": [
+        "Conoscere i termini per descrivere capi d'abbigliamento",
+        "Chiedere e dare indicazioni per lo shopping"
+      ]
+    },
+    {
+      "title": "Festività e tradizioni",
+      "description": "Approfondire le festività principali e le tradizioni culturali di paesi francofoni.",
+      "competencies": [
+        "Conoscenza culturale",
+        "Capacità di confronto"
+      ],
+      "objectives": [
+        "Comprendere le festività francofone",
+        "Confrontare festività italiane e francofone"
+      ]
+    },
+    {
+      "title": "La casa e la routine quotidiana",
+      "description": "Esplorare gli ambienti domestici e imparare a parlare delle attività quotidiane a casa.",
+      "competencies": [
+        "Vocabolario domestico",
+        "Espressione verbale"
+      ],
+      "objectives": [
+        "Descrivere la propria casa",
+        "Parlare delle azioni che si fanno quotidianamente"
+      ]
+    },
+    {
+      "title": "Salute e benessere",
+      "description": "Studiare il lessico legato alla salute, al corpo e al benessere fisico e mentale.",
+      "competencies": [
+        "Vocabolario medico",
+        "Espressione di stati d'animo"
+      ],
+      "objectives": [
+        "Descrivere sintomi in francese",
+        "Esprimere sensazioni e stati d'animo"
+      ]
+    },
+    {
+      "title": "Ambiente e ecologia",
+      "description": "Esplorare il lessico relativo all'ambiente, all'inquinamento e alle pratiche sostenibili.",
+      "competencies": [
+        "Sensibilizzazione ecologica",
+        "Comprendere problemi ambientali"
+      ],
+      "objectives": [
+        "Conoscere termini ecologici in francese",
+        "Esprimere opinioni sull'ambiente"
+      ]
+    },
+    {
+      "title": "Lavoro e professioni",
+      "description": "Familiarizzarsi con il lessico delle professioni e parlare delle aspirazioni future lavorative.",
+      "competencies": [
+        "Vocabolario lavorativo",
+        "Espressione delle ambizioni"
+      ],
+      "objectives": [
+        "Identificare professioni in francese",
+        "Condividere i propri desideri lavorativi"
+      ]
+    },
+    {
+      "title": "Media e tecnologia",
+      "description": "Studiare il lessico legato ai media, alla tecnologia e alle piattaforme online.",
+      "competencies": [
+        "Comprendere media digitali",
+        "Navigare in rete"
+      ],
+      "objectives": [
+        "Conoscere termini tecnologici in francese",
+        "Esprimere preferenze sui media digitali"
+      ]
+    },
+    {
+      "title": "Arte e cultura",
+      "description": "Approfondire concetti artistici e culturali, studiando movimenti artistici e opere famose.",
+      "competencies": [
+        "Apprezzamento artistico",
+        "Conoscenza culturale"
+      ],
+      "objectives": [
+        "Riconoscere opere d'arte famose",
+        "Descrivere un movimento artistico importante"
+      ]
+    },
+    {
+      "title": "Letteratura francese",
+      "description": "Esplorare brani letterari della tradizione francese e francofona, analizzandone temi e stili.",
+      "competencies": [
+        "Comprensione letteraria",
+        "Analisi critica"
+      ],
+      "objectives": [
+        "Comprendere testi letterari in francese",
+        "Analizzare temi e personaggi letterari"
+      ]
+    },
+    {
+      "title": "Grammatica avanzata",
+      "description": "Approfondire e consolidare le strutture grammaticali più complesse della lingua francese.",
+      "competencies": [
+        "Padronanza grammaticale",
+        "Costruzione frasi complesse"
+      ],
+      "objectives": [
+        "Utilizzare correttamente congiuntivi e condizionali",
+        "Saper distinguere particolarità grammaticali"
+      ]
+    },
+    {
+      "title": "Conversazione avanzata",
+      "description": "Sviluppare competenze nella conversazione avanzata in francese, affrontando argomenti complessi.",
+      "competencies": [
+        "Fluente conversazione",
+        "Argomentazioni strutturate"
+      ],
+      "objectives": [
+        "Partecipare attivamente a conversazioni in francese",
+        "Esprimere opinioni articolate su argomenti vari"
+      ]
+    },
+    {
+      "title": "Preparazione esami e prove scritte",
+      "description": "Focalizzarsi sulla preparazione agli esami scritti e orali, praticando su tipologie di domande comuni.",
+      "competencies": [
+        "Padronanza degli esami",
+        "Gestione dello stress"
+      ],
+      "objectives": [
+        "Sapersi preparare ad un esame di lingua francese",
+        "Affrontare con serenità la prova orale"
+      ]
+    },
+    {
+      "title": "Cultura francese contemporanea",
+      "description": "Esplorare la cultura contemporanea francese, analizzando trend, eventi e movimenti attuali.",
+      "competencies": [
+        "Comprensione della realtà francese",
+        "Analisi culturale"
+      ],
+      "objectives": [
+        "Essere al corrente di tematiche attuali in Francia",
+        "Comprendere la società francese contemporanea"
+      ]
+    }
+  ]
+}

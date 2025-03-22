@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "physical",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Conoscenza e utilizzo degli attrezzi ginnici",
+      "description": "Introduzione ai principali attrezzi ginnici utilizzati in palestra e acquisizione delle corrette modalità di utilizzo.",
+      "competencies": [
+        "Conoscenza degli attrezzi ginnici",
+        "Sicurezza nell'utilizzo degli attrezzi"
+      ],
+      "objectives": [
+        "Riconoscere e nominare i principali attrezzi ginnici",
+        "Utilizzare correttamente gli attrezzi in base alle indicazioni ricevute"
+      ]
+    },
+    {
+      "title": "Esercizi di riscaldamento",
+      "description": "Apprendimento e pratica di esercizi volti a preparare il corpo all'attività fisica come corsa leggera, skipping, rotazioni articolari",
+      "competencies": [
+        "Esecuzione corretta degli esercizi di riscaldamento",
+        "Sviluppo della resistenza muscolare"
+      ],
+      "objectives": [
+        "Eseguire gli esercizi di riscaldamento con correttezza tecnica",
+        "Migliorare la resistenza muscolare preparatoria all'attività fisica"
+      ]
+    },
+    {
+      "title": "Corsa ad ostacoli",
+      "description": "Apprendimento delle tecniche di superamento di ostacoli di bassa altezza in modo fluido e sicuro.",
+      "competencies": [
+        "Capacità dinamiche e di coordinazione",
+        "Velocità e reattività"
+      ],
+      "objectives": [
+        "Superare gli ostacoli utilizzando la tecnica corretta",
+        "Aumentare la velocità e la reattività nel superamento degli ostacoli"
+      ]
+    },
+    {
+      "title": "Giochi di gruppo",
+      "description": "Partecipazione a giochi di squadra e di cooperazione per favorire il senso di appartenenza e la collaborazione.",
+      "competencies": [
+        "Lavoro di squadra",
+        "Cooperazione"
+      ],
+      "objectives": [
+        "Collaborare con i compagni di squadra durante i giochi",
+        "Migliorare le abilità comunicative e di risoluzione dei problemi all'interno del gruppo"
+      ]
+    },
+    {
+      "title": "Salto in lungo",
+      "description": "Apprendimento della tecnica corretta per eseguire un salto in lungo efficace e sicuro.",
+      "competencies": [
+        "Potenza muscolare",
+        "Controllo del movimento"
+      ],
+      "objectives": [
+        "Eseguire un salto in lungo utilizzando la tecnica appropriata",
+        "Migliorare la propria capacità di concentrazione e coordinazione motoria"
+      ]
+    },
+    {
+      "title": "Ginnastica artistica di base",
+      "description": "Introduzione ai movimenti base della ginnastica artistica come la ruota, il ponte e la capriola frontale.",
+      "competencies": [
+        "Equilibrio",
+        "Flessibilità"
+      ],
+      "objectives": [
+        "Eseguire correttamente i movimenti base della ginnastica artistica",
+        "Migliorare l'equilibrio e la flessibilità corporea"
+      ]
+    },
+    {
+      "title": "Gioco del calcio",
+      "description": "Pratica delle regole di base e del gioco di squadra nel calcio.",
+      "competencies": [
+        "Controllo di palla",
+        "Passaggi di precisione"
+      ],
+      "objectives": [
+        "Rispettare le regole del gioco del calcio",
+        "Migliorare le abilità di controllo di palla e di passaggio"
+      ]
+    },
+    {
+      "title": "Gioco della pallavolo",
+      "description": "Apprendimento delle nozioni fondamentali della pallavolo come palleggio, attacco e difesa.",
+      "competencies": [
+        "Ricezione e palleggio",
+        "Coordinazione tattica"
+      ],
+      "objectives": [
+        "Eseguire correttamente le principali azioni della pallavolo",
+        "Migliorare la coordinazione tattica e la capacità di reazione durante il gioco"
+      ]
+    },
+    {
+      "title": "Esercizi di stretching",
+      "description": "Pratica di esercizi di stretching per migliorare la flessibilità muscolare e prevenire gli infortuni.",
+      "competencies": [
+        "Flessibilità muscolare",
+        "Capacità di rilassamento"
+      ],
+      "objectives": [
+        "Eseguire correttamente gli esercizi di stretching",
+        "Migliorare la flessibilità muscolare e il rilassamento fisico"
+      ]
+    },
+    {
+      "title": "Lancio del peso",
+      "description": "Apprendimento della tecnica corretta per il lancio del peso utilizzando un peso ridotto e concentrando l'attenzione sull'esecuzione tecnica.",
+      "competencies": [
+        "Forza muscolare",
+        "Tecnica di lancio"
+      ],
+      "objectives": [
+        "Sviluppare la forza muscolare necessaria per il lancio del peso",
+        "Migliorare la tecnica di lancio concentrandosi sull'esecuzione corretta"
+      ]
+    },
+    {
+      "title": "Capacità aerobica",
+      "description": "Svolgimento di attività fisica continua e ritmica per sviluppare la resistenza aerobica e la capacità cardiorespiratoria.",
+      "competencies": [
+        "Resistenza aerobica",
+        "Controllo della frequenza cardiaca"
+      ],
+      "objectives": [
+        "Aumentare la resistenza aerobica attraverso l'attività fisica",
+        "Migliorare il controllo della frequenza cardiaca durante lo svolgimento degli esercizi"
+      ]
+    },
+    {
+      "title": "Salto in alto",
+      "description": "Apprendimento degli elementi tecnici e del movimento corretto per eseguire un salto in alto.",
+      "competencies": [
+        "Potenza muscolare",
+        "Tecnica di salto"
+      ],
+      "objectives": [
+        "Eseguire un salto in alto utilizzando la tecnica appropriata",
+        "Migliorare la potenza muscolare e l'esplosività nel salto"
+      ]
+    },
+    {
+      "title": "Corsa ad anelli",
+      "description": "Pratica della corsa ad anelli per migliorare la resistenza e la forza degli arti superiori.",
+      "competencies": [
+        "Forza degli arti superiori",
+        "Resistenza muscolare"
+      ],
+      "objectives": [
+        "Migliorare la resistenza degli arti superiori con la corsa ad anelli",
+        "Sviluppare la forza muscolare specifica per gli arti superiori"
+      ]
+    },
+    {
+      "title": "Gioco dell'handball",
+      "description": "Partecipazione al gioco dell'handball per migliorare la coordinazione e la capacità di tiro.",
+      "competencies": [
+        "Coordinazione negli spostamenti",
+        "Capacità di tiro"
+      ],
+      "objectives": [
+        "Partecipare attivamente al gioco dell'handball rispettando le regole",
+        "Migliorare la coordinazione nei movimenti e la precisione nel tiro"
+      ]
+    },
+    {
+      "title": "Esercizi di equilibrio",
+      "description": "Svolgimento di esercizi finalizzati al miglioramento dell'equilibrio statico e dinamico del corpo.",
+      "competencies": [
+        "Equilibrio",
+        "Controllo motorio"
+      ],
+      "objectives": [
+        "Migliorare l'equilibrio statico e dinamico attraverso gli esercizi specifici",
+        "Sviluppare il controllo motorio e la consapevolezza corporea"
+      ]
+    },
+    {
+      "title": "Tecniche di difesa nel basket",
+      "description": "Apprendimento delle principali tecniche difensive nel basket come il blocco, la marcatura e il recupero della palla.",
+      "competencies": [
+        "Tecniche difensive",
+        "Coordinazione difensiva"
+      ],
+      "objectives": [
+        "Eseguire correttamente le tecniche difensive apprese durante il gioco",
+        "Migliorare la coordinazione difensiva e la capacità di lettura delle azioni avversarie"
+      ]
+    },
+    {
+      "title": "Gara di corsa",
+      "description": "Organizzazione di una competizione di corsa per mettere alla prova la resistenza cardiovascolare e la velocità.",
+      "competencies": [
+        "Resistenza cardiovascolare",
+        "Competitività"
+      ],
+      "objectives": [
+        "Partecipare attivamente alla gara di corsa impegnandosi al massimo",
+        "Migliorare la resistenza cardiovascolare e la capacità di gara"
+      ]
+    },
+    {
+      "title": "Scherma di base",
+      "description": "Introduzione alla scherma con focus su posizione di base, movimenti e concetti di attacco e difesa.",
+      "competencies": [
+        "Controllo della spada",
+        "Rapidità di riflessi"
+      ],
+      "objectives": [
+        "Eseguire correttamente le posizioni e i movimenti di base della scherma",
+        "Sviluppare la rapidità di riflessi e la coordinazione occhio-mano"
+      ]
+    },
+    {
+      "title": "Gioco del rugby",
+      "description": "Pratica delle regole di base e partecipazione attiva al gioco del rugby per migliorare la forza e la resistenza.",
+      "competencies": [
+        "Forza fisica",
+        "Resistenza alle sollecitazioni fisiche"
+      ],
+      "objectives": [
+        "Rispettare le regole e le dinamiche di gioco del rugby",
+        "Sviluppare la forza fisica e la resistenza alle sollecitazioni fisiche specifiche del rugby"
+      ]
+    },
+    {
+      "title": "Esercizi di postura",
+      "description": "Svolgimento di esercizi specifici per migliorare la postura corporea e prevenire eventuali problemi muscolo-scheletrici.",
+      "competencies": [
+        "Consapevolezza posturale",
+        "Forza muscolare"
+      ],
+      "objectives": [
+        "Correggere eventuali atteggiamenti posturali scorretti",
+        "Migliorare la forza muscolare per sostenere una postura corretta nel tempo"
+      ]
+    }
+  ]
+}

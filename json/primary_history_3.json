@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "history",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Le civiltà antiche",
+      "description": "Studio delle prime civiltà come gli Egizi, i Sumeri e i Romani.",
+      "competencies": [
+        "Conoscenza della storia antica",
+        "Identificazione delle principali caratteristiche delle civiltà"
+      ],
+      "objectives": [
+        "Riconoscere le diverse civiltà antiche",
+        "Comprendere le caratteristiche principali di ogni civiltà"
+      ]
+    },
+    {
+      "title": "I grandi imperi",
+      "description": "Approfondimento sugli imperi antichi come l'Impero Carolingio e l'Impero Persiano.",
+      "competencies": [
+        "Comprensione della formazione degli imperi",
+        "Conoscenza degli imperi storici"
+      ],
+      "objectives": [
+        "Identificare i principali imperi dell'antichità",
+        "Comprendere le ragioni della grandezza e della caduta di tali imperi"
+      ]
+    },
+    {
+      "title": "Le spedizioni esplorative",
+      "description": "Studio delle esplorazioni e delle scoperte geografiche di Cristoforo Colombo, Vasco da Gama e Magellano.",
+      "competencies": [
+        "Conoscenza delle scoperte geografiche",
+        "Capacità di collegare scoperte ai viaggiatori"
+      ],
+      "objectives": [
+        "Comprendere le motivazioni e i risultati delle spedizioni esplorative",
+        "Riconoscere i principali esploratori e le loro rotte"
+      ]
+    },
+    {
+      "title": "La Rivoluzione Francese",
+      "description": "Analisi degli eventi principali e dei protagonisti della Rivoluzione Francese.",
+      "competencies": [
+        "Comprensione dei moti rivoluzionari",
+        "Conoscenza degli ideali rivoluzionari"
+      ],
+      "objectives": [
+        "Identificare le cause e le fasi della Rivoluzione Francese",
+        "Comprendere l'importanza storica dei principi rivoluzionari"
+      ]
+    },
+    {
+      "title": "L'Unità d'Italia",
+      "description": "Studio del Risorgimento italiano e delle figure di Garibaldi e Cavour.",
+      "competencies": [
+        "Conoscenza dell'Unità d'Italia",
+        "Capacità di collegare eventi storici italiani"
+      ],
+      "objectives": [
+        "Comprendere le tappe e i protagonisti del Risorgimento",
+        "Identificare l'importanza dell'Unità d'Italia per il Paese"
+      ]
+    }
+  ]
+}

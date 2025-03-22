@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "civic",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Conoscenza dei diritti dei bambini",
+      "description": "Approfondimento sui diritti fondamentali sanciti dalla Convenzione sui Diritti dell'Infanzia e dell'Adolescenza.",
+      "competencies": [
+        "Conoscenza dei diritti umani",
+        "Promozione della cittadinanza attiva"
+      ],
+      "objectives": [
+        "Comprendere i principali diritti dei bambini",
+        "Saper riconoscere le violazioni dei diritti dei minori"
+      ]
+    },
+    {
+      "title": "Partecipazione alla vita democratica della classe",
+      "description": "Sperimentazione della democrazia partecipativa attraverso la gestione autonoma di attività e decisioni all'interno della classe.",
+      "competencies": [
+        "Promozione della partecipazione democratica",
+        "Sviluppo dell'autonomia"
+      ],
+      "objectives": [
+        "Saper collaborare con i compagni nel prendere decisioni",
+        "Sviluppare capacità di ascolto e rispetto delle opinioni altrui"
+      ]
+    },
+    {
+      "title": "Conoscenza delle istituzioni italiane",
+      "description": "Studio delle principali istituzioni democratiche presenti in Italia, con focus su Parlamento, Governo e Magistratura.",
+      "competencies": [
+        "Conoscenza delle istituzioni democratiche",
+        "Capacità di orientamento nel contesto politico"
+      ],
+      "objectives": [
+        "Identificare le funzioni delle istituzioni italiane",
+        "Comprendere l'importanza della separazione dei poteri"
+      ]
+    },
+    {
+      "title": "Educazione alla tolleranza e alla diversità",
+      "description": "Riflessione sulla diversità culturale, religiosa e sociale come valore da rispettare e valorizzare nella società.",
+      "competencies": [
+        "Promozione dell'integrazione",
+        "Sviluppo della sensibilità interculturale"
+      ],
+      "objectives": [
+        "Riconoscere la ricchezza derivante dalla diversità",
+        "Sviluppare l'empatia e la capacità di mettersi nei panni degli altri"
+      ]
+    },
+    {
+      "title": "Rispetto dell'ambiente e sostenibilità",
+      "description": "Approfondimento sull'importanza della tutela dell'ambiente, della gestione sostenibile delle risorse e della responsabilità individuale nell'ecosistema.",
+      "competencies": [
+        "Promozione dell'ecologia",
+        "Sviluppo della responsabilità sociale"
+      ],
+      "objectives": [
+        "Comprendere l'importanza della salvaguardia dell'ambiente",
+        "Adottare comportamenti responsabili nel rispetto della Natura"
+      ]
+    }
+  ]
+}

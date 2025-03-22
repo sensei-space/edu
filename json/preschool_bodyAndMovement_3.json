@@ -1,0 +1,79 @@
+{
+  "school": "preschool",
+  "subject": "bodyAndMovement",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Conoscere le articolazioni del corpo",
+      "description": "In questo argomento i bambini impareranno le principali articolazioni del corpo umano, come ad esempio le spalle, i gomiti, i polsi, le anche e le ginocchia.",
+      "competencies": [
+        "Conoscenza del corpo umano",
+        "Consapevolezza corporea"
+      ],
+      "objectives": [
+        "Identificare le diverse articolazioni",
+        "Muovere in modo consapevole le diverse articolazioni"
+      ]
+    },
+    {
+      "title": "Balzi e salti",
+      "description": "Attraverso esercizi guidati, i bambini impareranno a fare balzi e salti in modo corretto, sviluppando la coordinazione e il controllo del proprio corpo nello spazio.",
+      "competencies": [
+        "Coordinazione motoria",
+        "Equilibrio"
+      ],
+      "objectives": [
+        "Eseguire balzi e salti in modo corretto",
+        "Sviluppare la consapevolezza spaziale"
+      ]
+    },
+    {
+      "title": "Corsa a ostacoli",
+      "description": "Attraverso un percorso a ostacoli, i bambini metteranno alla prova la propria agilità, velocità e capacità di superare diverse difficoltà con il movimento.",
+      "competencies": [
+        "Agilità",
+        "Velocità"
+      ],
+      "objectives": [
+        "Superare gli ostacoli nel percorso",
+        "Sviluppare la rapidità di reazione"
+      ]
+    },
+    {
+      "title": "Giochi di gruppo a tema",
+      "description": "Attraverso giochi di movimento di gruppo a tema, i bambini impareranno a collaborare, comunicare e divertirsi insieme svolgendo attività fisiche.",
+      "competencies": [
+        "Socializzazione",
+        "Collaborazione"
+      ],
+      "objectives": [
+        "Interagire con gli altri durante i giochi",
+        "Sviluppare capacità di teamwork"
+      ]
+    },
+    {
+      "title": "Percorsi motori funzionali",
+      "description": "Creare percorsi motori funzionali con attività che coinvolgono movimenti basilari come salire, scendere, arrampicarsi, saltare e strisciare, per favorire lo sviluppo delle capacità motorie di base.",
+      "competencies": [
+        "Abilità motorie di base",
+        "Orientamento spaziale"
+      ],
+      "objectives": [
+        "Sviluppare le capacità motorie di base",
+        "Migliorare l'orientamento nello spazio"
+      ]
+    },
+    {
+      "title": "Danza e espressione corporea",
+      "description": "Attraverso la danza e l'espressione corporea, i bambini esploreranno movimenti creativi e ritmici, favorendo l'espressione e la consapevolezza del proprio corpo.",
+      "competencies": [
+        "Espressione corporea",
+        "Creatività"
+      ],
+      "objectives": [
+        "Esprimere emozioni attraverso il movimento",
+        "Sviluppare la creatività corporea"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "school": "secondary",
+  "subject": "religion",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Le religioni nel mondo",
+      "description": "Studio delle principali religioni mondiali e delle loro caratteristiche.",
+      "competencies": [
+        "Conoscenza delle religioni mondiali",
+        "Rispetto delle diversità culturali e religiose"
+      ],
+      "objectives": [
+        "Identificare le principali religioni nel mondo",
+        "Comprendere le caratteristiche distintive di ogni religione"
+      ]
+    },
+    {
+      "title": "La religione nella vita delle persone",
+      "description": "Analisi del ruolo della religione nella vita individuale e sociale.",
+      "competencies": [
+        "Comprendere il significato della religione",
+        "Riflettere sull'importanza della religione per le persone"
+      ],
+      "objectives": [
+        "Esaminare come la religione influenza le scelte e l'identità delle persone",
+        "Riconoscere il contributo delle religioni alla costruzione della società"
+      ]
+    },
+    {
+      "title": "La Bibbia: un testo sacro",
+      "description": "Approfondimento sul significato e l'importanza della Bibbia per i fedeli.",
+      "competencies": [
+        "Comprendere il valore della Bibbia",
+        "Apprezzare la sacralità dei testi religiosi"
+      ],
+      "objectives": [
+        "Riconoscere i principali libri biblici",
+        "Capire l'influenza della Bibbia sulla cultura e la tradizione religiosa"
+      ]
+    },
+    {
+      "title": "La figura di Abramo nelle religioni monoteiste",
+      "description": "Studio della figura di Abramo nelle principali religioni monoteiste.",
+      "competencies": [
+        "Conoscenza delle figure religiose centrali",
+        "Comprendere i legami tra le religioni monoteiste"
+      ],
+      "objectives": [
+        "Analizzare il ruolo di Abramo nell'ebraismo, cristianesimo e islam",
+        "Riflettere sul concetto di padre delle religioni monotheiste"
+      ]
+    },
+    {
+      "title": "Festività religiose: Natale e Pasqua",
+      "description": "Esplorazione delle festività cristiane di Natale e Pasqua.",
+      "competencies": [
+        "Conoscenza delle festività religiose",
+        "Riflessione sul significato delle festività"
+      ],
+      "objectives": [
+        "Comprendere l'origine e il significato di Natale e Pasqua",
+        "Analizzare le tradizioni legate a queste festività"
+      ]
+    },
+    {
+      "title": "Le regole morali nelle religioni",
+      "description": "Discussione sulle regole etiche presenti nelle diverse religioni e il loro scopo.",
+      "competencies": [
+        "Comprendere il ruolo delle regole morali nelle religioni",
+        "Riflettere sul valore dell'etica religiosa"
+      ],
+      "objectives": [
+        "Identificare le principali regole etiche delle principali religioni",
+        "Valutare l'importanza delle regole morali nella vita quotidiana"
+      ]
+    },
+    {
+      "title": "Simboli religiosi",
+      "description": "Studio dei simboli più comuni nelle varie religioni e il loro significato.",
+      "competencies": [
+        "Conoscenza dei simboli religiosi",
+        "Interpretazione simbolica"
+      ],
+      "objectives": [
+        "Identificare i principali simboli religiosi",
+        "Capire il significato e l'uso dei simboli nella pratica religiosa"
+      ]
+    },
+    {
+      "title": "Il concetto di preghiera",
+      "description": "Analisi del significato e delle forme di preghiera nelle diverse religioni.",
+      "competencies": [
+        "Conoscenza delle forme di preghiera",
+        "Riflessione sul significato della preghiera"
+      ],
+      "objectives": [
+        "Esaminare le diverse forme di preghiera",
+        "Comprendere l'importanza della preghiera nella vita spirituale"
+      ]
+    },
+    {
+      "title": "La figura di Gesù nel cristianesimo",
+      "description": "Approfondimento sulle credenze e il ruolo di Gesù per i cristiani.",
+      "competencies": [
+        "Comprendere il ruolo di Gesù nel cristianesimo",
+        "Riflettere sul significato della figura di Gesù"
+      ],
+      "objectives": [
+        "Esaminare la vita e gli insegnamenti di Gesù",
+        "Valutare l'influenza di Gesù nella cultura occidentale"
+      ]
+    },
+    {
+      "title": "La figura di Maometto nell'Islam",
+      "description": "Studio della figura di Maometto e del suo ruolo fondante per l'Islam.",
+      "competencies": [
+        "Conoscenza della vita di Maometto",
+        "Comprendere il ruolo di Maometto nell'Islam"
+      ],
+      "objectives": [
+        "Analizzare la vita e gli insegnamenti di Maometto",
+        "Riflettere sull'influenza di Maometto nella storia e nella cultura musulmana"
+      ]
+    }
+  ]
+}

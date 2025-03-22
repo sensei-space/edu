@@ -1,0 +1,67 @@
+{
+  "school": "secondary",
+  "subject": "art",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Storia dell'Arte: Rinascimento",
+      "description": "Studio delle principali caratteristiche e opere d'arte del Rinascimento, con focus su artisti come Leonardo da Vinci e Michelangelo.",
+      "competencies": [
+        "Comprendere lo sviluppo dell'arte nel Rinascimento",
+        "Riconoscere le opere e gli artisti principali del periodo"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche dello stile rinascimentale",
+        "Conoscere le opere più significative dell'epoca"
+      ]
+    },
+    {
+      "title": "Tecniche di Pittura: Acquerello",
+      "description": "Apprendimento delle tecniche base per dipingere con l'acquerello, sperimentando sfumature e trasparenze.",
+      "competencies": [
+        "Sviluppare capacità pittoriche con l'acquerello",
+        "Esprimere la propria creatività attraverso il colore"
+      ],
+      "objectives": [
+        "Sperimentare varie tecniche di applicazione dell'acquerello",
+        "Creare un'opera utilizzando diverse tonalità e sfumature"
+      ]
+    },
+    {
+      "title": "Scultura: Modellazione in Argilla",
+      "description": "Creazione di sculture tridimensionali utilizzando l'argilla, apprendendo le tecniche di modellazione e rifinitura.",
+      "competencies": [
+        "Sviluppare abilità tridimensionali",
+        "Comprendere i processi creativi nella scultura"
+      ],
+      "objectives": [
+        "Modellare forme semplici con l'argilla",
+        "Utilizzare strumenti specifici per la rifinitura delle sculture"
+      ]
+    },
+    {
+      "title": "Espressione Creativa: Collage",
+      "description": "Realizzazione di composizioni artistiche utilizzando la tecnica del collage, sperimentando la combinazione di materiali e colori.",
+      "competencies": [
+        "Esprimere la propria creatività attraverso il collage",
+        "Sviluppare la capacità di composizione"
+      ],
+      "objectives": [
+        "Scegliere e combinare materiali diversi per creare un collage",
+        "Sperimentare la disposizione spaziale degli elementi"
+      ]
+    },
+    {
+      "title": "Arte Contemporanea: Pop Art",
+      "description": "Studio del movimento artistico della Pop Art, analizzando opere di artisti come Andy Warhol e Roy Lichtenstein.",
+      "competencies": [
+        "Comprendere le caratteristiche dell'arte contemporanea",
+        "Riconoscere le opere e gli artisti della Pop Art"
+      ],
+      "objectives": [
+        "Identificare i temi e le tecniche tipiche della Pop Art",
+        "Realizzare un'opera ispirata a questo movimento"
+      ]
+    }
+  ]
+}

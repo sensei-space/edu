@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "english",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Greetings and Introductions",
+      "description": "Imparare a salutare e presentarsi in inglese con semplici frasi e vocaboli di base.",
+      "competencies": [
+        "Comunicare in modo semplice in inglese",
+        "Comprendere e rispondere a domande di routine"
+      ],
+      "objectives": [
+        "Salutare e rispondere ai saluti",
+        "Presentarsi usando il proprio nome e alcune informazioni personali"
+      ]
+    },
+    {
+      "title": "Colors",
+      "description": "Imparare i nomi dei colori in inglese e abbinarli correttamente attraverso attività ludiche e visive.",
+      "competencies": [
+        "Riconoscere e nominare i colori in inglese",
+        "Associare il colore alla parola corrispondente"
+      ],
+      "objectives": [
+        "Identificare i colori primari e alcuni colori base",
+        "Utilizzare i colori per descrivere oggetti o disegni"
+      ]
+    },
+    {
+      "title": "Numbers 1-20",
+      "description": "Imparare a contare fino a venti in inglese e familiarizzare con la pronuncia dei numeri.",
+      "competencies": [
+        "Contare in inglese fino a 20",
+        "Identificare e ripetere i numeri in maniera corretta"
+      ],
+      "objectives": [
+        "Riconoscere e memorizzare i numeri da 1 a 20",
+        "Contare oggetti e completare sequenze numeriche"
+      ]
+    },
+    {
+      "title": "Family Members",
+      "description": "Conoscere i nomi dei membri della famiglia in inglese e imparare a esprimere legami di parentela.",
+      "competencies": [
+        "Identificare i membri della famiglia in inglese",
+        "Descrivere i rapporti di parentela"
+      ],
+      "objectives": [
+        "Riconoscere i nomi di parenti come mother, father, brother, sister",
+        "Collegare i membri della famiglia ai rispettivi ruoli"
+      ]
+    },
+    {
+      "title": "Days of the Week",
+      "description": "Apprendere i giorni della settimana in inglese attraverso canzoni, giochi e attività interattive.",
+      "competencies": [
+        "Conoscere e nominare i giorni della settimana",
+        "Esprimere eventi in relazione ai giorni"
+      ],
+      "objectives": [
+        "Memorizzare l'ordine dei giorni della settimana",
+        "Associare attività o eventi a giorni specifici"
+      ]
+    },
+    {
+      "title": "Weather",
+      "description": "Esplorare il vocabolario relativo alle condizioni meteorologiche e imparare a descrivere il tempo atmosferico in inglese.",
+      "competencies": [
+        "Descrivere il tempo atmosferico in inglese",
+        "Comprendere previsioni meteorologiche semplici"
+      ],
+      "objectives": [
+        "Riconoscere e nominare tipi di condizioni meteorologiche",
+        "Associare esempi visivi di tempo a parole corrispondenti"
+      ]
+    }
+  ]
+}

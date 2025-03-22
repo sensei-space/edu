@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "spanish",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Saluti e presentazioni",
+      "description": "Imparare i saluti in spagnolo e come presentarsi brevemente.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere salutare e presentarsi in spagnolo",
+        "Capire e rispondere ai saluti e alle presentazioni"
+      ]
+    },
+    {
+      "title": "Numeri e colori",
+      "description": "Imparare i numeri e i colori in spagnolo, utilizzandoli in contesti pratici.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere e usare i numeri e i colori in spagnolo",
+        "Completare semplici esercizi e attività utilizzando numeri e colori"
+      ]
+    },
+    {
+      "title": "La famiglia",
+      "description": "Imparare i nomi dei membri della famiglia in spagnolo e descrivere le relazioni familiari.",
+      "competencies": [
+        "Comprensione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Riconoscere e nominare i membri della famiglia in spagnolo",
+        "Descrivere le relazioni familiari utilizzando i membri della famiglia"
+      ]
+    },
+    {
+      "title": "Gli animali domestici",
+      "description": "Imparare i nomi degli animali domestici in spagnolo e discutere brevemente sul tema.",
+      "competencies": [
+        "Produzione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Imparare il vocabolario relativo agli animali domestici",
+        "Essere in grado di parlare brevemente degli animali domestici"
+      ]
+    },
+    {
+      "title": "I giorni della settimana e i mesi",
+      "description": "Studiare i giorni della settimana e i mesi dell'anno in spagnolo e collegarli alle attività quotidiane.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare i giorni della settimana e i mesi in spagnolo",
+        "Collegare i giorni e i mesi alle attività quotidiane"
+      ]
+    },
+    {
+      "title": "La scuola",
+      "description": "Apprendere il vocabolario relativo alla scuola in spagnolo e descrivere la routine scolastica.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Conoscere il lessico scolastico in spagnolo",
+        "Descrivere la propria routine scolastica in spagnolo"
+      ]
+    },
+    {
+      "title": "I vestiti",
+      "description": "Studiare il vocabolario riguardante i vestiti in spagnolo e descrivere l'abbigliamento.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Capire e utilizzare il lessico dei vestiti in spagnolo",
+        "Descrivere l'abbigliamento in spagnolo"
+      ]
+    },
+    {
+      "title": "Le descrizioni fisiche",
+      "description": "Imparare a descrivere le persone fisicamente in spagnolo e fare confronti.",
+      "competencies": [
+        "Produzione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere fisicamente persone e fare confronti",
+        "Completare esercizi di descrizione fisica"
+      ]
+    },
+    {
+      "title": "Le abitazioni",
+      "description": "Studiare il vocabolario relativo alle abitazioni in spagnolo e descrivere la propria casa.",
+      "competencies": [
+        "Comunicazione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere il lessico delle abitazioni in spagnolo",
+        "Descrivere la propria casa utilizzando il vocabolario appropriato"
+      ]
+    },
+    {
+      "title": "La routine quotidiana",
+      "description": "Imparare a parlare della routine quotidiana in spagnolo e esprimere azioni abituali.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Esprimere la routine quotidiana in spagnolo",
+        "Descrivere le attività abituali utilizzando il presente"
+      ]
+    },
+    {
+      "title": "Gli hobby e il tempo libero",
+      "description": "Studiare il vocabolario legato agli hobby e ai passatempi in spagnolo per poter discutere sul tempo libero.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare il lessico relativo agli hobby",
+        "Parlare dei propri interessi e attività di tempo libero"
+      ]
+    },
+    {
+      "title": "Gli alimenti e le bevande",
+      "description": "Imparare il vocabolario della cucina in spagnolo e discutere su cibo e bevande.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare il lessico culinario in spagnolo",
+        "Descrivere cibi e bevande utilizzando il vocabolario appreso"
+      ]
+    },
+    {
+      "title": "I trasporti",
+      "description": "Studiare il vocabolario dei mezzi di trasporto in spagnolo e discutere brevemente sui viaggi.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare il lessico relativo ai trasporti",
+        "Parlare dei mezzi di trasporto e dei viaggi"
+      ]
+    },
+    {
+      "title": "Le festività e le tradizioni",
+      "description": "Esplorare le festività e le tradizioni spagnole, imparando vocabolario specifico.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere le festività e le tradizioni spagnole",
+        "Descrivere feste e usanze utilizzando il vocabolario appropriato"
+      ]
+    },
+    {
+      "title": "La geografia e i paesi di lingua spagnola",
+      "description": "Studiare la geografia dei paesi di lingua spagnola e l'importanza della lingua.",
+      "competencies": [
+        "Comprensione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Identificare i paesi di lingua spagnola sulla mappa",
+        "Comprendere l'importanza della lingua spagnola a livello mondiale"
+      ]
+    },
+    {
+      "title": "La moda e lo shopping",
+      "description": "Esplorare il vocabolario legato alla moda e fare acquisti in spagnolo.",
+      "competencies": [
+        "Produzione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Utilizzare il lessico della moda e dello shopping",
+        "Simulare situazioni di acquisto e vendita in spagnolo"
+      ]
+    },
+    {
+      "title": "La salute e il corpo",
+      "description": "Apprendere il vocabolario sul corpo umano e la salute in spagnolo.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere il vocabolario legato alla salute e al corpo",
+        "Parlare di problemi di salute e fare raccomandazioni"
+      ]
+    },
+    {
+      "title": "I mestieri e le professioni",
+      "description": "Studiare i mestieri e le professioni in spagnolo e discutere sulle diverse attività lavorative.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Imparare il lessico dei mestieri e delle professioni",
+        "Parlare dei propri desideri lavorativi e delle professioni preferite"
+      ]
+    },
+    {
+      "title": "La natura e l'ambiente",
+      "description": "Esplorare il vocabolario legato alla natura e all'ambiente, discutendo temi ecologici.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Utilizzare il lessico della natura e dell'ambiente",
+        "Parlare di temi ecologici e sostenibilità in spagnolo"
+      ]
+    },
+    {
+      "title": "La cultura spagnola e i divertimenti",
+      "description": "Approfondire la cultura spagnola, discutendo su cinema, musica e tradizioni.",
+      "competencies": [
+        "Comprensione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Conoscere aspetti della cultura spagnola",
+        "Discutere su film, musica e festività tipiche della Spagna"
+      ]
+    }
+  ]
+}

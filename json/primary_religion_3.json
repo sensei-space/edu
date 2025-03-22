@@ -1,0 +1,235 @@
+{
+  "school": "primary",
+  "subject": "religion",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Storie dell'Antico Testamento: Adamo ed Eva",
+      "description": "Studio della storia di Adamo ed Eva secondo la tradizione religiosa.",
+      "competencies": [
+        "Conoscenza dei principali racconti biblici",
+        "Capacità di riflettere su valori etici e morali"
+      ],
+      "objectives": [
+        "Comprendere la narrazione di Adamo ed Eva",
+        "Riflettere sull'importanza della fedeltà e della responsabilità"
+      ]
+    },
+    {
+      "title": "I Profeti",
+      "description": "Approfondimento sui profeti biblici e il loro ruolo nella storia ebraica.",
+      "competencies": [
+        "Conoscenza della figura dei profeti",
+        "Capacità di interpretare il significato simbolico dei racconti religiosi"
+      ],
+      "objectives": [
+        "Identificare alcuni profeti biblici e il loro messaggio",
+        "Comprendere il concetto di profezia e la sua rilevanza nella fede ebraica"
+      ]
+    },
+    {
+      "title": "L'esodo e la liberazione del popolo ebraico",
+      "description": "Studio dell'importante evento dell'esodo biblico e della liberazione del popolo ebraico.",
+      "competencies": [
+        "Conoscenza della storia dell'esodo",
+        "Sviluppo della capacità di analisi critica"
+      ],
+      "objectives": [
+        "Comprendere il significato della liberazione nel contesto religioso",
+        "Riflettere sull'importanza della libertà e della giustizia"
+      ]
+    },
+    {
+      "title": "Personaggi del Nuovo Testamento: Gesù",
+      "description": "Approfondimento sulla figura di Gesù e il suo insegnamento.",
+      "competencies": [
+        "Conoscenza della vita di Gesù",
+        "Capacità di comprendere la figura di Gesù come esempio di amore e compassion"
+      ],
+      "objectives": [
+        "Identificare gli insegnamenti principali di Gesù",
+        "Riflettere sull'importanza della compassione e della solidarietà"
+      ]
+    },
+    {
+      "title": "Le parabole di Gesù",
+      "description": "Analisi delle parabole di Gesù e dei messaggi nascosti nei racconti.",
+      "competencies": [
+        "Capacità di interpretare testi religiosi",
+        "Sviluppo della capacità di astrazione"
+      ],
+      "objectives": [
+        "Identificare alcune famose parabole di Gesù",
+        "Riflettere sul significato simbolico delle parabole nella vita quotidiana"
+      ]
+    },
+    {
+      "title": "La Pasqua e il significato cristiano",
+      "description": "Approfondimento sulla festa della Pasqua e il suo significato per i cristiani.",
+      "competencies": [
+        "Conoscenza delle festività cristiane",
+        "Capacità di collegare eventi storici alla fede religiosa"
+      ],
+      "objectives": [
+        "Comprendere il significato della Pasqua come simbolo di rinascita",
+        "Riflettere sull'importanza della speranza e della fede nella tradizione cristiana"
+      ]
+    },
+    {
+      "title": "Il perdono e la riconciliazione",
+      "description": "Studio del concetto di perdono e riconciliazione nelle varie tradizioni religiose.",
+      "competencies": [
+        "Capacità di comprendere il concetto di perdono",
+        "Riflessione sull'importanza del dialogo e della pace"
+      ],
+      "objectives": [
+        "Comprendere il significato del perdono nelle relazioni interpersonali",
+        "Riflettere sull'importanza della riconciliazione per la convivenza pacifica"
+      ]
+    },
+    {
+      "title": "Valori etici universali",
+      "description": "Riflessione sui principali valori etici presenti nelle varie tradizioni religiose.",
+      "competencies": [
+        "Sviluppo della sensibilità etica",
+        "Capacità di analisi critica dei valori condivisi"
+      ],
+      "objectives": [
+        "Identificare alcuni valori etici universali presenti nelle tradizioni religiose",
+        "Riflettere sull'importanza della condivisione di valori etici per la convivenza pacifica"
+      ]
+    },
+    {
+      "title": "La solidarietà e l'aiuto reciproco",
+      "description": "Studio del concetto di solidarietà e della pratica dell'aiuto reciproco nelle varie culture religiose.",
+      "competencies": [
+        "Conoscenza della solidarietà come valore fondamentale",
+        "Promozione dell'azione solidale nella vita quotidiana"
+      ],
+      "objectives": [
+        "Comprendere il significato della solidarietà e dell'aiuto reciproco",
+        "Riflettere sull'importanza dell'aiuto verso gli altri e della condivisione delle risorse"
+      ]
+    },
+    {
+      "title": "Il rispetto per la natura e l'ambiente",
+      "description": "Approfondimento sul concetto di rispetto per la natura e sull'importanza della cura dell'ambiente nelle diverse tradizioni religiose.",
+      "competencies": [
+        "Sviluppo della coscienza ambientale",
+        "Promozione di comportamenti sostenibili"
+      ],
+      "objectives": [
+        "Riflettere sull'importanza del rispetto per la natura",
+        "Promuovere comportamenti responsabili nei confronti dell'ambiente"
+      ]
+    },
+    {
+      "title": "Festività religiose nel mondo",
+      "description": "Esplorazione delle principali festività religiose celebrate in diverse culture e tradizioni.",
+      "competencies": [
+        "Conoscenza delle festività religiose",
+        "Rispetto e comprensione delle diversità culturali"
+      ],
+      "objectives": [
+        "Identificare alcune festività religiose importanti in varie tradizioni",
+        "Riflettere sull'importanza del rispetto per le diverse manifestazioni di fede"
+      ]
+    },
+    {
+      "title": "Testi sacri delle varie religioni",
+      "description": "Studio e confronto dei testi sacri delle principali religioni mondiali.",
+      "competencies": [
+        "Capacità di analisi testuale",
+        "Tolleranza e rispetto delle diversità religiose"
+      ],
+      "objectives": [
+        "Conoscere alcuni testi sacri delle principali religioni",
+        "Sviluppare una visione rispettosa delle diverse tradizioni religiose"
+      ]
+    },
+    {
+      "title": "Le regole della convivenza",
+      "description": "Riflessione sulle regole etiche e morali che regolano le relazioni umane nelle diverse culture religiose.",
+      "competencies": [
+        "Sviluppo della consapevolezza sociale",
+        "Promozione della tolleranza e della pace"
+      ],
+      "objectives": [
+        "Comprendere l'importanza delle regole nella convivenza pacifica",
+        "Riflettere sul rispetto reciproco e sul dialogo come strumenti di coesione sociale"
+      ]
+    },
+    {
+      "title": "Le diversità religiose nel mondo",
+      "description": "Esplorazione delle diverse religioni presenti nel mondo e promozione della tolleranza e del rispetto reciproco.",
+      "competencies": [
+        "Conoscenza delle principali religioni mondiali",
+        "Promozione del dialogo interreligioso"
+      ],
+      "objectives": [
+        "Identificare alcune delle principali religioni mondiali e le loro caratteristiche",
+        "Promuovere la comprensione e il rispetto delle diversità religiose"
+      ]
+    },
+    {
+      "title": "Le fiabe religiose",
+      "description": "Lettura e analisi di fiabe e racconti popolari legati alle tradizioni religiose.",
+      "competencies": [
+        "Capacità di cogliere il valore simbolico dei racconti popolari",
+        "Sviluppo della fantasia e della creatività"
+      ],
+      "objectives": [
+        "Comprendere il significato simbolico delle fiabe religiose",
+        "Valorizzare la tradizione orale e le narrazioni popolari legate alla spiritualità"
+      ]
+    },
+    {
+      "title": "Le figure religiose femminili",
+      "description": "Studio delle figure femminili significative nelle diverse tradizioni religiose.",
+      "competencies": [
+        "Promozione della parità di genere nelle religioni",
+        "Rispetto della diversità culturale e religiosa"
+      ],
+      "objectives": [
+        "Conoscere alcune figure femminili importanti nelle varie religioni",
+        "Promuovere il rispetto e l'apprezzamento del ruolo delle donne nella sfera religiosa"
+      ]
+    },
+    {
+      "title": "L'importanza del dialogo interreligioso",
+      "description": "Riflessione sull'importanza del dialogo e del confronto tra le diverse tradizioni religiose.",
+      "competencies": [
+        "Capacità di comunicazione interculturale",
+        "Tolleranza e rispetto delle diversità"
+      ],
+      "objectives": [
+        "Comprendere l'importanza del dialogo interreligioso per la pace e la convivenza",
+        "Promuovere il rispetto reciproco e la cooperazione tra diverse fedi"
+      ]
+    },
+    {
+      "title": "La preghiera nelle varie religioni",
+      "description": "Studio della pratica della preghiera nelle diverse tradizioni religiose e del suo significato spirituale.",
+      "competencies": [
+        "Comprendere il ruolo della preghiera nella spiritualità",
+        "Promuovere la sensibilità religiosa"
+      ],
+      "objectives": [
+        "Conoscere le diverse forme di preghiera presenti nelle varie religioni",
+        "Riflettere sull'importanza della preghiera come momento di riflessione e connessione con il divino"
+      ]
+    },
+    {
+      "title": "L'arte sacra nel mondo",
+      "description": "Esplorazione dell'arte sacra attraverso le diverse tradizioni religiose e dei suoi significati simbolici.",
+      "competencies": [
+        "Sviluppo della sensibilità estetica",
+        "Capacità di interpretazione simbolica"
+      ],
+      "objectives": [
+        "Identificare alcune opere d'arte sacra nelle varie tradizioni religiose",
+        "Comprendere il significato simbolico e spirituale dell'arte sacra"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "school": "secondary",
+  "subject": "music",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Storia della musica barocca",
+      "description": "Studio delle caratteristiche principali della musica barocca, con focus su compositori e opere rappresentative del periodo.",
+      "competencies": [
+        "Conoscenza della storia della musica",
+        "Apprezzamento delle diverse epoche musicali"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche salienti della musica barocca",
+        "Riconoscere le opere e i compositori barocchi più importanti"
+      ]
+    },
+    {
+      "title": "Analisi della forma sonata",
+      "description": "Approfondimento della struttura formale della sonata classica attraverso l'analisi di brani musicali significativi.",
+      "competencies": [
+        "Comprensione delle forme musicali",
+        "Capacità di analisi critica"
+      ],
+      "objectives": [
+        "Comprendere la struttura della forma sonata",
+        "Analizzare brani musicali utilizzando i concetti appresi"
+      ]
+    },
+    {
+      "title": "Composizione di un minuetto",
+      "description": "Creazione e composizione guidata di un minuetto in stile classico, seguendo le regole formali e stilistiche dell'epoca.",
+      "competencies": [
+        "Creatività musicale",
+        "Conoscenza delle regole compositive"
+      ],
+      "objectives": [
+        "Comporre un minuetto rispettando le regole stilistiche del periodo classico",
+        "Sviluppare competenze di scrittura e composizione musicale"
+      ]
+    },
+    {
+      "title": "La musica romantica",
+      "description": "Approfondimento sulle caratteristiche e gli sviluppi della musica romantica, con analisi di compositori e opere significative.",
+      "competencies": [
+        "Comprensione del periodo romantico in musica",
+        "Apprezzamento delle emozioni trasmesse dalla musica"
+      ],
+      "objectives": [
+        "Identificare le peculiarità della musica romantica",
+        "Apprezzare le emozioni e le sfumature espressive presenti nelle opere del periodo"
+      ]
+    },
+    {
+      "title": "Analisi e confronto tra opera lirica e sinfonica",
+      "description": "Studio delle differenze strutturali ed esecutive tra un'opera lirica e una sinfonia, con ascolto e confronto di brani significativi.",
+      "competencies": [
+        "Conoscenza delle diverse forme musicali",
+        "Capacità di ascolto critico"
+      ],
+      "objectives": [
+        "Comprendere le peculiarità strutturali e esecutive dell'opera lirica e della sinfonia",
+        "Essere in grado di distinguere le caratteristiche di entrambe le forme musicali"
+      ]
+    },
+    {
+      "title": "Musica contemporanea e sperimentale",
+      "description": "Esplorazione delle nuove tendenze musicali del XX e XXI secolo, con focus su compositori e opere di musica contemporanea e sperimentale.",
+      "competencies": [
+        "Apertura alle nuove espressioni musicali",
+        "Conoscenza delle correnti musicali contemporanee"
+      ],
+      "objectives": [
+        "Conoscere le principali correnti e compositori della musica contemporanea",
+        "Sviluppare una visione critica e consapevole delle nuove tendenze musicali"
+      ]
+    }
+  ]
+}

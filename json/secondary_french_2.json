@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "french",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Salut, moi c'est...",
+      "description": "Presentazioni personali: imparare a presentarsi, chiedere e dare informazioni personali di base.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di presentarsi in francese",
+        "Sapere chiedere e dare informazioni personali di base"
+      ]
+    },
+    {
+      "title": "La famiglia",
+      "description": "Descrizione dei membri della famiglia: imparare vocaboli relativi alla famiglia e alla parentela.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Sapere nominare diversi membri della famiglia in francese",
+        "Essere in grado di descrivere relazioni familiari"
+      ]
+    },
+    {
+      "title": "Le attività quotidiane",
+      "description": "Descrizione delle attività quotidiane: imparare verbi e espressioni relative alle azioni svolte quotidianamente.",
+      "competencies": [
+        "Comprensione orale",
+        "Espressione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere le proprie attività giornaliere in francese",
+        "Sapere utilizzare i verbi al presente per parlare delle azioni abituali"
+      ]
+    },
+    {
+      "title": "I passatempi",
+      "description": "Descrizione delle attività di svago: imparare il vocabolario relativo ai passatempi e ai hobby.",
+      "competencies": [
+        "Vocabolario tematico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di parlare dei propri hobby e interessi",
+        "Sapere chiedere e rispondere riguardo ai passatempi preferiti"
+      ]
+    },
+    {
+      "title": "La casa e le sue stanze",
+      "description": "Descrizione della casa e delle varie stanze: imparare il vocabolario relativo agli ambienti domestici.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere nominare le stanze della casa in francese",
+        "Essere in grado di descrivere la propria casa"
+      ]
+    },
+    {
+      "title": "La spesa al supermercato",
+      "description": "Acquisti e alimentazione: imparare il vocabolario e le espressioni legate alla spesa di alimentari.",
+      "competencies": [
+        "Vocabolario tematico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Sapere fare la spesa al supermercato in francese",
+        "Essere in grado di chiedere informazioni e consigli riguardo agli alimenti"
+      ]
+    },
+    {
+      "title": "Gli animali domestici",
+      "description": "Conoscenze sugli animali domestici: imparare il vocabolario relativo agli animali da compagnia.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di nominare e descrivere animali domestici in francese",
+        "Sapere parlare dei propri animali preferiti"
+      ]
+    },
+    {
+      "title": "Il gioco delle preposizioni",
+      "description": "Uso delle preposizioni di luogo: imparare a utilizzare correttamente le preposizioni per indicare la posizione di oggetti e persone.",
+      "competencies": [
+        "Grammatica",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere indicare correttamente la posizione di oggetti rispetto ad altri",
+        "Essere in grado di descrivere scene utilizzando preposizioni di luogo"
+      ]
+    },
+    {
+      "title": "Le stagioni e il tempo",
+      "description": "Descrizione delle stagioni e del tempo atmosferico: imparare il vocabolario relativo alle diverse stagioni e alle condizioni meteorologiche.",
+      "competencies": [
+        "Vocabolario tematico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Sapere parlare del clima e delle stagioni in francese",
+        "Essere in grado di fare previsioni meteorologiche semplici"
+      ]
+    },
+    {
+      "title": "Gli strumenti musicali",
+      "description": "Conoscenze sugli strumenti musicali: imparare il vocabolario relativo agli strumenti musicali e alle attività musicali.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di nominare vari strumenti musicali in francese",
+        "Sapere parlare di interessi musicali personali e preferenze"
+      ]
+    },
+    {
+      "title": "Le attività sportive",
+      "description": "Descrizione di diverse attività sportive: imparare il vocabolario relativo allo sport e alle discipline sportive.",
+      "competencies": [
+        "Vocabolario tematico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di parlare delle diverse attività sportive praticate",
+        "Sapere chiedere e rispondere riguardo agli sport preferiti"
+      ]
+    },
+    {
+      "title": "Il cibo tipico francese",
+      "description": "Conoscenze sulla gastronomia francese: imparare il vocabolario legato ai piatti tipici francesi e alle abitudini alimentari.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Sapere parlare dei piatti tipici francesi e delle abitudini alimentari",
+        "Essere in grado di ordinare cibo in un ristorante in francese"
+      ]
+    },
+    {
+      "title": "I mezzi di trasporto",
+      "description": "Descrizione dei mezzi di trasporto: imparare il vocabolario relativo ai vari mezzi di spostamento.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di parlare dei mezzi di trasporto utilizzati",
+        "Sapere chiedere e dare indicazioni per spostarsi in città"
+      ]
+    },
+    {
+      "title": "Le parti del corpo",
+      "description": "Descrizione delle parti del corpo: imparare il vocabolario relativo alle diverse parti anatomiche.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere nominare le parti del corpo in francese",
+        "Essere in grado di descrivere sintomi o dolori fisici"
+      ]
+    },
+    {
+      "title": "Le festività in Francia",
+      "description": "Conoscenze sulle festività francesi: imparare il vocabolario relativo alle festività celebrate in Francia.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Sapere parlare delle principali festività francesi",
+        "Essere in grado di descrivere le tradizioni legate alle festività"
+      ]
+    },
+    {
+      "title": "Il tempo libero e le vacanze",
+      "description": "Descrizione delle attività di svago e delle vacanze: imparare vocaboli legati al tempo libero e alle vacanze.",
+      "competencies": [
+        "Vocabolario tematico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di parlare dei propri piani per le vacanze",
+        "Sapere chiedere e dare informazioni sui programmi di tempo libero"
+      ]
+    },
+    {
+      "title": "L'abbigliamento e la moda",
+      "description": "Conoscenze sull'abbigliamento e la moda: imparare il vocabolario relativo ai vestiti e agli accessori di moda.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere parlare dell'abbigliamento preferito e dei propri stili di moda",
+        "Essere in grado di fare shopping e descrivere capi di abbigliamento"
+      ]
+    },
+    {
+      "title": "I mezzi di comunicazione",
+      "description": "Descrizione dei mezzi di comunicazione: imparare il vocabolario relativo alla comunicazione e ai media.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di parlare dei mezzi di comunicazione utilizzati",
+        "Sapere discutere sui vantaggi e svantaggi dei diversi mezzi di media"
+      ]
+    },
+    {
+      "title": "Gli oggetti scolastici",
+      "description": "Descrizione degli oggetti scolastici: imparare il vocabolario relativo agli strumenti e agli oggetti utilizzati a scuola.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Sapere nominare gli oggetti presenti in una classe",
+        "Essere in grado di descrivere materiali scolastici e utilizzarli correttamente"
+      ]
+    },
+    {
+      "title": "Le emozioni e i sentimenti",
+      "description": "Espressione delle emozioni e dei sentimenti: imparare il vocabolario relativo alle diverse emozioni e stati d'animo.",
+      "competencies": [
+        "Vocabolario specifico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere esprimere emozioni e sentimenti in francese",
+        "Essere in grado di descrivere come ci si sente in varie situazioni"
+      ]
+    }
+  ]
+}

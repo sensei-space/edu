@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "spanish",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Saluti e presentazioni",
+      "description": "Apprendimento dei saluti e delle formule di presentazione in lingua spagnola.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Sapere salutare e presentarsi in spagnolo",
+        "Capire le formule di saluto e presentazione"
+      ]
+    },
+    {
+      "title": "Numeri e colori",
+      "description": "Imparare a contare e riconoscere i colori in lingua spagnola.",
+      "competencies": [
+        "Comprensione orale",
+        "Produzione scritta"
+      ],
+      "objectives": [
+        "Conoscere i numeri e colori base in spagnolo",
+        "Essere in grado di scrivere e pronunciare numeri e colori"
+      ]
+    },
+    {
+      "title": "Famiglia e descrizione fisica",
+      "description": "Studio del vocabolario relativo ai membri della famiglia e all'aspetto fisico delle persone.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione lessicale"
+      ],
+      "objectives": [
+        "Descrivere membri della propria famiglia in spagnolo",
+        "Essere in grado di parlare dell'aspetto fisico in spagnolo"
+      ]
+    },
+    {
+      "title": "Gli animali domestici",
+      "description": "Approfondimento sul vocabolario relativo agli animali domestici in spagnolo.",
+      "competencies": [
+        "Comprensione orale",
+        "Vocabolario specifico"
+      ],
+      "objectives": [
+        "Riconoscere e nominare animali domestici in spagnolo",
+        "Capire descrizioni di animali domestici"
+      ]
+    },
+    {
+      "title": "Casa e arredamento",
+      "description": "Studio del lessico relativo alla casa, alle stanze e al mobilio.",
+      "competencies": [
+        "Comprensione scritta",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Identificare le varie stanze di una casa in spagnolo",
+        "Descrivere il proprio appartamento in spagnolo"
+      ]
+    },
+    {
+      "title": "Giorni della settimana e mesi dell'anno",
+      "description": "Apprendimento dei giorni della settimana e dei mesi dell'anno in lingua spagnola.",
+      "competencies": [
+        "Comprensione orale",
+        "Memoria"
+      ],
+      "objectives": [
+        "Sapere i giorni della settimana e i mesi dell'anno in spagnolo",
+        "Utilizzare correttamente il calendario spagnolo"
+      ]
+    },
+    {
+      "title": "Stagioni e condizioni meteorologiche",
+      "description": "Studio del vocabolario relativo alle stagioni e al tempo atmosferico.",
+      "competencies": [
+        "Comprensione orale",
+        "Vocabolario specifico"
+      ],
+      "objectives": [
+        "Descrivere le stagioni in spagnolo",
+        "Parlare delle condizioni meteorologiche"
+      ]
+    },
+    {
+      "title": "Professioni e attività",
+      "description": "Approfondimento sul lessico relativo alle professioni e alle attività.",
+      "competencies": [
+        "Comprensione lessicale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Conoscere diverse professioni in spagnolo",
+        "Descrivere le attività svolte durante la giornata"
+      ]
+    },
+    {
+      "title": "Alimentazione e cucina",
+      "description": "Imparare il vocabolario legato al cibo e alle ricette in spagnolo.",
+      "competencies": [
+        "Comprensione orale",
+        "Vocabolario specifico"
+      ],
+      "objectives": [
+        "Riconoscere e nominare cibi e bevande in spagnolo",
+        "Chiedere e dare informazioni su ricette"
+      ]
+    },
+    {
+      "title": "Hobby e tempo libero",
+      "description": "Studio del lessico riguardante hobby, attività ricreative e tempo libero.",
+      "competencies": [
+        "Comprensione scritta",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Parlare dei propri hobby in spagnolo",
+        "Capire conversazioni su attività di svago"
+      ]
+    },
+    {
+      "title": "Viaggi e mezzi di trasporto",
+      "description": "Approfondimento sul vocabolario dei viaggi e dei mezzi di trasporto in spagnolo.",
+      "competencies": [
+        "Comprensione orale",
+        "Vocabolario specifico"
+      ],
+      "objectives": [
+        "Descrivere itinerari di viaggio in spagnolo",
+        "Prenotare biglietti per mezzi di trasporto"
+      ]
+    },
+    {
+      "title": "Negozi e shopping",
+      "description": "Studio del lessico relativo ai negozi, agli acquisti e allo shopping.",
+      "competencies": [
+        "Comprensione scritta",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Chiedere informazioni in un negozio in spagnolo",
+        "Negoziare prezzi e fare acquisti"
+      ]
+    },
+    {
+      "title": "Salute e benessere",
+      "description": "Apprendimento del vocabolario legato alla salute, ai sintomi e al benessere fisico e mentale.",
+      "competencies": [
+        "Comprensione orale",
+        "Vocabolario specifico"
+      ],
+      "objectives": [
+        "Descrivere sintomi e malesseri in spagnolo",
+        "Chiedere consigli su come prendersi cura di sé stessi"
+      ]
+    },
+    {
+      "title": "Feste e tradizioni",
+      "description": "Approfondimento sul lessico relativo alle feste, alle celebrazioni e alle tradizioni culturali.",
+      "competencies": [
+        "Comprensione lessicale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Descrivere festività spagnole e internazionali",
+        "Partecipare attivamente a celebrazioni culturali"
+      ]
+    },
+    {
+      "title": "Media e tecnologia",
+      "description": "Studio del vocabolario relativo ai media, alle tecnologie e all'uso di internet.",
+      "competencies": [
+        "Comprensione orale",
+        "Vocabolario specifico"
+      ],
+      "objectives": [
+        "Esprimere opinioni su film e programmi televisivi",
+        "Utilizzare correttamente l'informatica in spagnolo"
+      ]
+    },
+    {
+      "title": "Ambiente e ecologia",
+      "description": "Imparare il lessico riguardante l'ambiente, la natura e le tematiche ecologiche.",
+      "competencies": [
+        "Comprensione orale",
+        "Sensibilità ambientale"
+      ],
+      "objectives": [
+        "Discutere problemi ambientali in spagnolo",
+        "Proporre soluzioni ecologiche"
+      ]
+    },
+    {
+      "title": "Sport e attività fisica",
+      "description": "Approfondimento sul lessico relativo allo sport, all'attività fisica e alle discipline sportive.",
+      "competencies": [
+        "Comprensione lessicale",
+        "Produzione orale"
+      ],
+      "objectives": [
+        "Descrivere sport preferiti in spagnolo",
+        "Organizzare eventi sportivi con descrizioni dettagliate"
+      ]
+    },
+    {
+      "title": "Letteratura e cultura spagnola",
+      "description": "Studio di testi letterari e approfondimento della cultura spagnola e ispanoamericana.",
+      "competencies": [
+        "Comprensione culturale",
+        "Analisi testuale"
+      ],
+      "objectives": [
+        "Leggere opere letterarie in spagnolo",
+        "Conoscere autori e movimenti culturali rilevanti"
+      ]
+    },
+    {
+      "title": "Grammatica avanzata",
+      "description": "Approfondimento delle strutture grammaticali complesse della lingua spagnola.",
+      "competencies": [
+        "Competenza grammaticale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Utilizzare correttamente tempi verbali avanzati",
+        "Comprendere e produrre frasi complesse"
+      ]
+    },
+    {
+      "title": "Preparazione agli esami",
+      "description": "Revisione e pratica mirata in vista di test e verifiche sulla lingua spagnola.",
+      "competencies": [
+        "Abilità di studio",
+        "Gestione del tempo"
+      ],
+      "objectives": [
+        "Essere preparati per superare con successo gli esami di spagnolo",
+        "Sapere gestire lo stress da preparazione agli esami"
+      ]
+    }
+  ]
+}

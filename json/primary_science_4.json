@@ -1,0 +1,259 @@
+{
+  "school": "primary",
+  "subject": "science",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Il ciclo dell'acqua",
+      "description": "Studio del ciclo dell'acqua attraverso l'evaporazione, condensazione, precipitazione e infiltrazione.",
+      "competencies": [
+        "Comprendere il ciclo dell'acqua",
+        "Riconoscere i cambiamenti di stato dell'acqua"
+      ],
+      "objectives": [
+        "Descrivere il percorso dell'acqua nel ciclo idrologico",
+        "Identificare le fasi di evaporazione, condensazione e precipitazione"
+      ]
+    },
+    {
+      "title": "La catena alimentare",
+      "description": "Analisi della catena alimentare con produttori, consumatori primari, consumatori secondari e decompositori.",
+      "competencies": [
+        "Comprendere le relazioni tra esseri viventi",
+        "Riconoscere i diversi ruoli in una catena alimentare"
+      ],
+      "objectives": [
+        "Identificare i diversi livelli trofici di una catena alimentare",
+        "Capire l'importanza dell'equilibrio ecologico"
+      ]
+    },
+    {
+      "title": "I suoli e la loro importanza",
+      "description": "Approfondimento sulle caratteristiche dei suoli, il loro ruolo nell'ambiente e per la vita delle piante.",
+      "competencies": [
+        "Conoscere le proprietà dei suoli",
+        "Comprendere l'importanza del suolo per le piante"
+      ],
+      "objectives": [
+        "Identificare i diversi tipi di suoli",
+        "Capire come il suolo fornisce sostegno e nutrienti alle piante"
+      ]
+    },
+    {
+      "title": "Le fasi lunari",
+      "description": "Studio delle diverse fasi della Luna e delle cause dell'alternanza tra luce e ombra sulla sua superficie.",
+      "competencies": [
+        "Comprendere le fasi lunari",
+        "Riconoscere i movimenti della Terra e della Luna"
+      ],
+      "objectives": [
+        "Identificare le diverse fasi della Luna",
+        "Spiegare come avvengono le fasi lunari"
+      ]
+    },
+    {
+      "title": "Le piante e la fotosintesi clorofilliana",
+      "description": "Analisi della struttura delle piante e della fotosintesi come processo di produzione di cibo.",
+      "competencies": [
+        "Conoscere la struttura delle piante",
+        "Capire il processo di fotosintesi clorofilliana"
+      ],
+      "objectives": [
+        "Riconoscere le parti fondamentali di una pianta",
+        "Spiegare come avviene il processo di fotosintesi nelle piante"
+      ]
+    },
+    {
+      "title": "Le proprietà dei materiali",
+      "description": "Esplorazione delle caratteristiche dei materiali come la densità, la trasparenza e la conducibilità.",
+      "competencies": [
+        "Conoscere le proprietà dei materiali",
+        "Saper distinguere tra materiali diversi"
+      ],
+      "objectives": [
+        "Identificare materiali trasparenti, opachi e traslucidi",
+        "Capire come la densità influenzi il galleggiamento di un oggetto"
+      ]
+    },
+    {
+      "title": "Le misure di lunghezza",
+      "description": "Apprendimento delle unità di misura della lunghezza come il metro e il centimetro, e la loro conversione.",
+      "competencies": [
+        "Conoscere le unità di misura della lunghezza",
+        "Essere in grado di misurare oggetti con precisione"
+      ],
+      "objectives": [
+        "Misurare oggetti utilizzando il metro e il centimetro",
+        "Convertire misure dalla scala centimetrica a quella metriconelna e viceversa"
+      ]
+    },
+    {
+      "title": "L'energia e le sue forme",
+      "description": "Studio delle diverse forme di energia come termica, luminosa, cinetica ed elettrica.",
+      "competencies": [
+        "Conoscere le diverse forme di energia",
+        "Capire come l'energia si trasforma"
+      ],
+      "objectives": [
+        "Riconoscere le principali forme di energia nella vita di tutti i giorni",
+        "Descrivere come avviene la trasformazione di energia in una lampadina"
+      ]
+    },
+    {
+      "title": "I processi di riscaldamento e raffreddamento",
+      "description": "Analisi dei processi di riscaldamento e raffreddamento, comprese le fonti di calore e le modalità di dispersione del calore.",
+      "competencies": [
+        "Comprendere i processi di riscaldamento e raffreddamento",
+        "Saper distinguere tra conduzione, convezione e irraggiamento"
+      ],
+      "objectives": [
+        "Spiegare come avviene il riscaldamento per conduzione",
+        "Identificare le differenze tra conduzione e convezione"
+      ]
+    },
+    {
+      "title": "La ruota e l'assale",
+      "description": "Studio della ruota come semplice macchina e dell'assale come elemento di trasmissione del moto.",
+      "competencies": [
+        "Comprendere il funzionamento della ruota e dell'assale",
+        "Riconoscere la presenza di queste componenti in vari oggetti"
+      ],
+      "objectives": [
+        "Identificare oggetti di uso quotidiano che contengono ruote e assali",
+        "Capire come l'assale trasmetta il movimento tra due ruote"
+      ]
+    },
+    {
+      "title": "L'elettricità statica e dinamica",
+      "description": "Differenziazione tra elettricità statica e dinamica, con esperimenti per verificare la presenza di cariche elettriche.",
+      "competencies": [
+        "Conoscere le differenze tra elettricità statica e dinamica",
+        "Essere in grado di generare cariche elettriche"
+      ],
+      "objectives": [
+        "Realizzare semplici esperimenti per generare elettricità statica",
+        "Spiegare come avviene lo scaricamento di cariche elettriche"
+      ]
+    },
+    {
+      "title": "Le leggi di Newton",
+      "description": "Studio delle tre leggi del moto di Newton e applicazioni pratiche alla vita di tutti i giorni.",
+      "competencies": [
+        "Comprendere le leggi del moto di Newton",
+        "Saper applicare queste leggi a situazioni concrete"
+      ],
+      "objectives": [
+        "Descrivere le tre leggi di Newton",
+        "Identificare situazioni in cui agiscono le leggi di Newton"
+      ]
+    },
+    {
+      "title": "Il sistema solare e le orbite dei pianeti",
+      "description": "Analisi del sistema solare, dei pianeti e delle caratteristiche delle loro orbite attorno al Sole.",
+      "competencies": [
+        "Conoscere la struttura del sistema solare",
+        "Riconoscere le caratteristiche dei pianeti"
+      ],
+      "objectives": [
+        "Identificare i pianeti del sistema solare",
+        "Descrivere le orbite dei pianeti intorno al Sole"
+      ]
+    },
+    {
+      "title": "Le forze di attrazione e repulsione",
+      "description": "Studio delle forze di attrazione e repulsione tra materiali diversi e loro applicazioni.",
+      "competencies": [
+        "Comprendere le forze di attrazione e repulsione",
+        "Essere in grado di distinguere i diversi tipi di interazioni"
+      ],
+      "objectives": [
+        "Sperimentare le forze di attrazione e repulsione con materiali diversi",
+        "Spiegare come avvengono le interazioni elettrostatiche"
+      ]
+    },
+    {
+      "title": "I cambiamenti fisici e chimici della materia",
+      "description": "Differenziazione tra cambiamenti fisici e chimici attraverso esperimenti di miscelazione e trasformazione di sostanze.",
+      "competencies": [
+        "Conoscere le differenze tra cambiamenti fisici e chimici",
+        "Saper riconoscere i segni di una trasformazione chimica"
+      ],
+      "objectives": [
+        "Eseguire esperimenti per verificare se una trasformazione è fisica o chimica",
+        "Identificare i segni di una reazione chimica"
+      ]
+    },
+    {
+      "title": "La lente convergente e divergente",
+      "description": "Studio delle lenti convergenti e divergenti, dei loro utilizzi e delle proprietà ottiche.",
+      "competencies": [
+        "Comprendere come le lenti convergenti e divergenti modificano la luce",
+        "Essere in grado di distinguere tra lenti diverse"
+      ],
+      "objectives": [
+        "Realizzare esperimenti per osservare la formazione di immagini con lenti",
+        "Spiegare come funzionano gli occhiali correttivi"
+      ]
+    },
+    {
+      "title": "Le ombre e la loro formazione",
+      "description": "Analisi della formazione delle ombre attraverso la luce, i corpi opachi e traslucidi.",
+      "competencies": [
+        "Comprendere come avviene la formazione delle ombre",
+        "Saper distinguere tra corpi opachi e traslucidi"
+      ],
+      "objectives": [
+        "Realizzare esperimenti per osservare la formazione delle ombre",
+        "Descrivere come variano le dimensioni delle ombre in base al posizionamento della sorgente luminosa"
+      ]
+    },
+    {
+      "title": "La propagazione del suono",
+      "description": "Studio della propagazione del suono nell'aria e nei diversi materiali, con esperimenti di risonanza e riflessione sonora.",
+      "competencies": [
+        "Conoscere le caratteristiche del suono",
+        "Comprendere come avviene la propagazione del suono"
+      ],
+      "objectives": [
+        "Esplorare la propagazione del suono in diverse condizioni",
+        "Riconoscere casi di riflessione del suono"
+      ]
+    },
+    {
+      "title": "Le leggi della riflessione della luce",
+      "description": "Analisi delle leggi che regolano la riflessione della luce su specchi piani e la visione di oggetti riflessi.",
+      "competencies": [
+        "Conoscere le leggi della riflessione della luce",
+        "Saper descrivere come avviene la riflessione"
+      ],
+      "objectives": [
+        "Sperimentare la riflessione della luce su specchi",
+        "Spiegare come si forma l'immagine in uno specchio piano"
+      ]
+    },
+    {
+      "title": "Le fasi della materia nell'ambiente",
+      "description": "Esplorazione delle fasi della materia come solido, liquido e gassoso, con esempi di trasformazioni fisiche.",
+      "competencies": [
+        "Conoscere le diverse fasi della materia",
+        "Riconoscere come avvengono i cambiamenti di stato"
+      ],
+      "objectives": [
+        "Identificare esempi di materiali nei diversi stati di aggregazione",
+        "Spiegare il passaggio tra i diversi stati di aggregazione"
+      ]
+    },
+    {
+      "title": "La biodiversità e l'importanza della protezione ambientale",
+      "description": "Studio della diversità delle forme di vita, delle specie in pericolo e dell'importanza della conservazione dell'ambiente.",
+      "competencies": [
+        "Conoscere l'importanza della biodiversità",
+        "Essere consapevoli dell'azione dell'uomo sull'ambiente"
+      ],
+      "objectives": [
+        "Riconoscere l'importanza della tutela delle specie in pericolo",
+        "Comprendere il ruolo dell'uomo nella conservazione dell'ambiente"
+      ]
+    }
+  ]
+}

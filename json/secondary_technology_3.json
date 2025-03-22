@@ -1,0 +1,235 @@
+{
+  "school": "secondary",
+  "subject": "technology",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Storia e evoluzione della tecnologia",
+      "description": "Approfondimento sulle tappe fondamentali della storia della tecnologia e il suo impatto sulla società.",
+      "competencies": [
+        "Comprendere il ruolo della tecnologia nella storia",
+        "Analizzare l'evoluzione tecnologica nel tempo"
+      ],
+      "objectives": [
+        "Identificare le principali fasi della storia della tecnologia",
+        "Riflettere sull'importanza delle scoperte tecnologiche"
+      ]
+    },
+    {
+      "title": "Materiali utilizzati nella tecnologia",
+      "description": "Studio dei diversi materiali impiegati nella realizzazione di prodotti tecnologici e delle loro caratteristiche.",
+      "competencies": [
+        "Riconoscere le proprietà dei materiali",
+        "Comprendere l'utilizzo specifico dei materiali nella tecnologia"
+      ],
+      "objectives": [
+        "Classificare i materiali in base alle loro caratteristiche",
+        "Valutare l'idoneità dei materiali per specifiche applicazioni tecnologiche"
+      ]
+    },
+    {
+      "title": "Progettazione assistita dal computer (CAD)",
+      "description": "Introduzione ai software di progettazione assistita per la realizzazione di modelli e disegni tecnici.",
+      "competencies": [
+        "Utilizzare software CAD per la progettazione",
+        "Interpretare disegni tecnici"
+      ],
+      "objectives": [
+        "Creare modelli tridimensionali utilizzando software CAD",
+        "Compilare e leggere correttamente un disegno tecnico"
+      ]
+    },
+    {
+      "title": "Automazione e robotica",
+      "description": "Studio dei concetti di automazione e robotica, con focus sulle applicazioni pratiche e l'importanza nei processi produttivi.",
+      "competencies": [
+        "Comprendere il funzionamento dei sistemi automatizzati",
+        "Analizzare l'impatto della robotica nell'industria"
+      ],
+      "objectives": [
+        "Identificare i componenti di un sistema automatizzato",
+        "Valutare il potenziale dell'automazione per migliorare la produttività"
+      ]
+    },
+    {
+      "title": "Sistemi di comunicazione e reti",
+      "description": "Approfondimento sui principi di funzionamento dei sistemi di comunicazione e sulle reti informatiche.",
+      "competencies": [
+        "Comprendere il funzionamento dei sistemi di comunicazione",
+        "Configurare una rete semplice"
+      ],
+      "objectives": [
+        "Spiegare i principi fondamentali della trasmissione dei dati",
+        "Realizzare una piccola rete informatica e connettere dispositivi"
+      ]
+    },
+    {
+      "title": "Tecnologie digitali",
+      "description": "Studio delle tecnologie digitali, inclusi computer, software, dispositivi mobili e loro impieghi nella vita quotidiana.",
+      "competencies": [
+        "Utilizzare strumenti digitali",
+        "Comprendere il funzionamento di un computer"
+      ],
+      "objectives": [
+        "Utilizzare software per elaborare testi e presentazioni",
+        "Spiegare il funzionamento di un sistema informatico e dei suoi componenti"
+      ]
+    },
+    {
+      "title": "Sicurezza informatica",
+      "description": "Approfondimento sulla protezione dei dati e delle informazioni personali in ambiente digitale.",
+      "competencies": [
+        "Conoscere le minacce informatiche",
+        "Applicare misure di sicurezza informatica"
+      ],
+      "objectives": [
+        "Identificare potenziali minacce informatiche",
+        "Implementare strategie di protezione dei dati personali online"
+      ]
+    },
+    {
+      "title": "Tecnologie per la sostenibilità",
+      "description": "Studio delle tecnologie e delle pratiche sostenibili nell'utilizzo delle risorse naturali e nella riduzione dell'impatto ambientale.",
+      "competencies": [
+        "Comprendere l'impatto ambientale delle tecnologie",
+        "Proporre soluzioni sostenibili"
+      ],
+      "objectives": [
+        "Analizzare come le tecnologie possono contribuire alla sostenibilità ambientale",
+        "Ideare progetti tecnologici che promuovano la riduzione dell'impatto ambientale"
+      ]
+    },
+    {
+      "title": "Elettronica di base",
+      "description": "Introduzione ai concetti base dell'elettronica e dei circuiti elettrici.",
+      "competencies": [
+        "Comprendere i principi dell'elettronica",
+        "Realizzare semplici circuiti elettrici"
+      ],
+      "objectives": [
+        "Spiegare il funzionamento di componenti elettronici fondamentali",
+        "Costruire e testare circuiti elettrici semplici"
+      ]
+    },
+    {
+      "title": "Tecnologie per l'automazione domestica",
+      "description": "Studio delle tecnologie e dei dispositivi utilizzati per l'automazione e il controllo domestico.",
+      "competencies": [
+        "Comprendere le applicazioni dell'automazione domestica",
+        "Utilizzare dispositivi smart"
+      ],
+      "objectives": [
+        "Spiegare come funzionano i sistemi domotici",
+        "Programmare e controllare dispositivi smart per la casa"
+      ]
+    },
+    {
+      "title": "Tecnologie emergenti",
+      "description": "Esplorazione delle ultime tecnologie emergenti e delle loro potenziali applicazioni future.",
+      "competencies": [
+        "Essere consapevoli delle nuove tecnologie",
+        "Valutare l'impatto delle tecnologie emergenti"
+      ],
+      "objectives": [
+        "Analizzare le caratteristiche delle nuove tecnologie",
+        "Discutere sulle possibili implicazioni delle tecnologie emergenti sulla società"
+      ]
+    },
+    {
+      "title": "Digitalizzazione dei processi",
+      "description": "Studio dei processi di digitalizzazione nelle imprese e nelle organizzazioni, con focus sull'automazione e l'ottimizzazione.",
+      "competencies": [
+        "Comprendere i processi di digitalizzazione",
+        "Applicare strumenti digitali per migliorare l'efficienza"
+      ],
+      "objectives": [
+        "Identificare le aree in cui si può implementare la digitalizzazione",
+        "Utilizzare software e tecnologie per ottimizzare i processi aziendali"
+      ]
+    },
+    {
+      "title": "Simulazione e modellazione",
+      "description": "Utilizzo di software di simulazione per modellare e analizzare comportamenti di sistemi complessi.",
+      "competencies": [
+        "Utilizzare software di simulazione",
+        "Analizzare dati simulati"
+      ],
+      "objectives": [
+        "Creare modelli virtuali di sistemi reali",
+        "Interpretare i risultati delle simulazioni"
+      ]
+    },
+    {
+      "title": "Intelligenza Artificiale",
+      "description": "Approfondimento sull'intelligenza artificiale, i suoi principi e le sue applicazioni nel mondo reale.",
+      "competencies": [
+        "Comprendere i concetti di Intelligenza Artificiale",
+        "Esplorare le applicazioni dell'AI"
+      ],
+      "objectives": [
+        "Spiegare il funzionamento di algoritmi di IA",
+        "Identificare le situazioni in cui l'Intelligenza Artificiale può essere utilizzata"
+      ]
+    },
+    {
+      "title": "Digital twin e realtà virtuale",
+      "description": "Studio dei concetti di 'digital twin' e di realtà virtuale per la modellazione e l'analisi di sistemi complessi.",
+      "competencies": [
+        "Utilizzare tecnologie di digital twin",
+        "Esplorare ambienti virtuali"
+      ],
+      "objectives": [
+        "Creare un 'digital twin' per simulare il comportamento di un sistema reale",
+        "Interagire con ambienti virtuali tramite realtà virtuale"
+      ]
+    },
+    {
+      "title": "Startup e innovazione tecnologica",
+      "description": "Esplorazione del mondo delle startup tecnologiche e dell'innovazione nel settore della tecnologia.",
+      "competencies": [
+        "Comprendere il processo di innovazione",
+        "Valutare il ruolo delle startup nell'ecosistema tecnologico"
+      ],
+      "objectives": [
+        "Analizzare casi di successo di startup tecnologiche",
+        "Proporre idee innovative per un progetto tecnologico"
+      ]
+    },
+    {
+      "title": "Cybersecurity e protezione dei dati",
+      "description": "Approfondimento sulla sicurezza informatica, focus sulla protezione dei dati e sulla prevenzione degli attacchi informatici.",
+      "competencies": [
+        "Conoscere le minacce informatiche",
+        "Implementare strategie di protezione dei dati"
+      ],
+      "objectives": [
+        "Identificare i rischi legati alla cybersecurity",
+        "Sviluppare e applicare misure di sicurezza per la protezione dei dati"
+      ]
+    },
+    {
+      "title": "Tecnologie per l'ambiente e il territorio",
+      "description": "Studio delle tecnologie utilizzate per monitorare, proteggere e gestire l'ambiente e il territorio.",
+      "competencies": [
+        "Comprendere l'importanza delle tecnologie per l'ambiente",
+        "Proporre soluzioni tecnologiche sostenibili"
+      ],
+      "objectives": [
+        "Analizzare come le tecnologie possono essere impiegate per monitorare l'ambiente",
+        "Elaborare progetti tecnologici per la tutela dell'ambiente"
+      ]
+    },
+    {
+      "title": "Blockchain e criptovalute",
+      "description": "Introduzione ai concetti di blockchain, criptovalute e le loro possibili applicazioni nel contesto tecnologico e finanziario.",
+      "competencies": [
+        "Comprendere la tecnologia blockchain",
+        "Esplorare l'ambito delle criptovalute"
+      ],
+      "objectives": [
+        "Spiegare il funzionamento di una blockchain",
+        "Analizzare le implicazioni delle criptovalute nell'ambito finanziario"
+      ]
+    }
+  ]
+}

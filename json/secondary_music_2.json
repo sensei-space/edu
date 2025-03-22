@@ -1,0 +1,235 @@
+{
+  "school": "secondary",
+  "subject": "music",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Ascolto musicale",
+      "description": "Introduzione all'ascolto attivo di brani musicali di diversi generi e stili.",
+      "competencies": [
+        "Analisi critica della musica",
+        "Riconoscimento dei diversi stili musicali"
+      ],
+      "objectives": [
+        "Sapere distinguere tra diverse tipologie di musica",
+        "Sviluppare l'orecchio musicale"
+      ]
+    },
+    {
+      "title": "Elementi della musica",
+      "description": "Studio dei principali elementi della musica come ritmo, melodia, armonia e forma.",
+      "competencies": [
+        "Comprensione dei concetti musicali di base",
+        "Utilizzo consapevole degli elementi musicali"
+      ],
+      "objectives": [
+        "Riconoscere e distinguere i diversi elementi musicali",
+        "Comporre brevi melodie utilizzando elementi imparati"
+      ]
+    },
+    {
+      "title": "La voce e il canto",
+      "description": "Esplorazione della voce come strumento musicale e apprendimento di canti tradizionali e contemporanei.",
+      "competencies": [
+        "Utilizzo della voce come strumento musicale",
+        "Interpretazione espressiva dei testi musicali"
+      ],
+      "objectives": [
+        "Sviluppare capacità canore e di intonazione",
+        "Interpretare in modo espressivo brani musicali"
+      ]
+    },
+    {
+      "title": "Strumenti musicali",
+      "description": "Conoscenza e classificazione degli strumenti musicali secondo le categorie degli orchestrali, a tastiera, a corde e a fiato.",
+      "competencies": [
+        "Riconoscimento e classificazione degli strumenti musicali",
+        "Comprensione delle caratteristiche sonore degli strumenti"
+      ],
+      "objectives": [
+        "Identificare gli strumenti musicali per categoria",
+        "Descrivere le caratteristiche sonore degli strumenti"
+      ]
+    },
+    {
+      "title": "Ritmo e pulsazione",
+      "description": "Studio approfondito del ritmo, della pulsazione e delle figure ritmiche di base.",
+      "competencies": [
+        "Sviluppo della capacità ritmica",
+        "Esecuzione precisa delle figure ritmiche"
+      ],
+      "objectives": [
+        "Riconoscere e differenziare le varie figure ritmiche",
+        "Eseguire ritmi semplici in modo preciso"
+      ]
+    },
+    {
+      "title": "Notazione musicale",
+      "description": "Apprendimento dei principali simboli della notazione musicale e dei concetti di altezza e durata nelle note.",
+      "competencies": [
+        "Lettura e scrittura della musica",
+        "Comunicazione musicale tramite la notazione"
+      ],
+      "objectives": [
+        "Leggere e scrivere note musicali sul pentagramma",
+        "Comporre semplici melodie utilizzando la notazione musicale"
+      ]
+    },
+    {
+      "title": "Composizione musicale",
+      "description": "Creazione e composizione di brevi brani musicali utilizzando gli elementi appresi durante il corso.",
+      "competencies": [
+        "Creatività musicale",
+        "Applicazione pratica degli elementi musicali"
+      ],
+      "objectives": [
+        "Sviluppare la capacità compositiva",
+        "Creare e registrare brevi composizioni originali"
+      ]
+    },
+    {
+      "title": "Musica classica",
+      "description": "Esplorazione della musica classica attraverso l'ascolto di brani di compositori famosi e studio delle epoche musicali.",
+      "competencies": [
+        "Conoscenza della musica classica",
+        "Apprezzamento della musica colta"
+      ],
+      "objectives": [
+        "Riconoscere i principali compositori e opere della musica classica",
+        "Comprendere l'evoluzione storica della musica"
+      ]
+    },
+    {
+      "title": "Musica pop e contemporanea",
+      "description": "Approfondimento della musica popolare e contemporanea attraverso l'ascolto di brani significativi.",
+      "competencies": [
+        "Apprezzamento della musica popolare",
+        "Riconoscimento delle tendenze musicali contemporanee"
+      ],
+      "objectives": [
+        "Esplorare le caratteristiche della musica pop e contemporanea",
+        "Apprezzare e analizzare brani musicali moderni"
+      ]
+    },
+    {
+      "title": "La musica nel cinema",
+      "description": "Analisi della funzione della musica nella colonna sonora cinematografica e visione di scene significative con diversi tipi di musiche.",
+      "competencies": [
+        "Comprensione della musica nel contesto cinematografico",
+        "Interpretazione delle emozioni trasmesse dalla musica"
+      ],
+      "objectives": [
+        "Capire il ruolo della musica nel cinema",
+        "Identificare le emozioni suscitate dalla colonna sonora"
+      ]
+    },
+    {
+      "title": "Musica tradizionale e folkloristica",
+      "description": "Esplorazione della musica tradizionale e folkloristica di diverse culture e paesi.",
+      "competencies": [
+        "Conoscenza delle tradizioni musicali",
+        "Rispetto e valorizzazione delle diversità culturali"
+      ],
+      "objectives": [
+        "Esplorare la musica tradizionale di diversi paesi",
+        "Riconoscere le caratteristiche distintive della musica folkloristica"
+      ]
+    },
+    {
+      "title": "Musica e danza",
+      "description": "Correlazione tra musica e danza, con studio di brani che richiedono movimento corporeo e coordinazione con la musica.",
+      "competencies": [
+        "Associazione tra musica e movimento",
+        "Esecuzione coreografica di brani musicali"
+      ],
+      "objectives": [
+        "Correlare il movimento alla musica",
+        "Creare brevi coreografie su brani musicali specifici"
+      ]
+    },
+    {
+      "title": "Musica e tecnologia",
+      "description": "Utilizzo di strumenti tecnologici per la composizione musicale e la creazione di tracce audio.",
+      "competencies": [
+        "Utilizzo delle tecnologie musicali",
+        "Creazione di produzioni audio"
+      ],
+      "objectives": [
+        "Sperimentare con software musicali",
+        "Registrare e produrre tracce audio utilizzando strumenti digitali"
+      ]
+    },
+    {
+      "title": "Musica e testi",
+      "description": "Analisi dei testi delle canzoni e comprensione della relazione tra testo e musica.",
+      "competencies": [
+        "Interpretazione dei testi musicali",
+        "Analisi della relazione tra testo e musica"
+      ],
+      "objectives": [
+        "Comprendere il significato dei testi delle canzoni",
+        "Analizzare come il testo influenzi la musica e viceversa"
+      ]
+    },
+    {
+      "title": "Musica e emotività",
+      "description": "Esplorazione delle emozioni suscitate dalla musica e riflessione sulle sensazioni che essa può trasmettere.",
+      "competencies": [
+        "Sensibilizzazione emotiva attraverso la musica",
+        "Riflessione sul potere emotivo della musica"
+      ],
+      "objectives": [
+        "Esprimere emozioni attraverso la musica",
+        "Riflettere sulle sensazioni suscitate da brani musicali"
+      ]
+    },
+    {
+      "title": "Musica e comunicazione",
+      "description": "Studio del ruolo della musica come forma di comunicazione non verbale e analisi dell'effetto comunicativo dei brani musicali.",
+      "competencies": [
+        "Utilizzo della musica come forma di comunicazione",
+        "Interazione non verbale attraverso la musica"
+      ],
+      "objectives": [
+        "Esplorare come la musica possa comunicare messaggi e emozioni",
+        "Interpretare il significato comunicativo di brani musicali"
+      ]
+    },
+    {
+      "title": "Musicoterapia",
+      "description": "Introduzione ai concetti di musicoterapia e al potere terapeutico della musica.",
+      "competencies": [
+        "Comprensione dei benefici della musicoterapia",
+        "Utilizzo della musica come strumento di benessere"
+      ],
+      "objectives": [
+        "Riflettere sui benefici della musica per la salute mentale",
+        "Esplorare pratiche di rilassamento e benessere attraverso la musica"
+      ]
+    },
+    {
+      "title": "Musica e società",
+      "description": "Analisi del ruolo della musica nella società contemporanea e delle influenze culturali sulla produzione musicale.",
+      "competencies": [
+        "Comprendere il contesto sociale della musica",
+        "Analisi delle tendenze musicali legate alla società"
+      ],
+      "objectives": [
+        "Riflettere sulle influenze culturali sulla produzione musicale",
+        "Esplorare il legame tra musica e società"
+      ]
+    },
+    {
+      "title": "Festival e manifestazioni musicali",
+      "description": "Studio dei principali festival e manifestazioni musicali nazionali e internazionali.",
+      "competencies": [
+        "Conoscenza degli eventi musicali",
+        "Partecipazione consapevole alle manifestazioni culturali"
+      ],
+      "objectives": [
+        "Scoprire i festival musicali più rinomati",
+        "Apprezzare la varietà musicale offerta da eventi culturali"
+      ]
+    }
+  ]
+}

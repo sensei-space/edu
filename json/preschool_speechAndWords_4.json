@@ -1,0 +1,72 @@
+{
+  "school": "preschool",
+  "subject": "speechAndWords",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Rimescolando le sillabe",
+      "description": "Attività per comporre e ricostruire parole combinando le sillabe in modo creativo.",
+      "competencies": [
+        "Sviluppo delle capacità linguistiche",
+        "Potenziamento della consapevolezza fonologica"
+      ],
+      "objectives": [
+        "Comprendere il concetto di sillaba",
+        "Riconoscere le sillabe all'interno delle parole",
+        "Creare nuove parole combinando le sillabe"
+      ]
+    },
+    {
+      "title": "Gioco delle rime",
+      "description": "Gioco interattivo per individuare le parole che presentano la stessa rima, stimolando la consapevolezza fonologica.",
+      "competencies": [
+        "Potenziamento delle abilità di ascolto",
+        "Sviluppo delle competenze linguistiche"
+      ],
+      "objectives": [
+        "Riconoscere le rime nelle parole",
+        "Identificare parole con la stessa rima",
+        "Applicare le conoscenze sulle rime in attività linguistiche"
+      ]
+    },
+    {
+      "title": "Analisi delle parole",
+      "description": "Esercizio per scomporre le parole in sillabe e individuare le caratteristiche di ciascuna parte.",
+      "competencies": [
+        "Potenziamento della consapevolezza fonologica",
+        "Sviluppo delle capacità di analisi linguistica"
+      ],
+      "objectives": [
+        "Scomporre le parole in sillabe",
+        "Riconoscere le diverse parti che compongono una parola",
+        "Identificare le sillabe accentate"
+      ]
+    },
+    {
+      "title": "Piccole storie da completare",
+      "description": "Attività in cui i bambini devono completare brevi storie con le parole mancanti, favorendo la creatività linguistica.",
+      "competencies": [
+        "Stimolazione della creatività verbale",
+        "Potenziamento della competenza narrativa"
+      ],
+      "objectives": [
+        "Completare storie con le parole adeguate",
+        "Utilizzare il lessico appreso in contesti narrativi",
+        "Sviluppare la capacità di costruire frasi compiute"
+      ]
+    },
+    {
+      "title": "Grammatica ludica",
+      "description": "Gioco educativo per familiarizzare i bambini con concetti grammaticali di base come il plurale, l'aggettivo, il verbo.",
+      "competencies": [
+        "Acquisizione delle nozioni grammaticali",
+        "Sviluppo della capacità di analisi linguistica"
+      ],
+      "objectives": [
+        "Riconoscere e utilizzare correttamente forme al plurale",
+        "Identificare aggettivi e verbi nelle frasi",
+        "Comprendere concetti grammaticali attraverso il gioco"
+      ]
+    }
+  ]
+}

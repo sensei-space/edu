@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "italian",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Le Favole di Esopo",
+      "description": "Studio delle favole di Esopo per comprendere le morale nascosta nelle storie.",
+      "competencies": [
+        "Comprensione testi narrativi",
+        "Analisi testuale"
+      ],
+      "objectives": [
+        "Identificare la morale nelle favole",
+        "Analizzare il ruolo degli animali antropomorfi"
+      ]
+    },
+    {
+      "title": "Poeti minori del Duecento",
+      "description": "Approfondimento sui poeti minori del Duecento e sulle loro opere.",
+      "competencies": [
+        "Conoscenza letteratura italiana medievale",
+        "Analisi poetica"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche dei poeti minori",
+        "Analizzare un componimento poetico"
+      ]
+    },
+    {
+      "title": "Il Decameron di Giovanni Boccaccio",
+      "description": "Studio delle novelle più significative del Decameron di Boccaccio.",
+      "competencies": [
+        "Comprensione testo narrativo",
+        "Storia della letteratura italiana"
+      ],
+      "objectives": [
+        "Identificare le tematiche delle novelle",
+        "Analizzare il contesto storico-culturale"
+      ]
+    },
+    {
+      "title": "Il Petrarca e il Dolce Stil Novo",
+      "description": "Analisi delle opere poetiche di Petrarca e del movimento stilnovista.",
+      "competencies": [
+        "Conoscenza opere petrarchesche",
+        "Analisi stilistica"
+      ],
+      "objectives": [
+        "Riconoscere le figure retoriche petrarchesche",
+        "Comprendere il concetto di amore nella poesia stilnovista"
+      ]
+    },
+    {
+      "title": "Il Rinascimento e la lirica petrarchesca",
+      "description": "Studio della lirica petrarchesca nel contesto rinascimentale.",
+      "competencies": [
+        "Conoscenza contesto storico-letterario",
+        "Interpretazione lirica"
+      ],
+      "objectives": [
+        "Comprendere il ruolo del petrarchismo nel Rinascimento",
+        "Analizzare un sonetto del periodo"
+      ]
+    },
+    {
+      "title": "Il Manierismo e Ludovico Ariosto",
+      "description": "Approfondimento sulle opere di Ludovico Ariosto e sul periodo manierista.",
+      "competencies": [
+        "Conoscenza letteratura rinascimentale",
+        "Analisi testuale"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche del poema cavalleresco",
+        "Analizzare le vicende epiche dell'Orlando Furioso"
+      ]
+    },
+    {
+      "title": "Il Barocco e la Commedia dell'Arte",
+      "description": "Studio del teatro barocco e della Commedia dell'Arte.",
+      "competencies": [
+        "Conoscenza teatro barocco",
+        "Interpretazione drammatica"
+      ],
+      "objectives": [
+        "Comprendere le maschere della Commedia dell'Arte",
+        "Analizzare una commedia dell'epoca"
+      ]
+    },
+    {
+      "title": "Gli Illuministi e il Romanzo Epistolare",
+      "description": "Analisi dei romanzi epistolari del periodo illuminista.",
+      "competencies": [
+        "Conoscenza letteratura illuminista",
+        "Analisi epistolare"
+      ],
+      "objectives": [
+        "Comprendere il ruolo delle lettere nel romanzo epistolare",
+        "Identificare le tematiche principali dei romanzi"
+      ]
+    },
+    {
+      "title": "Il Romanticismo e Giacomo Leopardi",
+      "description": "Studio delle poesie di Giacomo Leopardi e del contesto romantico.",
+      "competencies": [
+        "Conoscenza poetica romantica",
+        "Analisi tematica"
+      ],
+      "objectives": [
+        "Analizzare il pessimismo leopardiano",
+        "Comprendere il concetto di infinito nella poesia romantica"
+      ]
+    },
+    {
+      "title": "Il Realismo con Giovanni Verga",
+      "description": "Analisi dei racconti realisti di Giovanni Verga e del verismo letterario.",
+      "competencies": [
+        "Conoscenza verismo letterario",
+        "Analisi sociale"
+      ],
+      "objectives": [
+        "Comprendere il realismo nella rappresentazione della società",
+        "Analizzare le tematiche dei contadini siciliani nelle novelle verghiane"
+      ]
+    },
+    {
+      "title": "Il Futurismo e Filippo Tommaso Marinetti",
+      "description": "Studio delle opere futuriste di Marinetti e del movimento artistico.",
+      "competencies": [
+        "Conoscenza futurismo letterario",
+        "Interpretazione futurista"
+      ],
+      "objectives": [
+        "Comprendere il concetto di velocità e dinamismo nel futurismo",
+        "Analizzare un manifesto futurista"
+      ]
+    },
+    {
+      "title": "La Poesia ermetica",
+      "description": "Analisi della poesia ermetica e dei principali poeti ermetici.",
+      "competencies": [
+        "Conoscenza poetica ermetica",
+        "Analisi simbolica"
+      ],
+      "objectives": [
+        "Comprendere il linguaggio ermetico",
+        "Analizzare un componimento ermetico"
+      ]
+    },
+    {
+      "title": "Neorealismo e Cesare Pavese",
+      "description": "Studio dei romanzi neorealisti di Cesare Pavese e del periodo storico.",
+      "competencies": [
+        "Conoscenza neorealismo letterario",
+        "Analisi narrativa"
+      ],
+      "objectives": [
+        "Comprendere il contesto storico del Neorealismo",
+        "Analizzare le tematiche della solitudine e dell'angoscia nei romanzi pavesiani"
+      ]
+    },
+    {
+      "title": "Il Teatro dell'Assurdo",
+      "description": "Analisi delle opere teatrali dell'Assurdo e dei principali autori.",
+      "competencies": [
+        "Conoscenza teatro assurdo",
+        "Interpretazione drammatica"
+      ],
+      "objectives": [
+        "Comprendere il concetto di assurdità nel teatro moderno",
+        "Analizzare una scena teatrale assurda"
+      ]
+    },
+    {
+      "title": "La Poesia Contemporanea",
+      "description": "Studio della poesia contemporanea e dei principali poeti del Novecento.",
+      "competencies": [
+        "Conoscenza poetica contemporanea",
+        "Interpretazione tematica"
+      ],
+      "objectives": [
+        "Identificare le nuove tendenze poetiche",
+        "Analizzare un componimento contemporaneo"
+      ]
+    },
+    {
+      "title": "Letteratura per l'infanzia",
+      "description": "Approfondimento sulla letteratura per l'infanzia e sui principali autori.",
+      "competencies": [
+        "Conoscenza letteratura per l'infanzia",
+        "Analisi testuale"
+      ],
+      "objectives": [
+        "Comprendere le caratteristiche della narrazione per i più piccoli",
+        "Analizzare un libro per l'infanzia dal punto di vista stilistico e tematico"
+      ]
+    },
+    {
+      "title": "Il Romanzo Italiano del Novecento",
+      "description": "Studio dei romanzi italiani del Novecento e delle loro peculiarità.",
+      "competencies": [
+        "Conoscenza romanzo novecentesco",
+        "Analisi narrativa"
+      ],
+      "objectives": [
+        "Comprendere il contesto storico-letterario del Novecento",
+        "Analizzare le tecniche narrative di un romanzo dell'epoca"
+      ]
+    },
+    {
+      "title": "La Poesia di Eugenio Montale",
+      "description": "Analisi delle poesie di Eugenio Montale e del suo stile poetico.",
+      "competencies": [
+        "Conoscenza poetica montaliana",
+        "Analisi formale"
+      ],
+      "objectives": [
+        "Riconoscere le tematiche ricorrenti nella poetica di Montale",
+        "Analizzare la sperimentazione linguistica montaliana"
+      ]
+    },
+    {
+      "title": "Il Teatro Italiano Contemporaneo",
+      "description": "Studio del teatro italiano contemporaneo e delle nuove tendenze.",
+      "competencies": [
+        "Conoscenza teatro contemporaneo",
+        "Interpretazione drammatica"
+      ],
+      "objectives": [
+        "Comprendere le evoluzioni del teatro italiano nel Novecento",
+        "Analizzare una pièce teatrale contemporanea"
+      ]
+    },
+    {
+      "title": "La Narrativa Gialla e il Giallo Italiano",
+      "description": "Analisi della narrativa gialla italiana e dei principali autori del genere.",
+      "competencies": [
+        "Conoscenza narrativa gialla",
+        "Analisi del genere"
+      ],
+      "objectives": [
+        "Comprendere le caratteristiche del romanzo giallo",
+        "Analizzare un giallo italiano dal punto di vista della trama e dei personaggi"
+      ]
+    }
+  ]
+}

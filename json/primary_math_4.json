@@ -1,0 +1,235 @@
+{
+  "school": "primary",
+  "subject": "math",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Numeri naturali fino a 10.000",
+      "description": "Approfondimento sui numeri naturali fino a 10.000, rafforzando concetti di valore posizionale e aggiunta/sottrazione.",
+      "competencies": [
+        "Comprensione dei numeri naturali fino a 10.000",
+        "Operare con numeri di grandi dimensioni"
+      ],
+      "objectives": [
+        "Riconoscere il valore posizionale dei numeri",
+        "Eseguire operazioni di aggiunta e sottrazione con numeri fino a 10.000"
+      ]
+    },
+    {
+      "title": "Moltiplicazione a due cifre",
+      "description": "Introduzione alla moltiplicazione a due cifre con metodo tradizionale e applicazioni pratiche.",
+      "competencies": [
+        "Sviluppare le competenze moltiplicative",
+        "Verificare i risultati delle moltiplicazioni"
+      ],
+      "objectives": [
+        "Moltiplicare numeri a due cifre",
+        "Riconoscere errori comuni nella moltiplicazione"
+      ]
+    },
+    {
+      "title": "Divisione a due cifre",
+      "description": "Approfondimento sulla divisione a due cifre, con focus su divisioni con resto.",
+      "competencies": [
+        "Applicare la divisione con cifre diverse",
+        "Risoluzione di problemi divisionali"
+      ],
+      "objectives": [
+        "Dividere numeri a due cifre",
+        "Risolvere divisioni con resto"
+      ]
+    },
+    {
+      "title": "Geometria: figure piane",
+      "description": "Studio delle figure piane come quadrati, rettangoli, triangoli, cerchi. Calcolo di perimetri e aree.",
+      "competencies": [
+        "Riconoscere figure piane",
+        "Calcolare perimetri e aree"
+      ],
+      "objectives": [
+        "Identificare proprietà delle figure piane",
+        "Calcolare perimetri e aree di figure semplici"
+      ]
+    },
+    {
+      "title": "Numeri decimali",
+      "description": "Introduzione ai numeri decimali, operazioni di somma e sottrazione, collegamenti con frazioni.",
+      "competencies": [
+        "Comprendere i numeri decimali",
+        "Sommare e sottrarre numeri decimali"
+      ],
+      "objectives": [
+        "Rappresentare numeri decimali",
+        "Eseguire operazioni con numeri decimali"
+      ]
+    },
+    {
+      "title": "Misure di lunghezza",
+      "description": "Studio delle misure di lunghezza: conversioni tra unità di misura, problemi pratici.",
+      "competencies": [
+        "Comprendere le misure di lunghezza",
+        "Convertire tra unità di misura"
+      ],
+      "objectives": [
+        "Risolvere problemi con misure di lunghezza",
+        "Convertire tra diverse unità di misura di lunghezza"
+      ]
+    },
+    {
+      "title": "Moltiplicazione e divisione a tre cifre",
+      "description": "Approfondimento sulla moltiplicazione e divisione a tre cifre, con esempi pratici e problemi.",
+      "competencies": [
+        "Sviluppare competenze moltiplicative e divisionali avanzate",
+        "Risolvere problemi complessi"
+      ],
+      "objectives": [
+        "Moltiplicare numeri a tre cifre",
+        "Dividere numeri a tre cifre"
+      ]
+    },
+    {
+      "title": "Problem solving matematico",
+      "description": "Risoluzione di problemi matematici complessi che coinvolgono molteplici operazioni e logica.",
+      "competencies": [
+        "Risoluzione di problemi",
+        "Applicare le conoscenze matematiche acquisite"
+      ],
+      "objectives": [
+        "Sviluppare capacità di analisi e logica",
+        "Applicare strategie risolutive per problemi matematici"
+      ]
+    },
+    {
+      "title": "Arrotondamenti",
+      "description": "Studio degli arrotondamenti dei numeri interi e decimali, con applicazioni pratiche.",
+      "competencies": [
+        "Arrotondare numeri",
+        "Utilizzare gli arrotondamenti in contesti reali"
+      ],
+      "objectives": [
+        "Eseguire arrotondamenti corretti",
+        "Utilizzare l'arrotondamento in situazioni concrete"
+      ]
+    },
+    {
+      "title": "Frazioni equivalenti",
+      "description": "Approfondimento sul concetto di frazioni equivalenti e confronto tra diverse frazioni.",
+      "competencies": [
+        "Riconoscere frazioni equivalenti",
+        "Semplificare e confrontare frazioni"
+      ],
+      "objectives": [
+        "Identificare frazioni equivalenti",
+        "Confrontare frazioni e stabilire relazioni"
+      ]
+    },
+    {
+      "title": "Problemi di logica matematica",
+      "description": "Risoluzione di problemi di logica matematica che richiedono deduzione e ragionamento.",
+      "competencies": [
+        "Sviluppare la capacità di ragionamento logico",
+        "Risolvere problemi di logica"
+      ],
+      "objectives": [
+        "Utilizzare strategie di risoluzione logica",
+        "Risolvere problemi matematici complessi con logica"
+      ]
+    },
+    {
+      "title": "Misure di superficie",
+      "description": "Calcolo delle misure di superficie di figure geometriche come quadrati, rettangoli, e complicazioni.",
+      "competencies": [
+        "Calcolare le misure di superficie",
+        "Applicare formule per il calcolo delle aree"
+      ],
+      "objectives": [
+        "Calcolare le aree di figure geometriche",
+        "Risolvere problemi pratici di superficie"
+      ]
+    },
+    {
+      "title": "Numerali romani",
+      "description": "Studio dei numerali romani e applicazioni nella conversione con i numeri arabi.",
+      "competencies": [
+        "Riconoscere e utilizzare i numerali romani",
+        "Convertire tra numerali romani e arabi"
+      ],
+      "objectives": [
+        "Leggere e scrivere con i numerali romani",
+        "Convertire tra i diversi sistemi numerici"
+      ]
+    },
+    {
+      "title": "Proporzioni e percentuali",
+      "description": "Introduzione al concetto di proporzioni e calcolo delle percentuali, con riferimento a situazioni pratiche.",
+      "competencies": [
+        "Comprendere proporzioni e percentuali",
+        "Applicare le percentuali in situazioni reali"
+      ],
+      "objectives": [
+        "Calcolare proporzioni",
+        "Risolvere problemi che coinvolgono percentuali"
+      ]
+    },
+    {
+      "title": "Problemi con le quattro operazioni",
+      "description": "Risoluzione di problemi che richiedono l'applicazione combinata di addizione, sottrazione, moltiplicazione e divisione.",
+      "competencies": [
+        "Sviluppare la capacità di risolvere problemi complessi",
+        "Integrare le conoscenze matematiche acquisite"
+      ],
+      "objectives": [
+        "Applicare le quattro operazioni nella risoluzione di problemi",
+        "Sviluppare autonomia nel risolvere situazioni problematiche"
+      ]
+    },
+    {
+      "title": "Pattern numerici",
+      "description": "Studio dei pattern numerici e sequenze numeriche, con analisi e continuazione.",
+      "competencies": [
+        "Riconoscere pattern numerici",
+        "Continuare sequenze numeriche"
+      ],
+      "objectives": [
+        "Identificare le regolarità nei pattern",
+        "Completare sequenze numeriche date"
+      ]
+    },
+    {
+      "title": "Simmetria",
+      "description": "Introduzione al concetto di simmetria nelle figure geometriche e nello spazio.",
+      "competencies": [
+        "Riconoscere la simmetria",
+        "Creare figure simmetriche"
+      ],
+      "objectives": [
+        "Identificare e tracciare le simmetrie",
+        "Completare figure simmetriche date"
+      ]
+    },
+    {
+      "title": "Tabelline",
+      "description": "Studio e memorizzazione delle tabelline come supporto per la moltiplicazione.",
+      "competencies": [
+        "Memorizzare le tabelline",
+        "Utilizzare le tabelline per moltiplicare"
+      ],
+      "objectives": [
+        "Memorizzare le tabelline fino al 10",
+        "Applicare le tabelline nella moltiplicazione"
+      ]
+    },
+    {
+      "title": "Rappresentazione grafica dei dati",
+      "description": "Utilizzo di grafici a barre e diagrammi a torta per rappresentare dati numerici in modo visuale.",
+      "competencies": [
+        "Rappresentare informazioni graficamente",
+        "Interpretare grafici"
+      ],
+      "objectives": [
+        "Creare grafici a barre e diagrammi a torta",
+        "Interpretare i dati rappresentati graficamente"
+      ]
+    }
+  ]
+}

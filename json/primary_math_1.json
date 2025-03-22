@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "math",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Numeri da 0 a 10",
+      "description": "Imparare a riconoscere, nominare e rappresentare i numeri da 0 a 10 tramite strumenti concreti e visivi.",
+      "competencies": [
+        "Riconoscimento dei numeri",
+        "Rappresentazione dei numeri"
+      ],
+      "objectives": [
+        "Riconoscere i numeri da 0 a 10",
+        "Rappresentare i numeri con oggetti concreti"
+      ]
+    },
+    {
+      "title": "Ordinare numeri",
+      "description": "Mettere in ordine crescente e decrescente i numeri fino a 10 utilizzando confronti diretti tra quantità.",
+      "competencies": [
+        "Ordinalità dei numeri",
+        "Confronto tra quantità"
+      ],
+      "objectives": [
+        "Mettere in ordine numeri fino a 10",
+        "Comprendere il concetto di maggiore e minore"
+      ]
+    },
+    {
+      "title": "Numeri pari e dispari",
+      "description": "Distinguere i numeri pari dai numeri dispari e saperli riconoscere fino a 10.",
+      "competencies": [
+        "Numeri pari e dispari",
+        "Classificazione numerica"
+      ],
+      "objectives": [
+        "Riconoscere numeri pari e dispari fino a 10",
+        "Classificare i numeri in base alla loro parità"
+      ]
+    },
+    {
+      "title": "Addizioni semplici",
+      "description": "Svolgere semplici addizioni con risultato fino a 10 utilizzando oggetti concreti e rappresentazioni visive.",
+      "competencies": [
+        "Addizione entro 10",
+        "Utilizzo di modelli concreti"
+      ],
+      "objectives": [
+        "Svolgere addizioni con risultato fino a 10",
+        "Comprendere il concetto di addizione come combinazione di quantità"
+      ]
+    },
+    {
+      "title": "Sottrazioni semplici",
+      "description": "Risolvere semplici sottrazioni entro 10 utilizzando oggetti e contare all'indietro.",
+      "competencies": [
+        "Sottrazione entro 10",
+        "Conteggio all'indietro"
+      ],
+      "objectives": [
+        "Risolvere sottrazioni con numeri entro 10",
+        "Utilizzare il conto all'indietro per la sottrazione"
+      ]
+    },
+    {
+      "title": "Forme geometriche",
+      "description": "Riconoscere e descrivere le forme geometriche semplici come cerchio, quadrato, rettangolo e triangolo.",
+      "competencies": [
+        "Riconoscimento delle forme geometriche",
+        "Descrizione delle forme"
+      ],
+      "objectives": [
+        "Riconoscere e nominare le forme geometriche",
+        "Descrivere le caratteristiche principali delle forme geometriche"
+      ]
+    },
+    {
+      "title": "Sequenze di numeri",
+      "description": "Continuare e creare sequenze numeriche ascendenti e discendenti entro 10 seguendo regole date.",
+      "competencies": [
+        "Sequenze numeriche",
+        "Estensione di sequenze"
+      ],
+      "objectives": [
+        "Completare sequenze dati i numeri mancanti",
+        "Creare sequenze numeriche seguendo regole specifiche"
+      ]
+    },
+    {
+      "title": "Confronto di numeri",
+      "description": "Confrontare e ordinare numeri fino a 20 utilizzando simboli come >, < e =.",
+      "competencies": [
+        "Confronto tra numeri",
+        "Utilizzo dei simboli di confronto"
+      ],
+      "objectives": [
+        "Confrontare numeri utilizzando simboli",
+        "Ordinare numeri fino a 20 in modo crescente e decrescente"
+      ]
+    },
+    {
+      "title": "Problemi matematici",
+      "description": "Risolvere piccoli problemi matematici contextualizzati nella vita quotidiana utilizzando i concetti appresi.",
+      "competencies": [
+        "Risoluzione di problemi",
+        "Applicazione delle conoscenze matematiche"
+      ],
+      "objectives": [
+        "Risolvere problemi matematici semplici",
+        "Applicare le nozioni matematiche acquisite nella risoluzione di situazioni problema"
+      ]
+    },
+    {
+      "title": "Misurare con oggetti",
+      "description": "Comprendere e utilizzare il concetto di misurazione attraverso l'uso di oggetti di riferimento come matite, cubetti, etc.",
+      "competencies": [
+        "Misurazione con oggetti",
+        "Concetto di lunghezza"
+      ],
+      "objectives": [
+        "Misurare lunghezze con oggetti di riferimento",
+        "Utilizzare termini come lungo, corto, alto, basso nel contesto della misurazione"
+      ]
+    }
+  ]
+}

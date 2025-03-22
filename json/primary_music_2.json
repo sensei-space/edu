@@ -1,0 +1,72 @@
+{
+  "school": "primary",
+  "subject": "music",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Ascolto attivo della musica",
+      "description": "In questa fase si incoraggia l'ascolto attivo di brani musicali di diversi generi per favorire la percezione delle caratteristiche sonore.",
+      "competencies": [
+        "Sviluppo dell'ascolto critico",
+        "Riconoscimento dei differenti stili musicali"
+      ],
+      "objectives": [
+        "Riconoscere le differenze tra ritmo e melodia",
+        "Identificare gli strumenti musicali presenti in un brano",
+        "Esprimere le proprie preferenze musicali"
+      ]
+    },
+    {
+      "title": "Costruzione di strumenti musicali semplici",
+      "description": "Attraverso l'utilizzo di materiali di recupero, i bambini costruiscono piccoli strumenti musicali per esplorare il suono e la produzione di ritmo.",
+      "competencies": [
+        "Sperimentazione sonora",
+        "Conoscenza dei materiali utilizzati nella costruzione di strumenti musicali"
+      ],
+      "objectives": [
+        "Realizzare un tamburo con materiali di riciclo",
+        "Esplorare le diverse sonorità prodotte dagli strumenti costruiti",
+        "Suonare ritmi semplici con gli strumenti realizzati"
+      ]
+    },
+    {
+      "title": "Canto e movimento",
+      "description": "Attraverso canzoni e attività di movimento ritmico, i bambini esplorano la relazione tra musica e corpo.",
+      "competencies": [
+        "Espressione corporea attraverso la musica",
+        "Sviluppo della coordinazione motoria"
+      ],
+      "objectives": [
+        "Imitare movimenti ritmici proposti dal docente",
+        "Cantare piccole melodie seguendo il ritmo",
+        "Coordinare gesti e movimenti con la musica"
+      ]
+    },
+    {
+      "title": "Conoscenza degli strumenti musicali",
+      "description": "Attraverso immagini, suoni e brevi video, i bambini scoprono e distinguono vari strumenti musicali e le loro caratteristiche.",
+      "competencies": [
+        "Riconoscimento degli strumenti musicali",
+        "Sviluppo delle capacità di ascolto e discriminazione"
+      ],
+      "objectives": [
+        "Identificare visivamente diversi strumenti musicali",
+        "Riconoscere il suono prodotto da strumenti specifici",
+        "Individuare le famiglie di strumenti (corda, legno, ottoni, percussioni)"
+      ]
+    },
+    {
+      "title": "Canzoni tradizionali",
+      "description": "Studio e interpretazione di canzoni tradizionali per favorire la memoria melodica e l'apprezzamento delle radici culturali.",
+      "competencies": [
+        "Valorizzazione del patrimonio musicale tradizionale",
+        "Memorizzazione e riproduzione di melodie"
+      ],
+      "objectives": [
+        "Apprendere canzoni popolari della tradizione italiana",
+        "Ricordare e cantare spazi di diverse canzoni",
+        "Rispettare la metrica e il ritmo delle canzoni apprese"
+      ]
+    }
+  ]
+}

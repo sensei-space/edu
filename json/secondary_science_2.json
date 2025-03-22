@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "science",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Studiare la materia",
+      "description": "Introduzione alla materia e le proprietà della materia, inclusi lo stato solido, liquido e gassoso.",
+      "competencies": [
+        "Comprendere le proprietà della materia",
+        "Distinguere tra stati della materia"
+      ],
+      "objectives": [
+        "Capire cosa sia la materia",
+        "Riconoscere le diverse caratteristiche degli stati della materia"
+      ]
+    },
+    {
+      "title": "Misurazioni scientifiche",
+      "description": "Apprendimento delle unità di misura e strumenti di misurazione utilizzati in laboratorio.",
+      "competencies": [
+        "Utilizzare correttamente strumenti di misura",
+        "Convertire tra diverse unità di misura"
+      ],
+      "objectives": [
+        "Imparare ad usare correttamente strumenti di misurazione",
+        "Sapere come convertire tra diverse unità di misura"
+      ]
+    },
+    {
+      "title": "La luce e il suono",
+      "description": "Studio delle proprietà della luce e del suono, riflessione, rifrazione, onde sonore.",
+      "competencies": [
+        "Comprendere le caratteristiche della luce",
+        "Conoscere le onde sonore e il suono"
+      ],
+      "objectives": [
+        "Riconoscere come avviene la riflessione della luce",
+        "Comprendere l'importanza delle onde sonore per la propagazione del suono"
+      ]
+    },
+    {
+      "title": "Il ciclo dell'acqua",
+      "description": "Studio del ciclo dell'acqua e il concetto di evaporazione, condensazione e precipitazione.",
+      "competencies": [
+        "Comprendere il ciclo dell'acqua",
+        "Riconoscere il ruolo dell'acqua nell'ambiente"
+      ],
+      "objectives": [
+        "Spiegare come avviene il ciclo dell'acqua",
+        "Comprendere l'importanza del ciclo idrologico per l'ecosistema"
+      ]
+    },
+    {
+      "title": "Le piante",
+      "description": "Studio delle parti delle piante, funzione delle radici, fusto, foglie, fiori e semi.",
+      "competencies": [
+        "Riconoscere le parti delle piante",
+        "Comprendere il processo di fotosintesi"
+      ],
+      "objectives": [
+        "Identificare le diverse parti di una pianta",
+        "Capire come avviene il processo di fotosintesi"
+      ]
+    },
+    {
+      "title": "L'aria",
+      "description": "Analisi della composizione dell'aria, funzioni del sistema respiratorio, qualità dell'aria e inquinamento atmosferico.",
+      "competencies": [
+        "Comprendere la composizione dell'aria",
+        "Conoscere l'importanza dell'aria per la vita"
+      ],
+      "objectives": [
+        "Descrivere la composizione chimica dell'aria",
+        "Comprendere le cause e gli effetti dell'inquinamento atmosferico"
+      ]
+    },
+    {
+      "title": "Il sistema solare",
+      "description": "Studio degli astri del sistema solare, pianeti, stelle, la Terra e la Luna.",
+      "competencies": [
+        "Conoscere il sistema solare",
+        "Capire il movimento dei pianeti"
+      ],
+      "objectives": [
+        "Identificare i pianeti del sistema solare",
+        "Descrivere il movimento di rotazione e rivoluzione della Terra"
+      ]
+    },
+    {
+      "title": "Le forze",
+      "description": "Analisi delle forze, tra cui gravità, attrito e altre forze in gioco nel nostro quotidiano.",
+      "competencies": [
+        "Comprendere il concetto di forza",
+        "Applicare le leggi del moto"
+      ],
+      "objectives": [
+        "Spiegare cosa sono le forze e come agiscono",
+        "Calcolare la risultante di forze in situazioni reali"
+      ]
+    },
+    {
+      "title": "Il suolo",
+      "description": "Caratteristiche e formazione del suolo, l'importanza del suolo per la vita.",
+      "competencies": [
+        "Conoscere la composizione del suolo",
+        "Comprendere il ruolo del suolo negli ecosistemi"
+      ],
+      "objectives": [
+        "Descrivere i diversi strati del suolo",
+        "Capire come il suolo influenzi la crescita delle piante"
+      ]
+    },
+    {
+      "title": "Le macchine semplici",
+      "description": "Studio delle macchine semplici come la leva, la puleggia, la vite, la cuneo e la ruota.",
+      "competencies": [
+        "Riconoscere le diverse macchine semplici",
+        "Comprendere il concetto di lavoro"
+      ],
+      "objectives": [
+        "Identificare le macchine semplici nelle situazioni quotidiane",
+        "Calcolare il lavoro compiuto da una macchina semplice"
+      ]
+    },
+    {
+      "title": "Le reazioni chimiche",
+      "description": "Introduzione alle reazioni chimiche, concetto di elementi, atomi e molecole.",
+      "competencies": [
+        "Comprendere le reazioni chimiche",
+        "Riconoscere gli elementi chimici"
+      ],
+      "objectives": [
+        "Spiegare cosa sono le reazioni chimiche",
+        "Riconoscere gli elementi e le molecole presenti in una reazione"
+      ]
+    },
+    {
+      "title": "Le miscele e le soluzioni",
+      "description": "Studio delle miscele, soluzioni, sospensioni, separazione delle miscele.",
+      "competencies": [
+        "Distinguere tra miscele e soluzioni",
+        "Capire i metodi di separazione"
+      ],
+      "objectives": [
+        "Identificare miscele e soluzioni in situazioni reali",
+        "Saper applicare metodi di separazione delle miscele"
+      ]
+    },
+    {
+      "title": "Le energie rinnovabili",
+      "description": "Concetto di energie rinnovabili come energia solare, eolica, idroelettrica.",
+      "competencies": [
+        "Comprendere le energie rinnovabili",
+        "Conoscere l'importanza delle energie pulite"
+      ],
+      "objectives": [
+        "Spiegare il funzionamento delle energie rinnovabili",
+        "Conoscere i vantaggi delle fonti energetiche pulite"
+      ]
+    },
+    {
+      "title": "La tecnologia e l'innovazione",
+      "description": "Ruolo della tecnologia nello sviluppo scientifico, innovazioni nel campo scientifico.",
+      "competencies": [
+        "Comprendere il legame tra scienza e tecnologia",
+        "Apprezzare il ruolo dell'innovazione"
+      ],
+      "objectives": [
+        "Capire come la tecnologia influenzi la ricerca scientifica",
+        "Valutare l'importanza dell'innovazione per la società"
+      ]
+    },
+    {
+      "title": "Le malattie infettive",
+      "description": "Studio delle malattie infettive, virus, batteri, prevenzione delle infezioni.",
+      "competencies": [
+        "Conoscere le malattie infettive",
+        "Comprendere i meccanismi di trasmissione"
+      ],
+      "objectives": [
+        "Identificare principali malattie infettive",
+        "Capire come proteggersi dalle infezioni"
+      ]
+    },
+    {
+      "title": "Le onde elettromagnetiche",
+      "description": "Studio delle onde elettromagnetiche, tra cui luce, infrarosso, ultravioletto, raggi X e radioattività.",
+      "competencies": [
+        "Comprendere il concetto di onde elettromagnetiche",
+        "Conoscere gli effetti delle radiazioni"
+      ],
+      "objectives": [
+        "Descrivere le caratteristiche delle onde elettromagnetiche",
+        "Comprendere l'importanza della protezione dalle radiazioni"
+      ]
+    },
+    {
+      "title": "Il corpo umano",
+      "description": "Studio delle parti del corpo umano, funzioni degli organi, sistema scheletrico e muscolare.",
+      "competencies": [
+        "Conoscere l'anatomia umana",
+        "Comprendere il funzionamento del corpo umano"
+      ],
+      "objectives": [
+        "Identificare le diverse parti del corpo umano",
+        "Spiegare il ruolo dei principali organi nel corpo umano"
+      ]
+    },
+    {
+      "title": "Le rocce e i minerali",
+      "description": "Caratteristiche delle rocce, formazione dei minerali, cicli geologici.",
+      "competencies": [
+        "Comprendere la formazione delle rocce",
+        "Riconoscere i minerali più comuni"
+      ],
+      "objectives": [
+        "Descrivere i processi di formazione delle rocce",
+        "Identificare i principali minerali in natura"
+      ]
+    },
+    {
+      "title": "L'energia",
+      "description": "Studio delle diverse forme di energia, trasformazioni energetiche, risparmio energetico.",
+      "competencies": [
+        "Conoscere le forme di energia",
+        "Capire i principi di conservazione dell'energia"
+      ],
+      "objectives": [
+        "Identificare le diverse forme di energia",
+        "Spiegare come avvengono le trasformazioni energetiche"
+      ]
+    },
+    {
+      "title": "Le leggi della termodinamica",
+      "description": "Studio delle leggi della termodinamica, entropia, calore e lavoro.",
+      "competencies": [
+        "Comprendere le leggi fondamentali della termodinamica",
+        "Applicare i concetti di calore e lavoro"
+      ],
+      "objectives": [
+        "Spiegare le leggi della termodinamica",
+        "Risolvere problemi che coinvolgono calore e lavoro"
+      ]
+    }
+  ]
+}

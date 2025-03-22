@@ -1,0 +1,127 @@
+{
+  "school": "primary",
+  "subject": "religion",
+  "class": "2",
+  "topics": [
+    {
+      "title": "La creazione secondo la Bibbia",
+      "description": "Approfondimento del racconto della creazione presente nella Bibbia, con focus sui sei giorni della creazione.",
+      "competencies": [
+        "Conoscenza dei principali racconti biblici",
+        "Capacità di riflessione sul significato simbolico"
+      ],
+      "objectives": [
+        "Comprendere il racconto della creazione biblica",
+        "Riflettere sul significato simbolico della creazione"
+      ]
+    },
+    {
+      "title": "La storia di Noè e l'arca",
+      "description": "Studio della storia di Noè e la costruzione dell'arca come narrato nella Bibbia.",
+      "competencies": [
+        "Conoscenza dei protagonisti biblici",
+        "Capacità di relazionare le storie bibliche"
+      ],
+      "objectives": [
+        "Comprendere la storia di Noè e l'arca",
+        "Riflettere sull'importanza della fedeltà a Dio"
+      ]
+    },
+    {
+      "title": "Mosè conducendo gli Ebrei in fuga dall'Egitto",
+      "description": "Analisi del ruolo di Mosè nella conduzione degli Ebrei verso la libertà dall'Egitto.",
+      "competencies": [
+        "Conoscenza della figura di Mosè",
+        "Capacità di comprendere il concetto di libertà religiosa"
+      ],
+      "objectives": [
+        "Comprendere il ruolo di Mosè nella storia ebraica",
+        "Riflettere sull'importanza della libertà religiosa"
+      ]
+    },
+    {
+      "title": "Il dono delle Dieci Commandamenti",
+      "description": "Studio dei Dieci Comandamenti dati da Dio a Mosè sul Monte Sinai.",
+      "competencies": [
+        "Conoscenza dei principi morali della Bibbia",
+        "Capacità di analizzare comandamenti"
+      ],
+      "objectives": [
+        "Comprendere l'importanza dei Dieci Comandamenti",
+        "Riflettere sull'etica e il rispetto dei valori religiosi"
+      ]
+    },
+    {
+      "title": "La storia di Davide e Golia",
+      "description": "Analisi della storia di Davide e Golia come esempio di coraggio e fede in Dio.",
+      "competencies": [
+        "Conoscenza dei personaggi biblici",
+        "Capacità di identificare valori quali coraggio e fede"
+      ],
+      "objectives": [
+        "Comprendere la storia di Davide e Golia",
+        "Riflettere sull'importanza della fede in momenti difficili"
+      ]
+    },
+    {
+      "title": "Le parabole di Gesù",
+      "description": "Approfondimento delle parabole raccontate da Gesù per insegnare valori spirituali.",
+      "competencies": [
+        "Conoscenza delle parabole evangeliche",
+        "Capacità di interpretare messaggi spirituali"
+      ],
+      "objectives": [
+        "Comprendere il significato delle parabole di Gesù",
+        "Riflettere sulle lezioni morali trasmesse"
+      ]
+    },
+    {
+      "title": "La Pasqua ebraica",
+      "description": "Studio della celebrazione della Pasqua ebraica come festa della liberazione degli Ebrei dall'Egitto.",
+      "competencies": [
+        "Conoscenza delle festività ebraiche",
+        "Capacità di comprensione del concetto di libertà"
+      ],
+      "objectives": [
+        "Comprendere il significato della Pasqua ebraica",
+        "Riflettere sull'importanza della libertà e della fede"
+      ]
+    },
+    {
+      "title": "La Natività di Gesù",
+      "description": "Racconto della nascita di Gesù come evento centrale del cristianesimo.",
+      "competencies": [
+        "Conoscenza della storia della nascita di Gesù",
+        "Capacità di apprezzare il significato del Natale"
+      ],
+      "objectives": [
+        "Comprendere il significato religioso della Natività",
+        "Riflettere sull'importanza della nascita di Gesù per i cristiani"
+      ]
+    },
+    {
+      "title": "La Parabola del Buon Samaritano",
+      "description": "Analisi della parabola del Buon Samaritano come insegnamento di amore e compassione.",
+      "competencies": [
+        "Conoscenza delle parabole evangeliche",
+        "Capacità di riflettere sull'amore fraterno"
+      ],
+      "objectives": [
+        "Comprendere il messaggio di amore del Buon Samaritano",
+        "Riflettere sull'importanza della compassione verso gli altri"
+      ]
+    },
+    {
+      "title": "La Quaresima",
+      "description": "Approfondimento del periodo quaresimale come tempo di preparazione spirituale per la Pasqua.",
+      "competencies": [
+        "Conoscenza del significato della Quaresima",
+        "Capacità di comprensione della penitenza e della riflessione"
+      ],
+      "objectives": [
+        "Comprendere il significato della Quaresima",
+        "Riflettere sull'importanza della penitenza e della riflessione personale"
+      ]
+    }
+  ]
+}

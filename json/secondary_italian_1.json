@@ -1,0 +1,79 @@
+{
+  "school": "secondary",
+  "subject": "italian",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione alla lingua italiana",
+      "description": "Approfondimento delle basi della lingua italiana, come l'alfabeto, le regole di pronuncia e le prime parole di vocabolario.",
+      "competencies": [
+        "Comprendere e comunicare concetti di base in italiano",
+        "Riconoscere e utilizzare correttamente l'alfabeto italiano"
+      ],
+      "objectives": [
+        "Imparare a pronunciare correttamente le lettere dell'alfabeto italiano",
+        "Sapere identificare e utilizzare le prime parole italiane di uso comune"
+      ]
+    },
+    {
+      "title": "Presentarsi e chiedere informazioni personali",
+      "description": "Imparare a presentarsi, chiedere e dare informazioni personali in situazioni di dialogo.",
+      "competencies": [
+        "Sapere presentarsi in italiano",
+        "Essere in grado di chiedere e dare informazioni personali di base"
+      ],
+      "objectives": [
+        "Sapere presentare sé stessi in italiano (nome, età, nazionalità)",
+        "Essere in grado di chiedere e dare informazioni personali di base (nome, età, provenienza)"
+      ]
+    },
+    {
+      "title": "La famiglia e le relazioni",
+      "description": "Studiare il lessico relativo ai membri della famiglia e imparare a descrivere relazioni familiari.",
+      "competencies": [
+        "Conoscenza del lessico familiare in italiano",
+        "Sapere descrivere le relazioni familiari"
+      ],
+      "objectives": [
+        "Imparare i nomi dei membri della famiglia in italiano",
+        "Essere in grado di descrivere le relazioni familiari (madre, padre, fratello, sorella)"
+      ]
+    },
+    {
+      "title": "I numeri e l'orario",
+      "description": "Approfondire la conoscenza dei numeri in italiano e imparare a chiedere e dire l'orario.",
+      "competencies": [
+        "Conoscenza dei numeri cardinale in italiano",
+        "Sapere chiedere e dire l'orario"
+      ],
+      "objectives": [
+        "Imparare i numeri da 1 a 100 in italiano",
+        "Essere in grado di chiedere e dire l'orario (sul digitale e analogico)"
+      ]
+    },
+    {
+      "title": "I giorni della settimana e i mesi dell'anno",
+      "description": "Studio dei giorni della settimana e dei mesi dell'anno, con focus sulle espressioni temporali in italiano.",
+      "competencies": [
+        "Conoscenza dei giorni della settimana e dei mesi dell'anno in italiano",
+        "Sapere utilizzare espressioni temporali"
+      ],
+      "objectives": [
+        "Imparare i giorni della settimana e i mesi dell'anno in italiano",
+        "Essere in grado di utilizzare espressioni temporali in frasi semplici"
+      ]
+    },
+    {
+      "title": "Descrivere la propria giornata",
+      "description": "Imparare a esprimere le attività quotidiane e a descrivere la routine giornaliera in italiano.",
+      "competencies": [
+        "Sapere esprimere le attività quotidiane in italiano",
+        "Sapere descrivere la propria routine giornaliera"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere le attività svolte durante la giornata in italiano",
+        "Sapere creare frasi semplici per descrivere la propria routine giornaliera"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "music",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Conoscenza degli strumenti musicali",
+      "description": "Introduzione ai principali strumenti musicali: tamburo, campana, triangolo, maracas, flauto dolce, ecc.",
+      "competencies": [
+        "Riconoscimento degli strumenti musicali",
+        "Ascolto e percezione musicale"
+      ],
+      "objectives": [
+        "Riconoscere i principali strumenti musicali",
+        "Saper distinguere i diversi suoni prodotti dagli strumenti"
+      ]
+    },
+    {
+      "title": "Esplorazione dei suoni e silenzi",
+      "description": "Attività ludiche per sperimentare la produzione di suoni e silenzi, utilizzando il proprio corpo e oggetti vari.",
+      "competencies": [
+        "Acquisizione della consapevolezza del suono e del silenzio",
+        "Creatività e espressione artistica"
+      ],
+      "objectives": [
+        "Riconoscere la differenza tra suono e silenzio",
+        "Sperimentare la produzione di suoni con diversi oggetti"
+      ]
+    },
+    {
+      "title": "Canti e filastrocche tradizionali",
+      "description": "Apprendimento di canti e filastrocche della tradizione popolare italiana e internazionale.",
+      "competencies": [
+        "Memoria musicale",
+        "Partecipazione collettiva"
+      ],
+      "objectives": [
+        "Memorizzare e cantare alcune filastrocche e canti tradizionali",
+        "Partecipare attivamente alla produzione di suoni e alla loro combinazione"
+      ]
+    },
+    {
+      "title": "Elementi ritmici di base",
+      "description": "Introduzione ai concetti di ritmo attraverso l'uso di semplici percussioni e movimenti corporei.",
+      "competencies": [
+        "Sviluppo del senso ritmico",
+        "Coordination motrice"
+      ],
+      "objectives": [
+        "Riconoscere il ritmo di base nella musica",
+        "Saper mantenere un ritmo costante con il proprio corpo o con strumenti"
+      ]
+    },
+    {
+      "title": "Racconti musicali",
+      "description": "Ascolto di brani musicali legati a storie o immagini da interpretare con movimenti o disegni.",
+      "competencies": [
+        "Interpretazione artistica",
+        "Ascolto attivo"
+      ],
+      "objectives": [
+        "Interpretare una storia o un'immagine attraverso movimenti corporei in relazione alla musica",
+        "Saper ascoltare attivamente una narrazione musicale"
+      ]
+    },
+    {
+      "title": "Costruzione di strumenti musicali",
+      "description": "Realizzazione di semplici strumenti musicali con materiali di recupero, per sperimentare il concetto di suono e produzione musicale.",
+      "competencies": [
+        "Creatività e manualità",
+        "Capacità di riciclo e riutilizzo"
+      ],
+      "objectives": [
+        "Costruire e suonare uno strumento musicale di semplice realizzazione",
+        "Sperimentare la produzione di suoni creativi attraverso materiali diversi"
+      ]
+    }
+  ]
+}

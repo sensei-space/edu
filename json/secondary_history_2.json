@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "history",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Il Medioevo",
+      "description": "Studio del periodo storico compreso tra la caduta dell'Impero romano d'Occidente e la scoperta dell'America.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione dei processi storici"
+      ],
+      "objectives": [
+        "Riconoscere le principali caratteristiche del Medioevo",
+        "Comprendere le trasformazioni sociali ed economiche del periodo"
+      ]
+    },
+    {
+      "title": "Le Crociate",
+      "description": "Approfondimento sulle spedizioni militari cristiane in Terrasanta tra l'XI e il XIII secolo.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione dei conflitti storici"
+      ],
+      "objectives": [
+        "Comprendere le motivazioni delle Crociate",
+        "Analizzare le conseguenze delle Crociate sulle società coinvolte"
+      ]
+    },
+    {
+      "title": "La nascita delle Repubbliche Marinare",
+      "description": "Studio delle città italiane (come Venezia, Genova, Pisa e Amalfi) che svilupparono un'economia marittima nel Medioevo.",
+      "competencies": [
+        "Ricostruzione storica",
+        "Comprensione delle istituzioni"
+      ],
+      "objectives": [
+        "Conoscere le caratteristiche delle Repubbliche Marinare",
+        "Analizzare il ruolo economico e politico di queste città"
+      ]
+    },
+    {
+      "title": "Il Rinascimento",
+      "description": "Esplorazione del periodo storico caratterizzato dal rinnovamento artistico, culturale e scientifico in Europa tra il XIV e il XVI secolo.",
+      "competencies": [
+        "Interpretazione storica",
+        "Comprensione dei movimenti culturali"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche del Rinascimento",
+        "Analizzare le opere artistiche e letterarie rinascimentali"
+      ]
+    },
+    {
+      "title": "La Riforma Protestante",
+      "description": "Analisi della rottura religiosa che portò alla nascita del protestantesimo nel XVI secolo.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione delle trasformazioni religiose"
+      ],
+      "objectives": [
+        "Comprendere le cause della Riforma",
+        "Analizzare le conseguenze della divisione religiosa in Europa"
+      ]
+    },
+    {
+      "title": "L'Età delle Esplorazioni",
+      "description": "Esplorazione dei viaggi dei grandi navigatori europei (come Cristoforo Colombo, Vasco da Gama, Ferdinando Magellano) e la scoperta di nuove rotte e territori nel XV e XVI secolo.",
+      "competencies": [
+        "Interpretazione storica",
+        "Comprensione dei processi esplorativi"
+      ],
+      "objectives": [
+        "Conoscere le tappe principali delle esplorazioni",
+        "Analizzare le conseguenze dell'espansione marittima"
+      ]
+    },
+    {
+      "title": "I primi Stati moderni",
+      "description": "Studio del processo di formazione degli Stati sovrani centralizzati in Europa tra il XV e il XVII secolo.",
+      "competencies": [
+        "Ricostruzione storica",
+        "Comprensione delle strutture politiche"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche degli Stati moderni",
+        "Comprendere il ruolo dei sovrani nella definizione delle politiche statali"
+      ]
+    },
+    {
+      "title": "Le guerre di religione in Francia",
+      "description": "Analisi dei conflitti religiosi tra cattolici e protestanti in Francia nel XVI secolo.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione dei conflitti religiosi"
+      ],
+      "objectives": [
+        "Comprendere le cause delle guerre di religione",
+        "Analizzare le conseguenze sulla società francese"
+      ]
+    },
+    {
+      "title": "L'assolutismo monarchico",
+      "description": "Studio del sistema politico in cui il potere del sovrano è illimitato e non soggetto a controlli costituzionali, diffuso in Europa tra il XVI e il XVIII secolo.",
+      "competencies": [
+        "Interpretazione storica",
+        "Comprensione delle forme di governo"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche dell'assolutismo",
+        "Analizzare il rapporto tra sovrani e popolazione"
+      ]
+    },
+    {
+      "title": "La Rivoluzione Scientifica",
+      "description": "Esplorazione dei progressi scientifici e delle nuove teorie nel XVII secolo che portarono a una rivoluzione nel pensiero scientifico.",
+      "competencies": [
+        "Interpretazione storica",
+        "Comprensione delle scoperte scientifiche"
+      ],
+      "objectives": [
+        "Conoscere le figure principali della Rivoluzione Scientifica",
+        "Comprendere l'importanza delle nuove scoperte"
+      ]
+    },
+    {
+      "title": "L'Illuminismo",
+      "description": "Analisi del movimento culturale e filosofico che si diffuse in Europa nel XVIII secolo, promuovendo la ragione e la libertà.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione dei movimenti culturali"
+      ],
+      "objectives": [
+        "Identificare le caratteristiche dell'Illuminismo",
+        "Analizzare le idee dei principali filosofi illuministi"
+      ]
+    },
+    {
+      "title": "La Rivoluzione Francese",
+      "description": "Studio dell'evento che segnò la fine dell'Ancien Régime in Francia e portò alla nascita della Repubblica nel 1789.",
+      "competencies": [
+        "Ricostruzione storica",
+        "Comprensione delle rivoluzioni"
+      ],
+      "objectives": [
+        "Comprendere le cause della Rivoluzione Francese",
+        "Analizzare le fasi e le conseguenze dell'evento"
+      ]
+    },
+    {
+      "title": "Napoleone Bonaparte",
+      "description": "Analisi della figura di Napoleone Bonaparte e del suo ruolo nell'Europa del XIX secolo.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione dei leader storici"
+      ],
+      "objectives": [
+        "Conoscere le tappe della carriera di Napoleone",
+        "Analizzare le conseguenze del suo governo"
+      ]
+    },
+    {
+      "title": "La Restaurazione e il Congresso di Vienna",
+      "description": "Studio del periodo successivo alle guerre napoleoniche, caratterizzato dai tentativi di riportare l'ordine monarchico in Europa.",
+      "competencies": [
+        "Interpretazione storica",
+        "Comprensione dei trattati internazionali"
+      ],
+      "objectives": [
+        "Comprendere gli obiettivi della Restaurazione",
+        "Analizzare le decisioni del Congresso di Vienna"
+      ]
+    },
+    {
+      "title": "Le rivoluzioni del 1848",
+      "description": "Analisi dei moti rivoluzionari che coinvolsero diversi paesi europei nel 1848, con richieste di riforme politiche e sociali.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione dei movimenti rivoluzionari"
+      ],
+      "objectives": [
+        "Comprendere le cause delle rivoluzioni del 1848",
+        "Analizzare le reazioni dei regimi europei"
+      ]
+    },
+    {
+      "title": "Il Risorgimento italiano",
+      "description": "Esplorazione del movimento politico e culturale che portò all'unificazione dell'Italia nel XIX secolo.",
+      "competencies": [
+        "Ricostruzione storica",
+        "Comprensione dei processi unitari"
+      ],
+      "objectives": [
+        "Conoscere le tappe del Risorgimento",
+        "Analizzare il ruolo dei principali protagonisti"
+      ]
+    },
+    {
+      "title": "L'Imperialismo",
+      "description": "Studio della fase di espansione coloniale delle potenze europee in Africa, Asia e America Latina tra il XIX e il XX secolo.",
+      "competencies": [
+        "Interpretazione storica",
+        "Comprensione dei processi imperialisti"
+      ],
+      "objectives": [
+        "Identificare le motivazioni dell'imperialismo",
+        "Analizzare le conseguenze sulle popolazioni locali"
+      ]
+    },
+    {
+      "title": "La Prima Guerra Mondiale",
+      "description": "Analisi del conflitto mondiale che coinvolse molte nazioni tra il 1914 e il 1918, portando a profonde trasformazioni politiche e sociali.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione dei conflitti mondiali"
+      ],
+      "objectives": [
+        "Comprendere le cause e le fasi della Prima Guerra Mondiale",
+        "Analizzare le conseguenze del conflitto"
+      ]
+    },
+    {
+      "title": "Il Fascismo",
+      "description": "Studio del regime politico autoritario instaurato in Italia da Benito Mussolini negli anni '20 e '30.",
+      "competencies": [
+        "Analisi storica",
+        "Comprensione delle dittature"
+      ],
+      "objectives": [
+        "Conoscere le caratteristiche del regime fascista",
+        "Analizzare le politiche interne ed esterne del Fascismo"
+      ]
+    },
+    {
+      "title": "La Seconda Guerra Mondiale",
+      "description": "Esplorazione del conflitto mondiale che coinvolse le principali potenze tra il 1939 e il 1945, provocando milioni di vittime.",
+      "competencies": [
+        "Interpretazione storica",
+        "Comprensione dei conflitti mondiali"
+      ],
+      "objectives": [
+        "Identificare le cause e le fasi della Seconda Guerra Mondiale",
+        "Analizzare le conseguenze del conflitto"
+      ]
+    }
+  ]
+}

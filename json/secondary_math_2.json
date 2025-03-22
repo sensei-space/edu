@@ -1,0 +1,68 @@
+{
+  "school": "secondary",
+  "subject": "math",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Numeri naturali fino a 1000",
+      "description": "Studio approfondito dei numeri naturali fino a 1000, ordinamento, confronto e operazioni aritmetiche di addizione e sottrazione.",
+      "competencies": [
+        "Conoscenza dei numeri naturali fino a 1000",
+        "Capacità di ordinare e confrontare numeri fino a 1000"
+      ],
+      "objectives": [
+        "Saper eseguire correttamente operazioni di addizione con numeri fino a 1000",
+        "Essere in grado di risolvere problemi che coinvolgono numeri fino a 1000"
+      ]
+    },
+    {
+      "title": "Moltiplicazione e divisione",
+      "description": "Studio delle operazioni di moltiplicazione e divisione, tabelline e applicazioni pratiche.",
+      "competencies": [
+        "Capacità di moltiplicare e dividere numeri entro il 100",
+        "Memorizzazione delle tabelline del moltiplicare"
+      ],
+      "objectives": [
+        "Saper eseguire correttamente operazioni di moltiplicazione e divisione entro il 100",
+        "Conoscere e applicare le tabelline del moltiplicare"
+      ]
+    },
+    {
+      "title": "Problemi matematici",
+      "description": "Risoluzione di problemi matematici che coinvolgono le quattro operazioni fondamentali, logica e ragionamento.",
+      "competencies": [
+        "Capacità di risolvere problemi matematici complessi",
+        "Sviluppo del pensiero logico-matematico"
+      ],
+      "objectives": [
+        "Essere in grado di leggere e comprendere un problema matematico",
+        "Saper utilizzare appropriate strategie per la risoluzione di problemi"
+      ]
+    },
+    {
+      "title": "Misura",
+      "description": "Studio delle unità di misura di lunghezza, capacità, massa e tempo, conversioni e calcoli.",
+      "competencies": [
+        "Capacità di utilizzare le unità di misura",
+        "Conoscenza delle conversioni tra diverse unità di misura"
+      ],
+      "objectives": [
+        "Essere in grado di misurare correttamente utilizzando le diverse unità di misura",
+        "Saper effettuare corrette conversioni tra le diverse unità di misura"
+      ]
+    },
+    {
+      "title": "Geometria",
+      "description": "Studio delle figure geometriche piane e solide, calcolo dell'area e del perimetro, concetti di simmetria e trasformazioni geometriche semplici.",
+      "competencies": [
+        "Riconoscimento delle figure geometriche",
+        "Calcolo dell'area e del perimetro",
+        "Capacità di identificare simmetrie"
+      ],
+      "objectives": [
+        "Essere in grado di identificare e disegnare figure geometriche",
+        "Calcolare correttamente l'area e il perimetro di figure piane"
+      ]
+    }
+  ]
+}

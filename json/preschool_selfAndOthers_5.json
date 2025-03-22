@@ -1,0 +1,79 @@
+{
+  "school": "preschool",
+  "subject": "selfAndOthers",
+  "class": "5",
+  "topics": [
+    {
+      "title": "Rispetto delle regole di convivenza",
+      "description": "Approfondimento delle regole di comportamento e rispetto degli altri all'interno e all'esterno della classe.",
+      "competencies": [
+        "Sviluppo dell'autoregolazione emotiva",
+        "Capacità di cooperare con gli altri"
+      ],
+      "objectives": [
+        "Rispettare le regole di convivenza stabilite",
+        "Comprendere l'importanza del rispetto reciproco"
+      ]
+    },
+    {
+      "title": "Risoluzione dei conflitti",
+      "description": "Insegnamento di strategie per affrontare pacificamente eventuali conflitti tra compagni.",
+      "competencies": [
+        "Empatia",
+        "Comunicazione efficace"
+      ],
+      "objectives": [
+        "Imparare a gestire i conflitti in modo costruttivo",
+        "Sviluppare la capacità di prendere decisioni condivise"
+      ]
+    },
+    {
+      "title": "Condivisione e collaborazione",
+      "description": "Stimolazione della condivisione di spazi, materiali e attività, promuovendo l'aiuto reciproco tra compagni.",
+      "competencies": [
+        "Sviluppo della solidarietà",
+        "Capacità di lavorare in gruppo"
+      ],
+      "objectives": [
+        "Condividere equamente risorse e attenzioni",
+        "Apprendere a collaborare e contribuire attivamente al benessere del gruppo"
+      ]
+    },
+    {
+      "title": "Riconoscimento delle emozioni",
+      "description": "Identificazione e comprensione delle emozioni proprie e altrui, con particolare focus sull'empatia.",
+      "competencies": [
+        "Gestione delle emozioni",
+        "Sviluppo dell'intelligenza emotiva"
+      ],
+      "objectives": [
+        "Riconoscere ed esprimere le proprie emozioni in modo appropriato",
+        "Comprendere le emozioni altrui e dimostrare solidarietà"
+      ]
+    },
+    {
+      "title": "Gestione dei complimenti",
+      "description": "Apprendimento di come dare e ricevere complimenti in modo sincero e positivo.",
+      "competencies": [
+        "Capacità di apprezzamento reciproco",
+        "Sviluppo dell'autostima"
+      ],
+      "objectives": [
+        "Saper dare complimenti che siano veritieri e motivanti",
+        "Accogliere i complimenti con gratitudine e rispetto"
+      ]
+    },
+    {
+      "title": "Rispetto delle diversità",
+      "description": "Promozione della valorizzazione delle diversità individuali e culturali presenti nella classe.",
+      "competencies": [
+        "Rispetto delle diversità",
+        "Sensibilità interculturale"
+      ],
+      "objectives": [
+        "Accettare e apprezzare le differenze tra gli individui",
+        "Favorire un clima di inclusione e rispetto reciproco"
+      ]
+    }
+  ]
+}

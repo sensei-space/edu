@@ -1,0 +1,259 @@
+{
+  "school": "secondary",
+  "subject": "english",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Present Simple vs Present Continuous",
+      "description": "Differenza tra l'uso del Present Simple e del Present Continuous per parlare di azioni abituali e in corso nel presente.",
+      "competencies": [
+        "Comprendere le differenze tra le due forme verbali",
+        "Essere in grado di utilizzare correttamente il Present Simple e il Present Continuous"
+      ],
+      "objectives": [
+        "Saper identificare l'uso appropriato del Present Simple e del Present Continuous",
+        "Essere in grado di formulare frasi corrette utilizzando entrambe le forme verbali"
+      ]
+    },
+    {
+      "title": "Past Simple Regular Verbs",
+      "description": "Coniugazione dei verbi regolari al passato semplice, con particolare attenzione agli  -ed.",
+      "competencies": [
+        "Coniugare correttamente i verbi regolari al passato semplice",
+        "Comprendere l'uso e la formazione del passato semplice"
+      ],
+      "objectives": [
+        "Saper coniugare i verbi regolari correttamente al passato semplice",
+        "Essere in grado di descrivere eventi passati utilizando i verbi regolari"
+      ]
+    },
+    {
+      "title": "Comparative and Superlative Adjectives",
+      "description": "Utilizzo e formazione degli aggettivi comparativi e superlativi per confrontare e distinguere tra più cose o persone.",
+      "competencies": [
+        "Essere in grado di utilizzare correttamente gli aggettivi comparativi e superlativi",
+        "Comprendere le regole di formazione dei confronti tra aggettivi"
+      ],
+      "objectives": [
+        "Saper costruire frasi comparando oggetti o persone utilizzando gli aggettivi comparativi e superlativi",
+        "Essere in grado di identificare le forme di comparazione corrette"
+      ]
+    },
+    {
+      "title": "Past Simple Irregular Verbs",
+      "description": "Studio dei verbi irregolari al passato semplice e la loro corretta coniugazione.",
+      "competencies": [
+        "Conoscere i verbi irregolari più comuni al passato semplice",
+        "Essere in grado di utilizzare correttamente i verbi irregolari al passato semplice"
+      ],
+      "objectives": [
+        "Saper coniugare correttamente i verbi irregolari al passato semplice",
+        "Essere in grado di raccontare eventi passati utilizzando anche i verbi irregolari"
+      ]
+    },
+    {
+      "title": "Future with 'going to' and 'will'",
+      "description": "Confronto tra l'utilizzo del 'going to' e di 'will' per esprimere il futuro e le differenti situazioni in cui vengono impiegati.",
+      "competencies": [
+        "Essere in grado di distinguere tra i due modi per esprimere il futuro",
+        "Utilizzare correttamente 'going to' e 'will' in base al contesto"
+      ],
+      "objectives": [
+        "Saper costruire frasi al futuro utilizzando 'going to' e 'will'",
+        "Essere in grado di esprimere previsioni e intenzioni future con entrambi i costrutti"
+      ]
+    },
+    {
+      "title": "Conditional Sentences Type 1",
+      "description": "Studio e formazione delle frasi condizionali di tipo 1 per esprimere situazioni reali e le relative conseguenze.",
+      "competencies": [
+        "Comprendere la struttura delle frasi condizionali di tipo 1",
+        "Essere in grado di formulare correttamente le condizioni e le conseguenze"
+      ],
+      "objectives": [
+        "Saper costruire frasi condizionali di tipo 1 correttamente",
+        "Essere in grado di esprimere situazioni reali e possibili conseguenze usando questo tipo di condizionale"
+      ]
+    },
+    {
+      "title": "The Passive Voice",
+      "description": "Introduzione alla forma passiva in inglese e come viene utilizzata per enfatizzare l'azione e il soggetto subito.",
+      "competencies": [
+        "Essere in grado di riconoscere la forma passiva",
+        "Comprendere l'utilizzo della forma passiva"
+      ],
+      "objectives": [
+        "Saper trasformare frasi dalla forma attiva a quella passiva e viceversa",
+        "Essere in grado di utilizzare correttamente la forma passiva in contesti appropriati"
+      ]
+    },
+    {
+      "title": "Question Tags",
+      "description": "Studio e utilizzo delle question tags per fare domande brevi e confermare o aggiungere informazioni in modo informale.",
+      "competencies": [
+        "Saper utilizzare le question tags in modo corretto",
+        "Essere in grado di rispondere alle question tags"
+      ],
+      "objectives": [
+        "Saper completare le frasi con le question tags corrette",
+        "Essere in grado di utilizzare le question tags per fare domande e confermare informazioni"
+      ]
+    },
+    {
+      "title": "Reported Speech",
+      "description": "Studio dei discorsi indiretti e come riportare le parole di qualcun altro in modo indiretto.",
+      "competencies": [
+        "Essere in grado di trasformare dirette in indirette",
+        "Comprendere la struttura del reported speech"
+      ],
+      "objectives": [
+        "Saper trasformare correttamente frasi dirette in indirette",
+        "Essere in grado di riportare discorsi di altre persone in forma indiretta"
+      ]
+    },
+    {
+      "title": "Modals of Speculation",
+      "description": "Studio dei modali per esprimere supposizioni, probabilità e possibilità in modo formale e informale.",
+      "competencies": [
+        "Conoscere i modali di speculazione più comuni",
+        "Essere in grado di utilizzare i modali per esprimere supposizioni"
+      ],
+      "objectives": [
+        "Saper utilizzare correttamente i modali di speculazione per esprimere possibilità e probabilità",
+        "Essere in grado di fare ipotesi in modo appropriato utilizzando i modali"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs",
+      "description": "Introduzione ai verbi frasali e come vengono formati unendo un verbo e una preposizione o un avverbio.",
+      "competencies": [
+        "Conoscere il significato dei phrasal verbs più comuni",
+        "Essere in grado di utilizzare i phrasal verbs in contesti adeguati"
+      ],
+      "objectives": [
+        "Saper identificare il significato dei phrasal verbs",
+        "Essere in grado di utilizzare i phrasal verbs correttamente in frasi"
+      ]
+    },
+    {
+      "title": "Writing a Formal Email",
+      "description": "Struttura, registri e formule di cortesia per scrivere una email formale in inglese.",
+      "competencies": [
+        "Essere in grado di scrivere una email formale seguendo la struttura adeguata",
+        "Comprendere i registri di formalità in una email formale"
+      ],
+      "objectives": [
+        "Saper redigere una email formale rispettando la struttura richiesta",
+        "Essere in grado di utilizzare un registro adeguato in una comunicazione formale"
+      ]
+    },
+    {
+      "title": "Reading and Understanding Short Stories",
+      "description": "Lettura e comprensione di brevi storie in lingua inglese per migliorare le capacità di lettura e comprensione.",
+      "competencies": [
+        "Essere in grado di comprendere il significato di un testo narrativo in inglese",
+        "Saper estrapolare informazioni importanti da una storia breve"
+      ],
+      "objectives": [
+        "Essere in grado di leggere e comprendere storie in lingua inglese",
+        "Essere in grado di rispondere a domande sulla trama e sui personaggi di una storia breve"
+      ]
+    },
+    {
+      "title": "Listening to Dialogues and Conversations",
+      "description": "Ascolto di dialoghi e conversazioni in lingua inglese per migliorare la comprensione uditiva e l'abilità di seguire un discorso parlato.",
+      "competencies": [
+        "Essere in grado di comprendere conversazioni e dialoghi in lingua inglese",
+        "Saper estrapolare informazioni importanti da un dialogo"
+      ],
+      "objectives": [
+        "Essere in grado di ascoltare e comprendere dialoghi e conversazioni in inglese",
+        "Essere in grado di rispondere a domande sull'ascolto di un dialogo o di una conversazione"
+      ]
+    },
+    {
+      "title": "Speaking about Past Experiences",
+      "description": "Utilizzo del passato semplice e di espressioni temporali per parlare di esperienze passate personali.",
+      "competencies": [
+        "Essere in grado di raccontare esperienze personali passate",
+        "Utilizzare il passato semplice per parlare di eventi passati"
+      ],
+      "objectives": [
+        "Saper descrivere eventi passati personali utilizzando il passato semplice",
+        "Essere in grado di parlare di esperienze passate utilizzando espressioni temporali appropriate"
+      ]
+    },
+    {
+      "title": "Describing Places and People",
+      "description": "Utilizzo di aggettivi e vocabolario per descrivere luoghi e persone in modo dettagliato e preciso.",
+      "competencies": [
+        "Essere in grado di utilizzare aggettivi per descrivere luoghi e persone",
+        "Ampliare il proprio vocabolario per la descrizione"
+      ],
+      "objectives": [
+        "Saper descrivere luoghi e persone utilizzando aggettivi appropriati",
+        "Essere in grado di arricchire il proprio vocabolario per la descrizione di luoghi e persone"
+      ]
+    },
+    {
+      "title": "Talking about Future Plans",
+      "description": "Esprimere piani futuri e intenzioni utilizzando il futuro con 'going to' e 'will'.",
+      "competencies": [
+        "Essere in grado di esprimere piani futuri",
+        "Utilizzare il futuro con 'going to' e 'will' per esprimere intenzioni"
+      ],
+      "objectives": [
+        "Saper comunicare piani futuri utilizzando 'going to' e 'will'",
+        "Essere in grado di parlare di intenzioni future utilizzando il futuro"
+      ]
+    },
+    {
+      "title": "Debating Topics",
+      "description": "Sviluppo delle capacità di argomentare e sostenere un punto di vista su temi attuali e controversi.",
+      "competencies": [
+        "Essere in grado di esprimere e supportare un'opinione",
+        "Sviluppare le capacità di dibattito e argomentazione"
+      ],
+      "objectives": [
+        "Saper presentare un punto di vista su temi controversi in modo argomentato",
+        "Essere in grado di partecipare attivamente a un dibattito su temi di attualità"
+      ]
+    },
+    {
+      "title": "Writing a Book Review",
+      "description": "Struttura e linguaggio appropriato per scrivere una recensione di un libro o di un film in lingua inglese.",
+      "competencies": [
+        "Essere in grado di scrivere una recensione di un libro o film",
+        "Utilizzare un linguaggio adeguato per una recensione"
+      ],
+      "objectives": [
+        "Saper redigere una recensione di un libro o film seguendo la struttura richiesta",
+        "Essere in grado di esprimere opinioni e giudizi in modo chiaro ed argomentato"
+      ]
+    },
+    {
+      "title": "Learning about Culture through English",
+      "description": "Esplorare e comprendere l'aspetto culturale di paesi di lingua inglese attraverso testi e attività interattive.",
+      "competencies": [
+        "Arricchire la conoscenza culturale legata alla lingua inglese",
+        "Essere in grado di comprendere le differenze culturali attraverso la lingua"
+      ],
+      "objectives": [
+        "Saper individuare e descrivere elementi culturali di paesi anglofoni",
+        "Essere in grado di collegare la cultura alla lingua inglese attraverso esempi concreti"
+      ]
+    },
+    {
+      "title": "Preparing a Short Presentation",
+      "description": "Struttura e contenuti per preparare e presentare una breve presentazione orale su un argomento scelto.",
+      "competencies": [
+        "Essere in grado di preparare una presentazione orale",
+        "Sviluppare le capacità di esposizione e presentazione"
+      ],
+      "objectives": [
+        "Saper organizzare i contenuti per una presentazione chiara ed efficace",
+        "Essere in grado di presentare in modo fluente e coinvolgente un argomento di proprio interesse"
+      ]
+    }
+  ]
+}

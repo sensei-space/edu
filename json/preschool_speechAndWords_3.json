@@ -1,0 +1,259 @@
+{
+  "school": "preschool",
+  "subject": "speechAndWords",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Riconoscere le vocali",
+      "description": "Insegnare ai bambini a distinguere le vocali e il loro suono caratteristico.",
+      "competencies": [
+        "Riconoscimento delle lettere",
+        "Discriminazione uditiva"
+      ],
+      "objectives": [
+        "Identificare le vocali nell'alfabeto",
+        "Associare il suono alle diverse vocali"
+      ]
+    },
+    {
+      "title": "Formare sillabe semplici",
+      "description": "Aiutare i bambini a comporre e pronunciare sillabe semplici usando le vocali e le consonanti apprese.",
+      "competencies": [
+        "Segmentazione delle parole",
+        "Pronuncia corretta"
+      ],
+      "objectives": [
+        "Creare e leggere sillabe semplici",
+        "Pronunciare correttamente le sillabe"
+      ]
+    },
+    {
+      "title": "Costruire parole semplici",
+      "description": "Guidare i bambini nel formare e leggere parole utilizzando le sillabe e le lettere apprese.",
+      "competencies": [
+        "Composizione di parole",
+        "Identificazione delle lettere"
+      ],
+      "objectives": [
+        "Comporre e leggere parole di base",
+        "Riconoscere e combinare le sillabe per formare parole"
+      ]
+    },
+    {
+      "title": "Categorie lessicali",
+      "description": "Introdurre concetti di nomi, aggettivi e verbi per arricchire il vocabolario dei bambini.",
+      "competencies": [
+        "Espansione del lessico",
+        "Comprensione della struttura delle frasi"
+      ],
+      "objectives": [
+        "Identificare nomi, aggettivi e verbi nelle frasi",
+        "Utilizzare correttamente le diverse categorie lessicali"
+      ]
+    },
+    {
+      "title": "Lettura di frasi semplici",
+      "description": "Avviare i bambini alla lettura di frasi brevi e significative per consolidare la comprensione del testo.",
+      "competencies": [
+        "Lettura fluida",
+        "Comprensione del testo"
+      ],
+      "objectives": [
+        "Leggere frasi semplici con accuratezza",
+        "Comprendere il significato delle frasi lette"
+      ]
+    },
+    {
+      "title": "Costruzione di brevi racconti",
+      "description": "Insegnare ai bambini a organizzare eventi in sequenza per creare racconti semplici e costruire una narrazione.",
+      "competencies": [
+        "Coerenza narrativa",
+        "Abilità espositiva"
+      ],
+      "objectives": [
+        "Selezionare eventi in ordine logico",
+        "Creare brevi storie con inizio, sviluppo e conclusione"
+      ]
+    },
+    {
+      "title": "Descrivere oggetti e personaggi",
+      "description": "Potenziare la capacità espressiva dei bambini aiutandoli a descrivere in modo dettagliato oggetti e personaggi.",
+      "competencies": [
+        "Sviluppo del linguaggio descrittivo",
+        "Precisione nell'espressione"
+      ],
+      "objectives": [
+        "Utilizzare aggettivi per descrivere caratteristiche",
+        "Dettagliare le descrizioni in modo chiaro"
+      ]
+    },
+    {
+      "title": "Risolvere semplici indovinelli",
+      "description": "Favorire lo sviluppo del pensiero logico e della creatività attraverso la risoluzione di piccoli enigmi verbali.",
+      "competencies": [
+        "Risoluzione di problemi",
+        "Capacità di ragionamento"
+      ],
+      "objectives": [
+        "Risolvere gli indovinelli verbalmente",
+        "Stimolare la riflessione e la fantasia"
+      ]
+    },
+    {
+      "title": "Giocare con le parole",
+      "description": "Promuovere attività ludiche che coinvolgono la manipolazione e la combinazione di parole per divertirsi e imparare insieme.",
+      "competencies": [
+        "Creatività linguistica",
+        "Collaborazione"
+      ],
+      "objectives": [
+        "Sperimentare giochi di parole",
+        "Interagire in modo positivo con i compagni"
+      ]
+    },
+    {
+      "title": "Esprimere emozioni con le parole",
+      "description": "Aiutare i bambini a identificare e comunicare le proprie emozioni utilizzando un vocabolario adeguato e empatico.",
+      "competencies": [
+        "Intelligenza emotiva",
+        "Espressione verbale"
+      ],
+      "objectives": [
+        "Riconoscere e nominare le emozioni",
+        "Condividere sentimenti con le parole"
+      ]
+    },
+    {
+      "title": "Ascolto attivo",
+      "description": "Incentivare la capacità di ascolto e comprensione verso i propri compagni e gli insegnanti durante le conversazioni e le attività di gruppo.",
+      "competencies": [
+        "Empatia",
+        "Partecipazione attiva"
+      ],
+      "objectives": [
+        "Ascoltare e rispettare le opinioni degli altri",
+        "Seguire istruzioni verbali con attenzione"
+      ]
+    },
+    {
+      "title": "Organizzare brevi presentazioni",
+      "description": "Guidare i bambini nell'organizzazione e nell'esposizione di piccoli discorsi o presentazioni davanti alla classe.",
+      "competencies": [
+        "Capacità di esporre",
+        "Autostima comunicativa"
+      ],
+      "objectives": [
+        "Pianificare il proprio discorso",
+        "Esprimersi in modo chiaro e coerente davanti agli altri"
+      ]
+    },
+    {
+      "title": "Curare la pronuncia corretta",
+      "description": "Focalizzarsi sulla corretta pronuncia delle parole e sul miglioramento dell'eloquio dei bambini.",
+      "competencies": [
+        "Pronuncia corretta",
+        "Fluidità verbale"
+      ],
+      "objectives": [
+        "Allenare la pronuncia di suoni difficili",
+        "Aumentare la chiarezza e la precisione verbale"
+      ]
+    },
+    {
+      "title": "Giocare con le filastrocche",
+      "description": "Introdurre le filastrocche come divertente strumento per esercitare la pronuncia, il ritmo e la memoria.",
+      "competencies": [
+        "Ritmo verbale",
+        "Memorizzazione"
+      ],
+      "objectives": [
+        "Riprodurre filastrocche con precisione",
+        "Memorizzare e recitare brevi testi ritmici"
+      ]
+    },
+    {
+      "title": "Esplorare poesie semplici",
+      "description": "Avvicinare i bambini alla bellezza della poesia, concentrandosi su testi brevi e di facile comprensione.",
+      "competencies": [
+        "Apprezzamento della poesia",
+        "Comprensione di testi letterari"
+      ],
+      "objectives": [
+        "Interpretare e apprezzare le poesie",
+        "Riprodurre l'intonazione e l'espressività poetica"
+      ]
+    },
+    {
+      "title": "Sviluppare la creatività verbale",
+      "description": "Stimolare l'immaginazione e la creatività dei bambini attraverso attività di scrittura e narrazione libera.",
+      "competencies": [
+        "Espressività linguistica",
+        "Fantasia narrativa"
+      ],
+      "objectives": [
+        "Inventare storie originali",
+        "Utilizzare un linguaggio creativo e personale"
+      ]
+    },
+    {
+      "title": "Esplorare favole e racconti tradizionali",
+      "description": "Introdurre i bambini al mondo delle favole e dei racconti tradizionali per arricchire il patrimonio culturale e linguistico.",
+      "competencies": [
+        "Apprezzamento della letteratura",
+        "Comprensione di testi narrativi"
+      ],
+      "objectives": [
+        "Conoscere e apprezzare le favole classiche",
+        "Raccontare a voce alta storie tradizionali"
+      ]
+    },
+    {
+      "title": "Apprezzare la diversità linguistica",
+      "description": "Esplorare insieme ai bambini diverse lingue e dialetti per sviluppare la consapevolezza della ricchezza linguistica.",
+      "competencies": [
+        "Tolleranza culturale",
+        "Apertura mentale"
+      ],
+      "objectives": [
+        "Ascoltare e ripetere parole in lingue diverse",
+        "Rispettare e valorizzare i diversi idiomi"
+      ]
+    },
+    {
+      "title": "Giornata del libro",
+      "description": "Festeggiare insieme ai bambini la giornata del libro, promuovendo la lettura e il piacere di scoprire nuove storie.",
+      "competencies": [
+        "Amore per la lettura",
+        "Valorizzazione della cultura scritta"
+      ],
+      "objectives": [
+        "Partecipare ad attività legate al libro",
+        "Scoprire nuovi libri e autori"
+      ]
+    },
+    {
+      "title": "Teatro e drammatizzazione",
+      "description": "Coinvolgere i bambini in attività teatrali per stimolare l'espressività verbale e gestuale, e favorire la creatività.",
+      "competencies": [
+        "Espressività corporea",
+        "Interpretazione scenica"
+      ],
+      "objectives": [
+        "Partecipare ad attività teatrali",
+        "Sperimentare ruoli e sequenze di azioni"
+      ]
+    },
+    {
+      "title": "Revisione e consolidamento",
+      "description": "Ripassare e consolidare i concetti acquisiti durante l'anno scolastico, attraverso attività ludiche e di revisione.",
+      "competencies": [
+        "Consolidamento delle competenze",
+        "Riflessione sull'apprendimento"
+      ],
+      "objectives": [
+        "Rivedere e praticare le abilità linguistiche acquisite",
+        "Verificare la propria crescita linguistica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "physical",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Riscaldamento e stretching",
+      "description": "Introduzione all'importanza del riscaldamento prima dell'attività fisica e esercizi di stretching per preparare i muscoli.",
+      "competencies": [
+        "Sviluppo della consapevolezza corporea",
+        "Acquisizione di abitudini salutari"
+      ],
+      "objectives": [
+        "Comprendere l'importanza del riscaldamento",
+        "Eseguire correttamente esercizi di stretching"
+      ]
+    },
+    {
+      "title": "Corsa ad ostacoli",
+      "description": "Percorsi con ostacoli per favorire l'agilità, la destrezza e la coordinazione nel movimento.",
+      "competencies": [
+        "Sviluppo della coordinazione",
+        "Potenziamento delle capacità motorie"
+      ],
+      "objectives": [
+        "Superare ostacoli variando velocità e ritmo",
+        "Migliorare la destrezza nel movimento"
+      ]
+    },
+    {
+      "title": "Lancio del vortex",
+      "description": "Apprendimento della tecnica corretta per il lancio del vortex, esercitando forza e precisione.",
+      "competencies": [
+        "Potenziamento della forza muscolare",
+        "Sviluppo della precisione nei movimenti"
+      ],
+      "objectives": [
+        "Lanciare il vortex ad una distanza sempre maggiore",
+        "Migliorare la precisione nel lancio"
+      ]
+    },
+    {
+      "title": "Gioco della palla avvelenata",
+      "description": "Giochi di squadra che coinvolgono la corsa, il movimento e la coordinazione per divertirsi e imparare a collaborare.",
+      "competencies": [
+        "Sviluppo delle capacità motorie",
+        "Collaborazione di gruppo"
+      ],
+      "objectives": [
+        "Seguire le regole del gioco",
+        "Collaborare con i compagni di squadra"
+      ]
+    },
+    {
+      "title": "Salto in lungo",
+      "description": "Apprendimento della tecnica di base del salto in lungo, focalizzandosi sull'equilibrio e la forza esplosiva.",
+      "competencies": [
+        "Potenziamento della potenza muscolare",
+        "Sviluppo dell'equilibrio"
+      ],
+      "objectives": [
+        "Migliorare la tecnica di atterraggio",
+        "Incrementare la distanza nel salto"
+      ]
+    }
+  ]
+}

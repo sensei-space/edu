@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "civic",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Conoscenza della propria identità",
+      "description": "L'identità personale e le relazioni con gli altri. Valorizzazione della propria individualità.",
+      "competencies": [
+        "Conoscenza di sé",
+        "Relazioni interpersonali"
+      ],
+      "objectives": [
+        "Riconoscere le proprie caratteristiche personali",
+        "Apprezzare la diversità tra gli individui"
+      ]
+    },
+    {
+      "title": "Rispetto delle regole nella vita quotidiana",
+      "description": "Conoscenza delle regole di convivenza e del rispetto reciproco. Risoluzione pacifica dei conflitti.",
+      "competencies": [
+        "Cittadinanza responsabile",
+        "Rispetto delle norme"
+      ],
+      "objectives": [
+        "Comprendere l'importanza delle regole nel vivere in società",
+        "Applicare strategie per risolvere conflitti in modo pacifico"
+      ]
+    },
+    {
+      "title": "Conoscenza delle istituzioni",
+      "description": "Ruolo delle istituzioni nella società. Scoperta di organizzazioni come la scuola e la famiglia.",
+      "competencies": [
+        "Conoscenza delle istituzioni",
+        "Partecipazione alla vita scolastica"
+      ],
+      "objectives": [
+        "Identificare le principali istituzioni del proprio contesto",
+        "Comprendere il funzionamento della scuola e dei ruoli familiari"
+      ]
+    },
+    {
+      "title": "Utilizzo corretto degli spazi comuni",
+      "description": "Educazione alla cura degli spazi condivisi come aula e cortile. Rispetto dell'ambiente scolastico.",
+      "competencies": [
+        "Rispetto dell'ambiente",
+        "Condivisione responsabile"
+      ],
+      "objectives": [
+        "Riconoscere l'importanza della pulizia e dell'ordine negli spazi comuni",
+        "Contribuire attivamente alla cura degli ambienti condivisi"
+      ]
+    },
+    {
+      "title": "Valori fondamentali: solidarietà e giustizia",
+      "description": "Promozione dei valori di solidarietà e giustizia sociale. Comprendere il concetto di equità.",
+      "competencies": [
+        "Solidarietà",
+        "Giustizia sociale"
+      ],
+      "objectives": [
+        "Apprezzare l'importanza di aiutare gli altri",
+        "Rispettare il concetto di giustizia ed equità"
+      ]
+    }
+  ]
+}

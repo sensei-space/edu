@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "art",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Colori primari e secondari",
+      "description": "Studio dei colori primari (rosso, giallo, blu) e dei colori secondari ottenuti dalla loro miscelazione.",
+      "competencies": [
+        "Riconoscimento dei colori primari e secondari",
+        "Capacità di mescolare i colori"
+      ],
+      "objectives": [
+        "Identificare i colori primari e secondari",
+        "Mescolare i colori per creare nuove tonalità"
+      ]
+    },
+    {
+      "title": "Utilizzo dei pastelli e matite colorate",
+      "description": "Apprendimento delle tecniche di base per disegnare e colorare utilizzando pastelli e matite colorate.",
+      "competencies": [
+        "Utilizzo corretto degli strumenti artistici",
+        "Sviluppo della coordinazione occhio-mano"
+      ],
+      "objectives": [
+        "Imparare a colorare nei contorni",
+        "Sperimentare con diverse pressioni per ottenere variazioni di colore"
+      ]
+    },
+    {
+      "title": "Rappresentazione della natura",
+      "description": "Creazione di disegni che rappresentano elementi naturali come alberi, fiori, nuvole, animali, etc.",
+      "competencies": [
+        "Rappresentazione della realtà",
+        "Osservazione degli elementi naturali"
+      ],
+      "objectives": [
+        "Riconoscere e disegnare semplici elementi naturali",
+        "Sviluppare la creatività nella rappresentazione"
+      ]
+    },
+    {
+      "title": "Creazione di collage",
+      "description": "Realizzazione di composizioni artistiche utilizzando carta colorata e altri materiali per il collage.",
+      "competencies": [
+        "Utilizzo creativo dei materiali",
+        "Sviluppo della fantasia"
+      ],
+      "objectives": [
+        "Tagliare e incollare diversi elementi per creare un collage",
+        "Esprimere creatività attraverso la composizione artistica"
+      ]
+    },
+    {
+      "title": "Introduzione al disegno tridimensionale",
+      "description": "Esplorazione delle possibilità di creare disegni che danno l'illusione della tridimensionalità.",
+      "competencies": [
+        "Sviluppo della percezione spaziale",
+        "Capacità di rappresentazione tridimensionale"
+      ],
+      "objectives": [
+        "Creare disegni che sembrano tridimensionali",
+        "Sperimentare prospettive semplici per dare profondità"
+      ]
+    },
+    {
+      "title": "Espressione artistica con materiali di riciclo",
+      "description": "Realizzazione di piccole opere d'arte utilizzando materiali di riciclo come carta, cartone, tappi, etc.",
+      "competencies": [
+        "Sensibilizzazione sull'importanza del riciclo",
+        "Capacità di creare con materiali diversi"
+      ],
+      "objectives": [
+        "Raccogliere e ordinare materiali di riciclo",
+        "Realizzare creazioni artistiche originali con materiali di recupero"
+      ]
+    }
+  ]
+}

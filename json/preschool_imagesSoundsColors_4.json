@@ -1,0 +1,127 @@
+{
+  "school": "preschool",
+  "subject": "imagesSoundsColors",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Espressione artistica con materiali naturali",
+      "description": "Creare opere artistiche utilizzando materiali naturali come foglie, fiori e conchiglie.",
+      "competencies": [
+        "Creatività",
+        "Sensibilità estetica"
+      ],
+      "objectives": [
+        "Sperimentare la creazione artistica con materiali naturali",
+        "Esprimere sentimenti e emozioni attraverso l'arte"
+      ]
+    },
+    {
+      "title": "Mix di colori primari",
+      "description": "Mescolare i colori primari per creare nuove tonalità e sfumature.",
+      "competencies": [
+        "Riconoscimento dei colori",
+        "Abilità manuali"
+      ],
+      "objectives": [
+        "Sperimentare la miscelazione dei colori",
+        "Creare una tavolozza di colori personalizzata"
+      ]
+    },
+    {
+      "title": "Musica con strumenti a percussione",
+      "description": "Utilizzare tamburi e altri strumenti a percussione per creare ritmi e suoni.",
+      "competencies": [
+        "Ritmo",
+        "Coordinazione motoria"
+      ],
+      "objectives": [
+        "Esplorare diversi suoni prodotti dagli strumenti a percussione",
+        "Seguire un ritmo base eseguito con gli strumenti"
+      ]
+    },
+    {
+      "title": "Canti tradizionali per bambini",
+      "description": "Imparare e cantare canzoni tradizionali per bambini, arricchendo il repertorio musicale.",
+      "competencies": [
+        "Ascolto musicale",
+        "Memoria"
+      ],
+      "objectives": [
+        "Memorizzare le parole e le melodie delle canzoni tradizionali",
+        "Partecipare attivamente al canto di gruppo"
+      ]
+    },
+    {
+      "title": "Esplorazione dei suoni della natura",
+      "description": "Ascoltare e identificare i suoni della natura come il canto degli uccelli, il fruscio delle foglie, il rumore della pioggia.",
+      "competencies": [
+        "Ascolto attivo",
+        "Riconoscimento dei suoni"
+      ],
+      "objectives": [
+        "Riconoscere e associare i suoni della natura alle fonti sonore corrispondenti",
+        "Sviluppare l'attenzione uditiva"
+      ]
+    },
+    {
+      "title": "Colorare emozioni",
+      "description": "Associare emozioni e stati d'animo a colori specifici, creando illustrazioni che rappresentano le diverse emozioni.",
+      "competencies": [
+        "Intelligenza emotiva",
+        "Associazioni concettuali"
+      ],
+      "objectives": [
+        "Esprimere le proprie emozioni attraverso il colore",
+        "Creare una tavola emotiva con diverse sfumature"
+      ]
+    },
+    {
+      "title": "Suoni degli animali",
+      "description": "Apprendere e riprodurre i suoni caratteristici di vari animali domestici e selvatici.",
+      "competencies": [
+        "Identificazione degli animali",
+        "Memoria uditiva"
+      ],
+      "objectives": [
+        "Associare correttamente il suono agli animali corrispondenti",
+        "Sviluppare la capacità di imitazione sonora"
+      ]
+    },
+    {
+      "title": "Simmetrie colorate",
+      "description": "Creare disegni simmetrici utilizzando colori diversi su ogni lato.",
+      "competencies": [
+        "Percezione visiva",
+        "Simmetria"
+      ],
+      "objectives": [
+        "Sperimentare la simmetria attraverso i colori",
+        "Rafforzare la coordinazione mano-occhio"
+      ]
+    },
+    {
+      "title": "Creazione di collage sonori",
+      "description": "Comporre collage musicali utilizzando suoni ambientali, strumenti musicali e voci.",
+      "competencies": [
+        "Creatività sonora",
+        "Composizione"
+      ],
+      "objectives": [
+        "Sperimentare l'assemblaggio di suoni diversi per creare un collage",
+        "Esplorare le possibilità espressive della combinazione di suoni"
+      ]
+    },
+    {
+      "title": "Botanica artistica",
+      "description": "Osservare dettagli di foglie, fiori e piante per ricrearli attraverso disegni dettagliati e colorati.",
+      "competencies": [
+        "Osservazione",
+        "Abilità manuali"
+      ],
+      "objectives": [
+        "Rappresentare accuratamente dettagli botanici attraverso il disegno",
+        "Utilizzare varie tecniche di colorazione per enfatizzare le caratteristiche delle piante"
+      ]
+    }
+  ]
+}

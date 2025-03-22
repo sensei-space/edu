@@ -1,0 +1,247 @@
+{
+  "school": "secondary",
+  "subject": "french",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Saluti e presentazioni",
+      "description": "Apprendimento delle formule di saluto e presentazione di sé e degli altri in lingua francese.",
+      "competencies": [
+        "Comunicazione orale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di salutare e presentarsi in francese",
+        "Comprendere formule di base per le presentazioni"
+      ]
+    },
+    {
+      "title": "Nomi e cognomi",
+      "description": "Studio dei nomi e cognomi in francese, apprendimento a riconoscerli e utilizzarli correttamente.",
+      "competencies": [
+        "Vocabolario",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Riconoscere e utilizzare correttamente i nomi e cognomi francesi",
+        "Saper scrivere e leggere nomi e cognomi comuni"
+      ]
+    },
+    {
+      "title": "Numeri e cibo",
+      "description": "Imparare i numeri in francese e ampliare il vocabolario legato al cibo e alle bevande.",
+      "competencies": [
+        "Vocabolario numerico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Contare fino a 100 in francese",
+        "Conoscere il vocabolario relativo al cibo e alle bevande"
+      ]
+    },
+    {
+      "title": "Colori e descrizioni fisiche",
+      "description": "Studio dei colori e apprendimento di vocaboli per descrivere aspetti fisici delle persone.",
+      "competencies": [
+        "Vocabolario",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere colori in francese",
+        "Saper utilizzare aggettivi per le descrizioni fisiche"
+      ]
+    },
+    {
+      "title": "Giorni della settimana e attività",
+      "description": "Apprendimento dei giorni della settimana e vocaboli per descrivere le attività quotidiane.",
+      "competencies": [
+        "Vocabolario temporale",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare i giorni della settimana in francese",
+        "Descrivere le proprie attività quotidiane"
+      ]
+    },
+    {
+      "title": "Famiglia e relazioni",
+      "description": "Studio dei termini per la famiglia e dei rapporti parentali, introduzione al concetto di famiglia in lingua francese.",
+      "competencies": [
+        "Vocabolario familiare",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di nominare i membri della famiglia in francese",
+        "Descrivere i rapporti familiari"
+      ]
+    },
+    {
+      "title": "Abbigliamento e accessori",
+      "description": "Apprendimento del vocabolario relativo all'abbigliamento e agli accessori personali.",
+      "competencies": [
+        "Vocabolario",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare i termini per l'abbigliamento e gli accessori",
+        "Descrivere la propria vestitiura"
+      ]
+    },
+    {
+      "title": "Casa e stanze",
+      "description": "Studio dei vocaboli per la casa e le diverse stanze, apprendimento delle principali parole collegate all'ambiente domestico.",
+      "competencies": [
+        "Vocabolario",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di nominare le stanze della casa in francese",
+        "Descrivere l'ambiente domestico"
+      ]
+    },
+    {
+      "title": "Mezzi di trasporto",
+      "description": "Apprendimento dei mezzi di trasporto e dei vocaboli associati, per poter descrivere i propri spostamenti in francese.",
+      "competencies": [
+        "Vocabolario",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Conoscere i principali mezzi di trasporto in francese",
+        "Descrivere un viaggio o uno spostamento"
+      ]
+    },
+    {
+      "title": "Tempo atmosferico e stagioni",
+      "description": "Studio del vocabolario relativo al tempo atmosferico e alle diverse stagioni dell'anno.",
+      "competencies": [
+        "Vocabolario climatico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Essere in grado di descrivere il tempo atmosferico in francese",
+        "Conoscere le stagioni e i mesi dell'anno"
+      ]
+    },
+    {
+      "title": "Scuola e materie",
+      "description": "Apprendimento dei termini utilizzati per descrivere la scuola e le varie materie di studio.",
+      "competencies": [
+        "Vocabolario scolastico",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare i vocaboli legati alla scuola in francese",
+        "Descrivere le materie di studio"
+      ]
+    },
+    {
+      "title": "Sport e attività fisica",
+      "description": "Studio dei vocaboli relativi allo sport e alle attività fisiche, per poter discutere di interessi e pratiche sportive.",
+      "competencies": [
+        "Vocabolario sportivo",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di nominare sport e attività fisica in francese",
+        "Descrivere interessi sportivi"
+      ]
+    },
+    {
+      "title": "Animali domestici e selvatici",
+      "description": "Apprendimento del vocabolario relativo agli animali, sia domestici che selvatici.",
+      "competencies": [
+        "Vocabolario animale",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Conoscere i nomi degli animali in francese",
+        "Descrivere animali domestici e selvatici"
+      ]
+    },
+    {
+      "title": "Celebrazioni e festività",
+      "description": "Studio dei vocaboli legati alle celebrazioni e alle festività, per comprendere le tradizioni culturali francesi.",
+      "competencies": [
+        "Vocabolario festivo",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare i termini legati alle celebrazioni in francese",
+        "Descrivere festività francesi"
+      ]
+    },
+    {
+      "title": "Città e monumenti",
+      "description": "Apprendimento del vocabolario per descrivere una città e i principali monumenti, per poter fare passeggiate virtuali linguistico-culturali.",
+      "competencies": [
+        "Vocabolario urbano",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Descrivere una città e i suoi monumenti in francese",
+        "Conoscere i nomi dei principali monumenti francesi"
+      ]
+    },
+    {
+      "title": "Hobby e tempo libero",
+      "description": "Studio dei vocaboli relativi agli hobby e alle attività di tempo libero, per discutere di passioni e interessi personali.",
+      "competencies": [
+        "Vocabolario hobby",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Essere in grado di elencare hobby e attività di svago in francese",
+        "Descrivere i propri interessi personali"
+      ]
+    },
+    {
+      "title": "Professioni e mestieri",
+      "description": "Apprendimento dei termini per descrivere professioni e mestieri, per poter discutere delle varie carriere professionali.",
+      "competencies": [
+        "Vocabolario professionale",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare vocaboli legati alle professioni in francese",
+        "Descrivere il lavoro di varie figure professionali"
+      ]
+    },
+    {
+      "title": "Emozioni e sentimenti",
+      "description": "Studio dei vocaboli per esprimere emozioni e sentimenti, per poter comunicare le proprie sensazioni in lingua francese.",
+      "competencies": [
+        "Vocabolario emotivo",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Esprimere emozioni e sentimenti in francese",
+        "Comprendere e rispondere a stati d'animo diversi"
+      ]
+    },
+    {
+      "title": "Viaggi e vacanze",
+      "description": "Apprendimento del vocabolario per organizzare viaggi e vacanze, per poter pianificare e descrivere esperienze di viaggio.",
+      "competencies": [
+        "Vocabolario viaggi",
+        "Comprensione orale"
+      ],
+      "objectives": [
+        "Pianificare un viaggio utilizzando vocaboli in francese",
+        "Descrivere un'esperienza vacanziera"
+      ]
+    },
+    {
+      "title": "Media e tecnologia",
+      "description": "Studio dei termini legati ai media e alla tecnologia, per poter discutere dell'uso di dispositivi e strumenti digitali.",
+      "competencies": [
+        "Vocabolario tecnologico",
+        "Comprensione scritta"
+      ],
+      "objectives": [
+        "Conoscere e utilizzare termini tecnologici in francese",
+        "Descrivere l'utilizzo di media e tecnologia"
+      ]
+    }
+  ]
+}

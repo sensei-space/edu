@@ -1,0 +1,175 @@
+{
+  "school": "secondary",
+  "subject": "spanish",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Il presente indicativo dei verbi regolari",
+      "description": "Studio e pratica della coniugazione al presente dei verbi regolari in spagnolo.",
+      "competencies": [
+        "Capacità di coniugare verbi al presente",
+        "Comprendere e utilizzare correttamente il presente indicativo"
+      ],
+      "objectives": [
+        "Coniugare correttamente verbi regolari al presente",
+        "Utilizzare i verbi al presente per descrivere azioni abituali"
+      ]
+    },
+    {
+      "title": "Il verbo 'gustar' e i pronomi complemento",
+      "description": "Apprendimento dell'uso del verbo 'gustar' e dei pronomi complemento per esprimere piacere e dispiacere.",
+      "competencies": [
+        "Comprendere l'uso dei pronomi complemento",
+        "Esprimere gusti e preferenze in spagnolo"
+      ],
+      "objectives": [
+        "Utilizzare correttamente il verbo 'gustar' con i pronomi complemento",
+        "Esprimere piacere e dispiacere riguardo a varie attività"
+      ]
+    },
+    {
+      "title": "Descrivere persone e oggetti",
+      "description": "Imparare l'aggettivo e il pronome possessivo per descrivere persone e oggetti in spagnolo.",
+      "competencies": [
+        "Descrivere fisicamente e con aggettivi le persone",
+        "Utilizzare correttamente i pronomi possessivi"
+      ],
+      "objectives": [
+        "Descrivere fisicamente sé stessi e altre persone",
+        "Indicare la proprietà di oggetti tramite i pronomi possessivi"
+      ]
+    },
+    {
+      "title": "Esprimere preferenze e necessità",
+      "description": "Apprendimento delle espressioni per esprimere preferenze e necessità nel contesto quotidiano.",
+      "competencies": [
+        "Esprimere preferenze e necessità in spagnolo",
+        "Utilizzare il vocabolario pertinente per comunicare efficacemente"
+      ],
+      "objectives": [
+        "Esprimere le proprie preferenze su cibi, attività, ecc.",
+        "Esprimere le proprie necessità e richieste in spagnolo"
+      ]
+    },
+    {
+      "title": "Il passato prossimo dei verbi regolari",
+      "description": "Studio e pratica della formazione del passato prossimo con i verbi regolari in spagnolo.",
+      "competencies": [
+        "Comprendere e utilizzare il passato prossimo",
+        "Coniugare correttamente i verbi regolari al passato prossimo"
+      ],
+      "objectives": [
+        "Utilizzare correttamente il passato prossimo in conversazioni semplici",
+        "Coniugare diversi verbi regolari al passato prossimo"
+      ]
+    },
+    {
+      "title": "Le attività del tempo libero",
+      "description": "Apprendimento del vocabolario relativo alle attività del tempo libero e relativa costruzione di frasi.",
+      "competencies": [
+        "Arricchire il proprio vocabolario in spagnolo",
+        "Descrivere le proprie attività del tempo libero"
+      ],
+      "objectives": [
+        "Esprimere cosa si fa nel tempo libero utilizzando il vocabolario appreso",
+        "Descrivere le proprie abitudini e preferenze riguardo alle attività ricreative"
+      ]
+    },
+    {
+      "title": "La routine giornaliera",
+      "description": "Studio della routine quotidiana usando verbi riflessivi in spagnolo.",
+      "competencies": [
+        "Descrivere la propria routine quotidiana",
+        "Utilizzare correttamente i verbi riflessivi"
+      ],
+      "objectives": [
+        "Descrivere la propria giornata utilizzando la forma riflessiva",
+        "Coniugare al presente verbi riflessivi per parlare della routine"
+      ]
+    },
+    {
+      "title": "Gli abiti e la moda",
+      "description": "Apprendimento del vocabolario riguardante gli abiti e la moda per descrivere stili e preferenze personali.",
+      "competencies": [
+        "Descrivere l'abbigliamento e gli accessori in spagnolo",
+        "Esprimere preferenze e opinioni sulle tendenze di moda"
+      ],
+      "objectives": [
+        "Descrivere cosa si indossa in varie situazioni",
+        "Esprimere opinioni sulle tendenze di moda"
+      ]
+    },
+    {
+      "title": "I viaggi e i mezzi di trasporto",
+      "description": "Studio del vocabolario relativo ai viaggi e ai mezzi di trasporto per narrare esperienze di viaggio.",
+      "competencies": [
+        "Descrivere viaggi e trasporti in spagnolo",
+        "Esprimere esperienze e impressioni riguardo ai viaggi"
+      ],
+      "objectives": [
+        "Descrivere un viaggio utilizzando il vocabolario specifico",
+        "Esprimere impressioni sul viaggio e sui mezzi di trasporto utilizzati"
+      ]
+    },
+    {
+      "title": "L'ambiente e la natura",
+      "description": "Apprendimento del lessico relativo all'ambiente e alla natura per discutere tematiche ambientali.",
+      "competencies": [
+        "Descrivere l'ambiente e la natura in spagnolo",
+        "Discutere tematiche legate all'ambiente"
+      ],
+      "objectives": [
+        "Esprimere opinioni e preoccupazioni riguardo all'ambiente",
+        "Utilizzare il vocabolario appropriato per discutere di questioni ambientali"
+      ]
+    },
+    {
+      "title": "La tecnologia e i social media",
+      "description": "Studio del vocabolario riguardante la tecnologia e l'utilizzo dei social media nella società contemporanea.",
+      "competencies": [
+        "Descrivere la tecnologia e l'utilizzo dei social media in spagnolo",
+        "Comprendere l'impatto dei social media sulla società"
+      ],
+      "objectives": [
+        "Esprimere opinioni sull'utilizzo della tecnologia e dei social media",
+        "Raccontare esperienze personali legate all'uso della tecnologia"
+      ]
+    },
+    {
+      "title": "La cultura spagnola e latinoamericana",
+      "description": "Approfondimento delle tradizioni, della musica, della letteratura e delle feste tipiche dei paesi di lingua spagnola.",
+      "competencies": [
+        "Conoscere e apprezzare la cultura spagnola e latinoamericana",
+        "Comprendere le tradizioni e l'arte dei paesi di lingua spagnola"
+      ],
+      "objectives": [
+        "Raccontare e discutere delle tradizioni e delle feste tipiche dei paesi di lingua spagnola",
+        "Apprezzare la ricchezza culturale e artistica spagnola e latinoamericana"
+      ]
+    },
+    {
+      "title": "La gastronomia spagnola e latinoamericana",
+      "description": "Studio della cucina tipica spagnola e latinoamericana, imparando il vocabolario relativo agli alimenti e alle ricette tradizionali.",
+      "competencies": [
+        "Descrivere piatti e ricette tipiche in spagnolo",
+        "Conoscere l'enogastronomia spagnola e latinoamericana"
+      ],
+      "objectives": [
+        "Descrivere piatti tipici e ricette tradizionali dei paesi di lingua spagnola",
+        "Confrontare e apprezzare le diverse tradizioni culinarie spagnole e latinoamericane"
+      ]
+    },
+    {
+      "title": "Progetto finale: presentazione orale",
+      "description": "Realizzazione di una presentazione orale su un argomento a scelta, mettendo in pratica le competenze linguistiche acquisite durante l'anno.",
+      "competencies": [
+        "Esprimersi oralmente in spagnolo in modo chiaro e articolato",
+        "Utilizzare diverse strutture linguistiche in contesti spontanei"
+      ],
+      "objectives": [
+        "Preparare e svolgere una presentazione orale di 5-10 minuti su un argomento specifico",
+        "Rispondere a domande e interagire con i compagni in spagnolo durante la presentazione"
+      ]
+    }
+  ]
+}

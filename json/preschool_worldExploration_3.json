@@ -1,0 +1,79 @@
+{
+  "school": "preschool",
+  "subject": "worldExploration",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Le stagioni",
+      "description": "Approfondimento sul concetto delle quattro stagioni e le caratteristiche climatiche di ognuna.",
+      "competencies": [
+        "Riconoscimento delle stagioni",
+        "Descrizione delle caratteristiche climatiche"
+      ],
+      "objectives": [
+        "Identificare le diverse stagioni",
+        "Associare le caratteristiche climatiche alle stagioni"
+      ]
+    },
+    {
+      "title": "I continenti",
+      "description": "Studio dei continenti del mondo e delle principali caratteristiche geografiche di ciascuno.",
+      "competencies": [
+        "Conoscenza dei continenti",
+        "Riconoscimento delle principali caratteristiche geografiche"
+      ],
+      "objectives": [
+        "Identificare i diversi continenti",
+        "Descrivere le principali caratteristiche geografiche di ciascun continente"
+      ]
+    },
+    {
+      "title": "L'ambiente marino",
+      "description": "Esplorazione dell'ambiente marino, studiando gli animali marini e le caratteristiche del mare.",
+      "competencies": [
+        "Conoscenza degli animali marini",
+        "Descrizione delle caratteristiche del mare"
+      ],
+      "objectives": [
+        "Identificare diversi animali marini",
+        "Descrivere le principali caratteristiche dell'ambiente marino"
+      ]
+    },
+    {
+      "title": "I mezzi di trasporto",
+      "description": "Approfondimento sui vari mezzi di trasporto terrestri, marittimi e aerei.",
+      "competencies": [
+        "Riconoscimento dei mezzi di trasporto",
+        "Descrizione delle caratteristiche e utilizzi"
+      ],
+      "objectives": [
+        "Identificare diversi mezzi di trasporto",
+        "Descrivere le caratteristiche e gli utilizzi dei mezzi terrestri, marittimi e aerei"
+      ]
+    },
+    {
+      "title": "La diversità culturale",
+      "description": "Studio delle diverse culture nel mondo, delle tradizioni e delle abitudini dei popoli di diversi paesi.",
+      "competencies": [
+        "Conoscenza delle diversità culturali",
+        "Rispetto delle differenze"
+      ],
+      "objectives": [
+        "Riconoscere e apprezzare la diversità culturale",
+        "Descrivere alcune tradizioni e abitudini di popoli di diversi paesi"
+      ]
+    },
+    {
+      "title": "La mappa geografica",
+      "description": "Introduzione alla lettura di mappe geografiche di base, con focus sul territorio nazionale e continentale.",
+      "competencies": [
+        "Lettura di mappe di base",
+        "Conoscenza della geografia nazionale e continentale"
+      ],
+      "objectives": [
+        "Interpretare informazioni base su una mappa geografica",
+        "Riconoscere il territorio nazionale e alcuni continenti su una mappa"
+      ]
+    }
+  ]
+}

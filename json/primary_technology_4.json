@@ -1,0 +1,79 @@
+{
+  "school": "primary",
+  "subject": "technology",
+  "class": "4",
+  "topics": [
+    {
+      "title": "Introduzione al computer e ai dispositivi tecnologici",
+      "description": "Approfondimento sui componenti principali di un computer e sui vari dispositivi tecnologici presenti nella vita quotidiana.",
+      "competencies": [
+        "Conoscenza dei componenti hardware di base",
+        "Identificazione dei dispositivi tecnologici"
+      ],
+      "objectives": [
+        "Riconoscere i principali componenti di un computer",
+        "Identificare diversi dispositivi tecnologici e le loro funzioni"
+      ]
+    },
+    {
+      "title": "Sistemi operativi e software",
+      "description": "Studio dei sistemi operativi e dei software più comuni, con focus sul loro utilizzo e differenza.",
+      "competencies": [
+        "Utilizzo dei sistemi operativi",
+        "Conoscenza dei software utilizzati nella scuola"
+      ],
+      "objectives": [
+        "Comprendere le funzioni di base di un sistema operativo",
+        "Saper distinguere tra varie tipologie di software"
+      ]
+    },
+    {
+      "title": "Internet e navigazione sicura",
+      "description": "Approfondimento sul funzionamento di Internet, sulla navigazione sicura e sulle regole di comportamento online.",
+      "competencies": [
+        "Navigazione sicura in rete",
+        "Rispetto delle norme di comportamento online"
+      ],
+      "objectives": [
+        "Capire il concetto di Internet e la sua utilità",
+        "Applicare regole di sicurezza durante la navigazione online"
+      ]
+    },
+    {
+      "title": "Creazione di presentazioni digitali",
+      "description": "Studio delle basi per la realizzazione di presentazioni digitali efficaci, con focus sull'organizzazione dei contenuti e l'uso delle immagini.",
+      "competencies": [
+        "Capacità di organizzare contenuti",
+        "Utilizzo di immagini e testo in presentazioni"
+      ],
+      "objectives": [
+        "Saper strutturare un discorso in una presentazione digitale",
+        "Inserire immagini e testi in modo coerente e efficace"
+      ]
+    },
+    {
+      "title": "Codifica e programmazione",
+      "description": "Introduzione ai concetti di codifica e programmazione, con esercizi pratici per comprendere la logica di base.",
+      "competencies": [
+        "Comprensione della logica di programmazione",
+        "Utilizzo di comandi per creare semplici programmi"
+      ],
+      "objectives": [
+        "Sviluppare la capacità di pensiero logico",
+        "Scrivere semplici programmi utilizzando comandi di base"
+      ]
+    },
+    {
+      "title": "Elementi di sicurezza informatica",
+      "description": "Approfondimento sulle principali minacce informatiche e sulle misure di protezione online, con focus sull'importanza della sicurezza dei dati.",
+      "competencies": [
+        "Conoscenza delle minacce informatiche",
+        "Adozione di comportamenti sicuri online"
+      ],
+      "objectives": [
+        "Riconoscere le potenziali minacce online",
+        "Adottare comportamenti sicuri per proteggere i dati personali"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "school": "secondary",
+  "subject": "italian",
+  "class": "3",
+  "topics": [
+    {
+      "title": "Analisi grammaticale e logica",
+      "description": "Approfondimento delle regole dell'analisi grammaticale e logica applicate a frasi complesse.",
+      "competencies": [
+        "Comprensione linguistica",
+        "Riflessione sulla lingua"
+      ],
+      "objectives": [
+        "Riconoscere le parti del discorso",
+        "Analizzare correttamente la struttura delle frasi",
+        "Sviluppare il pensiero logico"
+      ]
+    },
+    {
+      "title": "Leggere e comprendere testi narrativi",
+      "description": "Analisi e comprensione di testi narrativi di autori italiani e stranieri, con focus sull'interpretazione dei personaggi e dei temi.",
+      "competencies": [
+        "Comprensione testuale",
+        "Analisi critica"
+      ],
+      "objectives": [
+        "Identificare personaggi principali e secondari",
+        "Individuare il tema principale del testo",
+        "Relazionare il testo con il contesto storico-culturale"
+      ]
+    },
+    {
+      "title": "Scrittura creativa",
+      "description": "Sviluppo della creatività attraverso la scrittura di narrazioni, descrizioni e dialoghi, arricchendo il lessico e la capacità espressiva.",
+      "competencies": [
+        "Espressione scritta",
+        "Creatività linguistica"
+      ],
+      "objectives": [
+        "Sperimentare stili narrativi diversi",
+        "Arricchire il vocabolario specifico",
+        "Utilizzare in modo appropriato espressioni idiomatiche"
+      ]
+    },
+    {
+      "title": "Tempi verbali passati e congiuntivo",
+      "description": "Approfondimento dei tempi verbali passati e del congiuntivo, applicati a contesti narrativi e descrittivi.",
+      "competencies": [
+        "Corretta esposizione verbale",
+        "Conoscenza grammaticale"
+      ],
+      "objectives": [
+        "Utilizzare correttamente i tempi verbali passati",
+        "Coniugare i verbi al congiuntivo in modo appropriato",
+        "Esprimere ipotesi e desideri con il congiuntivo"
+      ]
+    },
+    {
+      "title": "Analisi del testo poetico",
+      "description": "Studio e analisi di poesie di vari autori per comprendere la struttura e gli elementi poetici, come la metrica e le figure retoriche.",
+      "competencies": [
+        "Interpretazione poetica",
+        "Capacità critica"
+      ],
+      "objectives": [
+        "Riconoscere le figure retoriche presenti",
+        "Comprendere il significato di metafore e similitudini",
+        "Analizzare la metrica e la musicalità dei versi"
+      ]
+    },
+    {
+      "title": "Testi teatrali e figure retoriche",
+      "description": "Lettura e analisi di testi teatrali per comprendere la struttura dell'opera teatrale e individuare le figure retoriche utilizzate.",
+      "competencies": [
+        "Comprensione drammaturgica",
+        "Analisi stilistica"
+      ],
+      "objectives": [
+        "Identificare le parti della commedia",
+        "Comprendere il significato delle battute degli attori",
+        "Riconoscere il monologo e il dialogo nelle opere teatrali"
+      ]
+    },
+    {
+      "title": "Analisi di articoli e giornali",
+      "description": "Esame critico di articoli giornalistici per comprendere le caratteristiche del linguaggio giornalistico e la struttura dell'articolo.",
+      "competencies": [
+        "Lettura critica",
+        "Capacità interpretativa"
+      ],
+      "objectives": [
+        "Identificare le informazioni principali dell'articolo",
+        "Comprendere il ruolo del titolo e del sottotitolo",
+        "Valutare la veridicità delle fonti citate"
+      ]
+    },
+    {
+      "title": "Composizione argomentativa",
+      "description": "Scrivere testi argomentativi su temi di attualità, esprimendo opinioni supportate da argomentazioni convincenti.",
+      "competencies": [
+        "Capacità argomentativa",
+        "Esposizione coerente"
+      ],
+      "objectives": [
+        "Identificare tesi e argomenti principali",
+        "Utilizzare connettivi logici per la coerenza del testo",
+        "Confrontare punti di vista diversi sullo stesso argomento"
+      ]
+    },
+    {
+      "title": "Il romanzo contemporaneo",
+      "description": "Studio di opere narrative moderne per comprendere le tematiche e lo stile dei romanzi contemporanei.",
+      "competencies": [
+        "Analisi letteraria",
+        "Interpretazione testuale"
+      ],
+      "objectives": [
+        "Riconoscere le caratteristiche del romanzo contemporaneo",
+        "Identificare le tecniche narrative utilizzate dagli autori moderni",
+        "Comprendere criticamente le critiche letterarie sul romanzo contemporaneo"
+      ]
+    },
+    {
+      "title": "Poeti contemporanei",
+      "description": "Analisi e studio delle opere di poeti contemporanei italiani, focalizzandosi sulle tematiche e l'innovazione stilistica.",
+      "competencies": [
+        "Apprezzamento poetico",
+        "Letture critiche"
+      ],
+      "objectives": [
+        "Riconoscere le tematiche contemporanee trattate dai poeti italiani",
+        "Apprezzare le innovazioni stilistiche",
+        "Esprimere critiche letterarie personali sulle opere poetiche contemporanee"
+      ]
+    },
+    {
+      "title": "Testi drammatici contemporanei",
+      "description": "Analisi di testi teatrali contemporanei per comprendere le nuove tendenze della drammaturgia e la rappresentazione della società attuale.",
+      "competencies": [
+        "Comprensione drammatica",
+        "Analisi critica"
+      ],
+      "objectives": [
+        "Identificare le tematiche sociali trattate nei testi teatrali contemporanei",
+        "Apprezzare l'uso innovativo dello spazio scenico",
+        "Esprimere opinioni critiche sulle opere teatrali contemporanee"
+      ]
+    },
+    {
+      "title": "Il cinema italiano contemporaneo",
+      "description": "Studio delle produzioni cinematografiche italiane recenti per analizzare la rappresentazione della società e delle tematiche attuali.",
+      "competencies": [
+        "Interpretazione filmica",
+        "Conoscenza culturale"
+      ],
+      "objectives": [
+        "Riconoscere gli elementi distintivi del cinema italiano contemporaneo",
+        "Analizzare il messaggio sociale dei film italiani recenti",
+        "Confrontare il cinema italiano contemporaneo con le tradizioni cinematografiche precedenti"
+      ]
+    },
+    {
+      "title": "Linguaggio giornalistico multimediale",
+      "description": "Esplorazione del linguaggio giornalistico utilizzato nei media digitali, focalizzandosi sulle differenze rispetto al giornalismo tradizionale.",
+      "competencies": [
+        "Comprensione mediale",
+        "Lettura critica"
+      ],
+      "objectives": [
+        "Comprendere il ruolo dei social media nel giornalismo contemporaneo",
+        "Valutare l'impatto della comunicazione digitale sul linguaggio giornalistico",
+        "Analizzare la diffusione delle fake news e dei contenuti manipolatori online"
+      ]
+    },
+    {
+      "title": "Scrittura multimediale",
+      "description": "Produzione di testi multimediali, come blog, video e podcast, per esplorare modalità innovative di espressione e comunicazione.",
+      "competencies": [
+        "Creatività digitale",
+        "Capacità comunicativa"
+      ],
+      "objectives": [
+        "Utilizzare strumenti digitali per la creazione di contenuti multimediali",
+        "Sviluppare una voce autentica e originale nella scrittura multimediale",
+        "Comunicare in modo efficace attraverso diversi formati digitali"
+      ]
+    },
+    {
+      "title": "La lingua italiana nel mondo",
+      "description": "Studio della diffusione e dell'importanza della lingua italiana nel contesto internazionale, con focus sulle sue varietà e sulle istituzioni che la promuovono.",
+      "competencies": [
+        "Consapevolezza linguistica",
+        "Conoscenza culturale"
+      ],
+      "objectives": [
+        "Comprendere l'evoluzione storica della lingua italiana",
+        "Identificare le istituzioni che promuovono la lingua e la cultura italiane nel mondo",
+        "Apprezzare l'importanza della lingua italiana come strumento di comunicazione internazionale"
+      ]
+    },
+    {
+      "title": "Italiano e nuove tecnologie",
+      "description": "Esplorazione delle relazioni tra la lingua italiana e le nuove tecnologie digitali, analizzando l'uso delle tecnologie nell'apprendimento e nella comunicazione linguistica.",
+      "competencies": [
+        "Digital literacy",
+        "Innovazione didattica"
+      ],
+      "objectives": [
+        "Utilizzare strumenti digitali per migliorare le competenze linguistiche",
+        "Valutare l'impatto delle tecnologie digitali sulla lingua e la comunicazione",
+        "Creare contenuti linguistici originali utilizzando le nuove tecnologie"
+      ]
+    },
+    {
+      "title": "Lessico specialistico e terminologia",
+      "description": "Studio del lessico specialistico in diversi campi del sapere umano, approfondendo la terminologia specifica e la sua corretta utilizzazione.",
+      "competencies": [
+        "Conoscenza terminologica",
+        "Specializzazione linguistica"
+      ],
+      "objectives": [
+        "Identificare e utilizzare correttamente il lessico specialistico in ambiti specifici",
+        "Comprendere la necessità di una terminologia precisa nei diversi campi disciplinari",
+        "Sviluppare la propria competenza terminologica in settori di interesse personale"
+      ]
+    },
+    {
+      "title": "Riassunto e sintesi testuale",
+      "description": "Apprendimento delle tecniche di riassunto e sintesi di testi complessi, migliorando la capacità di selezionare le informazioni essenziali.",
+      "competencies": [
+        "Sintesi testuale",
+        "Comprensione critica"
+      ],
+      "objectives": [
+        "Estrarre le informazioni principali da un testo",
+        "Sintetizzare in modo chiaro e conciso le idee principali",
+        "Sviluppare la capacità di selezionare le informazioni rilevanti"
+      ]
+    },
+    {
+      "title": "Redazione di lettere e e-mail formali",
+      "description": "Studio delle convenzioni e delle regole per la redazione di lettere e-mail formali, sviluppando la capacità di comunicare in contesti professionali.",
+      "competencies": [
+        "Scrittura formale",
+        "Comunicazione professionale"
+      ],
+      "objectives": [
+        "Utilizzare correttamente formule di saluto e conclusione nelle lettere formali",
+        "Rispettare le convenzioni di stile nella redazione di e-mail professionali",
+        "Presentare in modo chiaro e persuasivo le proprie idee"
+      ]
+    },
+    {
+      "title": "Progetto di lettura autonoma",
+      "description": "Realizzazione di un progetto di lettura individuale su un libro selezionato dallo studente, con relativa presentazione e condivisione con la classe.",
+      "competencies": [
+        "Lettura autonoma",
+        "Presentazione orale"
+      ],
+      "objectives": [
+        "Scegliere un libro in base ai propri interessi e alle proprie capacità di lettura",
+        "Completare la lettura del libro seguendo una pianificazione temporale",
+        "Presentare in modo coinvolgente e dettagliato il contenuto del libro davanti ai compagni"
+      ]
+    }
+  ]
+}

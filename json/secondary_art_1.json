@@ -1,0 +1,127 @@
+{
+  "school": "secondary",
+  "subject": "art",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Colori primari e secondari",
+      "description": "Studio dei colori primari (rosso, blu, giallo) e dei colori secondari ottenuti dalla loro miscelazione.",
+      "competencies": [
+        "Riconoscere i colori primari e secondari",
+        "Saper mescolare i colori per ottenere quelli desiderati"
+      ],
+      "objectives": [
+        "Identificare i colori primari e secondari",
+        "Saper miscelare i colori per creare nuove tonalità"
+      ]
+    },
+    {
+      "title": "Composizione di un disegno",
+      "description": "Studio degli elementi di base della composizione visiva: punto, linea, forma, spazio, colore.",
+      "competencies": [
+        "Comporre un disegno bilanciato",
+        "Saper utilizzare gli elementi base della composizione"
+      ],
+      "objectives": [
+        "Riconoscere e utilizzare punti, linee, forme e colori in una composizione",
+        "Creare un disegno equilibrato"
+      ]
+    },
+    {
+      "title": "Rappresentazione di un oggetto tridimensionale",
+      "description": "Apprendimento delle tecniche per rappresentare un oggetto tridimensionale su un supporto bidimensionale.",
+      "competencies": [
+        "Saper applicare la prospettiva in un disegno",
+        "Rappresentare oggetti con profondità"
+      ],
+      "objectives": [
+        "Utilizzare la prospettiva per creare profondità nell'immagine",
+        "Rappresentare un oggetto tridimensionale su carta"
+      ]
+    },
+    {
+      "title": "Studio della texture",
+      "description": "Esplorazione delle caratteristiche e delle tecniche per rappresentare le varie texture tramite disegno.",
+      "competencies": [
+        "Riconoscere e rappresentare diversi tipi di texture",
+        "Saper utilizzare varie tecniche per ottenere texture"
+      ],
+      "objectives": [
+        "Identificare diverse texture nell'ambiente",
+        "Rappresentare le texture tramite disegno utilizzando tecniche adeguate"
+      ]
+    },
+    {
+      "title": "Studio dell'ombreggiatura",
+      "description": "Approfondimento delle tecniche di ombreggiatura per creare volume e profondità nelle rappresentazioni artistiche.",
+      "competencies": [
+        "Saper utilizzare ombre e luci per creare volume",
+        "Rendere realistici gli oggetti tramite ombreggiatura"
+      ],
+      "objectives": [
+        "Creare effetti tridimensionali tramite ombre e luci",
+        "Utilizzare l'ombreggiatura per enfatizzare la forma degli oggetti"
+      ]
+    },
+    {
+      "title": "Colori caldi e freddi",
+      "description": "Identificazione dei colori caldi (rossi, arancioni, gialli) e freddi (azzurri, verdi, viola) e dei loro effetti emotivi nelle opere d'arte.",
+      "competencies": [
+        "Saper distinguere tra colori caldi e freddi",
+        "Riconoscere l'effetto emotivo dei colori nelle opere"
+      ],
+      "objectives": [
+        "Classificare i colori in caldi e freddi",
+        "Comprendere l'influenza emotiva dei colori in un'opera d'arte"
+      ]
+    },
+    {
+      "title": "Studio della composizione",
+      "description": "Analisi delle regole di base della composizione artistica, come il punto focale, la simmetria e l'equilibrio visivo.",
+      "competencies": [
+        "Comprendere i principi di composizione visiva",
+        "Creare opere con una composizione bilanciata ed efficace"
+      ],
+      "objectives": [
+        "Riconoscere il punto focale in un'opera d'arte",
+        "Saper bilanciare gli elementi visivi in una composizione"
+      ]
+    },
+    {
+      "title": "Utilizzo dei diversi strumenti artistici",
+      "description": "Familiarizzazione con diversi strumenti artistici come matite, pennelli, pastelli, per sperimentare tecniche pittoriche di base.",
+      "competencies": [
+        "Conoscere e utilizzare correttamente vari strumenti artistici",
+        "Sperimentare diverse tecniche pittoriche"
+      ],
+      "objectives": [
+        "Identificare gli strumenti artistici e le tecniche di base",
+        "Saper utilizzare in modo appropriato matite, pennelli e pastelli"
+      ]
+    },
+    {
+      "title": "Studio dell'arte contemporanea",
+      "description": "Esplorazione delle principali correnti artistiche contemporanee e analisi di opere significative.",
+      "competencies": [
+        "Conoscere le correnti artistiche attuali",
+        "Interpretare criticamente opere d'arte contemporanea"
+      ],
+      "objectives": [
+        "Identificare le correnti artistiche contemporanee",
+        "Analizzare e riflettere su opere d'arte moderne"
+      ]
+    },
+    {
+      "title": "Riflessione sull'arte e la creatività",
+      "description": "Discorsi e dibattiti sulla natura dell'arte, la bellezza, l'ispirazione e il processo creativo.",
+      "competencies": [
+        "Riflettere sull'arte come espressione culturale",
+        "Esprimere pensieri personali sull'arte e la creatività"
+      ],
+      "objectives": [
+        "Sviluppare la capacità di riflessione critica sull'arte",
+        "Esprimere opinioni personali sull'arte e i processi creativi"
+      ]
+    }
+  ]
+}

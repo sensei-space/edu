@@ -1,0 +1,139 @@
+{
+  "school": "secondary",
+  "subject": "music",
+  "class": "1",
+  "topics": [
+    {
+      "title": "Introduzione alla musica",
+      "description": "Breve storia della musica, significato e ruolo della musica nella società.",
+      "competencies": [
+        "Conoscenza della storia della musica",
+        "Comprensione del ruolo della musica nella società"
+      ],
+      "objectives": [
+        "Comprendere le origini della musica",
+        "Riconoscere l'importanza della musica nella cultura"
+      ]
+    },
+    {
+      "title": "Elementi della musica: ritmo",
+      "description": "Definizione e caratteristiche del ritmo, esercizi di battute ritmiche semplici.",
+      "competencies": [
+        "Conoscenza degli elementi della musica",
+        "Sviluppo dell'orecchio musicale"
+      ],
+      "objectives": [
+        "Comprendere il concetto di ritmo",
+        "Eseguire correttamente battute ritmiche base"
+      ]
+    },
+    {
+      "title": "Elementi della musica: melodia",
+      "description": "Definizione e caratteristiche della melodia, esercizi di canto di melodie semplici.",
+      "competencies": [
+        "Riconoscimento delle melodie",
+        "Sviluppo delle capacità vocali"
+      ],
+      "objectives": [
+        "Riconoscere una melodia",
+        "Eseguire correttamente melodie semplici"
+      ]
+    },
+    {
+      "title": "Strumenti musicali",
+      "description": "Conoscenza dei principali strumenti musicali e delle loro famiglie.",
+      "competencies": [
+        "Classificazione degli strumenti musicali",
+        "Scoperta delle caratteristiche sonore degli strumenti"
+      ],
+      "objectives": [
+        "Riconoscere le famiglie degli strumenti musicali",
+        "Identificare i suoni prodotti dai vari strumenti"
+      ]
+    },
+    {
+      "title": "Notazione musicale",
+      "description": "Introduzione alla lettura delle note sulla chiave di sol e di fa, esercizi di scrittura e lettura di note.",
+      "competencies": [
+        "Conoscenza della notazione musicale",
+        "Sviluppo delle abilità di lettura musicale"
+      ],
+      "objectives": [
+        "Comprendere il sistema di notazione musicale",
+        "Essere in grado di leggere e scrivere note musicali sulla chiave di sol e di fa"
+      ]
+    },
+    {
+      "title": "Compositori e stili musicali",
+      "description": "Studio dei principali compositori e stili musicali attraverso brani significativi.",
+      "competencies": [
+        "Conoscenza dei compositori e dei loro stili",
+        "Apprezzamento delle diverse forme musicali"
+      ],
+      "objectives": [
+        "Riconoscere i principali compositori e stili musicali",
+        "Apprezzare la diversità musicale attraverso l'ascolto"
+      ]
+    },
+    {
+      "title": "Canto corale",
+      "description": "Esercitazioni di canto corale per favorire il senso di gruppo e l'armonizzazione vocale.",
+      "competencies": [
+        "Collaborazione con gli altri",
+        "Sviluppo della voce e dell'ascolto attivo"
+      ],
+      "objectives": [
+        "Saper eseguire parti vocali in gruppo",
+        "Migliorare la qualità e l'intonazione della propria voce"
+      ]
+    },
+    {
+      "title": "Ascolto musicale guidato",
+      "description": "Analisi e discussione di brani musicali di diversi generi e epoche.",
+      "competencies": [
+        "Capacità di analisi musicale",
+        "Apprezzamento della musica come forma d'arte"
+      ],
+      "objectives": [
+        "Riconoscere gli elementi caratteristici di un brano musicale",
+        "Esprimere opinioni personali sulla musica ascoltata"
+      ]
+    },
+    {
+      "title": "Musicoterapia",
+      "description": "Studio dei benefici della musica per la salute mentale e fisica, esempi pratici di applicazione della musicoterapia.",
+      "competencies": [
+        "Conoscenza degli effetti della musica sul benessere",
+        "Capacità di utilizzare la musica in contesti terapeutici"
+      ],
+      "objectives": [
+        "Comprendere il potere terapeutico della musica",
+        "Riconoscere situazioni in cui la musicoterapia può essere utile"
+      ]
+    },
+    {
+      "title": "Musica e multimedia",
+      "description": "Creazione di brevi composizioni musicali per supportare progetti multimediali.",
+      "competencies": [
+        "Utilizzo della musica in contesti multimediali",
+        "Creatività nell'espressione musicale"
+      ],
+      "objectives": [
+        "Creare colonne sonore adeguate a progetti multimediali",
+        "Saper combinare musica e immagini per ottenere effetti emozionali"
+      ]
+    },
+    {
+      "title": "Rappresentazioni musicali",
+      "description": "Esecuzione di brani musicali con strumenti semplici o vocalmente, preparazione per piccole esibizioni.",
+      "competencies": [
+        "Capacità di esecuzione musicale",
+        "Gestione dell'emozioni durante l'esibizione"
+      ],
+      "objectives": [
+        "Eseguire brani musicali in gruppo o da solisti",
+        "Superare l'ansia da prestazione attraverso l'esperienza sul palco"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "school": "primary",
+  "subject": "physical",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Riscaldamento e stretching",
+      "description": "Attività per preparare i muscoli al movimento e migliorare la flessibilità.",
+      "competencies": [
+        "Conoscenza del proprio corpo",
+        "Capacità motorie di base"
+      ],
+      "objectives": [
+        "Eseguire correttamente esercizi di riscaldamento",
+        "Migliorare la flessibilità"
+      ]
+    },
+    {
+      "title": "Gioco delle tre palline",
+      "description": "Esercizio divertente per migliorare la coordinazione e la precisione nei movimenti.",
+      "competencies": [
+        "Coordinazione motoria",
+        "Equilibrio"
+      ],
+      "objectives": [
+        "Lanciare e raccogliere le palline con precisione",
+        "Muoversi in modo coordinato durante il gioco"
+      ]
+    },
+    {
+      "title": "Corsa a ostacoli",
+      "description": "Attività per sviluppare la velocità, l'agilità e superare ostacoli in modo sicuro.",
+      "competencies": [
+        "Velocità",
+        "Agilità",
+        "Coordinazione occhio-mano"
+      ],
+      "objectives": [
+        "Superare gli ostacoli con sicurezza",
+        "Migliorare la velocità di reazione"
+      ]
+    },
+    {
+      "title": "Salta la corda",
+      "description": "Esercizio per migliorare la resistenza, il ritmo e la coordinazione.",
+      "competencies": [
+        "Resistenza",
+        "Ritmo",
+        "Coordinazione"
+      ],
+      "objectives": [
+        "Saltare la corda per un tempo più lungo",
+        "Mantenere il ritmo durante l'esercizio"
+      ]
+    },
+    {
+      "title": "Equilibrio sulle linee",
+      "description": "Attività per migliorare l'equilibrio e la concentrazione camminando sulle linee disegnate a terra.",
+      "competencies": [
+        "Equilibrio",
+        "Concentrazione"
+      ],
+      "objectives": [
+        "Camminare sulle linee mantenendo l'equilibrio",
+        "Aumentare la concentrazione nell'eseguire l'esercizio"
+      ]
+    },
+    {
+      "title": "Gioco delle statue musicali",
+      "description": "Esercizio ludico per sviluppare la capacità di arrestare improvvisamente i movimenti al suono della musica.",
+      "competencies": [
+        "Controllo motorio",
+        "Ritmo"
+      ],
+      "objectives": [
+        "Fermarsi istantaneamente al suono della musica",
+        "Muoversi in modo armonico seguendo il ritmo"
+      ]
+    },
+    {
+      "title": "Calcio",
+      "description": "Introduzione al calcio con esercizi di passaggio e tiri mirati.",
+      "competencies": [
+        "Controllo del pallone",
+        "Collaborazione in gruppo"
+      ],
+      "objectives": [
+        "Sapere passare il pallone ad un compagno",
+        "Sviluppare colpi mirati verso la porta"
+      ]
+    },
+    {
+      "title": "Giochi tradizionali in gruppo",
+      "description": "Attività ludiche che favoriscono il lavoro di squadra, la socializzazione e la competizione sana.",
+      "competencies": [
+        "Lavoro di squadra",
+        "Socializzazione"
+      ],
+      "objectives": [
+        "Collaborare con i compagni nei vari giochi",
+        "Rispettare le regole e gli avversari durante le competizioni"
+      ]
+    },
+    {
+      "title": "Gara a staffetta",
+      "description": "Competizione tra squadre che si alternano nella corsa per passare un testimone.",
+      "competencies": [
+        "Collaborazione",
+        "Velocità"
+      ],
+      "objectives": [
+        "Passare il testimone al compagno senza errori",
+        "Sviluppare la velocità nella corsa"
+      ]
+    },
+    {
+      "title": "Nuoto a stile libero",
+      "description": "Apprendimento delle basi dello stile libero in acqua per migliorare la tecnica di nuotata.",
+      "competencies": [
+        "Abilità natatorie",
+        "Respirazione corretta"
+      ],
+      "objectives": [
+        "Muoversi correttamente in acqua nello stile libero",
+        "Migliorare la respirazione durante la nuotata"
+      ]
+    }
+  ]
+}

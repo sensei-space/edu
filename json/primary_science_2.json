@@ -1,0 +1,67 @@
+{
+  "school": "primary",
+  "subject": "science",
+  "class": "2",
+  "topics": [
+    {
+      "title": "Il ciclo dell'acqua",
+      "description": "Studio del ciclo dell'acqua, con particolare attenzione alla evaporazione, condensazione, precipitazione e raccolta dell'acqua.",
+      "competencies": [
+        "Comprendere il ciclo dell'acqua",
+        "Riconoscere le fasi del ciclo"
+      ],
+      "objectives": [
+        "Descrivere le fasi del ciclo dell'acqua",
+        "Capire l'importanza del ciclo per la vita sulla Terra"
+      ]
+    },
+    {
+      "title": "Le proprietà dei materiali",
+      "description": "Esplorazione delle proprietà dei materiali, come la durezza, la flessibilità, il colore e la capacità di galleggiamento.",
+      "competencies": [
+        "Riconoscere le diverse proprietà dei materiali",
+        "Classificare i materiali in base alle loro proprietà"
+      ],
+      "objectives": [
+        "Distinguere tra materiali duri e materiali flessibili",
+        "Confrontare materiali diversi in base alle proprietà"
+      ]
+    },
+    {
+      "title": "Le fonti di luce",
+      "description": "Analisi delle diverse fonti di luce presenti nell'ambiente, come il Sole, le lampade e le candele.",
+      "competencies": [
+        "Identificare le fonti di luce",
+        "Conoscere le fonti di luce naturali e artificiali"
+      ],
+      "objectives": [
+        "Riconoscere la luce del Sole come fonte primaria di luce",
+        "Esplorare l'effetto delle diverse fonti di luce"
+      ]
+    },
+    {
+      "title": "La prevenzione degli inquinamenti ambientali",
+      "description": "Approfondimento sull'importanza della prevenzione degli inquinamenti ambientali, con focus su come ridurre rifiuti e salvaguardare l'ambiente.",
+      "competencies": [
+        "Sviluppare una coscienza ambientale",
+        "Capire l'impatto dei rifiuti sull'ambiente"
+      ],
+      "objectives": [
+        "Identificare comportamenti corretti per ridurre l'inquinamento",
+        "Comprendere il concetto di riciclo e riutilizzo"
+      ]
+    },
+    {
+      "title": "La germinazione dei semi",
+      "description": "Studio del processo di germinazione dei semi, con l'osservazione diretta di come nasce una pianta da un seme.",
+      "competencies": [
+        "Comprendere il processo di germinazione",
+        "Riconoscere le prime fasi di crescita di una pianta"
+      ],
+      "objectives": [
+        "Osservare direttamente il processo di germinazione di un seme",
+        "Descrivere le fasi di crescita di una pianta"
+      ]
+    }
+  ]
+}
