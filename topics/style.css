@@ -223,6 +223,11 @@ b {
   background-color: var(--light-highlight);
 }
 
+#backButton{
+  cursor: pointer;
+  display: none;
+}
+
 .selectors {
   display: flex;
   flex-wrap: wrap;

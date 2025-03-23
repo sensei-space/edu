@@ -4,9 +4,11 @@ const TOPICS_JSON_PATH = "./data/all.json";
 
 let locale = "it";
 let activitiesContainer;
+let backButton;
 let allData = [];
 let incorporatedSite = false;
 let selectedSchool = "";
+let hideTop = false;
 
 const SCHOOL_LABELS = {
   preschool: "Infanzia",
@@ -52,6 +54,7 @@ const CLASS_LABELS = {
 
 window.addEventListener("DOMContentLoaded", () => {
   activitiesContainer = document.getElementById("activitiesList");
+  backButton = document.getElementById("backButton");
   document.getElementById("activitiesTitle").innerText = t("activitiesTitle");
   document.getElementById("activitiesDescription").innerHTML = t("activitiesDescription");
 
@@ -85,9 +88,34 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  activitiesContainer.style.height = `${window.innerHeight - 300}px`;
+  let margin = 300;
+
+  if (hideTop) {
+    margin = 80;
+    try {
+      document.querySelectorAll(".print").forEach((element) => {
+        element.style.display = "none";
+      });
+      document.querySelectorAll(".printParams").forEach((element) => {
+        element.style.display = "none";
+      });
+      document.querySelectorAll(".selectors").forEach((element) => {
+        element.style.display = "none";
+      });
+      document.querySelectorAll(".titleContainer").forEach((element) => {
+        element.style.display = "none";
+      });
+      document.querySelectorAll("#activitiesDescription").forEach((element) => {
+        element.style.display = "none";
+      });
+    } catch (e) {
+      console.log(e);
+    }
+  }
+
+  activitiesContainer.style.height = `${window.innerHeight - margin}px`;
   window.addEventListener("resize", () => {
-    activitiesContainer.style.height = `${window.innerHeight - 300}px`;
+    activitiesContainer.style.height = `${window.innerHeight - margin}px`;
   });
 });
 
@@ -160,7 +188,7 @@ function filterAndDisplay() {
 
     const grid = document.createElement("div");
     grid.style.display = "grid";
-    grid.style.gridTemplateColumns = "repeat(auto-fit, minmax(140px, 1fr))";
+    grid.style.gridTemplateColumns = "repeat(auto-fit, minmax(120px, 1fr))";
     grid.style.gap = "20px";
     grid.style.marginTop = "20px";
 
@@ -186,6 +214,7 @@ function filterAndDisplay() {
 `;
 
       card.addEventListener("click", () => {
+        if (hideTop) backButton.style.display = "block";
         document.getElementById("subjectSelect").value = subject;
         document.getElementById("subjectSelect").dispatchEvent(new Event("change"));
       });
@@ -208,6 +237,13 @@ function filterAndDisplay() {
       topics.forEach((topic) => addTopic(topic, school, subject, classNum));
     });
   }
+}
+
+function goBack() {
+  document.getElementById("subjectSelect").value = "";
+  document.getElementById("classSelect").value = "";
+  filterAndDisplay();
+  backButton.style.display = "none";
 }
 
 function addTopic(topic, school, subject, classNum) {
@@ -249,6 +285,7 @@ function getUrlParams() {
   if (urlParams.has("l")) locale = urlParams.get("l");
   if (urlParams.has("i")) incorporatedSite = true;
   if (urlParams.has("s")) selectedSchool = urlParams.get("s");
+  if (urlParams.has("ht")) hideTop = true;
 }
 
 function printWithParameters(value) {
