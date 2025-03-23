@@ -67,7 +67,7 @@ window.addEventListener("DOMContentLoaded", () => {
       if (selectedSchool) {
         document.getElementById("schoolSelect").value = selectedSchool;
         document.getElementById("schoolSelect").dispatchEvent(new Event("change"));
-        document.getElementById("schoolSelect").style.display = "none";
+        //document.getElementById("schoolSelect").style.display = "none";
       }
     })
     .catch((err) => console.error("Errore nel caricamento dei dati:", err));
@@ -84,6 +84,11 @@ window.addEventListener("DOMContentLoaded", () => {
       console.log(e);
     }
   }
+
+  activitiesContainer.style.height = `${window.innerHeight - 300}px`;
+  window.addEventListener("resize", () => {
+    activitiesContainer.style.height = `${window.innerHeight - 300}px`;
+  });
 });
 
 function populateSelectBoxes(data) {
@@ -100,8 +105,8 @@ function populateSelectBoxes(data) {
   });
 
   schoolSelect.addEventListener("change", () => {
-    subjectSelect.innerHTML = '<option value="">Scegli Materia</option>';
-    classSelect.innerHTML = '<option value="">Tutte le Classi</option>';
+    subjectSelect.innerHTML = '<option value="">Scegli la materia</option>';
+    classSelect.innerHTML = '<option value="">Tutte le classi</option>';
     const selectedSchool = schoolSelect.value;
     if (!selectedSchool) return;
 

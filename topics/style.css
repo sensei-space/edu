@@ -27,6 +27,7 @@ body {
   background-color: var(--light-blue);
   color: var(--white);
   font-family: "Poppins", serif;
+  overflow: hidden;
 }
 
 .container {
@@ -37,6 +38,11 @@ body {
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#activitiesList {
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .titleContainer {
@@ -214,7 +220,7 @@ b {
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-  background-color: var(--blue);
+  background-color: var(--light-highlight);
 }
 
 .selectors {
@@ -315,12 +321,11 @@ b {
   color: var(--gray);
 }
 
-
-h{
+h {
   color: var(--light-highlight) !important;
 }
 
-a{
+a {
   color: var(--light-highlight);
 }
 
@@ -334,7 +339,7 @@ a{
   #logo {
     width: 92%;
   }
-  h1#activitiesTitle{
+  h1#activitiesTitle {
     font-size: 1.75em !important;
     margin-bottom: 5px;
   }
@@ -440,8 +445,7 @@ a{
     page-break-inside: auto;
   }
 
-  
-  h{
+  h {
     color: black !important;
     font-weight: bold;
   }
