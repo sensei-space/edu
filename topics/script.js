@@ -187,6 +187,8 @@ function filterAndDisplay() {
     );
 
     const grid = document.createElement("div");
+    //add class
+    grid.classList.add("grid");
     grid.style.display = "grid";
     grid.style.gridTemplateColumns = "repeat(auto-fit, minmax(120px, 1fr))";
     grid.style.gap = "20px";
