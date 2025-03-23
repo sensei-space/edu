@@ -337,10 +337,10 @@ a {
 /* media query for smartphones */
 @media (max-width: 600px) {
   #logo {
-    width: 92%;
+    width: 80%;
   }
   h1#activitiesTitle {
-    font-size: 1.75em !important;
+    font-size: 1.5em !important;
     margin-bottom: 5px;
   }
   .container {
@@ -360,9 +360,32 @@ a {
     display: none;
   }
 
-  .selectors select {
-    width: 95% !important;
+  #activitiesDescription{
+    margin-bottom: 7px;
   }
+
+  .selectors{
+    padding: 3px;
+  }
+
+  .selectors select {
+    font-size: 12px;
+    height: 35px;
+  }
+
+  
+
+.selectors select#schoolSelect {
+  width: 33% !important; /* 🔒 Fissa larghezza */
+}
+
+.selectors select#classSelect {
+  width: 20% !important; /* 🔒 Fissa larghezza */
+}
+
+.selectors select#subjectSelect {
+  width: 40% !important; /* 🔒 Fissa larghezza */
+}
 }
 
 @media print {

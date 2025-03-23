@@ -107,6 +107,12 @@ function populateSelectBoxes(data) {
   schoolSelect.addEventListener("change", () => {
     subjectSelect.innerHTML = '<option value="">Scegli la materia</option>';
     classSelect.innerHTML = '<option value="">Tutte le classi</option>';
+
+    if (window.innerWidth < 600) {
+      subjectSelect.innerHTML = '<option value="">Materia</option>';
+      classSelect.innerHTML = '<option value="">Classe</option>';
+    }
+
     const selectedSchool = schoolSelect.value;
     if (!selectedSchool) return;
 
