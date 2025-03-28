@@ -9,6 +9,7 @@ let allData = [];
 let incorporatedSite = false;
 let selectedSchool = "";
 let hideTop = false;
+let margin;
 
 const SCHOOL_LABELS = {
   preschool: "Infanzia",
@@ -88,7 +89,7 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  let margin = 300;
+  margin = 300;
 
   if (hideTop) {
     margin = 80;
@@ -113,11 +114,21 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  activitiesContainer.style.height = `${window.innerHeight - margin}px`;
+  resize();
   window.addEventListener("resize", () => {
-    activitiesContainer.style.height = `${window.innerHeight - margin}px`;
+    resize();
   });
 });
+
+function resize() {
+  //scale .container from 1 to max 1.3 based on window width. Only if window width is more than 800px
+  if (window.innerWidth > 800) {
+    let scale = 1 + (window.innerWidth - 800) / 2000;
+    scale = scale > 1.3 ? 1.3 : scale;
+    document.querySelector(".container").style.transform = `scale(${scale})`;
+  }
+  activitiesContainer.style.height = `${window.innerHeight - margin}px`;
+}
 
 function populateSelectBoxes(data) {
   const schoolSelect = document.getElementById("schoolSelect");
