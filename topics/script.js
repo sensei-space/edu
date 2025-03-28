@@ -121,13 +121,30 @@ window.addEventListener("DOMContentLoaded", () => {
 });
 
 function resize() {
-  //scale .container from 1 to max 1.3 based on window width. Only if window width is more than 800px
+  const baseWidth = 800;
+  const baseHeight = document.querySelector(".container").offsetHeight;
+
+  let scale = 1;
+
   if (window.innerWidth > 800) {
-    let scale = 1 + (window.innerWidth - 800) / 2000;
-    scale = scale > 1.3 ? 1.3 : scale;
+    if (window.innerWidth <= 1050) {
+      scale = window.innerWidth / (baseWidth + 30);
+      if (scale < 1) scale = 1;
+    } else {
+      scale = 1.3;
+    }
+
     document.querySelector(".container").style.transform = `scale(${scale})`;
+    document.querySelector(".container").style.transformOrigin = "top";
+  } else {
+    document.querySelector(".container").style.transform = `scale(1)`;
   }
-  activitiesContainer.style.height = `${window.innerHeight - margin}px`;
+
+  // Calculate scaled height
+  const scaledHeight = baseHeight * scale;
+
+  // Set height of activitiesContainer based on remaining vertical space
+  activitiesContainer.style.height = `${window.innerHeight - margin * scale}px`;
 }
 
 function populateSelectBoxes(data) {
