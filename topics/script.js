@@ -89,7 +89,7 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  margin = 300;
+  margin = 280;
 
   if (hideTop) {
     margin = 80;
@@ -122,7 +122,6 @@ window.addEventListener("DOMContentLoaded", () => {
 
 function resize() {
   const baseWidth = 800;
-  const baseHeight = document.querySelector(".container").offsetHeight;
 
   let scale = 1;
 
@@ -135,16 +134,16 @@ function resize() {
     }
 
     document.querySelector(".container").style.transform = `scale(${scale})`;
-    document.querySelector(".container").style.transformOrigin = "top";
   } else {
     document.querySelector(".container").style.transform = `scale(1)`;
   }
 
-  // Calculate scaled height
-  const scaledHeight = baseHeight * scale;
+  let containerHeight = window.innerHeight - margin * scale * scale;
+
+  console.log(window.innerHeight, containerHeight, scale);
 
   // Set height of activitiesContainer based on remaining vertical space
-  activitiesContainer.style.height = `${window.innerHeight - margin * scale}px`;
+  activitiesContainer.style.height = `${containerHeight}px`;
 }
 
 function populateSelectBoxes(data) {
