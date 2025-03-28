@@ -199,6 +199,7 @@ b {
   text-align: center;
   border-radius: 3px;
   opacity: 0.6;
+  z-index: 9999;
 }
 
 .printParams {
@@ -430,6 +431,9 @@ a {
     page-break-before: always;
     background: white;
     color: black !important;
+    transform: scale(1) !important;
+    box-shadow: none !important;
+    height: auto !important;
   }
 
   .selectors {
@@ -481,5 +485,9 @@ a {
   h {
     color: black !important;
     font-weight: bold;
+  }
+
+  #activitiesList{
+    height: auto !important;
   }
 }
