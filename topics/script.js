@@ -114,6 +114,9 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  activitiesContainer.innerHTML = `<div class="emptyMessage">${t("selectSchoolMessage")}</div>`;
+
+
   resize();
   window.addEventListener("resize", () => {
     resize();
@@ -205,6 +208,11 @@ function filterAndDisplay() {
   const cls = document.getElementById("classSelect").value;
 
   activitiesContainer.innerHTML = "";
+
+  if (!school) {
+    activitiesContainer.innerHTML = `<div class="emptyMessage">${t("selectSchoolMessage")}</div>`;
+    return;
+  }
 
   // Case: school selected but not subject
   if (school && !subject) {
@@ -354,6 +362,10 @@ function t(key) {
     parameters: {
       en: "Objectives & Competencies",
       it: "Obiettivi e Competenze",
+    },
+    selectSchoolMessage: {
+      en: "Select a school level to view the available contents.",
+      it: "Seleziona il livello scolastico per visualizzare i contenuti.",
     },
   };
   return (dictionary[key] && dictionary[key][locale]) || key;

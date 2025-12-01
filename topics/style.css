@@ -186,6 +186,13 @@ b {
   border-radius: 5px;
 }
 
+.emptyMessage {
+  text-align: center;
+  font-size: 16px;
+  color: var(--light-highlight);
+  margin-top: 50px;
+}
+
 .print,
 .printParams {
   position: absolute;

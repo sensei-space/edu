@@ -27,7 +27,7 @@ SUBJECTS_BY_LEVEL = {
         "english",
         "history",
         "geography",
-        "math",
+        "mathematics",
         "science",
         "music",
         "art",
@@ -36,7 +36,7 @@ SUBJECTS_BY_LEVEL = {
         "civic",
         "religion"
     ],
-    "secondary": [
+    "middle": [
         "italian",
         "english",
         "french",
@@ -44,7 +44,7 @@ SUBJECTS_BY_LEVEL = {
         "german",
         "history",
         "geography",
-        "math",
+        "mathematics",
         "science",
         "music",
         "art",
